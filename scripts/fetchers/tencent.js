@@ -18,13 +18,16 @@ run('tencent', async () => {
     const L = d.positionList || [];
     for (const j of L) {
       if (seen.has(j.postId)) continue;
+      if (+j.postId < 0) continue;  // 负 postId 是「项目实习生-技术/产品/…」汇总入口，不是具体岗位（POC 2026-10-27 定：删除）
+      if (/R106179/.test(j.positionUrl || '')) continue;  // 吉隆坡 People Operations Associate：POC 2026-10-27 定删除
       const category = classify(j.positionTitle); if (!category) continue; // 含「研究/课题」的已在 classify 排除
       // 海外岗来自 Workday（positionSource=workday）：join.qq 详情接口对其恒回 404「岗位已下架」，改用 positionUrl 与 Workday 详情接口
       const wd = j.positionSource === 'workday' && /myworkdayjobs\.com/.test(j.positionUrl || '');
+      // 青云课题岗的描述在 topicDetail/topicRequirement（desc/request 为空），一并读取
       const det = wd ? { request: await workday(j.positionUrl) } : (await request(`${BASE}/api/v1/jobDetails/getJobDetailsByPostId?postId=${j.postId}`, { headers: H })).data || {};
       const url = wd ? j.positionUrl : `${BASE}/post_detail.html?postid=${j.postId}`;
       seen.set(j.postId, { company: '腾讯', project: j.projectName || null, business_unit: (j.bgs || '').split(/[,，\s]+/).filter(Boolean), title: j.positionTitle, category, job_type: /实习/.test(j.projectName || '') ? '实习' : '校招',
-        city: wd ? [wdCity(j.workCities)] : (j.workCities || '').split(/\s+/).filter(Boolean), requirements: det.request || '', deadline: null, apply_url: url, source_url: url, fetched_at: now });
+        city: wd ? [wdCity(j.workCities)] : (j.workCities || '').split(/\s+/).filter(Boolean), requirements: [det.desc, det.request].filter(x => x && x !== '无').join('\n').trim() || [det.topicDetail && '课题背景：\n' + det.topicDetail, det.topicRequirement && '课题要求：\n' + det.topicRequirement].filter(Boolean).join('\n\n'), deadline: null, apply_url: url, source_url: url, fetched_at: now });
     }
     if (!L.length || p * 100 >= (d.count || 0)) break;
   }

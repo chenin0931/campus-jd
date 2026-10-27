@@ -3,7 +3,7 @@
 - id: netease-4735
 - 公司: 网易（网易互娱）
 - job_type: 校招
-- 类别: 其他
+- 类别: 市场
 - 城市: 杭州、广州
 - status: active
 - 届别 grad_year: 未注明

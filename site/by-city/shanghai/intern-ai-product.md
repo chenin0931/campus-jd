@@ -1,8 +1,8 @@
-# 上海 · 实习 · AI产品 · 全部公司（119 个岗位）（第 1/3 页）
+# 上海 · 实习 · AI产品 · 全部公司（118 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 88](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/intern/ai-product/shanghai.md) · [美团 7](../../slices/meituan/intern/ai-product/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [米哈游 4](../../slices/mihoyo/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md) · [小米 2](../../slices/xiaomi/intern/ai-product/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 88](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/intern/ai-product/shanghai.md) · [美团 7](../../slices/meituan/intern/ai-product/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [米哈游 4](../../slices/mihoyo/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ai-product/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|

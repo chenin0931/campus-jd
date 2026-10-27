@@ -1,8 +1,8 @@
-# 上海 · 实习 · 运营 · 全部公司（523 个岗位）（第 2/13 页）
+# 上海 · 实习 · 运营 · 全部公司（519 个岗位）（第 2/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 296](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 290](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 104](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -28,6 +28,8 @@
 | 哔哩哔哩 | 搜索产品运营实习生（2个团队） ⚠️链接待核 | 上海 | 2026-10-27 | [1](../../jobs/bilibili-31022.md) [2](../../jobs/bilibili-26226.md) |
 | 哔哩哔哩 | 体育赛事运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30736.md) |
 | 哔哩哔哩 | 土耳其语出海运营实习生 〔≥3个月〕 ⚠️链接待核 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bilibili-25841.md) |
+| 哔哩哔哩 | 外展实习生（葡语） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30396.md) |
+| 哔哩哔哩 | 外展实习生（英语） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30392.md) |
 | 哔哩哔哩 | 舞蹈运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28785.md) |
 | 哔哩哔哩 | 西语产品运营实习生（国际化方向） 〔27/28届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30941.md) |
 | 哔哩哔哩 | 衍生品活动运营 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30636.md) |
@@ -46,7 +48,5 @@
 | 哔哩哔哩 | 主播/声优运营实习生 〔每周≥5天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30768.md) |
 | 哔哩哔哩 | 综合手游直播运营（实习岗） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30985.md) |
 | 哔哩哔哩 | AI 分区运营实习生（创作者生态方向） 〔≥6个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-27319.md) |
-| 哔哩哔哩 | AI内容创作实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30656.md) |
-| 哔哩哔哩 | AIGC内容创意与编导实习生（流量生态部） 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30036.md) |
 
 [上一页](intern-ops.md) · [下一页](intern-ops-p3.md) · [总目录](../../llms.txt)

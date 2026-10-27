@@ -1,4 +1,4 @@
-# 米哈游 总览（在招 159：校招 74，实习 85）
+# 米哈游 总览（在招 158：校招 74，实习 84）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -26,6 +26,6 @@
 - 实习·项目管理（1）：[上海 1](../slices/mihoyo/intern/pm/shanghai.md)
 - 实习·分析（6）：[上海 6](../slices/mihoyo/intern/analysis/shanghai.md)
 - 实习·策划（8）：[上海 8](../slices/mihoyo/intern/planning/shanghai.md)
-- 实习·其他（7）：[上海 7](../slices/mihoyo/intern/other/shanghai.md) · [北京 1](../slices/mihoyo/intern/other/beijing.md)
+- 实习·其他（6）：[上海 6](../slices/mihoyo/intern/other/shanghai.md) · [北京 1](../slices/mihoyo/intern/other/beijing.md)
 
 [总目录](../llms.txt)

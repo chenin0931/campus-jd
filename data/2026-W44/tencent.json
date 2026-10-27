@@ -2667,1263 +2667,6 @@
   },
   {
     "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销—多模态大模型与强化学习驱动的广告投放Agent",
-    "category": "市场",
-    "job_type": "校招",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274356448142695424",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274356448142695424",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销—广告推荐基础大模型",
-    "category": "市场",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274356454937467904",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274356454937467904",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "WXG-WeLM 大语言模型基座建设",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500724",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274481034578500724",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信-下一代图文理解生成统一模型",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500732",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274481034578500732",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信-长视频理解生成统一模型",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500733",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274481034578500733",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "WXG-从设计到代码（可信程序自动生成）",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500743",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274481034578500743",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信小微-支持方言的音频理解模型",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500839",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274481034578500839",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信小微-记忆系统的构建与下游应用",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274481034578500843",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274481034578500843",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销—大规模语义理解的 agent  数据和知识问答",
-    "category": "市场",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274736399219913729",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274736399219913729",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销—基于Agentic AI的自主进化广告审核专家Agent构建",
-    "category": "市场",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274736399219913730",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274736399219913730",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销—基于LLM的广告系统实验设计与衡量",
-    "category": "市场",
-    "job_type": "校招",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1274736399219913733",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1274736399219913733",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "端到端生成式AI视频处理",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1277774706262778881",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1277774706262778881",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "面向游戏数据科学的智能分析 Agent",
-    "category": "分析",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259043688719360",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259043688719360",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "群体智能",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部",
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259052844884992",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259052844884992",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "音色合成",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部",
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259052844884996",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259052844884996",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "面向交互式长视频生成的多模态世界模型",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "深圳总部",
-      "北京",
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259052844884998",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259052844884998",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "应用研究中心ARC Lab-决策与行动模型",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部",
-      "北京",
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259062240125953",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259062240125953",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "视频多模态训练数据引擎设计与优化",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "深圳总部",
-      "北京",
-      "上海",
-      "杭州"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259082272121862",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259082272121862",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "魔方工作室-和人类以语言沟通的智能NPC",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259092594304000",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259092594304000",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "魔方工作室-游戏视频生成项目",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259092594304001",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259092594304001",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信 公众号-生成式推荐与推荐排序Scaling Up",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "广州"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1282064466091287553",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1282064466091287553",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "叙事智能",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部",
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1283142377577718784",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1283142377577718784",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-应届生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "大规模音视频理解 Dataset 建设",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "深圳总部",
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1292723595709365258",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1292723595709365258",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "ARC Lab-决策与行动模型",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944715",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944715",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "PCG"
-    ],
-    "title": "内容服务-多模态理解与生成",
-    "category": "运营",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944716",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944716",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "PCG"
-    ],
-    "title": "内容服务-下一代大模型内容理解技术",
-    "category": "运营",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944717",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944717",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "AI驱动的混合负载数据库集群弹性调度与优化",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944767",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944767",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "DATA+AI 统一数据湖存储引擎",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944777",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944777",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "游戏AI-游戏数据实验科学",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944794",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944794",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "混元-STEM学科高质量数据质检自动化和高难度题目智能分析",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944800",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944800",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "混元-视频生成 SOTA 开源数据集",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944807",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944807",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "混元-大语言模型数据质量优化与数据实验",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944809",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944809",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "混元-通用网页建模优化",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944811",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944811",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "混元-音视频理解 Benchmark 构建",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944816",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944816",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "混元-大规模音视频理解 Dataset 建设",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944817",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944817",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "混元-长视频流式生成数据构建和建模方式探索",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944818",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944818",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销-广告推荐模型 Scaling Up（序列和非序列统一建模方向）",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944838",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944838",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销-多模态大模型与强化学习驱动的广告投放Agent",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944841",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944841",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销-面向商业化推荐的统一多模态生成",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944842",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944842",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销-基于Agentic AI的自主进化广告审核专家Agent构建",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944846",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944846",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销-大规模语义理解的agent 数据和知识问答",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944848",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944848",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯金融科技-基于知识图谱和大模型的异常特征模式挖掘",
-    "category": "职能",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944850",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944850",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯金融科技-面向金融应用场景的大模型综合深度推理能力提升",
-    "category": "职能",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944851",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944851",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯金融科技-金融AI评测能力建设",
-    "category": "职能",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944853",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944853",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯金融科技-多模态 coding 生成研究与UI自动化底座优化、场景拓展与融合",
-    "category": "职能",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944854",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944854",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销-基于LLM的广告系统实验设计与衡量",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944855",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944855",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "WXG-WeLM 大语言模型基座建设",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部",
-      "北京",
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074687944862",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074687944862",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信-下一代图文理解生成统一模型",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部",
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139015",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139015",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信-长视频理解生成统一模型",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部",
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139016",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139016",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "WXG-从设计到代码（可信程序自动生成）",
-    "category": "设计",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139028",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139028",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信公众号-生成式推荐与推荐排序Scaling Up",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "广州"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139034",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139034",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CSIG"
-    ],
-    "title": "腾讯云—腾讯云下一代虚拟化预研项目",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139116",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139116",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CSIG"
-    ],
-    "title": "腾讯云—腾讯自研操作系统（Tencent OS）项目",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "成都"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139117",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139117",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "大模型游戏推理项目",
-    "category": "项目管理",
-    "job_type": "实习",
-    "city": [
-      "成都"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139127",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139127",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "和人类以语言沟通的智能NPC",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139128",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139128",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "游戏视频生成项目",
-    "category": "项目管理",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139129",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139129",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "游戏具身智能",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139131",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139131",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "高品质影视级TTS",
-    "category": "供应链",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139133",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139133",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "语音/对话驱动数字人",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139134",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139134",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "高精3D数字角色驱动",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139135",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139135",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "用于实时渲染的复杂材质的高效表示",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139146",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139146",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "结合控制信号的实时高质量可交互游戏视频生成",
-    "category": "供应链",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139154",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139154",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "游戏内容分发中的生成式推荐：语义ID、受限解码与多模态对齐",
-    "category": "运营",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139155",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139155",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "游戏数据智能分析与探索Agent",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139170",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139170",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信小微-支持方言的音频理解模型",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1236099085644457984",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1236099085644457984",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "WXG"
-    ],
-    "title": "微信小微-记忆系统的构建与下游应用",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1236099085644457988",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1236099085644457988",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "IEG"
-    ],
-    "title": "游戏美术生成式AI的Infra技术-超大规模训练和推理性能优化",
-    "category": "设计",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1246578010254242816",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1246578010254242816",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销—广告推荐模型 Scaling Up（序列和非序列统一建模方向）",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279258990471390208",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279258990471390208",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "青云计划-实习生",
-    "business_unit": [
-      "CDG"
-    ],
-    "title": "腾讯营销—广告推荐基础大模型",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1279259000613217280",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1279259000613217280",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
     "project": "日常实习",
     "business_unit": [
       "CSIG",
@@ -4304,24 +3047,6 @@
     "deadline": null,
     "apply_url": "https://join.qq.com/post_detail.html?postid=1224696437083144192",
     "source_url": "https://join.qq.com/post_detail.html?postid=1224696437083144192",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "日常实习",
-    "business_unit": [
-      "TEG"
-    ],
-    "title": "犀牛鸟人才计划",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳总部"
-    ],
-    "requirements": "-",
-    "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=1226585122263148544",
-    "source_url": "https://join.qq.com/post_detail.html?postid=1226585122263148544",
     "fetched_at": "2026-10-27T18:19:00+08:00"
   },
   {
@@ -4725,24 +3450,6 @@
     "deadline": null,
     "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/-Associate-Quality-Assurance-Tester_R104655-3",
     "source_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/-Associate-Quality-Assurance-Tester_R104655-3",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "腾讯",
-    "project": "应届毕业生",
-    "business_unit": [
-      "S3"
-    ],
-    "title": "People Operations Associate 106179",
-    "category": "运营",
-    "job_type": "校招",
-    "city": [
-      "Malaysia-Kuala Lumpur"
-    ],
-    "requirements": "",
-    "deadline": null,
-    "apply_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/People-Operations-Associate_R106179",
-    "source_url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/People-Operations-Associate_R106179",
     "fetched_at": "2026-10-27T18:19:00+08:00"
   },
   {
@@ -6087,71 +4794,128 @@
   },
   {
     "company": "腾讯",
-    "project": "项目实习生",
+    "project": "日常实习",
     "business_unit": [
-      "CDG",
-      "PCG"
+      "IEG"
     ],
-    "title": "项目实习生-技术",
-    "category": "项目管理",
+    "title": "项目实习生-游戏运营",
+    "category": "运营",
     "job_type": "实习",
     "city": [
       "深圳总部"
     ],
-    "requirements": "我们期望你：\n1. 具备编程能力，掌握C/C++/Java/Go/PHP/JavaScript/Python等其中一门编程语言。\n2. 具有一定的学习能力、分析及解决问题能力，有责任心与合作意识",
+    "requirements": null,
+    "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
     "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=-2",
-    "source_url": "https://join.qq.com/post_detail.html?postid=-2",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1244420450084484096",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1244420450084484096",
+    "fetched_at": "2026-10-27T18:49:08+08:00"
   },
   {
     "company": "腾讯",
-    "project": "项目实习生",
+    "project": "日常实习",
     "business_unit": [
-      "CDG",
       "IEG"
     ],
-    "title": "项目实习生-产品",
-    "category": "项目管理",
+    "title": "项目实习生-内容创作",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "深圳总部"
+    ],
+    "requirements": null,
+    "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
+    "deadline": null,
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1180954678935186432",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1180954678935186432",
+    "fetched_at": "2026-10-27T18:49:10+08:00"
+  },
+  {
+    "company": "腾讯",
+    "project": "日常实习",
+    "business_unit": [
+      "IEG"
+    ],
+    "title": "项目实习生-产品策划",
+    "category": "产品",
     "job_type": "实习",
     "city": [
       "深圳总部",
-      "上海",
-      "北京"
+      "上海"
     ],
-    "requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
+    "requirements": null,
+    "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
     "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=-3",
-    "source_url": "https://join.qq.com/post_detail.html?postid=-3",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1161176783631188992",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1161176783631188992",
+    "fetched_at": "2026-10-27T18:49:12+08:00"
   },
   {
     "company": "腾讯",
-    "project": "项目实习生",
+    "project": "日常实习",
     "business_unit": [
-      "IEG",
-      "PCG"
+      "CDG"
     ],
-    "title": "项目实习生-设计",
-    "category": "项目管理",
+    "title": "项目实习生-产品运营",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "深圳总部",
+      "北京"
+    ],
+    "requirements": null,
+    "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
+    "deadline": null,
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1181601618932789248",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1181601618932789248",
+    "fetched_at": "2026-10-27T18:49:13+08:00"
+  },
+  {
+    "company": "腾讯",
+    "project": "日常实习",
+    "business_unit": [
+      "IEG"
+    ],
+    "title": "项目实习生-动画",
+    "category": "设计",
     "job_type": "实习",
     "city": [
       "深圳总部"
     ],
-    "requirements": "我们期望你：\n1. 掌握常见美术及设计软件的使用方法\n2. 具有一定的审美能力，有美术或设计相关专业知识储备\n3. 具有良好的沟通能力与执行力，有责任心与合作意识",
+    "requirements": null,
+    "entry_requirements": "我们期望你：\n1. 掌握常见美术及设计软件的使用方法\n2. 具有一定的审美能力，有美术或设计相关专业知识储备\n3. 具有良好的沟通能力与执行力，有责任心与合作意识",
     "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=-4",
-    "source_url": "https://join.qq.com/post_detail.html?postid=-4",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1224072999578531840",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1224072999578531840",
+    "fetched_at": "2026-10-27T18:49:17+08:00"
   },
   {
     "company": "腾讯",
-    "project": "项目实习生",
+    "project": "日常实习",
+    "business_unit": [
+      "PCG"
+    ],
+    "title": "项目实习生-视觉设计",
+    "category": "设计",
+    "job_type": "实习",
+    "city": [
+      "深圳总部"
+    ],
+    "requirements": null,
+    "entry_requirements": "我们期望你：\n1. 掌握常见美术及设计软件的使用方法\n2. 具有一定的审美能力，有美术或设计相关专业知识储备\n3. 具有良好的沟通能力与执行力，有责任心与合作意识",
+    "deadline": null,
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1292191191915674624",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1292191191915674624",
+    "fetched_at": "2026-10-27T18:49:18+08:00"
+  },
+  {
+    "company": "腾讯",
+    "project": "日常实习",
     "business_unit": [
       "CDG"
     ],
-    "title": "项目实习生-市场",
-    "category": "项目管理",
+    "title": "项目实习生-商业分析",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "深圳总部",
@@ -6159,21 +4923,40 @@
       "上海",
       "广州"
     ],
-    "requirements": "我们期望你：\r\n1、有一定的市场意识，了解市场动态和新事物。\r\n2、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n3、掌握日常办公软件及办公设备的使用方法。\r\n4、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+    "requirements": null,
+    "entry_requirements": "我们期望你：\r\n1、有一定的市场意识，了解市场动态和新事物。\r\n2、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n3、掌握日常办公软件及办公设备的使用方法。\r\n4、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
     "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=-5",
-    "source_url": "https://join.qq.com/post_detail.html?postid=-5",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1225871633341097984",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1225871633341097984",
+    "fetched_at": "2026-10-27T18:49:23+08:00"
   },
   {
     "company": "腾讯",
-    "project": "项目实习生",
+    "project": "日常实习",
     "business_unit": [
-      "S1",
+      "CDG"
+    ],
+    "title": "项目实习生-市场营销",
+    "category": "市场",
+    "job_type": "实习",
+    "city": [
+      "深圳总部"
+    ],
+    "requirements": null,
+    "entry_requirements": "我们期望你：\r\n1、有一定的市场意识，了解市场动态和新事物。\r\n2、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n3、掌握日常办公软件及办公设备的使用方法。\r\n4、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+    "deadline": null,
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1250224484334840832",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1250224484334840832",
+    "fetched_at": "2026-10-27T18:49:24+08:00"
+  },
+  {
+    "company": "腾讯",
+    "project": "日常实习",
+    "business_unit": [
       "S3"
     ],
-    "title": "项目实习生-职能",
-    "category": "项目管理",
+    "title": "项目实习生-人力资源",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "深圳总部",
@@ -6182,10 +4965,30 @@
       "广州",
       "成都"
     ],
-    "requirements": "我们期望你：\r\n1、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n2、掌握日常办公软件及办公设备的使用方法。\r\n3、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+    "requirements": null,
+    "entry_requirements": "我们期望你：\r\n1、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n2、掌握日常办公软件及办公设备的使用方法。\r\n3、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
     "deadline": null,
-    "apply_url": "https://join.qq.com/post_detail.html?postid=-6",
-    "source_url": "https://join.qq.com/post_detail.html?postid=-6",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1216462959187228672",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1216462959187228672",
+    "fetched_at": "2026-10-27T18:49:28+08:00"
+  },
+  {
+    "company": "腾讯",
+    "project": "日常实习",
+    "business_unit": [
+      "S1"
+    ],
+    "title": "项目实习生-公共事务",
+    "category": "市场",
+    "job_type": "实习",
+    "city": [
+      "北京"
+    ],
+    "requirements": null,
+    "entry_requirements": "我们期望你：\r\n1、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n2、掌握日常办公软件及办公设备的使用方法。\r\n3、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+    "deadline": null,
+    "apply_url": "https://join.qq.com/post_detail.html?postid=1226701088032696320",
+    "source_url": "https://join.qq.com/post_detail.html?postid=1226701088032696320",
+    "fetched_at": "2026-10-27T18:49:30+08:00"
   }
 ]

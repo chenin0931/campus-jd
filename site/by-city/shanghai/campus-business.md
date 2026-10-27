@@ -1,20 +1,15 @@
-# 上海 · 校招 · 商务 · 全部公司（27 个岗位）
+# 上海 · 校招 · 商务 · 全部公司（21 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 11](../../slices/bytedance/campus/business/shanghai.md) · [美团 3](../../slices/meituan/campus/business/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/business/shanghai.md) · [携程 2](../../slices/ctrip/campus/business/shanghai.md) · [华为 2](../../slices/huawei/campus/business/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/business/shanghai.md) · [京东 1](../../slices/jd/campus/business/shanghai.md) · [快手 1](../../slices/kuaishou/campus/business/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/business/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/business/shanghai.md) · [小米 1](../../slices/xiaomi/campus/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 6](../../slices/bytedance/campus/business/shanghai.md) · [美团 3](../../slices/meituan/campus/business/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/business/shanghai.md) · [携程 2](../../slices/ctrip/campus/business/shanghai.md) · [华为 2](../../slices/huawei/campus/business/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/business/shanghai.md) · [京东 1](../../slices/jd/campus/business/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/business/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/business/shanghai.md) · [小米 1](../../slices/xiaomi/campus/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 阿里巴巴 | 动漫商业化IP授权 | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907780008.md) |
 | 阿里巴巴 | 海外演出商务拓展 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199908200001.md) |
-| 字节跳动 | 出海大客户/渠道销售 - Global Business Solutions 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667445216558811445.md) |
-| 字节跳动 | 出海大客户/渠道销售 - Global Business Solutions 〔27届〕 | 上海/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7667453237851523381.md) |
-| 字节跳动 | 出海大客户/渠道销售（非电商-游戏） - Global Business Solutions 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7675583335754697013.md) |
 | 字节跳动 | 代理合作伙伴 - Global Business Solutions 〔27届〕 | 上海/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7667464074172958981.md) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670756030309435701.md) |
-| 字节跳动 | 渠道销售（创意经营） - 商业化 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669688971358357813.md) |
-| 字节跳动 | 渠道销售（全域经营） - 商业化 〔27届〕 | 北京/上海/广州/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7669690089723889973.md) |
 | 字节跳动 | 商务流程管理 - TikTok Shop 〔27届〕 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668519606021212421.md) |
 | 字节跳动 | 商业战略分析师 - 国际化广告战略（2个团队） 〔27届〕 | 上海/北京 | 2026-10-27 | [1](../../jobs/bytedance-7668159609505237253.md) [2](../../jobs/bytedance-7668158154983639349.md) |
 | 字节跳动 | IDC网络商务拓展 - AI算力基础设施 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673098669784566069.md) |
@@ -23,7 +18,6 @@
 | 华为 | 生态拓展经理 | 南京/杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38429.md) |
 | 华为 | 智能汽车解决方案BD | 长春/重庆/武汉/芜湖/北京/上海/广州/合肥/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38434.md) |
 | 京东 | 采销（线下业态） 〔27届〕 | 上海/北京/成都/天津/广州/南京/武汉/西安 | 2026-10-27 | [详情](../../jobs/jd-9276.md) |
-| 快手 | 商业化KA销售 | 上海/广州/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9752.md) |
 | 美团 | 城市大客户商务合作专员 | 合肥/杭州/南京/北京/苏州/天津/上海/西安/成都/昆明/长沙/重庆/济南/南昌/广州/郑州/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697264948.md) |
 | 美团 | 大客户合作岗 〔27届〕 | 杭州/北京/石家庄/上海/迪拜/广州/成都/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697233231.md) |
 | 美团 | 战略与投资分析师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4694877891.md) |

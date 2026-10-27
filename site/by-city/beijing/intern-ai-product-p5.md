@@ -1,11 +1,12 @@
-# 北京 · 实习 · AI产品 · 全部公司（217 个岗位）（第 5/5 页）
+# 北京 · 实习 · AI产品 · 全部公司（218 个岗位）（第 5/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 143](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 35](../../slices/baidu/intern/ai-product/beijing.md) · [美团 14](../../slices/meituan/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 144](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 35](../../slices/baidu/intern/ai-product/beijing.md) · [美团 14](../../slices/meituan/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI英语学习产品实习生 - 语言中心 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677968263307086085.md) |
 | 字节跳动 | AI营销产品实习生 - 抖音生活服务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7686067184798009605.md) |
 | 字节跳动 | AI智能销售产品实习生-广告业务 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7537278105525438728.md) |
 | 字节跳动 | AI中台产品实习生 - 抖音生活服务 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7637112157868345605.md) |

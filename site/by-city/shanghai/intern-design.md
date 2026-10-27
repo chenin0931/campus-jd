@@ -1,8 +1,8 @@
-# 上海 · 实习 · 设计 · 全部公司（114 个岗位）（第 1/3 页）
+# 上海 · 实习 · 设计 · 全部公司（112 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 30](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 20](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 15](../../slices/tencent/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 29](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 20](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [腾讯 14](../../slices/tencent/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -23,7 +23,6 @@
 | 字节跳动 | 【实习】基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7654156129036372277.md) |
 | 字节跳动 | 【实习】基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音（北京/上海/杭州/深圳） 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628624863555143941.md) |
 | 字节跳动 | 【实习】基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音推荐技术（北京/上海/杭州/深圳） 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628831494406162693.md) |
-| 字节跳动 | 【实习】基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音智能对话（北京/上海/杭州/深圳） 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628830278848612661.md) |
 | 字节跳动 | 3D动画实习生 - 研发支持中心 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7686025120608438581.md) |
 | 字节跳动 | 3D动效设计实习生-TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7620660047936833797.md) |
 | 字节跳动 | 3D美术设计实习生-数据平台 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7657161187786688773.md) |
@@ -48,5 +47,7 @@
 | 字节跳动 | AI工程/设计实习生（内容设计与本地化方向）-TikTok 〔27届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7616313253196908805.md) |
 | 字节跳动 | AIGC美学设计实习生-抖音 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7543586065283156231.md) |
 | 字节跳动 | AIGC效果与创作设计实习生-效果与创作 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591392228130425093.md) |
+| 字节跳动 | IP创意设计实习生 - TikTok设计 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697092504548280581.md) |
+| 字节跳动 | UI设计实习生 - 抖音电商设计 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7662946006097021189.md) |
 
 [下一页](intern-design-p2.md) · [总目录](../../llms.txt)

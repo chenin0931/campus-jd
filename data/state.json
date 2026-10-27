@@ -20957,7 +20957,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907780008": {
    "first_seen": "2026-10-27",
@@ -21460,7 +21461,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907620052": {
    "first_seen": "2026-10-27",
@@ -21501,7 +21503,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907820107": {
    "first_seen": "2026-10-27",
@@ -21514,7 +21517,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907820101": {
    "first_seen": "2026-10-27",
@@ -21882,7 +21886,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-25091006698177": {
    "first_seen": "2026-10-27",
@@ -21975,7 +21980,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-26042409776995": {
    "first_seen": "2026-10-27",
@@ -24800,7 +24806,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7672254239335237893": {
    "first_seen": "2026-10-27",
@@ -25860,7 +25867,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7688187970890664197": {
    "first_seen": "2026-10-27",
@@ -26910,7 +26918,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7675583335754697013": {
    "first_seen": "2026-10-27",
@@ -27928,7 +27937,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7669716620106107141": {
    "first_seen": "2026-10-27",
@@ -29933,7 +29943,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7613351995801831685": {
    "first_seen": "2026-10-27",
@@ -30176,7 +30187,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7668681162332703029": {
    "first_seen": "2026-10-27",
@@ -30236,7 +30248,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7611537464993564981": {
    "first_seen": "2026-10-27",
@@ -30394,7 +30407,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7668601789113452853": {
    "first_seen": "2026-10-27",
@@ -30642,7 +30656,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7601107434297706757": {
    "first_seen": "2026-10-27",
@@ -30698,7 +30713,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7669723503433959685": {
    "first_seen": "2026-10-27",
@@ -31012,7 +31028,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7652215303417743669": {
    "first_seen": "2026-10-27",
@@ -33375,7 +33392,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7639962613175454005": {
    "first_seen": "2026-10-27",
@@ -33843,7 +33861,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7623008021790558517": {
    "first_seen": "2026-10-27",
@@ -33908,7 +33927,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7608864737657456949": {
    "first_seen": "2026-10-27",
@@ -38973,7 +38993,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4827646506": {
    "first_seen": "2026-10-27",
@@ -40517,7 +40538,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "mihoyo-7048": {
    "first_seen": "2026-10-27",
@@ -40699,7 +40721,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-4846": {
    "first_seen": "2026-10-27",
@@ -44354,13 +44377,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274356454937467904": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274481034578500623": {
    "first_seen": "2026-10-27",
@@ -44436,7 +44461,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274481034578500725": {
    "first_seen": "2026-10-27",
@@ -44470,19 +44496,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274481034578500733": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274481034578500743": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274481034578500746": {
    "first_seen": "2026-10-27",
@@ -44509,7 +44538,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274481034578500840": {
    "first_seen": "2026-10-27",
@@ -44529,7 +44559,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274732691396631552": {
    "first_seen": "2026-10-27",
@@ -44542,25 +44573,29 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274736399219913730": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1274736399219913733": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1277774706262778881": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1277774706262778882": {
    "first_seen": "2026-10-27",
@@ -44615,19 +44650,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259052844884992": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259052844884996": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259052844884997": {
    "first_seen": "2026-10-27",
@@ -44640,7 +44678,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259052844884999": {
    "first_seen": "2026-10-27",
@@ -44660,7 +44699,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259082272121861": {
    "first_seen": "2026-10-27",
@@ -44673,7 +44713,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259082272121866": {
    "first_seen": "2026-10-27",
@@ -44707,13 +44748,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259092594304001": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259103218476033": {
    "first_seen": "2026-10-27",
@@ -44726,7 +44769,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1282064466091287554": {
    "first_seen": "2026-10-27",
@@ -44739,7 +44783,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1283142387409167360": {
    "first_seen": "2026-10-27",
@@ -44773,7 +44818,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1296891644968402945": {
    "first_seen": "2026-10-27",
@@ -44786,19 +44832,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944716": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944717": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944723": {
    "first_seen": "2026-10-27",
@@ -44874,7 +44923,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944776": {
    "first_seen": "2026-10-27",
@@ -44887,7 +44937,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944790": {
    "first_seen": "2026-10-27",
@@ -44907,7 +44958,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944799": {
    "first_seen": "2026-10-27",
@@ -44920,7 +44972,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944802": {
    "first_seen": "2026-10-27",
@@ -44940,7 +44993,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944808": {
    "first_seen": "2026-10-27",
@@ -44953,13 +45007,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944811": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944815": {
    "first_seen": "2026-10-27",
@@ -44972,19 +45028,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944817": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944818": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944831": {
    "first_seen": "2026-10-27",
@@ -45004,61 +45063,71 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944841": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944842": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944846": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944848": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944850": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944851": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944853": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944854": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944855": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944857": {
    "first_seen": "2026-10-27",
@@ -45071,7 +45140,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074687944863": {
    "first_seen": "2026-10-27",
@@ -45105,13 +45175,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139016": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139017": {
    "first_seen": "2026-10-27",
@@ -45124,7 +45196,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139031": {
    "first_seen": "2026-10-27",
@@ -45137,7 +45210,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139035": {
    "first_seen": "2026-10-27",
@@ -45185,37 +45259,43 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139117": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139127": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139128": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139129": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139131": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139132": {
    "first_seen": "2026-10-27",
@@ -45228,19 +45308,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139134": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139135": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139136": {
    "first_seen": "2026-10-27",
@@ -45295,7 +45378,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139148": {
    "first_seen": "2026-10-27",
@@ -45322,13 +45406,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139155": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139161": {
    "first_seen": "2026-10-27",
@@ -45355,7 +45441,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1233535296004810752": {
    "first_seen": "2026-10-27",
@@ -45368,7 +45455,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1236099085644457985": {
    "first_seen": "2026-10-27",
@@ -45388,7 +45476,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1243708556705035264": {
    "first_seen": "2026-10-27",
@@ -45401,19 +45490,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279258990471390208": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259000613217280": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1280148757136402432": {
    "first_seen": "2026-10-27",
@@ -45588,7 +45680,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1226875884628486144": {
    "first_seen": "2026-10-27",
@@ -46291,7 +46384,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "vivo-099b8796-e5d2-46b5-b00f-492c464e188c": {
    "first_seen": "2026-10-27",
@@ -48017,7 +48111,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670919733348305203": {
    "first_seen": "2026-10-27",
@@ -48029,7 +48124,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670918893741754675": {
    "first_seen": "2026-10-27",
@@ -48414,7 +48510,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108129": {
    "first_seen": "2026-10-27",
@@ -50110,7 +50207,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7613346896761719059": {
    "first_seen": "2026-10-27",
@@ -50790,6 +50888,66 @@
    "status": "active"
   },
   "pinduoduo-campus": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1244420450084484096": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1180954678935186432": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1161176783631188992": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1181601618932789248": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1224072999578531840": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1292191191915674624": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1225871633341097984": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1250224484334840832": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1216462959187228672": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tencent-1226701088032696320": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",

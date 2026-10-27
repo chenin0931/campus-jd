@@ -576,22 +576,6 @@
     "project": null
   },
   {
-    "id": "moonshot-e4ad413c-7bb7-425b-8797-8f78f4fb1d3d",
-    "company": "月之暗面",
-    "title": "增长工程实习生",
-    "category": "市场",
-    "city": [
-      "上海"
-    ],
-    "requirements": "<p>工作内容</p><p>你将参与构建“技术驱动增长”的基础设施，方向可偏向前端工程或增长策略：</p><ul><li>参与 SEO 自动化生产与关键词监控系统建设，提升自然流量规模</li><li>使用大模型构建页面内容生成与优化流程</li><li>阅读并理解前端代码，协助页面模板搭建与优化</li><li>使用 SQL 进行数据分析，支持增长策略与效果评估</li><li>编写自动化脚本或简单服务，提高增长策略的规模化执行能力</li></ul><p><br></p><p>方向（可选其一）</p><p>前端工程方向</p><ul><li>参与页面模板搭建、结构优化与自动化页面生成</li><li>参与页面改造与性能优化</li><li>提升 SEO 页面生产效率与工程质量</li></ul><p>增长策略方向</p><ul><li>参与关键词挖掘、竞品监控与热点识别</li><li>构建用户画像与分群逻辑</li><li>通过 SQL 与数据分析验证增长效果</li></ul><p><br></p><p>我们希望你具备</p><ul><li>熟悉 Python / Golang 等一种语言，具备基础工程能力</li><li>熟悉 SQL，能进行基础数据分析</li><li>具备基础前端知识，能阅读 Vue / JavaScript 代码</li><li>熟悉 AI 辅助编程工具（如 Cursor、Claude Code 等），并对代码质量有追求</li><li>有大模型 API 使用经验</li><li>对 SEO、用户增长或数据驱动策略有兴趣</li></ul><p><br></p><p>加分项</p><ul><li>理解搜索引擎抓取机制、结构化数据、页面性能优化等 SEO 技术点</li><li>有自动化页面生成或静态页面批量生产经验</li><li>有数据建模或用户分层实践经验</li><li>具备数据驱动的产品与技术思考能力</li></ul>",
-    "deadline": null,
-    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e4ad413c-7bb7-425b-8797-8f78f4fb1d3d",
-    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e4ad413c-7bb7-425b-8797-8f78f4fb1d3d",
-    "fetched_at": "2026-10-27T18:19:08+08:00",
-    "job_type": "实习",
-    "project": null
-  },
-  {
     "id": "moonshot-8afd0f3a-b3e4-40a8-a900-0588ab774f92",
     "company": "月之暗面",
     "title": "AI Agent 产品实习生",

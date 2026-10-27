@@ -1,15 +1,11 @@
-# 上海 · 实习 · 运营 · 全部公司（523 个岗位）（第 12/13 页）
+# 上海 · 实习 · 运营 · 全部公司（519 个岗位）（第 12/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 296](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 290](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 104](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 网易 | 游戏社区运营实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79381.md) |
-| 网易 | 运营策划日常实习生（产品运营方向）（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/netease-79125.md) [2](../../jobs/netease-79127.md) |
-| 网易 | 运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78616.md) |
-| 网易 | AI视频运营实习生（视觉制作方向） 〔27/28届 · ≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79519.md) |
 | 腾讯 | 产品运营 | 深圳/北京/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1212816229455368192.md) |
 | 腾讯 | 产品运营 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1218257147532668928.md) |
 | 腾讯 | 内容创作 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696469513274368.md) |
@@ -50,5 +46,10 @@
 | 小红书 | 小红书海外内容运营 / 新媒体运营实习生（AI 产品方向） | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20069.md) |
 | 小红书 | 小红书内容运营实习生-创新产品方向 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21838.md) |
 | 小红书 | 小红书Lab 1327创新产品 AI创意内容增长运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22706.md) |
+| 小红书 | 新媒体活动运营实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21288.md) |
+| 小红书 | 休闲游戏内容运营实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22238.md) |
+| 小红书 | 游戏行业内容运营实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22736.md) |
+| 小红书 | 珠宝饰品行业电商运营实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19302.md) |
+| 小红书 | 组织文化部活动运营实习生 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-8521.md) |
 
 [上一页](intern-ops-p11.md) · [下一页](intern-ops-p13.md) · [总目录](../../llms.txt)

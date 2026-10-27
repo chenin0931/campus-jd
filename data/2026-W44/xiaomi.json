@@ -3,7 +3,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "渠道销售主管-印尼语",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "雅加达"
@@ -875,7 +875,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "广告销售",
-    "category": "市场",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "北京"
@@ -1315,7 +1315,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "渠道销售主管-外派",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "阿比让"
@@ -1347,7 +1347,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "广告销售",
-    "category": "市场",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "新加坡"
@@ -3105,22 +3105,6 @@
   {
     "company": "小米",
     "business_unit": [],
-    "title": "低压电源DRE-汽车",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "上海"
-    ],
-    "project": "2027届校园招聘计划",
-    "requirements": "1. 本科及以上（统招），电化学、新能源科学与工程、储能科学与工程、车辆工程、电气工程、材料科学、化学工程、机械工程等相关专业；\n2. 熟悉锂离子电池基本原理、电芯结构及 Pack 系统组成；\n3. 了解 BMS 基本架构（采样、均衡、通信、保护）；\n4. 熟练使用 CATIA / UG / SolidWorks 中至少一种 3D 设计软件；\n5. 熟练使用 Office / Matlab / Python 等数据分析工具；\n加分项\n1. 有锂电池、BMS、储能系统相关课题研究、论文发表或专利；\n2. 有主机厂或 Tier1 电池企业（宁德、比亚迪、亿纬、蜂巢、欣旺达等）实习经历；\n3. 参与过电动方程式（FSAE/FSEC）、Baja 等赛车队电池系统开发；\n4. 熟悉 GB 38031、ISO 12405、UN 38.3 等电池相关法规；\n5. 熟悉 APQP、DFMEA、8D 等质量工具；\n6. 了解 ISO 26262 功能安全、AUTOSAR、CAN/LIN 通信协议；\n7. 良好的英语读写及口语沟通能力；",
-    "deadline": null,
-    "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919803401619758/detail",
-    "source_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919803401619758/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "小米",
-    "business_unit": [],
     "title": "生产管理培训生-汽车工厂",
     "category": "其他",
     "job_type": "校招",
@@ -3132,22 +3116,6 @@
     "deadline": null,
     "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919733348305203/detail",
     "source_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919733348305203/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "小米",
-    "business_unit": [],
-    "title": "开关附件DRE-汽车",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "上海"
-    ],
-    "project": "2027届校园招聘计划",
-    "requirements": "1. 大学本科以上学历，机械工程，机械电子，汽车工程，通信工程、电子信息等相关专业；\n2. 能熟练操作Caita，Teamcenter，3DE等软件；熟悉材料学，机械设计，CAD，模电数电等硬件知识；\n3. 熟悉 C/C++ 或 MATLAB编程；\n4. 良好的英语读写及口语沟通能力，CET-4级以上；\n4. 良好的沟通能力和问题解决能力;\n5. 有责任心，主观能动性强；",
-    "deadline": null,
-    "apply_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919166279829787/detail",
-    "source_url": "https://xiaomi.jobs.f.mioffice.cn/campus/position/7670919166279829787/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {
@@ -5239,7 +5207,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "ESG报告实习生",
-    "category": "其他",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京"
@@ -5431,7 +5399,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "数据分析及AI产品实习生-2027届",
-    "category": "AI产品",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -6535,7 +6503,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "项目实习生-2027届",
-    "category": "项目管理",
+    "category": "其他",
     "job_type": "实习",
     "city": [
       "北京"
@@ -8305,22 +8273,6 @@
     "deadline": null,
     "apply_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7614056108613208358/detail",
     "source_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7614056108613208358/detail",
-    "fetched_at": "2026-10-27T18:19:16+08:00"
-  },
-  {
-    "company": "小米",
-    "business_unit": [],
-    "title": "导航规划模型实习生",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": null,
-    "requirements": "1、计算机、自动化、车辆工程等相关专业；\n2、有自动驾驶方面的研究或者开发经验；\n3、熟悉深度学习框架，熟悉CNN、LSTM、Transformer等网络结构及其训练；\n4、良好的沟通能力和团队协作能力；\n加分项：\n1、具有实车联调优化经验；\n2、有较强的研究能力优先，如在顶会发表过论文；\n3、熟悉TensorFlow,PyTorch等框架实现原理，能够实现高效训练代码；\n4、在ACM-ICPC、TopCoder等竞赛中获得过优异成绩。",
-    "deadline": null,
-    "apply_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7613691926797879603/detail",
-    "source_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7613691926797879603/detail",
     "fetched_at": "2026-10-27T18:19:16+08:00"
   },
   {

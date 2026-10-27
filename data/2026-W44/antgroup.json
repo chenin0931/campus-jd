@@ -360,23 +360,6 @@
   },
   {
     "company": "蚂蚁集团",
-    "business_unit": [],
-    "title": "AI研究创新实习生",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京",
-      "上海",
-      "杭州"
-    ],
-    "requirements": "任职要求\n目前正在攻读硕士或博士学位，博士候选人优先\n计算机科学、人工智能或相关学科背景（如数学）\n精通Python，能够实现和验证研究想法\n优秀的沟通能力，能够在研究驱动的环境中协作\n具备独立工作能力，能够全面负责研究项目\n\n优先考虑\n在顶级AI会议上发表过论文，或通过高质量开源项目展现出研究影响力\n具有大语言模型预训练/后训练或强化学习项目的相关经验",
-    "deadline": null,
-    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260814011444473&locale=zh-CN",
-    "source_url": "https://talent.antgroup.com/campus-position?positionId=260814011444473&locale=zh-CN",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "蚂蚁集团",
     "business_unit": [
       "医疗大模型测评运营实习生"
     ],
@@ -454,25 +437,6 @@
     "deadline": null,
     "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011015453&locale=zh-CN",
     "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011015453&locale=zh-CN",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "蚂蚁集团",
-    "business_unit": [
-      "蚂蚁健康"
-    ],
-    "title": "【蚂蚁星】实时音视频交互大模型-蚂蚁健康-27届",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "北京",
-      "上海",
-      "杭州"
-    ],
-    "requirements": "1. 计算机科学、人工智能、电子信息、语音技术、多媒体技术、生物医学工程等相关专业硕士及以上学历，博士优先；\n2. 对实现自然实时的人机音视频交互、推动 AI 解决医疗健康问题抱有热情，具备较强的算法研究能力、工程实践能力和技术判断力；\n3. 在以下一个或多个方向有深入研究或实践经验：语音识别 ASR、语音合成 TTS、语音理解 Audio LLM、Speech LLM、多模态大模型、视频理解、实时对话系统、端到端语音交互模型；\n4. 熟悉大模型预训练、SFT、RLHF/RLAIF、Agentic RL、Reward Modeling、模型评测、多模态对齐等技术者优先；\n5. 有医疗 AI、智能问诊、语音助手、视频理解、多模态临床数据或大模型产品落地经验者优先；\n6. 有 ICASSP、INTERSPEECH、ACL、EMNLP、NeurIPS、ICLR、CVPR、ICCV、AAAI 等顶会论文，或重要开源项目、大模型训练平台、语音/多模态系统建设经验者优先。",
-    "deadline": null,
-    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26042409775606&locale=zh-CN",
-    "source_url": "https://talent.antgroup.com/campus-position?positionId=26042409775606&locale=zh-CN",
     "fetched_at": "2026-10-27T18:19:00+08:00"
   },
   {

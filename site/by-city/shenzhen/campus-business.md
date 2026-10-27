@@ -1,16 +1,13 @@
-# 深圳 · 校招 · 商务 · 全部公司（14 个岗位）
+# 深圳 · 校招 · 商务 · 全部公司（11 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 6](../../slices/bytedance/campus/business/shenzhen.md) · [美团 3](../../slices/meituan/campus/business/shenzhen.md) · [华为 2](../../slices/huawei/campus/business/shenzhen.md) · [百度 1](../../slices/baidu/campus/business/shenzhen.md) · [携程 1](../../slices/ctrip/campus/business/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/business/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 3](../../slices/bytedance/campus/business/shenzhen.md) · [美团 3](../../slices/meituan/campus/business/shenzhen.md) · [华为 2](../../slices/huawei/campus/business/shenzhen.md) · [百度 1](../../slices/baidu/campus/business/shenzhen.md) · [携程 1](../../slices/ctrip/campus/business/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/business/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 百度 | 深圳-商务拓展专员(J100810) | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-faba69b8-0b55-413e-bc5e-e2998da3e085.md) |
 | 字节跳动 | 安全BP（中国商业化） - 安全与风控 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7663391224867604789.md) |
-| 字节跳动 | 出海大客户/渠道销售 - Global Business Solutions 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667447397739596085.md) |
-| 字节跳动 | 出海大客户/渠道销售（非电商-应用） - Global Business Solutions 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7675578915612231989.md) |
-| 字节跳动 | 出海大客户/渠道销售（非电商-游戏） - Global Business Solutions 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7675583335754697013.md) |
 | 字节跳动 | 商务流程管理 - TikTok Shop 〔27届〕 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668519606021212421.md) |
 | 字节跳动 | IDC网络商务拓展 - AI算力基础设施 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7673074047681579269.md) |
 | 携程 | 旅游业务培训生（业务拓展）（2027届秋招）- 深圳 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036698.md) |

@@ -1,21 +1,5 @@
 [
   {
-    "id": "dexmal-7701268858853787913",
-    "company": "原力灵机",
-    "title": "结构实习生",
-    "category": "其他",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、机械设计、工业设计、材料成型等相关专业在读本科生或研究生；\n2、熟悉SolidWorks、Creo、CATIA等至少一种三维设计软件，具备基本的三维建模能力；\n3、了解常见机械结构及加工工艺，有产品外壳、塑胶件、3D打印或其他结构设计相关项目经验者优先；\n4、具备良好的学习能力、动手能力和沟通协作能力，对产品结构设计感兴趣；\n5、每周实习4天及以上，能够连续实习6个月及以上。",
-    "deadline": null,
-    "apply_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7701268858853787913/detail",
-    "source_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7701268858853787913/detail",
-    "fetched_at": "2026-10-27T18:23:43+08:00",
-    "job_type": "实习",
-    "project": null
-  },
-  {
     "id": "dexmal-7638820497903683846",
     "company": "原力灵机",
     "title": "投融资实习生（具身智能）",
@@ -75,22 +59,6 @@
     "deadline": null,
     "apply_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7611739066459736326/detail",
     "source_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7611739066459736326/detail",
-    "fetched_at": "2026-10-27T18:23:43+08:00",
-    "job_type": "实习",
-    "project": null
-  },
-  {
-    "id": "dexmal-7582067494816647434",
-    "company": "原力灵机",
-    "title": "具身智能多模态数据实习生",
-    "category": "分析",
-    "city": [
-      "北京"
-    ],
-    "requirements": "国内外知名高校在读（本科及以上），计算机科学、电子信息、自动化、人工智能、控制工程、机器人或相关专业。有计算机视觉、大模型训练/微调、自动驾驶、具身智能等领域的科研或实习项目经验者优先；\n具备扎实的数学基础和编程能力，熟悉Python编程语言，熟悉Pytorch/Tensorflow等深度学习框架，能独立完成工程实现；\n对技术充满热情，有较强的自驱力和学习力，勇于尝试不同的学术研究想法；\n实习时长至少 3 个月，实习时间超过 6 个月、可线下实习者优先；\n有在机器人、计算机视觉、人工智能领域发表论文经历，包括但不限于CVPR、ICLR、NeurIPS、ICRA、RSS、IROS，或者作为核心技术人员参与过国际、国内机器人重大研发项目者优先；",
-    "deadline": null,
-    "apply_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7582067494816647434/detail",
-    "source_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7582067494816647434/detail",
     "fetched_at": "2026-10-27T18:23:43+08:00",
     "job_type": "实习",
     "project": null

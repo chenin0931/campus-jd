@@ -1,8 +1,8 @@
-# 上海 · 实习 · 职能 · 全部公司（160 个岗位）（第 3/4 页）
+# 上海 · 实习 · 职能 · 全部公司（161 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 82](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 3](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 2](../../slices/tencent/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 3](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@
 | 网易 | 招聘实习生 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-74381.md) |
 | 网易 | HRSSC实习生（数据组） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-28520.md) |
 | 拼多多 | HR实习生 〔≥3个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-8999575e-951d-43ad-b262-2abb1a920787.md) |
+| 腾讯 | 项目实习生-人力资源 | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1216462959187228672.md) |
 | 腾讯 | AI-HR培训生（分析方向） | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938817.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938819.md) |
-| 小红书 | 采购中台实习生（技术方向） 〔≥8个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21849.md) |
 
 [上一页](intern-corporate-p2.md) · [下一页](intern-corporate-p4.md) · [总目录](../../llms.txt)

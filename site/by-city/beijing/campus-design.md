@@ -1,8 +1,8 @@
-# 北京 · 校招 · 设计 · 全部公司（92 个岗位）（第 1/2 页）
+# 北京 · 校招 · 设计 · 全部公司（88 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 35](../../slices/bytedance/campus/design/beijing.md) · [快手 17](../../slices/kuaishou/campus/design/beijing.md) · [小米 15](../../slices/xiaomi/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [腾讯 4](../../slices/tencent/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [百度 2](../../slices/baidu/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/campus/design/beijing.md) · [快手 17](../../slices/kuaishou/campus/design/beijing.md) · [小米 15](../../slices/xiaomi/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [百度 2](../../slices/baidu/campus/design/beijing.md) · [腾讯 2](../../slices/tencent/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,7 +15,6 @@
 | 阿里巴巴 | AI搜索架构与系统设计-阿里星 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907740037.md) |
 | 阿里巴巴 | AI体验设计师 | 北京/广州/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907780089.md) |
 | 阿里巴巴 | MaaS 的高效资源调度与系统设计-阿里星 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907780031.md) |
-| 蚂蚁集团 | 【蚂蚁星】实时音视频交互大模型-蚂蚁健康-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-26042409775606.md) |
 | 百度 | 北京-产品体验设计师(J100763) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-fbf35cc4-f196-4f4c-9ba1-9fca982e5269.md) |
 | 百度 | 北京-视觉设计师(J100692) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-964932f7-03dc-4423-a1a4-22d8948f52e7.md) |
 | 字节跳动 | 产品设计师 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665688715490003205.md) |
@@ -33,7 +32,6 @@
 | 字节跳动 | 机电设计专员 - Corporate Services 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668291384618895621.md) |
 | 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术 - 抖音 〔27届〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7668221581466175797.md) |
 | 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音（北京/上海/杭州/深圳）（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7628080018404739333.md) [2](../../jobs/bytedance-7660351459062483253.md) |
-| 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音内容技术（北京/上海/杭州/深圳） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7628830728016808245.md) |
 | 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音Generative Recommendation（北京/上海/杭州/深圳） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7628831810214988085.md) |
 | 字节跳动 | 内容设计师 - TikTok设计 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667499307406608693.md) |
 | 字节跳动 | 企业文化（设计方向） - 人力与管理部 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7678215066682591493.md) |
@@ -47,5 +45,9 @@
 | 字节跳动 | AI产品设计师 - 广告业务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667186781842344197.md) |
 | 字节跳动 | AI产品设计师 - 剪映CapCut 〔27届〕 | 北京/深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667161020214053173.md) |
 | 字节跳动 | AI产品设计师 - TikTok设计 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667488256230557957.md) |
+| 字节跳动 | AI产品设计师（AI workflow方向） - TikTok设计 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667491816040778037.md) |
+| 字节跳动 | AI效果设计师 - 剪映CapCut 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667158400338528565.md) |
+| 字节跳动 | HCI人机交互设计师 - PICO 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670920557747898677.md) |
+| 字节跳动 | UIUX设计师 - PICO 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675254604385192197.md) |
 
 [下一页](campus-design-p2.md) · [总目录](../../llms.txt)

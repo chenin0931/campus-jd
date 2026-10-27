@@ -1,15 +1,11 @@
-# 上海 · 实习 · 其他 · 全部公司（97 个岗位）（第 2/3 页）
+# 上海 · 实习 · 其他 · 全部公司（88 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 38](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 23](../../slices/bilibili/intern/other/shanghai.md) · [小红书 10](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [腾讯 4](../../slices/tencent/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 37](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 21](../../slices/bilibili/intern/other/shanghai.md) · [小红书 10](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 商品治理实习生 - TikTok Shop（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7700874973217311029.md) [2](../../jobs/bytedance-7695716354016119045.md) |
-| 字节跳动 | 生态服务中台实习生-飞书 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7640023516788803893.md) |
-| 字节跳动 | 小语种语言学（法语）实习生 - Data语音 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7666010278812698885.md) |
-| 字节跳动 | 校园猎聘实习生 - 管理研究院 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7362024469013350665.md) |
 | 字节跳动 | 校招COE实习生 - 管理研究院 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675357908361775365.md) |
 | 字节跳动 | 印尼商城频道货盘实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697190016076302597.md) |
 | 字节跳动 | 语言学实习生 - Data语音（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7686822243610937605.md) [2](../../jobs/bytedance-7655175199276435765.md) |
@@ -31,17 +27,12 @@
 | 米哈游 | 场景模型实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7908.md) |
 | 米哈游 | 角色模型实习生（二次元NPR/次世代PBR） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9081.md) |
 | 米哈游 | 视频编导实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8466.md) |
-| 米哈游 | 语音生成实习生 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7102.md) |
 | 米哈游 | LLM Pretrain Data实习生 〔28/29届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/mihoyo-8458.md) |
 | 米哈游 | SD材质实习生（程序化贴图） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7909.md) |
 | 网易 | 互动影游文案实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78806.md) |
 | 网易 | 游戏测评实习生-行业研究 〔26/27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78223.md) |
 | 网易 | 游戏测评实习生（AI游戏测评） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79377.md) |
 | 网易 | AI互动剧实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78621.md) |
-| 腾讯 | 用于实时渲染的复杂材质的高效表示 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139146.md) |
-| 腾讯 | 游戏具身智能 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139131.md) |
-| 腾讯 | 语音/对话驱动数字人 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139134.md) |
-| 腾讯 | WXG-WeLM 大语言模型基座建设 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944862.md) |
 | 小红书 | 安全协作实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20910.md) |
 | 小红书 | 潮流服饰实习生-平台专家 〔27届 · ≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22771.md) |
 | 小红书 | 国际化高招实习生 〔27/28届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21238.md) |
@@ -52,5 +43,9 @@
 | 小红书 | 新锐国货平台专家支持实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21021.md) |
 | 小红书 | Dots-【Ace顶尖实习生】可扩展监督的 AI 对齐方法 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-15684.md) |
 | 小红书 | Redstudio后期剪辑实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21979.md) |
+| 小米 | 车联网软件集成经理实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7587369756916877594.md) |
+| 小米 | 视频拍摄剪辑实习生 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7685652775024609582.md) |
+| 小米 | 学习发展实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7664441210504841514.md) |
+| 小米 | EHS实习生-2027届 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7683431074927724843.md) |
 
-[上一页](intern-other.md) · [下一页](intern-other-p3.md) · [总目录](../../llms.txt)
+[上一页](intern-other.md) · [总目录](../../llms.txt)

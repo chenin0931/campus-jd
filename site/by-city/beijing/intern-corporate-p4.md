@@ -1,8 +1,8 @@
-# 北京 · 实习 · 职能 · 全部公司（256 个岗位）（第 4/6 页）
+# 北京 · 实习 · 职能 · 全部公司（258 个岗位）（第 4/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 51](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@
 | 网易 | IT资产管理实习生（北京） 〔28届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-70268.md) |
 | 腾讯 | 法务 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1226957104464930816.md) |
 | 腾讯 | 秘书 | 深圳/北京/成都 | 2026-10-27 | [详情](../../jobs/tencent-1165235557480470528.md) |
+| 腾讯 | 项目实习生-人力资源 | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1216462959187228672.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938819.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1237031398674822144.md) |
 | 小红书 | 人才发展实习生 〔27/28届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-17429.md) |
 | 小红书 | 小红书人才发展实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22763.md) |
 | 小红书 | 小红书HR实习生 〔27/28届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21081.md) |
 | 小红书 | hr实习生 〔28/29届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19293.md) |
-| 小红书 | HR实习生 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22826.md) |
 
 [上一页](intern-corporate-p3.md) · [下一页](intern-corporate-p5.md) · [总目录](../../llms.txt)

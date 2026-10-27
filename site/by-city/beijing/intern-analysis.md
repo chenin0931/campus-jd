@@ -1,8 +1,8 @@
-# 北京 · 实习 · 分析 · 全部公司（216 个岗位）（第 1/5 页）
+# 北京 · 实习 · 分析 · 全部公司（235 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 124](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [腾讯 5](../../slices/tencent/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 142](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@
 | 字节跳动 | 大模型数据分析实习生 - 火山方舟 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7701201420539889925.md) |
 | 字节跳动 | 大模型数据挖掘实习生 - 模型数据工程 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7671205168105769269.md) |
 | 字节跳动 | 大数据分析实习生-音视频技术 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7611022627243673909.md) |
+| 字节跳动 | 东南亚电商运营数据科学实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677477289400404277.md) |
 | 字节跳动 | 东南亚直播策略实习生 - TikTok Shop 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7684109493437679925.md) |
 | 字节跳动 | 度量数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683783124081412357.md) |
 | 字节跳动 | 短剧内容策略实习生 - TikTok 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7649708671724112181.md) |
-| 字节跳动 | 多模态数据服务实习生-Seed大模型人才实习 〔28/29届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7622244529194649861.md) |
 | 字节跳动 | 泛商城推荐数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669795295006755125.md) |
 
 [下一页](intern-analysis-p2.md) · [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 其他城市 · 校招 · 运营 · 全部公司（113 个岗位）（第 1/2 页）
+# 其他城市 · 校招 · 运营 · 全部公司（112 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[京东 44](../../slices/jd/campus/ops/other.md) · [小米 37](../../slices/xiaomi/campus/ops/other.md) · [美团 23](../../slices/meituan/campus/ops/other.md) · [得物 4](../../slices/dewu/campus/ops/other.md) · [滴滴 4](../../slices/didi/campus/ops/other.md) · [腾讯 1](../../slices/tencent/campus/ops/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 44](../../slices/jd/campus/ops/other.md) · [小米 37](../../slices/xiaomi/campus/ops/other.md) · [美团 23](../../slices/meituan/campus/ops/other.md) · [得物 4](../../slices/dewu/campus/ops/other.md) · [滴滴 4](../../slices/didi/campus/ops/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -36,5 +36,6 @@
 | 美团 | 销售运营岗（2个团队） | 北京/科威特城/上海/利雅得 | 2026-10-27 | [1](../../jobs/meituan-4695101932.md) [2](../../jobs/meituan-4695101932.md) |
 | 美团 | Administrative Operations & Delivery (Overseas)（2个团队） | 圣保罗/利雅得 | 2026-10-27 | [1](../../jobs/meituan-4696492258.md) [2](../../jobs/meituan-4696492258.md) |
 | 美团 | AI产品运营岗 | 北京/科威特城/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697324893.md) |
+| 小米 | 电商销售运营-local 〔27届〕 | 莫斯科 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935283243977011.md) |
 
 [下一页](campus-ops-p2.md) · [总目录](../../llms.txt)

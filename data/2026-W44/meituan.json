@@ -1812,21 +1812,6 @@
   {
     "company": "美团",
     "business_unit": [],
-    "title": "自动驾驶云控平台 — 项目实习生",
-    "category": "项目管理",
-    "job_type": "实习",
-    "city": [
-      "深圳"
-    ],
-    "requirements": "1. 大学本科在读，计算机、软件工程或相关专业优先。  \n2. 熟悉至少一种主流编程语言，如Java、Python或JavaScript。  \n3. 具备良好的学习能力与团队协作意识，能适应快节奏的工作环境。  \n4. 有云计算、大数据或自动驾驶相关项目经验者优先。",
-    "deadline": null,
-    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4837378614&highlightType=campus",
-    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4837378614&highlightType=campus",
-    "fetched_at": "2026-10-27T18:25:38+08:00"
-  },
-  {
-    "company": "美团",
-    "business_unit": [],
     "title": "体验设计实习生",
     "category": "设计",
     "job_type": "实习",
@@ -2600,7 +2585,7 @@
     "company": "美团",
     "business_unit": [],
     "title": "Keeta巴林商业分析-项目实习生",
-    "category": "项目管理",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "麦纳麦"

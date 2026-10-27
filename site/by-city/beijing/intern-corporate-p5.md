@@ -1,11 +1,12 @@
-# 北京 · 实习 · 职能 · 全部公司（256 个岗位）（第 5/6 页）
+# 北京 · 实习 · 职能 · 全部公司（258 个岗位）（第 5/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 51](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 小红书 | HR实习生 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22826.md) |
 | 小红书 | HR实习生 有转正机会 电商方向 〔≥3个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20506.md) |
 | 小红书 | HR实习生-招聘方向 〔27/28届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21035.md) |
 | 小红书 | HR实习生（招聘方向）（2个团队） 〔27/28届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaohongshu-17695.md) [2](../../jobs/xiaohongshu-20451.md) |
@@ -52,6 +53,5 @@
 | 小米 | 研究助理实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7694244914909235510.md) |
 | 小米 | 业务资金管理实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7616938266046204166.md) |
 | 小米 | 招聘实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7529368968387510381.md) [2](../../jobs/xiaomi-7481170682601734252.md) |
-| 小米 | 招聘实习生-2027届（2个团队） 〔27届 · 每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7687580582192253203.md) [2](../../jobs/xiaomi-7646368869590337811.md) |
 
 [上一页](intern-corporate-p4.md) · [下一页](intern-corporate-p6.md) · [总目录](../../llms.txt)

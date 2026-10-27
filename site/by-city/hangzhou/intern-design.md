@@ -1,8 +1,8 @@
-# 杭州 · 实习 · 设计 · 全部公司（42 个岗位）
+# 杭州 · 实习 · 设计 · 全部公司（41 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 29](../../slices/netease/intern/design/hangzhou.md) · [字节跳动 5](../../slices/bytedance/intern/design/hangzhou.md) · [腾讯 5](../../slices/tencent/intern/design/hangzhou.md) · [小红书 2](../../slices/xiaohongshu/intern/design/hangzhou.md) · [华为 1](../../slices/huawei/intern/design/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 28](../../slices/netease/intern/design/hangzhou.md) · [字节跳动 5](../../slices/bytedance/intern/design/hangzhou.md) · [腾讯 5](../../slices/tencent/intern/design/hangzhou.md) · [小红书 2](../../slices/xiaohongshu/intern/design/hangzhou.md) · [华为 1](../../slices/huawei/intern/design/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -26,7 +26,6 @@
 | 网易 | 游戏交互设计实习生（逆水寒手游） 〔≥3个月，每周≥5天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-52403.md) |
 | 网易 | 游戏交互设计实习生（无限大） 〔≥4个月，每周≥5天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-76498.md) |
 | 网易 | 游戏交互设计实习生（在研项目） 〔≥4个月，每周≥5天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-71911.md) |
-| 网易 | 游戏设计师（关卡/系统/数值/战斗）27届+广/沪/杭 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-71713.md) |
 | 网易 | 游戏体验设计实习生-大话 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79062.md) |
 | 网易 | 游戏体验设计实习生-燕云十六声 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79565.md) |
 | 网易 | 游戏体验设计实习生（第五人格） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79121.md) |

@@ -1,8 +1,8 @@
-# 广州 · 校招 · 其他 · 全部公司（16 个岗位）
+# 广州 · 校招 · 其他 · 全部公司（13 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 6](../../slices/netease/campus/other/guangzhou.md) · [阿里巴巴 5](../../slices/alibaba/campus/other/guangzhou.md) · [京东 2](../../slices/jd/campus/other/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/guangzhou.md) · [美团 1](../../slices/meituan/campus/other/guangzhou.md) · [腾讯 1](../../slices/tencent/campus/other/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 5](../../slices/alibaba/campus/other/guangzhou.md) · [网易 4](../../slices/netease/campus/other/guangzhou.md) · [京东 2](../../slices/jd/campus/other/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/guangzhou.md) · [美团 1](../../slices/meituan/campus/other/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,10 +15,8 @@
 | 京东 | 精算师 〔27届〕 | 北京/广州 | 2026-10-27 | [详情](../../jobs/jd-9034.md) |
 | 快手 | 游戏投放优化师 | 广州/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-13593.md) |
 | 美团 | 食杂零售管培生 〔27届〕 | 厦门/杭州/北京/成都/广州 | 2026-10-27 | [详情](../../jobs/meituan-4694966493.md) |
-| 网易 | 发行管培生（2个团队） | 杭州/广州 | 2026-10-27 | [1](../../jobs/netease-4735.md) [2](../../jobs/netease-4905.md) |
 | 网易 | 高中线上一对一老师-有道领世 | 广州/沈阳 | 2026-10-27 | [详情](../../jobs/netease-4850.md) |
 | 网易 | 音乐推广 〔27届〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-4804.md) |
 | 网易 | 游戏视频编导（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4744.md) [2](../../jobs/netease-4899.md) |
-| 腾讯 | 微信 公众号-生成式推荐与推荐排序Scaling Up | 广州 | 2026-10-27 | [详情](../../jobs/tencent-1282064466091287553.md) |
 
 [总目录](../../llms.txt)

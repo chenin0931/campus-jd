@@ -43,9 +43,20 @@ const cases = [
   ['娱乐-视频后期制作实习生 ', '市场'], ['产品传播-2027届', '市场'], ['品牌传播实习生', '市场'],
   ['校招运营HR实习生', '职能'], ['Talent Acquisition Intern (International Students) 106178', '职能'], ['招聘运营实习生', '职能'], ['招聘产品经理', '产品'],
   ['大模型语料实习生', 'AI产品'], ['硬件资产管理 - IT', '职能'], ['创新硬件人机交互实习生-AI创新业务', '设计'], ['预研孵化战略研究和投资实习生（游戏向）', '商务'], ['语料运营实习生', '运营'],
+  // 2026-10-27 第三次解冻（§9）：分析/销售优先、外展/发行/ESG/转写/游戏设计师、AI研究/结构排除
+  ['数据分析实习生（安全模型运营方向）-国际化', '分析'], ['AI数据产品运营（数据分析方向）实习生 - TikTok', '运营'], ['商家产品数据科学实习生 - TikTok Shop', '分析'], ['数据分析产品经理', '产品'],
+  ['出海大客户/渠道销售（非电商-应用） - Global Business Solutions', '销售'], ['【2026校招】商业化消费品中小客户销售（珠海）', '销售'], ['电商销售运营实习生', '运营'], ['硬件销售实习生', '销售'],
+  ['外展实习生（葡语）', '运营'], ['发行管培生（27届+广/杭）', '市场'], ['游戏发行/运营培训生', '运营'], ['ESG报告实习生', '职能'], ['AI 产品实习生（发行方向）', 'AI产品'], ['哈萨克语 / 俄语实习生（Kazakh / Russian Transcription Intern）', 'AI产品'],
+  ['游戏设计师（AI+策划）', '策划'], ['AI研究创新实习生', null], ['结构实习生', null], ['机械设计实习生', null], ['结构化数据运营', '运营'], ['具身智能多模态数据实习生', 'AI产品'], ['语料运营实习生', '运营'], ['机械原画实习生', '设计'], ['【共创】物料控制与管理员-酷拓子公司', '供应链'], ['产品体验研究实习生', '产品'],
 ];
 let bad = 0;
 for (const [t, want] of cases) { const got = classify(t); if (got !== want) { bad++; console.log('FAIL', t, 'want', want, 'got', got); } }
+{ const { jdTech, classifyJob } = require('./lib/common');
+  for (const [t, r, want] of [['结构实习生', '', null], ['XX实习生', '熟悉 Golang，有后端开发经验', null], ['XX实习生', '熟练使用 Python、SQL', '其他'], ['产品运营实习生', '熟悉 Java开发', '运营'], ['数据实习生', '', '分析'], ['实习生', '博士在读，有相关研究论文', null], ['【共创】物料控制与管理员-酷拓子公司', '电子信息、机械设计、供应链管理等相关专业', '供应链'], ['Kimi Eval Intern（3D方向）', '熟悉 Solidworks', 'AI产品'], ['腾讯营销—基于LLM的广告系统实验设计与衡量', '课题背景：广告实验', null], ['市场营销实习生', '负责活动策划', '市场']]) { const g = classifyJob(t, r); if (g !== want) { bad++; console.log('FAIL jd', t, r, g); } } }
+{ // JD 把关只读 requirements，不读 entry_requirements
+  const { classifyJob, jdTech } = require('./lib/common'); const j = { title: '项目实习生-视觉设计', requirements: null, entry_requirements: '熟悉 Golang 后端开发，博士在读有研究论文' };
+  if (jdTech(j.title, j.requirements) !== false || classifyJob(j.title, j.requirements) !== '设计') { bad++; console.log('FAIL entry_requirements 被读取'); }
+  if (jdTech('数据实习生', j.entry_requirements) === false) { bad++; console.log('FAIL 对照组：同文本作为 requirements 应触发'); } }
 console.log(bad ? `${bad} 条失败` : `全部 ${cases.length} 条通过`); process.exit(bad ? 1 : 0);
 // 城市名归一化
 { const { normCities } = require('./lib/common'); const eq = (a, b) => JSON.stringify(a) === JSON.stringify(b);

@@ -1,8 +1,8 @@
-# 杭州 · 校招 · 其他 · 全部公司（15 个岗位）
+# 杭州 · 校招 · 其他 · 全部公司（10 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 8](../../slices/alibaba/campus/other/hangzhou.md) · [网易 4](../../slices/netease/campus/other/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/campus/other/hangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/hangzhou.md) · [美团 1](../../slices/meituan/campus/other/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 5](../../slices/alibaba/campus/other/hangzhou.md) · [网易 2](../../slices/netease/campus/other/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/campus/other/hangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/hangzhou.md) · [美团 1](../../slices/meituan/campus/other/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -10,14 +10,10 @@
 | 阿里巴巴 | 虎鲸文娱娱跃班-演出商务拓展 | 北京/杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199908000004.md) |
 | 阿里巴巴 | 跨模态理解与视频生成处理-阿里星/T-Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907740115.md) |
 | 阿里巴巴 | 医学AI深度研究应用构建-阿里星 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907720076.md) |
-| 阿里巴巴 | 智算网卡与协议栈竞争力构建-阿里星/A Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907820108.md) |
 | 阿里巴巴 | AI创意艺术家 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907640035.md) |
-| 阿里巴巴 | AI导购&智能推荐-阿里星/T-Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680060.md) |
-| 阿里巴巴 | KV Cache分布式存储的网络优化-阿里星/A Star | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907720121.md) |
 | 蚂蚁集团 | 客户体验 | 杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011006033.md) |
 | 快手 | 游戏投放优化师 | 广州/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-13593.md) |
 | 美团 | 食杂零售管培生 〔27届〕 | 厦门/杭州/北京/成都/广州 | 2026-10-27 | [详情](../../jobs/meituan-4694966493.md) |
-| 网易 | 发行管培生（2个团队） | 杭州/广州 | 2026-10-27 | [1](../../jobs/netease-4735.md) [2](../../jobs/netease-4905.md) |
 | 网易 | 游戏视频编导（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4744.md) [2](../../jobs/netease-4899.md) |
 
 [总目录](../../llms.txt)

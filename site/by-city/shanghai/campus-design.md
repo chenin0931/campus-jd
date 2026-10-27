@@ -1,8 +1,8 @@
-# 上海 · 校招 · 设计 · 全部公司（121 个岗位）（第 1/3 页）
+# 上海 · 校招 · 设计 · 全部公司（101 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 35](../../slices/netease/campus/design/shanghai.md) · [字节跳动 24](../../slices/bytedance/campus/design/shanghai.md) · [米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [腾讯 12](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [字节跳动 23](../../slices/bytedance/campus/design/shanghai.md) · [网易 19](../../slices/netease/campus/design/shanghai.md) · [腾讯 10](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -13,7 +13,6 @@
 | 阿里巴巴 | 智能体化多模态生成模型研究：从系统设计到实践应用-阿里星/C-Star | 北京/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907740030.md) |
 | 阿里巴巴 | AI编译器设计实现-阿里星 | 北京/成都/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199908320015.md) |
 | 阿里巴巴 | AI体验设计师 | 北京/广州/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907780089.md) |
-| 蚂蚁集团 | 【蚂蚁星】实时音视频交互大模型-蚂蚁健康-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-26042409775606.md) |
 | 蚂蚁集团 | 产品体验设计师（UI设计） | 上海 | 2026-10-27 | [详情](../../jobs/antgroup-260721010995323.md) |
 | 哔哩哔哩 | 助理动画导演【2027届】 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29730.md) |
 | 字节跳动 | 产品设计师 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665688715490003205.md) |
@@ -26,7 +25,6 @@
 | 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术 - 抖音 〔27届〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7668221581466175797.md) |
 | 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音（北京/上海/杭州/深圳） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628625557282670853.md) |
 | 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音推荐技术（北京/上海/杭州/深圳） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628831003932772613.md) |
-| 字节跳动 | 基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音智能对话（北京/上海/杭州/深圳） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628830121033632053.md) |
 | 字节跳动 | 内容设计师 - TikTok设计 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667499307406608693.md) |
 | 字节跳动 | 品牌创意设计 - 国际支付 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665614193257367813.md) |
 | 字节跳动 | 品牌创意视觉设计师 - 抖音效果与创作 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667923692567300357.md) |
@@ -48,5 +46,9 @@
 | 京东 | 创意设计师 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-9061.md) |
 | 京东 | 视觉设计师 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-9058.md) |
 | 美团 | 品牌/营销设计师 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4697314458.md) |
+| 美团 | 体验设计师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697273246.md) |
+| 米哈游 | 2D美术（AI向） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9117.md) |
+| 米哈游 | 场景模型师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9167.md) |
+| 米哈游 | 场景原画师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9173.md) |
 
 [下一页](campus-design-p2.md) · [总目录](../../llms.txt)

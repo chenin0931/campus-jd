@@ -1,14 +1,13 @@
-# 北京 · 校招 · 分析 · 全部公司（107 个岗位）（第 1/3 页）
+# 北京 · 校招 · 分析 · 全部公司（108 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 61](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [京东 6](../../slices/jd/campus/analysis/beijing.md) · [阿里巴巴 5](../../slices/alibaba/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/campus/analysis/beijing.md) · [滴滴 3](../../slices/didi/campus/analysis/beijing.md) · [腾讯 3](../../slices/tencent/campus/analysis/beijing.md) · [小米 3](../../slices/xiaomi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 63](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [京东 6](../../slices/jd/campus/analysis/beijing.md) · [阿里巴巴 4](../../slices/alibaba/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/campus/analysis/beijing.md) · [滴滴 3](../../slices/didi/campus/analysis/beijing.md) · [腾讯 3](../../slices/tencent/campus/analysis/beijing.md) · [小米 3](../../slices/xiaomi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 阿里巴巴 | 面向异构计算的多模态数据处理性能优化技术-阿里星/A Star | 北京 | 2026-10-27 | [详情](../../jobs/alibaba-199907780101.md) |
 | 阿里巴巴 | 数据科学家 | 北京/广州/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907800043.md) |
-| 阿里巴巴 | 下一代大模型智能体框架与数据技术-阿里星 | 北京/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907700044.md) |
 | 阿里巴巴 | AI Native数据计算引擎：原子化智能算子、DAG 编排与混合查询优化-阿里星/A Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907720109.md) |
 | 阿里巴巴 | Data+AI融合：下一代多模态数据库/下一代AI数据湖-阿里星/A Star | 北京/杭州/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907820112.md) |
 | 蚂蚁集团 | 【蚂蚁星】全模态大模型数据-蚂蚁健康-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-26042409788457.md) |
@@ -47,5 +46,6 @@
 | 字节跳动 | 数据分析师 - 抖音效果与创作 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667929586126162229.md) |
 | 字节跳动 | 数据分析师 - 抖音音乐 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7682681391491025205.md) |
 | 字节跳动 | 数据分析师 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669707798918007045.md) |
+| 字节跳动 | 数据分析师 - 今日头条 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669712338309089589.md) |
 
 [下一页](campus-analysis-p2.md) · [总目录](../../llms.txt)

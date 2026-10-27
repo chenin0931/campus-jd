@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 设计 · 全部公司（43 个岗位）
+# 深圳 · 实习 · 设计 · 全部公司（44 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 23](../../slices/tencent/intern/design/shenzhen.md) · [字节跳动 12](../../slices/bytedance/intern/design/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/design/shenzhen.md) · [美团 2](../../slices/meituan/intern/design/shenzhen.md) · [百度 1](../../slices/baidu/intern/design/shenzhen.md) · [华为 1](../../slices/huawei/intern/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 24](../../slices/tencent/intern/design/shenzhen.md) · [字节跳动 12](../../slices/bytedance/intern/design/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/design/shenzhen.md) · [美团 2](../../slices/meituan/intern/design/shenzhen.md) · [百度 1](../../slices/baidu/intern/design/shenzhen.md) · [华为 1](../../slices/huawei/intern/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -43,10 +43,11 @@
 | 腾讯 | 视觉设计（2个团队） | 深圳/北京/广州 | 2026-10-27 | [1](../../jobs/tencent-1177660287760077824.md) [2](../../jobs/tencent-1210646470286783489.md) |
 | 腾讯 | 特效 | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1224067382566449152.md) |
 | 腾讯 | 特效 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1224696331168351232.md) |
+| 腾讯 | 项目实习生-动画 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1224072999578531840.md) |
+| 腾讯 | 项目实习生-视觉设计 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1292191191915674624.md) |
 | 腾讯 | 游戏动效设计(UI向) | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1224696282652836864.md) |
 | 腾讯 | 游戏宣发视觉设计 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1219751795182958592.md) |
 | 腾讯 | 游戏GUI视觉设计 | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751796143454208.md) |
 | 腾讯 | 游戏GUI视觉设计 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1228831632895911937.md) |
-| 腾讯 | WXG-从设计到代码（可信程序自动生成） | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139028.md) |
 
 [总目录](../../llms.txt)

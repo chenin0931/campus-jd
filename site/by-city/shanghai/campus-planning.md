@@ -1,8 +1,8 @@
-# 上海 · 校招 · 策划 · 全部公司（17 个岗位）
+# 上海 · 校招 · 策划 · 全部公司（33 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 8](../../slices/mihoyo/campus/planning/shanghai.md) · [字节跳动 4](../../slices/bytedance/campus/planning/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/planning/shanghai.md) · [腾讯 2](../../slices/tencent/campus/planning/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/planning/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 16](../../slices/netease/campus/planning/shanghai.md) · [米哈游 8](../../slices/mihoyo/campus/planning/shanghai.md) · [字节跳动 4](../../slices/bytedance/campus/planning/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/planning/shanghai.md) · [腾讯 2](../../slices/tencent/campus/planning/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/planning/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -21,6 +21,14 @@
 | 米哈游 | 系统策划 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9102.md) |
 | 米哈游 | 游戏文案策划 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9100.md) |
 | 米哈游 | 战斗策划 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9101.md) |
+| 网易 | 游戏设计师（系统策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4720.md) [2](../../jobs/netease-4873.md) |
+| 网易 | 游戏设计师（关卡策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4719.md) [2](../../jobs/netease-4872.md) |
+| 网易 | 游戏设计师（技术策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4724.md) [2](../../jobs/netease-4870.md) |
+| 网易 | 游戏设计师（任务策划）（2个团队） | 杭州/上海 | 2026-10-27 | [1](../../jobs/netease-4728.md) [2](../../jobs/netease-4908.md) |
+| 网易 | 游戏设计师（数值策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4723.md) [2](../../jobs/netease-4869.md) |
+| 网易 | 游戏设计师（文案策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4726.md) [2](../../jobs/netease-4910.md) |
+| 网易 | 游戏设计师（战斗策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4721.md) [2](../../jobs/netease-4874.md) |
+| 网易 | 游戏设计师（AI+策划）（2个团队） 〔27届〕 | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4722.md) [2](../../jobs/netease-4912.md) |
 | 腾讯 | 音频策划 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1283878477271213056.md) |
 | 腾讯 | 游戏策划培训生 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282032033786619904.md) |
 

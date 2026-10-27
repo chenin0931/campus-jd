@@ -1,13 +1,11 @@
-# 其他城市 · 校招 · 运营 · 全部公司（113 个岗位）（第 2/2 页）
+# 其他城市 · 校招 · 运营 · 全部公司（112 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[京东 44](../../slices/jd/campus/ops/other.md) · [小米 37](../../slices/xiaomi/campus/ops/other.md) · [美团 23](../../slices/meituan/campus/ops/other.md) · [得物 4](../../slices/dewu/campus/ops/other.md) · [滴滴 4](../../slices/didi/campus/ops/other.md) · [腾讯 1](../../slices/tencent/campus/ops/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 44](../../slices/jd/campus/ops/other.md) · [小米 37](../../slices/xiaomi/campus/ops/other.md) · [美团 23](../../slices/meituan/campus/ops/other.md) · [得物 4](../../slices/dewu/campus/ops/other.md) · [滴滴 4](../../slices/didi/campus/ops/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 腾讯 | People Operations Associate 106179 ⚠️链接待核 | Malaysia-Kuala Lumpur | 2026-10-27 | [详情](../../jobs/tencent-106179.md) |
-| 小米 | 电商销售运营-local 〔27届〕 | 莫斯科 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935283243977011.md) |
 | 小米 | 电商运营-泰语-local 〔27届〕 | 曼谷 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935167976540467.md) |
 | 小米 | 电商运营专员-达人运营-local 〔27届〕 | 雅加达 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931024012396838.md) |
 | 小米 | 电商运营专员-广告投放-local 〔27届〕 | 雅加达 | 2026-10-27 | [详情](../../jobs/xiaomi-7670933692873836851.md) |

@@ -599,23 +599,6 @@
   },
   {
     "company": "网易",
-    "title": "【博后专项】LLM 博士后-网易有道",
-    "category": "其他",
-    "city": [
-      "北京"
-    ],
-    "requirements": "我们希望你：\n1、获得学位3年以内的全日制博士，或应届博士毕业生（须已满足学位论文答辩要求）；\n2、具有自然语言生成、多模态机器学习、机器翻译等相关领域的研究背景；\n3、具有独立科研能力，以第一作者在国际高水平会议和期刊发表学术论文优先，主持或参与过具体项目者优先；\n4、思维活跃，创新能力强，具有强烈的技术创新和研发热情；\n5、有良好的英文阅读，交流以及写作能力；\n6、责任心强，具有良好的团队意识。",
-    "deadline": null,
-    "apply_url": "https://campus.163.com/app/detail/index?id=4847&projectId=103",
-    "source_url": "https://campus.163.com/app/detail/index?id=4847&projectId=103",
-    "fetched_at": "2026-10-27T18:19:00+08:00",
-    "job_type": "校招",
-    "business_unit": [
-      "网易互联网"
-    ]
-  },
-  {
-    "company": "网易",
     "title": "AI 平台运营专员（宁波）-网易智企",
     "category": "运营",
     "city": [
@@ -690,7 +673,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（AI+策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -709,7 +692,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（文案策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -728,7 +711,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（任务策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海"
@@ -746,7 +729,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（关卡策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -784,7 +767,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（数值策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -803,7 +786,7 @@
   {
     "company": "网易",
     "title": " 游戏设计师（系统策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -822,7 +805,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（战斗策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -860,7 +843,7 @@
   {
     "company": "网易",
     "title": "发行管培生",
-    "category": "其他",
+    "category": "市场",
     "city": [
       "杭州",
       "广州"
@@ -953,7 +936,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（技术策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -1103,7 +1086,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（AI+策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -1141,7 +1124,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（文案策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -1179,7 +1162,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（任务策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海"
@@ -1197,7 +1180,7 @@
   {
     "company": "网易",
     "title": "发行管培生",
-    "category": "其他",
+    "category": "市场",
     "city": [
       "杭州",
       "广州"
@@ -1457,7 +1440,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（战斗策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -1476,7 +1459,7 @@
   {
     "company": "网易",
     "title": " 游戏设计师（系统策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -1495,7 +1478,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（关卡策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -1514,7 +1497,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（技术策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -1533,7 +1516,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（数值策划）",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州",
       "上海",
@@ -3593,7 +3576,7 @@
   {
     "company": "网易",
     "title": "发行管培生（27届+广/杭）",
-    "category": "其他",
+    "category": "市场",
     "city": [
       "广州"
     ],
@@ -3627,7 +3610,7 @@
   {
     "company": "网易",
     "title": "游戏设计师（关卡/系统/数值/战斗）27届+广/沪/杭",
-    "category": "设计",
+    "category": "策划",
     "city": [
       "杭州"
     ],

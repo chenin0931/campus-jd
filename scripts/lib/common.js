@@ -20,12 +20,12 @@ const ROLE = /实习|工程师|经理|专员|主管|研究员|分析师|架构�
 // 只对「其他」兜底生效的技术课题词（不影响产品/运营等已归类岗位，如「多模态AI产品经理」）
 const TECH_OTHER = /训练|预测模型|模型实验|时序|推理|模型(压缩|优化|建模)|性能优化|异构|高性能|架构|Infra|攻防|(网络|信息|系统|数据|AI|模型|云|终端|应用)安全|NLP|自然语言|深度学习|强化学习|(^|[^A-Za-z])RL([^A-Za-z]|$)|多模态|世界模型|World Model|表征|生成(基础)?模型|大数据|Data Engineering|Android|iOS|(推理|训练|AI|算法|软件|系统|数据|平台|模型|Infra)工程|软硬件|系统软件|FDE|机器学习|训推|模型系统|计算语言学|内核|编译|算子|GPU|检索系统|对抗|蓝军|威胁情报|可信计算|安全工具|安全研究|基础设施|灵巧手|硬件|VLA|自动驾驶|基模|智能体|Agent|大模型|RSI|递归|AI4SE|评测|Vibe|技术(?!文档|传播)/i;
 // 硬件/芯片/数据系统/预研/编解码/3D 资产生成类技术岗（岗位段）：岗位段含 产品/销售/采购/职能/市场/运营/商务 等业务词时不触发（「硬件产品经理」「硬件销售」「硬件采购」保留）
-const HW_TECH = /硬件|数据系统|预研|编解码|几何资产|3D生成|三维生成|3D重建|RTL|FPGA|IC设计|数字前端|数字后端|模拟电路|电路设计|PCB/i;
-const HW_BIZ = /资产管理|IT支持|交互|体验|战略|投资|产品|销售|采购|职能|市场|营销|运营|商务|BD|渠道|供应链|项目|招聘|HR|品牌|传播|策划|Sales|Product|Marketing/i;
+const HW_TECH = /(?<![a-zA-Z])结构(?!化|性)|机械|AI研究|研究创新|语义理解|硬件|数据系统|预研|编解码|几何资产|3D生成|三维生成|3D重建|RTL|FPGA|IC设计|数字前端|数字后端|模拟电路|电路设计|PCB/i;
+const HW_BIZ = /原画|美术|资产管理|IT支持|交互|体验|战略|投资|产品|销售|采购|职能|市场|营销|运营|商务|BD|渠道|供应链|项目|招聘|HR|品牌|传播|策划|Sales|Product|Marketing/i;
 const AI = /AI|大模型|Agent|AIGC|智能|智算/i;
 const RULES = [
   // 供应链：在运营/产品之后、商务之前；采购已在前面归职能；「计划」只认业务计划，排除 人才/星/实习/招聘/培养 计划
-  ['供应链', /品质|(?<!内容|模型|数据)质量|供应链|物流|仓储|备件|供应管理|质控|质检|(?<!人才|专项|星|实习|招聘|培养|管培|校招|北斗|启航|领航|英才)计划(?!精英|生)/],
+  ['供应链', /物料|(^|[^A-Za-z])PMC([^A-Za-z]|$)|品质|(?<!内容|模型|数据)质量|供应链|物流|仓储|备件|供应管理|质控|质检|(?<!人才|专项|星|实习|招聘|培养|管培|校招|北斗|启航|领航|英才)计划(?!精英|生)/],
   // 模型评测/标注岗归 AI产品（先于审计等职能词）
   ['AI产品', /评测|标注|语料|\bEval\w*/i],
   ['商务', /\bPartnerships?\b|商务|(^|[^A-Za-z])BD([^A-Za-z]|$)|商业化|渠道|合作|招商|拓展|采销|采购|投资|投融资|战略|Business Development/i],
@@ -52,7 +52,7 @@ function classify(title) {
   title = cleanTitle(title);
   // 先去成对的【】[]，不成对的【】[]、全角空格当分隔符；长横线 — ― 、‒ 也切
   const segs = String(title).replace(/【[^】]*】|\[[^\]]*\]/g, '').replace(/[【】\[\]\u3000]/g, '-').split(/\s*[-－—–―‒]+\s*/).map(x => x.trim()).filter(Boolean);
-  const GENERIC = /^(日常|暑期|留用|校招|校园|社招)?(实习(生)?|校招)$/;  // 纯「实习」段不当岗位名，取后面的段
+  const GENERIC = /^(日常|暑期|留用|校招|校园|社招|项目)?(实习(生)?|校招)$/;  // 纯「实习」段不当岗位名，取后面的段
   const h = segs.find(x => ROLE.test(x) && !GENERIC.test(x)) || segs.find(x => !GENERIC.test(x)) || segs[0] || '';
   // 全标题扫描：逐段查 EXCLUDE_ANY。「开发者」（如「市场实习生-开发者AI」）是部门名不算；含「运营」的段里「测试」不算（「测试运营」）
   // 岗位段含 产品/运营 时只忽略「算法」
@@ -62,14 +62,27 @@ function classify(title) {
   const t = h.includes('产品') ? h.replace(/前端|后端|客户端|架构师|芯片/g, '') : h;
   // 任一段以「研究」结尾或含「研究与应用」的课题式标题是科研岗；用户/产业/行业/市场研究除外
   const mfg = !pa && (MFG.test(title) || AUTO_TECH.test(title));
-  const topic = segs.some(x => /研究$|研究与应用|研究实习/.test(x) && !/(用户|产业|行业|市场|数字生态|评测|政策)研究/.test(x));
+  const topic = segs.some(x => /研究$|研究与应用|研究实习/.test(x) && !/(用户|产业|行业|市场|数字生态|评测|政策|体验)研究/.test(x));
   const tm = TECH_MODEL.test(h) && !/产品|运营|设计|评测|标注|语料|战略|商务|市场|销售|BD/.test(h);
   const hw = HW_TECH.test(h) && !HW_BIZ.test(h);
+  if (/AI研究|研究创新/.test(h) && !/产品|运营|市场|商务|战略|评测/.test(h)) { return null; }
   if (any || mfg || topic || tm || hw || EXCLUDE.test(t)) { if (process.env.DUMP_EXCLUDED) fs.appendFileSync(process.env.DUMP_EXCLUDED, title + '\n'); return null; }  // DUMP_EXCLUDED=文件：调试用
   // 招聘/HR/Talent Acquisition 归职能，先于运营（「校招运营HR实习生」）；岗位段含 产品 时不触发
+  // 分析优先（§9）：岗位主干（去掉括号说明）含 数据分析/数据科学/洞察/商分/商业分析/经营分析 → 分析，先于 运营/产品；岗位是产品经理/供应链时不触发
+  const hp = h.replace(/[（(][^）)]*[）)]/g, '');
+  if (/数据分析|数据科学|洞察|商分|商业分析|经营分析|Insight|Data Scien/i.test(hp) && !/产品经理|产品专家|Product Manager|供应链/i.test(hp)) return '分析';
   if (/(^|[^A-Za-z])HR(BP|IS|SSC)?([^A-Za-z]|$)|Talent Acquisition|招聘|人力资源/i.test(h) && !/产品/.test(h)) return '职能';
   if (/运营|Operation|\bOps\b|\bCategory\b|客服|城市经营|\bCSM\b|Customer Success/i.test(h)) return '运营';
   if (h.includes('采购') && !h.includes('产品经理')) return '职能';
+  // 销售优先于 渠道/商业化/拓展（§9）：岗位段含 销售/Sales 且不含 产品 → 销售
+  if (/销售|\bSales\b/i.test(h) && !/产品|采销/.test(h)) return '销售';
+  // 关键词（§9）：外展→运营；发行→市场；ESG→职能；转写/Transcription→AI产品；游戏设计师→策划；多模态/具身数据→AI产品
+  if (/外展|Outreach/i.test(h)) return '运营';
+  if (/转写|Transcri/i.test(h)) return 'AI产品';
+  if (/(多模态|具身)(智能)?(多模态)?数据(实习|专员|产品|运营|标注|采集)/.test(h)) return 'AI产品';
+  if (/游戏设计师|Game Designer/i.test(h)) return '策划';
+  if (/发行/.test(hp) && !/产品/.test(hp)) return '市场';
+  if (/(^|[^A-Za-z])ESG([^A-Za-z]|$)/i.test(h)) return '职能';
   if (/项目经理|项目管理/.test(h)) return '项目管理';  // 显式「项目经理」先于产品；单独「项目」在产品/运营之后（RULES）
   if (/用户研究/.test(h)) return '分析';
   if (/服务储备|储备|NSC|售后服务|服务大区|督导|经纪/.test(h)) return '运营';  // 门店/服务网络岗（服务工程已在排除里）
@@ -94,6 +107,21 @@ function classify(title) {
   return '其他';
 }
 
+
+// JD 描述第二道把关（§10）：仅当标题岗位段不含业务词且有描述时，按强技术信号排除；Python/SQL 等弱信号不算；无描述只按标题
+const BIZ_WORD = /物料|PMC|Eval|产品|运营|销售|市场|营销|品牌|公关|传播|商务|拓展|渠道|BD|设计|美术|视觉|策划|企划|分析|数据科学|洞察|研究|咨询|招聘|HR|人力|财务|会计|审计|法务|合规|行政|秘书|采购|供应链|物流|质量|品质|项目|PM|客服|编辑|内容|评测|标注|语料|转写|发行|管培|培训生|助理|顾问|战略|投资|Product|Operation|Sales|Marketing|Design|Artist|Analy|Business|Recruit|Finance|Legal|Account|Growth|Community|Content/i;
+const JD_STRONG = /研究型人才|博士生科研|后端开发|后端工程|Golang|Go语言|Java开发|C\+\+开发|SolidWorks|机械设计|\bRTL\b|Verilog|FPGA|CUDA|嵌入式开发|驱动开发|(?:博士|PhD).{0,30}(?:研究|论文)|(?:顶会|一作).{0,10}论文|(?:发表|发表过).{0,15}(?:CVPR|NeurIPS|ICML|ICLR|ACL|AAAI)/i;
+function jdTech(title, req) {
+  if (!req || !String(req).trim()) return false;
+  const segs = cleanTitle(title).replace(/【[^】]*】|\[[^\]]*\]/g, '').split(/\s*[-－—–―‒]+\s*/).map(x => x.trim()).filter(Boolean);
+  const h = segs.find(x => ROLE.test(x)) || segs[0] || '';
+  // 课题制岗位（描述以「课题背景/课题要求/课题挑战」组织，如腾讯青云计划）是科研课题，不论标题词都排除
+  const tp = String(req).match(/课题(背景|要求|挑战)/); if (tp) return tp[0];
+  if (BIZ_WORD.test(h)) return false;
+  const m = String(req).match(JD_STRONG); return m ? m[0] : false;
+}
+// 带描述的完整分类：标题规则 → JD 第二道把关
+function classifyJob(title, req) { const c = classify(title); if (!c) return null; return jdTech(title, req) ? null : c; }
 
 function isoWeek(d = new Date()) {
   const t = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
@@ -146,6 +174,7 @@ function writeJobs(slug, jobs, opts = {}) {
   const need = ['company', 'title', 'category', 'city', 'requirements', 'deadline', 'apply_url', 'source_url', 'fetched_at', 'job_type'];
   for (const j of jobs) for (const k of need) if (!(k in j)) throw new Error(`字段缺失 ${k}: ${j.title}`);
   if (!jobs.length) throw new Error(`${slug}: 0 条，不写出`);
+  jobs = jobs.filter(j => !jdTech(j.title, j.requirements));  // JD 第二道把关（§10）
   for (const j of jobs) if (!j.city || !j.city.length) j.city = cityFromText(j.requirements);
   for (const j of jobs) j.city = normCities(j.city);  // 公共后处理：城市名归一化  // 公共后处理：无城市（如部分 Moka 岗）从岗位描述提取
   if (fs.existsSync(file) && !a.force) {
@@ -162,5 +191,5 @@ function writeJobs(slug, jobs, opts = {}) {
 function run(slug, fetcher) {
   fetcher().then(jobs => writeJobs(slug, jobs)).catch(e => { console.error(`[${slug}] 失败，保留旧文件：${e.message}`); process.exit(1); });
 }
-module.exports = { cleanTitle, normCity, normCities, classify, isoWeek, nowIso, request, cookiesOf, args, writeJobs, run, sleep, cityFromText };
+module.exports = { jdTech, classifyJob, cleanTitle, normCity, normCities, classify, isoWeek, nowIso, request, cookiesOf, args, writeJobs, run, sleep, cityFromText };
 

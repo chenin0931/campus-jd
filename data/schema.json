@@ -133,6 +133,13 @@
       "city_note": {
         "type": "string",
         "description": "城市原文说明（省级/全国多地时保留原文）"
+      },
+      "entry_requirements": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "可选。所属方向（汇总入口）的通用要求，如腾讯「项目实习生」子岗位；不是本岗位自身要求，分类与 JD 技术把关都不读它。展示时标为「所属方向通用要求」"
       }
     }
   }

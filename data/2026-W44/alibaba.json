@@ -335,23 +335,6 @@
   {
     "company": "阿里巴巴",
     "business_unit": [
-      "阿里云"
-    ],
-    "title": "KV Cache分布式存储的网络优化-阿里星/A Star",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "杭州"
-    ],
-    "requirements": "1、有GPU计算系统优化经验，熟悉CUDA编程和GPU系统架构；\n2、深入理解PyTorch/vLLM推理框架的架构和工作原理，有框架优化经验；\n3、掌握CUDA、NCCL等并行编程技术，了解GPU间的通信机制；\n4、有大规模分布式系统的设计与实现经验，理解分布式系统的核心问题；\n5、良好的工程能力和代码质量意识，能够编写高性能、可维护的代码。\n\n加分项：\n1、有顶级开源社区（Linux Kernel、PyTorch、TensorFlow等）的实质性贡献经验；\n2、发表过系统优化或并行计算相关的学术论文（CCF A类以上）；\n3、有AWS/GCP/Azure等云服务AI推理优化的实战经验；\n4、深入了解NVLink、RDMA等高性能通信协议，有优化经验。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720121",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907720121",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
       "虎鲸文娱集团"
     ],
     "title": "动漫商业化IP授权",
@@ -1932,61 +1915,6 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640113",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640113",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "淘天集团"
-    ],
-    "title": "AI导购&智能推荐-阿里星/T-Star",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京",
-      "杭州"
-    ],
-    "requirements": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构。\n2. 掌握机器学习基础理论，了解搜、推、广系统/自然语言处理/多模态等至少一个领域。\n3. 有PyTorch/TensorFlow等框架使用经验，参与过算法竞赛（Kaggle/天池等）或开源项目者优先。\n4. 对AI技术充满好奇心，主动关注大模型、搜推广系统、NLP、强化学习等领域前沿进展。\n5. 在顶级会议或高水平期刊发表过论文，或有复现前沿论文的经验者优先。\n6. 具备较强的问题拆解能力，能通过数据分析定位业务痛点并提出创新思路。\n7. 良好的沟通能力，能与工程师、产品经理高效协作，将技术方案转化为业务价值。\n8. 对电商场景有基本认知，愿意深入理解用户需求与商业逻辑。\n\n【加分项】\n1. 有大模型训练/微调经验（如Llama、GPT、多模态模型）或搜推广算法相关项目经历。\n2. 有海量数据处理经验或者大厂实习经验。\n3. 在算法竞赛中获得优异成绩（ACM-ICPC/挑战赛TOP10等）或者顶会论文发表。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680060",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907680060",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "Token Foundry"
-    ],
-    "title": "下一代大模型智能体框架与数据技术-阿里星",
-    "category": "分析",
-    "job_type": "校招",
-    "city": [
-      "北京",
-      "杭州",
-      "上海"
-    ],
-    "requirements": "1. 来自全球 Top 高校计算机科学、人工智能、数学或相关领域应届博士/顶尖硕士毕业生。\n2. 深入掌握大语言模型、强化学习、智能体（Agent）与数据处理相关技术；在大模型智能体、Agent 推理与评测、合成数据/环境、或大规模数据处理等方向有深入研究。\n3. 在国际顶级会议/期刊（如 NeurIPS、ICML、ICLR、KDD、ACL、VLDB、SIGMOD 等）以一作身份发表过论文，或在开源社区、竞赛中展示出引领性的研究与工程成果。\n4. 良好的工程与实验思维：熟悉 PyTorch 等主流框架，具备大规模模型训练/数据处理工程经验，能高效实现定制化的训练与数据流程；重视代码质量与实验结果，追求\"不仅 work，而且高效优雅\"。\n5. 技术热情与好奇心：有志于将 AI 从实验室推向真实业务场景，构建\"可用、可扩展、可持续\"的智能体系统与数据基础设施，善于从复杂需求中提炼核心技术问题并设计创新方案。\n6. 善于跨团队协作与开源共建：能与模型、产品、基础研究及外部社区高效沟通，平衡技术理想与落地实现。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700044",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907700044",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "阿里云"
-    ],
-    "title": "智算网卡与协议栈竞争力构建-阿里星/A Star",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京",
-      "杭州"
-    ],
-    "requirements": "基本要求\n1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位。\n2、在顶级会议或期刊（如SIGCOMM, NSDI, ISCA，SC, HPCA, ATC, IEEE/ACM ToN等）以第一作者身份发表过高水平论文者优先。\n\n核心技能（满足其一即可，多项兼备者极佳）\n1、网络协议栈深度理解：精通TCP/IP、RDMA/RoCEv2、InfiniBand协议细节，对拥塞控制（DCQCN, HPCC, TIMELY等）有深入研究；\n2、分布式系统经验：熟悉NCCL、RCCL、MPI等通信库源码，有大规模分布式训练系统优化经验者优先；\n3、硬件/底层开发能力：有DPDK、SPDK、eBPF等内核旁路技术开发经验；\n4、算法与仿真能力：具备极强的数学建模能力，熟练使用NS-3、Omnet++或自研仿真器进行网络性能评估。\n\n综合素质\n1、对AI基础设施领域充满热情，具备敏锐的技术洞察力，能够独立思考并定义前沿问题；\n2、具备优秀的代码能力（C/C++/Go/Python），不仅限于理论研究，更渴望将算法落地到实际产品中；\n3、良好的沟通协作能力，能够跨团队（算法、芯片、系统、业务）推动复杂项目进展。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820108",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907820108",
     "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {

@@ -3904,25 +3904,6 @@
   {
     "company": "字节跳动",
     "business_unit": [
-      "中国交易与广告"
-    ],
-    "title": "安全实习生 - 中国交易与广告",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "上海",
-      "杭州"
-    ],
-    "project": "日常实习",
-    "requirements": "1、本科及以上学历在读；\n2、具备Linux环境下开发能力，掌握Python/Golang/C/C++任一种语言，熟练掌握AI使用；\n3、对Web安全有浓厚的兴趣和实践经验，熟悉OWASP Top10漏洞原理与防御技术。\n\n符合以下任意要求者优先：\n1、有Windows/Linux客户端安全攻防的经验，或了解Android/iOS移动安全；\n2、熟悉AI安全，了解目前Agent架构常见风险，有相关漏洞挖掘经验；\n3、熟悉电商领域黑灰产手法，有风控对抗经历；\n4、参加过CTF比赛，并在国家级比赛中获奖；\n5、有SRC漏洞挖掘经历，熟悉复杂系统的漏洞挖掘流程。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7680510617432459525/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7680510617432459525/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [
       "TikTok Shop"
     ],
     "title": "项目管理实习生 - TikTok Shop",
@@ -4832,7 +4813,7 @@
       "销售运营管理平台"
     ],
     "title": "CRM数据分析产品实习生 - 销售运营管理平台",
-    "category": "产品",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -5985,7 +5966,7 @@
       "商业化"
     ],
     "title": "渠道销售（全域经营） - 商业化",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "北京",
@@ -8548,7 +8529,7 @@
       "抖音生活服务"
     ],
     "title": "大客户销售（品牌零售） - 抖音生活服务",
-    "category": "市场",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "上海",
@@ -8826,7 +8807,7 @@
       "Seed Model"
     ],
     "title": "具身数据产品实习生 - Seed Model",
-    "category": "产品",
+    "category": "AI产品",
     "job_type": "实习",
     "city": [
       "北京"
@@ -9781,7 +9762,7 @@
       "TikTok Shop"
     ],
     "title": "商业分析与数据分析师（物流与供应链） - TikTok Shop",
-    "category": "供应链",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "上海"
@@ -11232,24 +11213,6 @@
   {
     "company": "字节跳动",
     "business_unit": [
-      "Seed Model"
-    ],
-    "title": "机械臂结构实习生 - Seed Model",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "日常实习",
-    "requirements": "1、本科及以上学历在读，电子机械等相关专业优先；\n2、欢迎在读硕士、博士同学申请，有扎实的结构堆叠与设计经验，能够熟练使用Creo开发工具，有一定的与手板CNC厂商打交道的经验；\n3、了解协作臂伺服关节的工作原理，对无框电机、减速器、驱动器与编码器等核心零部件有相关选型经验；\n4、熟悉伺服关节与整臂传动的堆叠设计方法，了解基础的运动学仿真，有并联耦合关节设计经验者加分；\n5、在全国性质机器人比赛获得奖项、参与过相关机械臂省部级科研项目者加分。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7680036520537311493/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7680036520537311493/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [
       "抖音生活服务"
     ],
     "title": "广告投放策略产品经理 - 抖音生活服务",
@@ -12447,7 +12410,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据科学（安全产品方向）实习生-TikTok",
-    "category": "产品",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -13689,7 +13652,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售（非电商-应用） - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "北京",
@@ -13708,7 +13671,7 @@
       "抖音增长"
     ],
     "title": "数据科学（用户增长方向） - 抖音增长",
-    "category": "市场",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "北京"
@@ -14387,7 +14350,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "供应商管理策略运营与数据分析实习生-TikTok",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -14682,7 +14645,7 @@
       "TikTok Shop"
     ],
     "title": "东南亚电商运营数据科学实习生 - TikTok Shop",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -15171,7 +15134,7 @@
       "商业化"
     ],
     "title": "渠道销售（创意经营） - 商业化",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "北京",
@@ -15511,7 +15474,7 @@
       "TikTok Shop"
     ],
     "title": "营销数据科学实习生 - TikTok Shop",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -15856,7 +15819,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售 - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "北京"
@@ -16946,27 +16909,11 @@
   },
   {
     "company": "字节跳动",
-    "business_unit": [],
-    "title": "基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音内容技术（北京/上海/杭州/深圳）",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "北京"
-    ],
-    "project": "2027届前沿技术领域人才校招",
-    "requirements": "1、2027届毕业，获得博士学位，人工智能、计算机、数学相关专业优先；\n2、具备扎实的编码能力、数据结构和基础算法功底，熟练运用各种算法框架与工程框架；\n3、在国际会议或期刊发表论文者（包括但不限于ACL、EMNLP、NeurIPS、ICML、ICLR、CVPR等）优先；\n4、拥有扎实的机器学习基础，在深度学习、强化学习、NLP、多模态方向有深入的理解与研究经历；\n5、具备良好的沟通协作能力，能够与团队共同探索新技术，推动技术发展。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7628830728016808245/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7628830728016808245/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
     "business_unit": [
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售（非电商-游戏） - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "上海",
@@ -17493,7 +17440,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售 - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "广州"
@@ -18789,7 +18736,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售 - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "深圳"
@@ -20481,7 +20428,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售 - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "上海"
@@ -20676,7 +20623,7 @@
       "TikTok Shop"
     ],
     "title": "用户增长数据科学实习生 - TikTok Shop",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -22893,22 +22840,6 @@
   },
   {
     "company": "字节跳动",
-    "business_unit": [],
-    "title": "基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音智能对话（北京/上海/杭州/深圳）",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "上海"
-    ],
-    "project": "2027届前沿技术领域人才校招",
-    "requirements": "1、2027届毕业，获得博士学位，人工智能、计算机、数学相关专业优先；\n2、具备扎实的编码能力、数据结构和基础算法功底，熟练运用各种算法框架与工程框架；\n3、在国际会议或期刊发表论文者（包括但不限于ACL、EMNLP、NeurIPS、ICML、ICLR、CVPR等）优先；\n4、拥有扎实的机器学习基础，在深度学习、强化学习、NLP、多模态方向有深入的理解与研究经历；\n5、具备良好的沟通协作能力，能够与团队共同探索新技术，推动技术发展。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7628830121033632053/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7628830121033632053/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
     "business_unit": [
       "抖音电商"
     ],
@@ -22983,7 +22914,7 @@
       "火山引擎"
     ],
     "title": "国际AI增长销售 - 火山引擎",
-    "category": "市场",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "深圳"
@@ -23359,7 +23290,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售 - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "广州"
@@ -23994,7 +23925,7 @@
       "TikTok Shop"
     ],
     "title": "数据科学（运营分析）实习生 - TikTok Shop",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -24384,7 +24315,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售 - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "上海",
@@ -25461,7 +25392,7 @@
       "TikTok"
     ],
     "title": "数据科学分析师（用户增长中台） - TikTok",
-    "category": "市场",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "北京",
@@ -26368,7 +26299,7 @@
       "TikTok Shop"
     ],
     "title": "东南亚电商运营数据科学实习生 - TikTok Shop",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -27406,7 +27337,7 @@
       "TikTok Shop"
     ],
     "title": "数据科学（产品分析）实习生 - TikTok Shop",
-    "category": "产品",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京",
@@ -29141,7 +29072,7 @@
       "Global Business Solutions"
     ],
     "title": "出海大客户/渠道销售 - Global Business Solutions",
-    "category": "商务",
+    "category": "销售",
     "job_type": "校招",
     "city": [
       "广州"
@@ -30343,7 +30274,7 @@
       "TikTok Shop"
     ],
     "title": "东南亚电商运营数据科学实习生 - TikTok Shop",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -33699,7 +33630,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -34554,22 +34485,6 @@
   },
   {
     "company": "字节跳动",
-    "business_unit": [],
-    "title": "多模态数据服务实习生-Seed大模型人才实习",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "深圳"
-    ],
-    "project": "Seed大模型人才实习招聘",
-    "requirements": "1、2028届及以后本科及以上学历在读，计算机、数学等专业优先；\n2、有后端服务相关开发经验，熟练掌握Python、Golang等一种以上编程语言，有高并发和异步编程经验的优先；\n3、掌握Hive，ClickHouse，MySQL、Mongo、ES等数据湖和数据仓库的底层原理，具备数据抽象和建模的能力；\n4、对Hadoop、Spark，Flink，Ray等大数据处理的相关经验为加分项；\n5、具备出色的沟通和协作能力，注重细节、善于分析问题并解决问题。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7622243665327016245/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7622243665327016245/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
     "business_unit": [
       "心光工作室"
     ],
@@ -34592,7 +34507,7 @@
       "TikTok Shop"
     ],
     "title": "用户产品数据分析实习生 - TikTok Shop",
-    "category": "产品",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "珠海"
@@ -35692,22 +35607,6 @@
   },
   {
     "company": "字节跳动",
-    "business_unit": [],
-    "title": "AI应用实习生（国际直播）-TikTok研发",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "深圳"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届本科及以上学历在读，计算机、软件、电子信息等相关专业； \n2、有复杂系统设计、架构搭建经验，对LLM/Agent/Sandbox/AI Infra技术方向具有明确兴趣或经验；\n3、精通以下一种或多种编程语言：Golang/Python/Java/Rust/C++；\n4、熟悉常见技术组件与基础设施，如：Redis、Kafka、RDS、RPC框架等；\n5、具备优秀的分析与问题解决能力，能够参与项目的技术方案落地。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7594394987211819269/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7594394987211819269/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
     "business_unit": [
       "TikTok"
     ],
@@ -36110,22 +36009,6 @@
   {
     "company": "字节跳动",
     "business_unit": [],
-    "title": "【实习】基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音内容技术（北京/上海/杭州/深圳）",
-    "category": "设计",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "前沿技术领域人才实习招聘",
-    "requirements": "1、2027届及以后毕业，博士在读，人工智能、计算机、数学相关专业优先；\n2、具备扎实的编码能力、数据结构和基础算法功底，熟练运用各种算法框架与工程框架；\n3、在国际会议或期刊发表论文者（包括但不限于ACL、EMNLP、NeurIPS、ICML、ICLR、CVPR等）优先；\n4、拥有扎实的机器学习基础，在深度学习、强化学习、NLP、多模态方向有深入的理解与研究经历；\n5、具备良好的沟通协作能力，能够与团队共同探索新技术，推动技术发展。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7628830878386391349/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7628830878386391349/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
     "title": "创意设计实习生-TikTok",
     "category": "设计",
     "job_type": "实习",
@@ -36407,7 +36290,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-国际化广告数据科学",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -36731,24 +36614,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7664898513770055941/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7664898513770055941/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [
-      "Seed Model"
-    ],
-    "title": "机器人数据闭环实习生 - Seed Model",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "日常实习",
-    "requirements": "1、本科及以上学历在读，计算机、软件工程、人工智能、自动化等相关专业优先；\n2、对机器人系统、人工智能训练、数据平台等方向有浓厚兴趣，愿意深入理解机器人“大脑”的构建逻辑；\n3、具备图像/视频/多模态数据处理经验，熟悉数据处理、格式转换、时间同步等处理流程；\n4、精通Python或Golang至少一种语言，能够实现高效、可扩展的数据处理工具；\n5、熟悉常用图像/视频处理工具链（如OpenCV、FFmpeg、PyAV、MMCV等）；\n6、熟悉分布式计算或大数据处理框架（如Spark、Flink、Ray、Hadoop等）者优先；有海量数据处理平台、数据调度系统、数据流/批一体框架使用或开发经验者优先。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7611085826500839733/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7611085826500839733/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {
@@ -37174,7 +37039,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -37520,7 +37385,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -37536,7 +37401,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -37687,7 +37552,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -37911,22 +37776,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7633375808059394309/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7633375808059394309/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
-    "title": "多模态数据服务实习生-Seed大模型人才实习",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "Seed大模型人才实习招聘",
-    "requirements": "1、2028届及以后本科及以上学历在读，计算机、数学等专业优先；\n2、有后端服务相关开发经验，熟练掌握Python、Golang等一种以上编程语言，有高并发和异步编程经验的优先；\n3、掌握Hive，ClickHouse，MySQL、Mongo、ES等数据湖和数据仓库的底层原理，具备数据抽象和建模的能力；\n4、对Hadoop、Spark，Flink，Ray等大数据处理的相关经验为加分项；\n5、具备出色的沟通和协作能力，注重细节、善于分析问题并解决问题。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7622244529194649861/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7622244529194649861/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {
@@ -38260,7 +38109,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据分析实习生（安全模型运营方向）-国际化",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -38270,22 +38119,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7565814441897281845/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7565814441897281845/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
-    "title": "【实习】基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音智能对话（北京/上海/杭州/深圳）",
-    "category": "设计",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "project": "前沿技术领域人才实习招聘",
-    "requirements": "1、2027届及以后毕业，博士在读，人工智能、计算机、数学相关专业优先；\n2、具备扎实的编码能力、数据结构和基础算法功底，熟练运用各种算法框架与工程框架；\n3、在国际会议或期刊发表论文者（包括但不限于ACL、EMNLP、NeurIPS、ICML、ICLR、CVPR等）优先；\n4、拥有扎实的机器学习基础，在深度学习、强化学习、NLP、多模态方向有深入的理解与研究经历；\n5、具备良好的沟通协作能力，能够与团队共同探索新技术，推动技术发展。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7628830278848612661/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7628830278848612661/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {
@@ -38596,7 +38429,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据分析实习生（安全模型运营方向）-国际化",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -38874,7 +38707,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -39808,7 +39641,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-国际化广告数据科学",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -40129,22 +39962,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7594467217212049669/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7594467217212049669/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
-    "title": "AI应用实习生（国际直播）-TikTok研发",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届本科及以上学历在读，计算机、软件、电子信息等相关专业； \n2、有复杂系统设计、架构搭建经验，对LLM/Agent/Sandbox/AI Infra技术方向具有明确兴趣或经验；\n3、精通以下一种或多种编程语言：Golang/Python/Java/Rust/C++；\n4、熟悉常见技术组件与基础设施，如：Redis、Kafka、RDS、RPC框架等；\n5、具备优秀的分析与问题解决能力，能够参与项目的技术方案落地。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7594394987196090677/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7594394987196090677/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {
@@ -40528,7 +40345,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据科学实习生（增长）-TikTok",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -41263,7 +41080,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-国际化广告数据科学",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -41459,7 +41276,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -41557,7 +41374,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -42421,7 +42238,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-国际化广告数据科学",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -42681,7 +42498,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据科学实习生（用户增长）-TikTok",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -43131,7 +42948,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据科学（用户增长中台）实习生-TikTok",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -43571,7 +43388,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据科学实习生（用户增长）-TikTok",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -44751,7 +44568,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据分析运营实习生-TikTok",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -44849,7 +44666,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-国际化广告数据科学",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -46162,7 +45979,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-国际化广告数据科学",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -48059,7 +47876,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -48240,7 +48057,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -48825,7 +48642,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "跨境物流数据科学实习生-TikTok Shop",
-    "category": "供应链",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -48873,7 +48690,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "数据分析运营实习生-TikTok安全产品",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -49195,7 +49012,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化数据科学实习生-商业变现",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -50582,7 +50399,7 @@
       "TikTok Shop"
     ],
     "title": "商家产品数据科学实习生 - TikTok Shop",
-    "category": "产品",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -51328,22 +51145,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7628864025048451381/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7628864025048451381/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
-    "title": "音频多模态大模型数据实习生-Seed大模型人才实习",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "Seed大模型人才实习招聘",
-    "requirements": "1、2028届及以后本科及以上学历在读，计算机、数学、大数据、人工智能相关专业优先；\n2、扎实的编程基础、良好的编程风格，熟悉多线程编程、分布式计算、网络通信、内存管理、设计模式；\n3、工程研发或者基础架构经验，熟练掌握C/C++、Python、Golang等至少一种开发语言；\n4、熟悉多项大数据处理/分析相关的工具/框架，例如Hadoop、HDFS、Hive、MapReduce、Spark、Presto、ClickHouse、Ray、数据湖等；\n5、具备分布式系统的研发经验，有优化系统性能问题的能力和经验。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7623008772702652677/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7623008772702652677/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {
@@ -52356,7 +52157,7 @@
       "TikTok"
     ],
     "title": "AI数据分析运营（生态方向）实习生 - TikTok",
-    "category": "运营",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -53234,22 +53035,6 @@
   {
     "company": "字节跳动",
     "business_unit": [],
-    "title": "音频多模态大模型数据实习生-Seed大模型人才实习",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "project": "Seed大模型人才实习招聘",
-    "requirements": "1、2028届及以后本科及以上学历在读，计算机、数学、大数据、人工智能相关专业优先；\n2、扎实的编程基础、良好的编程风格，熟悉多线程编程、分布式计算、网络通信、内存管理、设计模式；\n3、工程研发或者基础架构经验，熟练掌握C/C++、Python、Golang等至少一种开发语言；\n4、熟悉多项大数据处理/分析相关的工具/框架，例如Hadoop、HDFS、Hive、MapReduce、Spark、Presto、ClickHouse、Ray、数据湖等；\n5、具备分布式系统的研发经验，有优化系统性能问题的能力和经验。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7623008614156929333/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7623008614156929333/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
     "title": "音频多模态大模型评测实习生-Seed大模型人才实习",
     "category": "AI产品",
     "job_type": "实习",
@@ -53334,24 +53119,8 @@
   {
     "company": "字节跳动",
     "business_unit": [],
-    "title": "搜索广告推荐架构系统实习生-Data-抖音/直播/电商/剪映",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届本科及以上学历在读；\n2、熟悉至少一种主流的机器学习框架（PyTorch/TensorFlow），熟悉CUDA/Triton等异构编程、算法的并行化改造，对GPU加速卡、RDMA通信等有基本了解；\n3、熟悉XLA、Torch Compile、MLIR、LLVM等为加分项；优秀的代码能力、数据结构和基础算法功底，熟练C/C++或Python，ACM/ICPC、NOI/IOI等比赛获奖者优先；\n4、掌握分布式系统原理，参与过大规模分布式系统的设计、开发和维护；\n5、有强烈的工作责任心，对解决具有挑战性问题充满激情，较好的学习能力、沟通能力和自驱力；\n6、良好的沟通协作能力，能和团队一起探索新技术，推进技术进步。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7611417277229058309/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7611417277229058309/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
     "title": "数据科学实习生（安全产品方向）-TikTok",
-    "category": "产品",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"

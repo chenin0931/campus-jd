@@ -1,13 +1,12 @@
-# 杭州 · 校招 · 商务 · 全部公司（6 个岗位）
+# 杭州 · 校招 · 商务 · 全部公司（5 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[美团 2](../../slices/meituan/campus/business/hangzhou.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/hangzhou.md) · [字节跳动 1](../../slices/bytedance/campus/business/hangzhou.md) · [华为 1](../../slices/huawei/campus/business/hangzhou.md) · [网易 1](../../slices/netease/campus/business/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[美团 2](../../slices/meituan/campus/business/hangzhou.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/hangzhou.md) · [华为 1](../../slices/huawei/campus/business/hangzhou.md) · [网易 1](../../slices/netease/campus/business/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 阿里巴巴 | 商务拓展专员 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680031.md) |
-| 字节跳动 | 渠道销售（全域经营） - 商业化 〔27届〕 | 北京/上海/广州/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7669690089723889973.md) |
 | 华为 | 生态拓展经理 | 南京/杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38429.md) |
 | 美团 | 城市大客户商务合作专员 | 合肥/杭州/南京/北京/苏州/天津/上海/西安/成都/昆明/长沙/重庆/济南/南昌/广州/郑州/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697264948.md) |
 | 美团 | 大客户合作岗 〔27届〕 | 杭州/北京/石家庄/上海/迪拜/广州/成都/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697233231.md) |

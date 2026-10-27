@@ -1,4 +1,4 @@
-# 蚂蚁集团 总览（在招 50：校招 20，实习 30）
+# 蚂蚁集团 总览（在招 48：校招 19，实习 29）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -8,7 +8,7 @@
 - 校招·产品（3）：[杭州 2](../slices/antgroup/campus/product/hangzhou.md) · [深圳 1](../slices/antgroup/campus/product/shenzhen.md) · [香港 1](../slices/antgroup/campus/product/hongkong.md)
 - 校招·市场（1）：[上海 1](../slices/antgroup/campus/marketing/shanghai.md) · [深圳 1](../slices/antgroup/campus/marketing/shenzhen.md)
 - 校招·销售（1）：[北京 1](../slices/antgroup/campus/sales/beijing.md) · [上海 1](../slices/antgroup/campus/sales/shanghai.md) · [杭州 1](../slices/antgroup/campus/sales/hangzhou.md) · [深圳 1](../slices/antgroup/campus/sales/shenzhen.md)
-- 校招·设计（3）：[上海 2](../slices/antgroup/campus/design/shanghai.md) · [杭州 2](../slices/antgroup/campus/design/hangzhou.md) · [北京 1](../slices/antgroup/campus/design/beijing.md)
+- 校招·设计（2）：[上海 1](../slices/antgroup/campus/design/shanghai.md) · [杭州 1](../slices/antgroup/campus/design/hangzhou.md)
 - 校招·职能（2）：[上海 1](../slices/antgroup/campus/corporate/shanghai.md) · [杭州 1](../slices/antgroup/campus/corporate/hangzhou.md) · [北京 1](../slices/antgroup/campus/corporate/beijing.md)
 - 校招·分析（4）：[杭州 4](../slices/antgroup/campus/analysis/hangzhou.md) · [北京 3](../slices/antgroup/campus/analysis/beijing.md) · [上海 2](../slices/antgroup/campus/analysis/shanghai.md)
 - 校招·其他（1）：[杭州 1](../slices/antgroup/campus/other/hangzhou.md)
@@ -20,6 +20,6 @@
 - 实习·设计（2）：[上海 1](../slices/antgroup/intern/design/shanghai.md) · [香港 1](../slices/antgroup/intern/design/hongkong.md)
 - 实习·职能（1）：[香港 1](../slices/antgroup/intern/corporate/hongkong.md)
 - 实习·分析（2）：[杭州 1](../slices/antgroup/intern/analysis/hangzhou.md) · [上海 1](../slices/antgroup/intern/analysis/shanghai.md)
-- 实习·其他（4）：[其他城市 3](../slices/antgroup/intern/other/other.md) · [杭州 2](../slices/antgroup/intern/other/hangzhou.md) · [北京 1](../slices/antgroup/intern/other/beijing.md) · [上海 1](../slices/antgroup/intern/other/shanghai.md)
+- 实习·其他（3）：[其他城市 3](../slices/antgroup/intern/other/other.md) · [杭州 1](../slices/antgroup/intern/other/hangzhou.md)
 
 [总目录](../llms.txt)

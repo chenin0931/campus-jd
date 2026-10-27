@@ -1,8 +1,8 @@
-# 上海 · 实习 · 商务 · 全部公司（59 个岗位）（第 1/2 页）
+# 上海 · 实习 · 商务 · 全部公司（50 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 29](../../slices/bytedance/intern/business/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 10](../../slices/bilibili/intern/business/shanghai.md) · [米哈游 2](../../slices/mihoyo/intern/business/shanghai.md) · [网易 2](../../slices/netease/intern/business/shanghai.md) · [携程 1](../../slices/ctrip/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [京东 1](../../slices/jd/intern/business/shanghai.md) · [腾讯 1](../../slices/tencent/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 21](../../slices/bytedance/intern/business/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 10](../../slices/bilibili/intern/business/shanghai.md) · [米哈游 2](../../slices/mihoyo/intern/business/shanghai.md) · [网易 2](../../slices/netease/intern/business/shanghai.md) · [携程 1](../../slices/ctrip/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [腾讯 1](../../slices/tencent/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -18,8 +18,6 @@
 | 哔哩哔哩 | B站战略发展部商业化组-行业方向-实习生 〔≥10个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30776.md) |
 | 字节跳动 | 国际化音乐战略实习生-TikTok 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7581731904375507253.md) |
 | 字节跳动 | 渠道营销实习生 - 飞书商业化 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7631837873109321989.md) |
-| 字节跳动 | 商业化数据科学实习生-国际化广告数据科学（2个团队） 〔≥3个月〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7568713398754756917.md) [2](../../jobs/bytedance-7538366678456453383.md) |
-| 字节跳动 | 商业化数据科学实习生-商业变现（6个团队） 〔≥4个月〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7539781103940159751.md) [2](../../jobs/bytedance-7524677400698816775.md) [3](../../jobs/bytedance-7524677499382466824.md) [4](../../jobs/bytedance-7524674375736559880.md) [5](../../jobs/bytedance-7563549781114669365.md) [6](../../jobs/bytedance-7529728574438787335.md) |
 | 字节跳动 | 商业化治理宣发实习生 - 广告业务 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675746086036506933.md) |
 | 字节跳动 | 游戏直播战略实习生-TikTok直播 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7536145694781409554.md) |
 | 字节跳动 | 战略（Agent方向）实习生 - 剪映CapCut | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678231419063585077.md) |
@@ -41,8 +39,13 @@
 | 携程 | 投资实习生 〔≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ032591.md) |
 | 滴滴 | 国际事业群IBG-战略实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-4535f6a4-86da-46c8-8892-686a62a4bddc.md) |
 | 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都/合肥/广州/西宁/深圳/杭州/重庆/长沙/北京/济南/南昌/太原/东莞/南京/福州/西安/武汉/石家庄/上海 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
-| 京东 | 销售拓展 〔26届〕 | 上海/长春/成都/天津/深圳/长沙/遵义/大连/重庆 | 2026-10-27 | [详情](../../jobs/jd-5847.md) |
 | 米哈游 | 游戏渠道合作实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9713.md) |
 | 米哈游 | 预研孵化战略研究和投资实习生（游戏向） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8829.md) |
+| 网易 | 商业化资源策划实习生（七日世界） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78096.md) |
+| 网易 | 投资实习生（AI与具身智能方向） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78809.md) |
+| 腾讯 | 投资分析 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875884628486144.md) |
+| 小红书 | 国货彩香商业化CBD实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20917.md) |
+| 小红书 | 金融行业商业化平台专家实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22749.md) |
+| 小红书 | 平台专家实习生（商业化 - 国货彩香组）（2个团队） 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-21943.md) [2](../../jobs/xiaohongshu-22678.md) |
 
 [下一页](intern-business-p2.md) · [总目录](../../llms.txt)

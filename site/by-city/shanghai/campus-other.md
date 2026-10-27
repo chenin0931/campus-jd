@@ -1,8 +1,8 @@
-# 上海 · 校招 · 其他 · 全部公司（25 个岗位）
+# 上海 · 校招 · 其他 · 全部公司（19 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 4](../../slices/mihoyo/campus/other/shanghai.md) · [腾讯 4](../../slices/tencent/campus/other/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/other/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/other/shanghai.md) · [字节跳动 2](../../slices/bytedance/campus/other/shanghai.md) · [得物 2](../../slices/dewu/campus/other/shanghai.md) · [网易 2](../../slices/netease/campus/other/shanghai.md) · [小米 2](../../slices/xiaomi/campus/other/shanghai.md) · [携程 1](../../slices/ctrip/campus/other/shanghai.md) · [京东 1](../../slices/jd/campus/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 4](../../slices/mihoyo/campus/other/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/other/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/other/shanghai.md) · [字节跳动 2](../../slices/bytedance/campus/other/shanghai.md) · [得物 2](../../slices/dewu/campus/other/shanghai.md) · [网易 2](../../slices/netease/campus/other/shanghai.md) · [携程 1](../../slices/ctrip/campus/other/shanghai.md) · [京东 1](../../slices/jd/campus/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -20,15 +20,9 @@
 | 米哈游 | 视频编导 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9150.md) |
 | 米哈游 | 音乐制作 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9228.md) |
 | 网易 | 游戏视频编导（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4744.md) [2](../../jobs/netease-4899.md) |
-| 腾讯 | 群体智能 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1279259052844884992.md) |
-| 腾讯 | 叙事智能 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1283142377577718784.md) |
-| 腾讯 | 音色合成 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1279259052844884996.md) |
-| 腾讯 | 应用研究中心ARC Lab-决策与行动模型 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1279259062240125953.md) |
 | 小红书 | 【2027校招】综合创意写作 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22156.md) |
 | 小红书 | 【2027校招】AI创意影像制作 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22152.md) |
 | 小红书 | 服饰行业内衣童装-专家侧 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22770.md) |
 | 小红书 | Trust & Safety Policy Intern | 北京/上海/新加坡 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21956.md) |
-| 小米 | 低压电源DRE-汽车 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7670919803401619758.md) |
-| 小米 | 开关附件DRE-汽车 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7670919166279829787.md) |
 
 [总目录](../../llms.txt)

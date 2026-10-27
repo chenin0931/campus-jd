@@ -1,8 +1,8 @@
-# 北京 · 校招 · 其他 · 全部公司（71 个岗位）（第 1/2 页）
+# 北京 · 校招 · 其他 · 全部公司（62 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 15](../../slices/alibaba/campus/other/beijing.md) · [京东 11](../../slices/jd/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [腾讯 9](../../slices/tencent/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [网易 3](../../slices/netease/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 13](../../slices/alibaba/campus/other/beijing.md) · [京东 11](../../slices/jd/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [腾讯 3](../../slices/tencent/campus/other/beijing.md) · [网易 2](../../slices/netease/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,8 +19,6 @@
 | 阿里巴巴 | 虎鲸文娱娱跃班-整合营销 | 北京 | 2026-10-27 | [详情](../../jobs/alibaba-199907960002.md) |
 | 阿里巴巴 | 跨模态理解与视频生成处理-阿里星/T-Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907740115.md) |
 | 阿里巴巴 | 游戏3D角色 | 北京/广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680021.md) |
-| 阿里巴巴 | 智算网卡与协议栈竞争力构建-阿里星/A Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907820108.md) |
-| 阿里巴巴 | AI导购&智能推荐-阿里星/T-Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680060.md) |
 | 百度 | 北京-百度个人超级智能事业群P-STAR产培生计划(J101273) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-8af5fc29-815e-44d3-9918-af2f414934ae.md) |
 | 百度 | 北京-百度移动生态事业群P-STAR产培生计划(J100669) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-79e85217-8204-4a5f-9b05-03b2bb2597bd.md) |
 | 百度 | 北京-流程管理专员(J101187) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-2674fa02-968f-4e10-985f-847fb216ec77.md) |
@@ -52,13 +50,16 @@
 | 美团 | 内审专员 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4697270407.md) |
 | 美团 | 食杂零售管培生 〔27届〕 | 厦门/杭州/北京/成都/广州 | 2026-10-27 | [详情](../../jobs/meituan-4694966493.md) |
 | 美团 | AI智能学习（培训） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4694886973.md) |
-| 网易 | 【博后专项】LLM 博士后-网易有道 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4847.md) |
 | 网易 | 高中教师管培生-有道领世 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4849.md) |
 | 网易 | 少儿英语主讲老师-网易有道 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4913.md) |
-| 腾讯 | 大规模音视频理解 Dataset 建设 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1292723595709365258.md) |
-| 腾讯 | 端到端生成式AI视频处理 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1277774706262778881.md) |
 | 腾讯 | 法律/行业/产业研究 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1292833382451231744.md) |
 | 腾讯 | 数字生态研究 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1284528300198503425.md) |
-| 腾讯 | 微信小微-记忆系统的构建与下游应用 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1274481034578500843.md) |
+| 腾讯 | 专利 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1284512614101361666.md) |
+| 小红书 | Trust & Safety Policy Intern | 北京/上海/新加坡 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21956.md) |
+| 小米 | 安全事务专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671290558057777418.md) |
+| 小米 | 服务管培生 - 备件管理类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675291796579289387.md) |
+| 小米 | 服务管培生 - 售后管理类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675292530737137963.md) |
+| 小米 | 服务管培生 - 物流服务类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675292549434902811.md) |
+| 小米 | 关务专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923695657453843.md) |
 
 [下一页](campus-other-p2.md) · [总目录](../../llms.txt)

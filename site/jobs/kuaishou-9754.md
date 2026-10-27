@@ -3,7 +3,7 @@
 - id: kuaishou-9754
 - 公司: 快手
 - job_type: 校招
-- 类别: 商务
+- 类别: 销售
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

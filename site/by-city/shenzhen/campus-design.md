@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 设计 · 全部公司（43 个岗位）
+# 深圳 · 校招 · 设计 · 全部公司（40 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 16](../../slices/tencent/campus/design/shenzhen.md) · [字节跳动 13](../../slices/bytedance/campus/design/shenzhen.md) · [OPPO 5](../../slices/oppo/campus/design/shenzhen.md) · [vivo 3](../../slices/vivo/campus/design/shenzhen.md) · [快手 2](../../slices/kuaishou/campus/design/shenzhen.md) · [华为 1](../../slices/huawei/campus/design/shenzhen.md) · [京东 1](../../slices/jd/campus/design/shenzhen.md) · [美团 1](../../slices/meituan/campus/design/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/campus/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 13](../../slices/bytedance/campus/design/shenzhen.md) · [腾讯 13](../../slices/tencent/campus/design/shenzhen.md) · [OPPO 5](../../slices/oppo/campus/design/shenzhen.md) · [vivo 3](../../slices/vivo/campus/design/shenzhen.md) · [快手 2](../../slices/kuaishou/campus/design/shenzhen.md) · [华为 1](../../slices/huawei/campus/design/shenzhen.md) · [京东 1](../../slices/jd/campus/design/shenzhen.md) · [美团 1](../../slices/meituan/campus/design/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/campus/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -36,15 +36,12 @@
 | 腾讯 | 动画 | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707425254024193.md) |
 | 腾讯 | 多媒体设计 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1283878464457614336.md) |
 | 腾讯 | 交互设计 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282707392714613760.md) |
-| 腾讯 | 面向交互式长视频生成的多模态世界模型 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1279259052844884998.md) |
 | 腾讯 | 视觉设计 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282707393989682176.md) |
-| 腾讯 | 视频多模态训练数据引擎设计与优化 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1279259082272121862.md) |
 | 腾讯 | 特效 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282707427871269888.md) |
 | 腾讯 | 游戏动效设计(特效向) | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1283878477271213057.md) |
 | 腾讯 | 游戏动效设计(UI向) | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1294711245765017600.md) |
 | 腾讯 | 游戏宣发视觉设计 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1283878418584511488.md) |
 | 腾讯 | 游戏GUI视觉设计 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1283878428566955008.md) |
-| 腾讯 | WXG-从设计到代码（可信程序自动生成） | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1274481034578500743.md) |
 | vivo | 艺术创意设计师-27届秋招 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-9fd64b7a-bb24-4abe-88e0-6b3b89d5a198.md) |
 | vivo | UI设计师-27届秋招 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-907b0d69-a36f-4fc6-a7db-7bab4ff8eeeb.md) |
 | vivo | UI设计师（IOT方向）-27届秋招 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-d1a07e04-04b5-4939-9b5c-8f8c715c668c.md) |

@@ -1,8 +1,8 @@
-# 北京 · 实习 · 产品 · 全部公司（434 个岗位）（第 4/10 页）
+# 北京 · 实习 · 产品 · 全部公司（429 个岗位）（第 4/10 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 212](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -30,7 +30,6 @@
 | 字节跳动 | 结算平台产品实习生 - 广告业务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683144039747455237.md) |
 | 字节跳动 | 金融风控产品（国际支付方向）实习生 - 国际支付 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7647814176806848821.md) |
 | 字节跳动 | 金融风控产品实习生-国际支付（2个团队） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7628231105279215877.md) [2](../../jobs/bytedance-7606607539121834245.md) |
-| 字节跳动 | 具身数据产品实习生 - Seed Model | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675239927936239877.md) |
 | 字节跳动 | 拉美电商推荐产品实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699429826612775221.md) |
 | 字节跳动 | 流量策略产品经理实习生-Pangle 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7591420326136187189.md) |
 | 字节跳动 | 流量策略产品经理实习生-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7611855816731724037.md) |
@@ -45,5 +44,6 @@
 | 字节跳动 | 内容生态策略产品实习生 - TikTok生活服务 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7681168023424764165.md) |
 | 字节跳动 | 内容生态平台产品实习生-TikTok 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7482988024038607112.md) |
 | 字节跳动 | 欧美商城产品实习生 - TikTok Shop 〔每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7650352921087609093.md) |
+| 字节跳动 | 品牌广告产品实习生-国际化广告创意与品牌 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7591364983463250181.md) |
 
 [上一页](intern-product-p3.md) · [下一页](intern-product-p5.md) · [总目录](../../llms.txt)

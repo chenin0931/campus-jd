@@ -1,17 +1,11 @@
-# 北京 · 实习 · 运营 · 全部公司（719 个岗位）（第 15/17 页）
+# 北京 · 实习 · 运营 · 全部公司（716 个岗位）（第 15/16 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 318](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 71](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 36](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [京东 20](../../slices/jd/intern/ops/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/ops/beijing.md) · [腾讯 11](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 71](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 36](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [京东 20](../../slices/jd/intern/ops/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/ops/beijing.md) · [腾讯 12](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 网易 | 浪潮内容运营实习生（3个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-79385.md) [2](../../jobs/netease-79260.md) [3](../../jobs/netease-79253.md) |
-| 网易 | 浪潮运营实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-78777.md) [2](../../jobs/netease-78213.md) |
-| 网易 | 内容策略运营实习生（云上工作室） 〔27/28届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77877.md) |
-| 网易 | 内容分发运营实习生 〔27/28届 · ≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77138.md) |
-| 网易 | 内容运营实习生（8个团队） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-79463.md) [2](../../jobs/netease-74092.md) [3](../../jobs/netease-79393.md) [4](../../jobs/netease-78869.md) [5](../../jobs/netease-78868.md) [6](../../jobs/netease-77461.md) [7](../../jobs/netease-78463.md) [8](../../jobs/netease-78284.md) |
-| 网易 | 内容运营实习生（北京） 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79517.md) |
 | 网易 | 内容运营实习生（漫剧） 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76408.md) |
 | 网易 | 内容运营实习生（偏视频制作 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76168.md) |
 | 网易 | 内容运营实习生（青媒计划）（3个团队） 〔≥3个月〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-79343.md) [2](../../jobs/netease-78846.md) [3](../../jobs/netease-78038.md) |
@@ -46,9 +40,17 @@
 | 腾讯 | 内容培训生-内容技术方向（含AIGC） | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1238177252446073856.md) |
 | 腾讯 | 内容培训生-艺术创作方向（含AIGC） | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1229050258274030592.md) |
 | 腾讯 | 内容运营 | 深圳/北京/成都 | 2026-10-27 | [详情](../../jobs/tencent-1224696522596614144.md) |
+| 腾讯 | 项目实习生-产品运营 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1181601618932789248.md) |
 | 腾讯 | 行业运营 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1153452731391100931.md) |
 | 腾讯 | 业务管理运营 | 深圳/北京/成都 | 2026-10-27 | [详情](../../jobs/tencent-1226875738188556288.md) |
 | 腾讯 | 业务管理运营 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1234496944370743296.md) |
 | 小红书 | 【28/29】全球内容运营实习生（Global Content Operations Intern） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21553.md) |
+| 小红书 | 【商业TNS】治理运营实习生 | 北京/上海/武汉 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22468.md) |
+| 小红书 | 【商业TNS】治理运营实习生 | 北京/武汉 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22752.md) |
+| 小红书 | 播客/长文产品运营实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22815.md) |
+| 小红书 | 创作者运营实习生 〔27/28届 · ≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22841.md) |
+| 小红书 | 大模型评估运营实习生 〔≥3个月，每周≥4天〕 | 武汉/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20557.md) |
+| 小红书 | 电商广告产品运营实习生 〔≥6个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22754.md) |
+| 小红书 | 电影内容运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22691.md) |
 
 [上一页](intern-ops-p14.md) · [下一页](intern-ops-p16.md) · [总目录](../../llms.txt)

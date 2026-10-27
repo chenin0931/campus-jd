@@ -1,8 +1,8 @@
-# 北京 · 实习 · 销售 · 全部公司（16 个岗位）
+# 北京 · 实习 · 销售 · 全部公司（18 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[百度 6](../../slices/baidu/intern/sales/beijing.md) · [字节跳动 3](../../slices/bytedance/intern/sales/beijing.md) · [京东 3](../../slices/jd/intern/sales/beijing.md) · [小米 2](../../slices/xiaomi/intern/sales/beijing.md) · [华为 1](../../slices/huawei/intern/sales/beijing.md) · [腾讯 1](../../slices/tencent/intern/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[百度 6](../../slices/baidu/intern/sales/beijing.md) · [京东 4](../../slices/jd/intern/sales/beijing.md) · [字节跳动 3](../../slices/bytedance/intern/sales/beijing.md) · [小米 2](../../slices/xiaomi/intern/sales/beijing.md) · [华为 1](../../slices/huawei/intern/sales/beijing.md) · [快手 1](../../slices/kuaishou/intern/sales/beijing.md) · [腾讯 1](../../slices/tencent/intern/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,6 +19,8 @@
 | 京东 | 大客户销售 〔27届〕 | 上海/北京/长春/成都/济南/广州/深圳/苏州/石家庄/郑州/杭州/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-4950.md) |
 | 京东 | 解决方案 〔27届〕 | 北京/成都/济南/广州/武汉/兰州/贵阳/重庆 | 2026-10-27 | [详情](../../jobs/jd-4918.md) |
 | 京东 | 客户经理 〔27/28届〕 | 昆明/北京/济南/太原/乌鲁木齐/南京/苏州/沈阳/重庆 | 2026-10-27 | [详情](../../jobs/jd-6368.md) |
+| 京东 | 渠道销售 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9142.md) |
+| 快手 | 【留用实习】商业化广告销售 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11491.md) |
 | 腾讯 | 解决方案-技术咨询方向 | 西安/深圳/北京/上海/重庆 | 2026-10-27 | [详情](../../jobs/tencent-1226979621736977408.md) |
 | 小米 | 财务信息化解决方案专员实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7616940594250336554.md) |
 | 小米 | 健康解决方案实习生-2027届 〔27届 · ≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7683739392560793894.md) |

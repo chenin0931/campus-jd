@@ -1,13 +1,12 @@
-# 上海 · 实习 · 产品 · 全部公司（229 个岗位）（第 6/6 页）
+# 上海 · 实习 · 产品 · 全部公司（228 个岗位）（第 6/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 169](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 3](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 167](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [腾讯 5](../../slices/tencent/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [百度 3](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1224696104600437761.md) |
-| 腾讯 | 技术产品经理 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696103971292160.md) |
+| 腾讯 | 项目实习生-产品策划 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1161176783631188992.md) |
 | 腾讯 | CSIG技术产品商务培训生 | 西安/深圳/北京/上海/广州/杭州/南京/厦门/香港 | 2026-10-27 | [详情](../../jobs/tencent-1153452731391100929.md) |
 | 小红书 | 产品经理实习生-电商C端直播私域 〔28/29届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21211.md) |
 | 小红书 | 创新产品经理实习生（运动健康方向） 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22788.md) |

@@ -3,7 +3,7 @@
 - id: xiaohongshu-20908
 - 公司: 小红书
 - job_type: 校招
-- 类别: 商务
+- 类别: 销售
 - 城市: 珠海
 - status: active
 - 届别 grad_year: 未注明

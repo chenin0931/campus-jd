@@ -1,12 +1,11 @@
-# 上海 · 实习 · 其他 · 全部公司（97 个岗位）（第 1/3 页）
+# 上海 · 实习 · 其他 · 全部公司（88 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 38](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 23](../../slices/bilibili/intern/other/shanghai.md) · [小红书 10](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [腾讯 4](../../slices/tencent/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 37](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 21](../../slices/bilibili/intern/other/shanghai.md) · [小红书 10](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 蚂蚁集团 | AI研究创新实习生 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260814011444473.md) |
 | 百度 | web实习生（J67060） | 北京/上海 | 2026-10-27 | [详情](../../jobs/baidu-b962fe40-4b8d-49d5-b0b8-c2f0f1b4de6e.md) |
 | 哔哩哔哩 | 本地化英语实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30798.md) |
 | 哔哩哔哩 | 本地化越南语实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30457.md) |
@@ -21,8 +20,6 @@
 | 哔哩哔哩 | 内容营销-大型线下活动/晚会实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28262.md) |
 | 哔哩哔哩 | 内审实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30658.md) |
 | 哔哩哔哩 | 社区游戏生态治理实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-31037.md) |
-| 哔哩哔哩 | 外展实习生（葡语） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30396.md) |
-| 哔哩哔哩 | 外展实习生（英语） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30392.md) |
 | 哔哩哔哩 | 音乐版权实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30520.md) |
 | 哔哩哔哩 | 英语翻译实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28669.md) |
 | 哔哩哔哩 | 英语翻译实习生（影视译制方向） 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30732.md) |
@@ -31,7 +28,6 @@
 | 哔哩哔哩 | 原创音乐实习生（2个团队） 〔≥3个月，每周≥5天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [1](../../jobs/bilibili-30602.md) [2](../../jobs/bilibili-28971.md) |
 | 哔哩哔哩 | IP管理实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30929.md) |
 | 字节跳动 | 【实习】AI智能创作-剪映（北京/上海/深圳） 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628622227924748549.md) |
-| 字节跳动 | 安全实习生 - 中国交易与广告 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7680510617432459525.md) |
 | 字节跳动 | 安全实习生-中国交易与广告 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7654808687708440837.md) |
 | 字节跳动 | 厨房买手实习生 - TikTok Shop 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688364218754386181.md) |
 | 字节跳动 | 东南亚电商钱效&资源管理实习生 - TikTok Shop 〔≥4个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7697139720749582645.md) |
@@ -49,5 +45,9 @@
 | 字节跳动 | 美区电商行业实习生 - TikTok Shop 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7699344636720384261.md) |
 | 字节跳动 | 培训实习生 - 抖音生活服务 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7624368216739760437.md) |
 | 字节跳动 | 商家治理研判实习生（AI方向）-国际电商 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7490837512571652370.md) |
+| 字节跳动 | 商品治理实习生 - TikTok Shop（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7700874973217311029.md) [2](../../jobs/bytedance-7695716354016119045.md) |
+| 字节跳动 | 生态服务中台实习生-飞书 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7640023516788803893.md) |
+| 字节跳动 | 小语种语言学（法语）实习生 - Data语音 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7666010278812698885.md) |
+| 字节跳动 | 校园猎聘实习生 - 管理研究院 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7362024469013350665.md) |
 
 [下一页](intern-other-p2.md) · [总目录](../../llms.txt)

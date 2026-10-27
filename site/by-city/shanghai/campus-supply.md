@@ -1,12 +1,11 @@
-# 上海 · 校招 · 供应链 · 全部公司（19 个岗位）
+# 上海 · 校招 · 供应链 · 全部公司（18 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[得物 13](../../slices/dewu/campus/supply/shanghai.md) · [京东 2](../../slices/jd/campus/supply/shanghai.md) · [字节跳动 1](../../slices/bytedance/campus/supply/shanghai.md) · [携程 1](../../slices/ctrip/campus/supply/shanghai.md) · [美团 1](../../slices/meituan/campus/supply/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/supply/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[得物 13](../../slices/dewu/campus/supply/shanghai.md) · [京东 2](../../slices/jd/campus/supply/shanghai.md) · [携程 1](../../slices/ctrip/campus/supply/shanghai.md) · [美团 1](../../slices/meituan/campus/supply/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/supply/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 商业分析与数据分析师（物流与供应链） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673491655744604469.md) |
 | 携程 | 质量管理（用户体验方向）（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036684.md) |
 | 得物 | 【27届校招】供应链-安防管理（上海） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670389403533740294.md) |
 | 得物 | 【27届校招】供应链-服务提升 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670378643236342062.md) |

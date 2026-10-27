@@ -1,8 +1,8 @@
-# 广州 · 实习 · 职能 · 全部公司（20 个岗位）
+# 广州 · 实习 · 职能 · 全部公司（21 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 11](../../slices/netease/intern/corporate/guangzhou.md) · [京东 4](../../slices/jd/intern/corporate/guangzhou.md) · [字节跳动 2](../../slices/bytedance/intern/corporate/guangzhou.md) · [腾讯 2](../../slices/tencent/intern/corporate/guangzhou.md) · [小米 1](../../slices/xiaomi/intern/corporate/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 11](../../slices/netease/intern/corporate/guangzhou.md) · [京东 4](../../slices/jd/intern/corporate/guangzhou.md) · [腾讯 3](../../slices/tencent/intern/corporate/guangzhou.md) · [字节跳动 2](../../slices/bytedance/intern/corporate/guangzhou.md) · [小米 1](../../slices/xiaomi/intern/corporate/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | 网易 | 招聘实习生（2个团队） 〔27届 · ≥3个月，每周≥4天〕 | 广州 | 2026-10-27 | [1](../../jobs/netease-76225.md) [2](../../jobs/netease-76560.md) |
 | 网易 | 招聘实习生-美术方向 〔27届 · ≥3个月，每周≥4天〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-77164.md) |
 | 网易 | IT资产实习生（广州） 〔≥6个月〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-77643.md) |
+| 腾讯 | 项目实习生-人力资源 | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1216462959187228672.md) |
 | 腾讯 | AI-HR培训生（创意方向） | 深圳/广州 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938816.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938819.md) |
 | 小米 | 交付体验助理 〔每周≥5天〕 | 广州 | 2026-10-27 | [详情](../../jobs/xiaomi-7682637220843653412.md) |

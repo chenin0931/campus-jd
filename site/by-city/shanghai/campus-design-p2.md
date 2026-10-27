@@ -1,15 +1,11 @@
-# 上海 · 校招 · 设计 · 全部公司（121 个岗位）（第 2/3 页）
+# 上海 · 校招 · 设计 · 全部公司（101 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 35](../../slices/netease/campus/design/shanghai.md) · [字节跳动 24](../../slices/bytedance/campus/design/shanghai.md) · [米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [腾讯 12](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [字节跳动 23](../../slices/bytedance/campus/design/shanghai.md) · [网易 19](../../slices/netease/campus/design/shanghai.md) · [腾讯 10](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 美团 | 体验设计师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697273246.md) |
-| 米哈游 | 2D美术（AI向） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9117.md) |
-| 米哈游 | 场景模型师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9167.md) |
-| 米哈游 | 场景原画师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9173.md) |
 | 米哈游 | 灯光师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9143.md) |
 | 米哈游 | 动捕动画师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9074.md) |
 | 米哈游 | 动画制片 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9276.md) |
@@ -31,7 +27,6 @@
 | 米哈游 | CG动画师（文戏/武戏） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9156.md) |
 | 米哈游 | Houdini特效师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9135.md) |
 | 米哈游 | UI动效设计师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9132.md) |
-| 网易 | 游戏设计师（系统策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4720.md) [2](../../jobs/netease-4873.md) |
 | 网易 | 动效设计师VX（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4750.md) [2](../../jobs/netease-4893.md) |
 | 网易 | 游戏3D场景编辑设计师 | 杭州/上海/广州 | 2026-10-27 | [详情](../../jobs/netease-4897.md) |
 | 网易 | 游戏3D角色美术设计师（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4747.md) [2](../../jobs/netease-4896.md) |
@@ -39,13 +34,6 @@
 | 网易 | 游戏动画设计师（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4738.md) [2](../../jobs/netease-4903.md) |
 | 网易 | 游戏交互/体验设计师（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4727.md) [2](../../jobs/netease-4909.md) |
 | 网易 | 游戏角色原画设计师（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4736.md) [2](../../jobs/netease-4886.md) |
-| 网易 | 游戏设计师（关卡策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4719.md) [2](../../jobs/netease-4872.md) |
-| 网易 | 游戏设计师（技术策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4724.md) [2](../../jobs/netease-4870.md) |
-| 网易 | 游戏设计师（任务策划）（2个团队） | 杭州/上海 | 2026-10-27 | [1](../../jobs/netease-4728.md) [2](../../jobs/netease-4908.md) |
-| 网易 | 游戏设计师（数值策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4723.md) [2](../../jobs/netease-4869.md) |
-| 网易 | 游戏设计师（文案策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4726.md) [2](../../jobs/netease-4910.md) |
-| 网易 | 游戏设计师（战斗策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4721.md) [2](../../jobs/netease-4874.md) |
-| 网易 | 游戏设计师（AI+策划）（2个团队） 〔27届〕 | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4722.md) [2](../../jobs/netease-4912.md) |
 | 网易 | 游戏视觉设计师 GUI（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4743.md) [2](../../jobs/netease-4900.md) |
 | 网易 | 游戏特效设计师（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4740.md) [2](../../jobs/netease-4901.md) |
 | 网易 | 游戏音效设计师（2个团队） | 上海/广州 | 2026-10-27 | [1](../../jobs/netease-4774.md) [2](../../jobs/netease-4864.md) |
@@ -56,5 +44,14 @@
 | 腾讯 | 动画 | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707425254024193.md) |
 | 腾讯 | 多媒体设计 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1283878464457614336.md) |
 | 腾讯 | 交互设计 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282707392714613760.md) |
+| 腾讯 | 视觉设计 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282707393989682176.md) |
+| 腾讯 | 特效 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282707427871269888.md) |
+| 腾讯 | 游戏动效设计(特效向) | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1283878477271213057.md) |
+| 小红书 | 【2027校招】多媒体设计师 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22157.md) |
+| 小红书 | 【2027校招】视觉设计师（REDesign） | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22191.md) |
+| 小红书 | 【2027校招】体验设计师 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22179.md) |
+| 小红书 | 【2027校招】AI产品设计师 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22181.md) |
+| 小红书 | 小红书创新体验设计 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-16758.md) |
+| 小米 | 数字设计师-汽车 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7670920221837855027.md) |
 
-[上一页](campus-design.md) · [下一页](campus-design-p3.md) · [总目录](../../llms.txt)
+[上一页](campus-design.md) · [总目录](../../llms.txt)

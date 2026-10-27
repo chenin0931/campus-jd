@@ -2282,21 +2282,6 @@
   },
   {
     "company": "米哈游",
-    "title": "语音生成实习生",
-    "category": "其他",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n1、Voice生成算法研究、应用，包括标准TTS / instruct TTS / multi-turn TTS / singing voice synthesis等；\n2、Omni模型算法研究、应用，包括Voice生成能力到omni模型的迁移，understanding-based voice generation等；\n3、参与数据建设的讨论, 包括标准规范制定&优化, 协助数据验收交付。\n任职要求：\n1、硕士及以上学历，计算机、数学、通信等相关专业；具备良好的学习能力、逻辑思维能力、沟通协作能力；\n2、熟练使用Python和Pytorch/Tensorflow深度学习框架；\n3、熟悉以下至少一种，且有相应研发经验优先：\n      - 语音生成模型（如DITAR、VibeVoice、CosyVoice等）；\n      - 语音omni模型（如StepAduio、KimiAudio等）；\n      - 各类声码器（如Hifi-GAN，MelGAN，BigvGAN等）；\n4、有顶会论文（各类CCF-A会、ICASSP/INTERSPEECH等）优先。",
-    "deadline": null,
-    "apply_url": "https://jobs.mihoyo.com/#/campus/position/7102",
-    "source_url": "https://jobs.mihoyo.com/#/campus/position/7102",
-    "fetched_at": "2026-10-27T18:19:02+08:00",
-    "job_type": "实习",
-    "project": "实习生专项"
-  },
-  {
-    "company": "米哈游",
     "title": "动画制片",
     "category": "设计",
     "city": [

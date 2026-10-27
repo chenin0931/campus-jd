@@ -1,21 +1,11 @@
-# 北京 · 校招 · 其他 · 全部公司（71 个岗位）（第 2/2 页）
+# 北京 · 校招 · 其他 · 全部公司（62 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 15](../../slices/alibaba/campus/other/beijing.md) · [京东 11](../../slices/jd/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [腾讯 9](../../slices/tencent/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [网易 3](../../slices/netease/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 13](../../slices/alibaba/campus/other/beijing.md) · [京东 11](../../slices/jd/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [腾讯 3](../../slices/tencent/campus/other/beijing.md) · [网易 2](../../slices/netease/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 腾讯 | 微信小微-支持方言的音频理解模型 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1274481034578500839.md) |
-| 腾讯 | 应用研究中心ARC Lab-决策与行动模型 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1279259062240125953.md) |
-| 腾讯 | 专利 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1284512614101361666.md) |
-| 腾讯 | WXG-WeLM 大语言模型基座建设 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1274481034578500724.md) |
-| 小红书 | Trust & Safety Policy Intern | 北京/上海/新加坡 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21956.md) |
-| 小米 | 安全事务专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671290558057777418.md) |
-| 小米 | 服务管培生 - 备件管理类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675291796579289387.md) |
-| 小米 | 服务管培生 - 售后管理类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675292530737137963.md) |
-| 小米 | 服务管培生 - 物流服务类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675292549434902811.md) |
-| 小米 | 关务专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923695657453843.md) |
 | 小米 | 合同管理专员-西语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885668138912036.md) |
 | 小米 | 零售主管-俄语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885937555638570.md) |
 | 小米 | 生产管理培训生-汽车工厂 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670919733348305203.md) |

@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 商务 · 全部公司（11 个岗位）
+# 深圳 · 实习 · 商务 · 全部公司（10 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 3](../../slices/bytedance/intern/business/shenzhen.md) · [华为 3](../../slices/huawei/intern/business/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/business/shenzhen.md) · [百度 1](../../slices/baidu/intern/business/shenzhen.md) · [京东 1](../../slices/jd/intern/business/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 3](../../slices/bytedance/intern/business/shenzhen.md) · [华为 3](../../slices/huawei/intern/business/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/business/shenzhen.md) · [百度 1](../../slices/baidu/intern/business/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -13,7 +13,6 @@
 | 华为 | 合同商务经理 | 深圳 | 2026-10-27 | [详情](../../jobs/huawei-31303.md) |
 | 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都/合肥/广州/西宁/深圳/杭州/重庆/长沙/北京/济南/南昌/太原/东莞/南京/福州/西安/武汉/石家庄/上海 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
 | 华为 | 数字能源BD | 深圳 | 2026-10-27 | [详情](../../jobs/huawei-34995.md) |
-| 京东 | 销售拓展 〔26届〕 | 上海/长春/成都/天津/深圳/长沙/遵义/大连/重庆 | 2026-10-27 | [详情](../../jobs/jd-5847.md) |
 | 腾讯 | 商务拓展 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1200889496565214209.md) |
 | 腾讯 | 商务拓展 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1228831632895911936.md) |
 | 腾讯 | 投资分析 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875884628486144.md) |

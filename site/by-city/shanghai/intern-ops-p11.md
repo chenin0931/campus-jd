@@ -1,14 +1,11 @@
-# 上海 · 实习 · 运营 · 全部公司（523 个岗位）（第 11/13 页）
+# 上海 · 实习 · 运营 · 全部公司（519 个岗位）（第 11/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 296](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 290](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 104](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉/长沙/贵阳/沈阳/重庆/西安 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
-| 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳 | 2026-10-27 | [详情](../../jobs/jd-4914.md) |
-| 京东 | 店长储备 〔26/27届〕 | 上海/昆明/北京/天津/合肥/宿州/淮南/蚌埠/青岛/广州/深圳/南通/宿迁/扬州/保定/廊坊/郑州/杭州/厦门/沈阳/重庆 | 2026-10-27 | [详情](../../jobs/jd-6371.md) |
 | 京东 | 门店运营 〔26届〕 | 上海/北京/南京 | 2026-10-27 | [详情](../../jobs/jd-6630.md) |
 | 京东 | 平台运营 〔27届〕 | 上海/北京/深圳/宿迁 | 2026-10-27 | [详情](../../jobs/jd-4922.md) |
 | 京东 | 商家运营 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-4930.md) |
@@ -51,5 +48,9 @@
 | 网易 | 投放运营实习生 〔27/28届 · ≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-75812.md) |
 | 网易 | 游戏测评实习生（UGC内容生产）-游戏美术AI方向 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78681.md) |
 | 网易 | 游戏测评实习生（UGC内容生产）-游戏AI策划玩法 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78679.md) |
+| 网易 | 游戏社区运营实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79381.md) |
+| 网易 | 运营策划日常实习生（产品运营方向）（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/netease-79125.md) [2](../../jobs/netease-79127.md) |
+| 网易 | 运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78616.md) |
+| 网易 | AI视频运营实习生（视觉制作方向） 〔27/28届 · ≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79519.md) |
 
 [上一页](intern-ops-p10.md) · [下一页](intern-ops-p12.md) · [总目录](../../llms.txt)
