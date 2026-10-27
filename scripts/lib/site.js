@@ -25,3 +25,9 @@ const uniqIds = jobs => { const crypto = require('crypto'), by = {};
   for (const j of jobs) if (by[j.pid].size > 1) j.pid = 'h' + crypto.createHash('sha1').update(j.title + '|' + j.apply_url).digest('hex').slice(0, 10);
   return jobs; };
 module.exports = { uniqIds, COMPANY, CATS, TYPES, CITY, normCity, citySlug, postId };
+
+// 人工核验（code=manual-browser-verified）有效期：verified_at（YYYY-MM-DD，北京时间）起 14 天内保持 ok，超期或缺日期 → 回到待核，等重新人工核验。
+const MANUAL_VERIFY_DAYS = 14;
+const manualFresh = (e, today) => !!(e && e.code === 'manual-browser-verified' && e.status === 'ok' && /^\d{4}-\d{2}-\d{2}$/.test(e.verified_at || '') &&
+  (Date.parse(today) - Date.parse(e.verified_at)) / 864e5 <= MANUAL_VERIFY_DAYS);
+module.exports.MANUAL_VERIFY_DAYS = MANUAL_VERIFY_DAYS; module.exports.manualFresh = manualFresh;

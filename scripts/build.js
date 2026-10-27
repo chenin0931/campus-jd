@@ -4,7 +4,7 @@
 // 输出：site/llms.txt、index.json、slices/、by-city/、changes/、jobs/；并刷新 README.md 中的总览表。
 const { gradYear, internDuration } = require('./lib/extract');
 const fs = require('fs'), path = require('path');
-const { COMPANY, CATS, TYPES, CITY, normCity, citySlug, postId, uniqIds } = require('./lib/site');
+const { COMPANY, CATS, TYPES, CITY, normCity, citySlug, postId, uniqIds, manualFresh } = require('./lib/site');
 const { tagRegion } = require('./lib/overseas');
 const cityName = sl => sl === 'other' ? '其他城市' : (Object.keys(CITY).find(k => CITY[k] === sl) || sl);
 const ROOT = path.join(__dirname, '..'), DATA = path.join(ROOT, 'data'), SITE = path.join(ROOT, 'site');
@@ -63,7 +63,7 @@ let st = fs.existsSync(STATE) ? JSON.parse(fs.readFileSync(STATE, 'utf8')) : {};
 if (!st.jobs) { const old = st.first_seen || {}; st = { jobs: {} };
   for (const j of [...prevMap.values(), ...curMap.values()]) if (old[j.apply_url]) st.jobs[j.id] = { first_seen: old[j.apply_url] }; }
 for (const [id, j] of curMap) { const s = st.jobs[id] ||= { first_seen: today }; s.last_seen = today; s.last_week = cur; s.status = 'active'; delete s.removed_at;
-  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? (linkStatus[id]?.code === 'manual-browser-verified' ? linkStatus[id].status : 'unverified') : (linkStatus[id]?.status || 'unchecked'); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
+  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? (manualFresh(linkStatus[id], today) ? 'ok' : 'unverified') : (linkStatus[id]?.status || 'unchecked'); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
 const removed = [];
 for (const [id, s] of Object.entries(st.jobs)) if (!curMap.has(id) && s.status === 'active') { s.status = 'removed'; s.removed_at = today; if (prevMap.has(id)) removed.push({ ...prevMap.get(id), status: 'removed', first_seen: s.first_seen }); }
 st.updated_at = today; st.week = cur;
@@ -181,7 +181,7 @@ const detail = (j, s) => { const f = `jobs/${j.id}.md`; out(f, [`# ${j.title}`, 
   `- id: ${j.id}`, `- 公司: ${j.company}${j.business_unit.length ? `（${j.business_unit.join('、')}）` : ''}`, `- job_type: ${j.job_type}`, `- 类别: ${j.category}`, `- region: ${j.region || '国内'}${j.overseas_cities ? `（另含海外城市：${j.overseas_cities.join('、')}）` : ''}`,
   `- 城市: ${j.city.join('、') || '未知'}${j.city_note ? '（' + j.city_note + '）' : ''}`, ...(j.source === 'manual-browser' ? [`- 来源: ${manualTag(j.company_slug) || '手动更新'}`] : []), `- status: ${s.status}${s.status === 'removed' ? `（${s.removed_at} 起未在官网出现，勿投）` : ''}`,
   `- 届别 grad_year: ${j.grad_year ? j.grad_year.join('、') + '届' : '未注明'}`, ...(j.job_type === '实习' ? [`- 实习时长 intern_duration: ${j.intern_duration || '未注明'}`] : []), `- 首次出现: ${s.first_seen}　最近出现: ${s.last_seen || '-'}`, `- 截止: ${j.deadline || '以官网为准'}`,
-  `- 投递: ${j.apply_url}${(linkStatus[j.id]?.status) === 'invalid' ? '（❌疑似下架：官网详情接口查不到该岗位）' : (linkStatus[j.id]?.status) === 'unverified' ? '（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）' : ''}`, '',
+  `- 投递: ${j.apply_url}${(linkStatus[j.id]?.status) === 'invalid' ? '（❌疑似下架：官网详情接口查不到该岗位）' : (linkStatus[j.id]?.status === 'unverified' || j.link_status === 'unverified') ? '（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）' : ''}`, '',
   '## 岗位要求', '', String(j.requirements || (j.source === 'manual-browser' ? '（手动抄录未含岗位要求，请点上面的投递链接到官网查看）' : '（官网未提供）')).trim(), '', ...(j.entry_requirements ? ['## 所属方向通用要求', '', '（官网该子岗位未单列要求，以下为所属方向的通用要求）', '', String(j.entry_requirements).trim(), ''] : []), `[总目录](${rel(f, 'llms.txt')})`, ''].join('\n'), 1); };
 for (const j of jobs) detail(j, st.jobs[j.id]);
 for (const [id, s] of Object.entries(st.jobs)) if (s.status === 'removed') { const j = findOld(id); if (j) detail(j, s); }

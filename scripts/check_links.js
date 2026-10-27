@@ -3,7 +3,8 @@
 // status: ok(detail-api) = 详情接口返回岗位；invalid = 详情接口空/已下架；format_verified = 符合已人工确认的前端路由格式（见 FORMATS）；ok = HTTP<400 且页面内容随 id 变化；unverified = 失败/超时/≥400，或 URL 含 #（前端路由，服务端无法判断岗位是否存在）。
 // 用法：node scripts/check_links.js [--only kuaishou,meituan,xiaohongshu] [--concurrency 16]
 const fs = require('fs'), path = require('path');
-const { args } = require('./lib/common'), { postId } = require('./lib/site');
+const { args } = require('./lib/common'), { postId, manualFresh } = require('./lib/site');
+// --today YYYY-MM-DD：覆盖当天日期（测试人工核验有效期用）；--dry-run：不写 link_status.json，且跳过所有需联网的检查（只演算人工核验条目）
 const DATA = path.join(__dirname, '..', 'data'), a = args();
 const week = fs.readdirSync(DATA).filter(d => /^\d{4}-W\d{2}$/.test(d)).sort().at(-1);
 const only = a.only ? new Set(String(a.only).split(',')) : null, N = +(a.concurrency || 16);
@@ -148,8 +149,14 @@ if (a.probe) (async () => { const seen = new Set();
     const fake = t.url.replace(pid, '99999999');
     console.log(t.slug.padEnd(12), 'real', pid, JSON.stringify(await check(t.url, t.slug)), '| fake', JSON.stringify(await check(fake, t.slug))); } })();
 else (async () => {
-  let i = 0; const now = new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 19) + '+08:00';
-  await Promise.all(Array.from({ length: N }, async () => { while (i < todo.length) { const t = todo[i++]; res[t.id] = { ...(await check(t.url, t.slug)), checked_at: now }; } }));
+  let i = 0; const now = new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 19) + '+08:00', today = a.today || now.slice(0, 10), dry = !!a['dry-run'];
+  // 人工核验条目：有效期内原样保留（不联网、不重置）；超期 → 待核（保留 verified_at 供追溯）
+  const manualStep = t => { const e = res[t.id]; if (e?.code !== 'manual-browser-verified') return null;
+    return manualFresh(e, today) ? e : { status: 'unverified', code: 'manual-verify-expired', verified_at: e.verified_at, checked_at: now }; };
+  await Promise.all(Array.from({ length: N }, async () => { while (i < todo.length) { const t = todo[i++]; const m = manualStep(t);
+    if (m) res[t.id] = m; else if (!dry) res[t.id] = { ...(await check(t.url, t.slug)), checked_at: now }; } }));
+  if (dry) { const sum = {}; for (const t of todo) { const k = t.slug + ':' + (res[t.id]?.status || 'none') + ':' + (res[t.id]?.code || '-'); sum[k] = (sum[k] || 0) + 1; }
+    return console.log(`[dry-run today=${today}] ${todo.length} links (${week}), 未写文件`, sum); }
   // 防误判：同一轮某家判 invalid 的超过 10 条或 20%，疑似限流/接口异常 → 整家 invalid 降级为待核，待人工抽查
   const by = {}; for (const t of todo) { const c = t.id.split('-')[0]; (by[c] ||= { n: 0, bad: [] }).n++; if (res[t.id].status === 'invalid') by[c].bad.push(t.id); }
   for (const [c, v] of Object.entries(by)) if (v.bad.length > 10 || (v.bad.length && v.bad.length / v.n > 0.2)) {
