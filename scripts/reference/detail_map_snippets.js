@@ -2,6 +2,19 @@
 // Each: async (pid, url) => true (在招) | false (不存在/下架) | throw (接口异常 → 回退)。All verified 2026-10-27 with real + fake ids.
 const T = () => AbortSignal.timeout(15e3), J = { ...UA, 'Content-Type': 'application/json' };
 const BROWSER_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36'; // 华为网关无浏览器 UA 会 403
+// 飞书 SaaS 通用（website-path 可配；check_links.js 的 feishu() 写死 'campus'）。id 从 url 的 /position/{id}/detail 取。不存在 → code 0 无 job_post_detail → false。
+const fsSaaS = (base, wp, portal = 6) => { const H = { ...J, 'portal-channel': 'saas-career', 'website-path': wp, Referer: `${base}/${wp}/position/list` }; let tok;
+  return async (pid, url) => { const id = (String(url).match(/position\/(\d+)\/detail/) || [])[1] || pid;
+    tok ||= (async () => { const r = await fetch(`${base}/api/v1/csrf/token`, { method: 'POST', headers: H, body: '{"portal_entrance":1}', signal: T() });
+      return { cookie: r.headers.getSetCookie().map(c => c.split(';')[0]).join('; '), t: (await r.json()).data.token }; })();
+    const { cookie, t } = await tok;
+    const r = await fetch(`${base}/api/v1/job/posts/${id}?portal_type=${portal}&with_recommend=false`, { headers: { ...H, 'x-csrf-token': t, cookie }, signal: T() });
+    if (!r.ok) throw new Error('http ' + r.status); const b = await r.json();
+    if (b.code === 0) return !!b.data?.job_post_detail?.id; throw new Error('code ' + b.code); }; };
+// 北森 zhiye（GetJobAdInfo）：id 是 url 里的 jobAdId GUID；不存在 → Code 500 "参数错误"；Data.Status 2 = 已关闭。
+const beisen = host => async (pid, url) => { const id = (String(url).match(/jobAdId=([0-9a-f-]{36})/i) || [])[1] || pid;
+  const b = await (await fetch(`https://${host}/api/JobAd/GetJobAdInfo?jobAdId=${id}&category=2`, { headers: UA, signal: T() })).json();
+  if (b.Code === 200 && b.Data) return b.Data.Status !== 2; if (b.Code === 500) return false; throw new Error('Code ' + b.Code); };
 const SNIPPETS = {
   kuaishou: async pid => { const b = await (await fetch(`https://campus.kuaishou.cn/recruit/campus/e/api/v1/open/positions/find?id=${pid}`, { headers: UA, signal: T() })).json();
     if (b.code === 0) return !!b.result?.name; if (b.code === 40404) return false; throw new Error('code ' + b.code); },
@@ -66,5 +79,31 @@ const SNIPPETS = {
     return async pid => { tok ||= fetch(`${B}/api/auth/v1/csrf/token`, { headers: H, signal: T() }).then(r => r.json()).then(b => b.data);
       const b = await (await fetch(`${B}/api/campus/position/detail/${pid}`, { headers: { ...H, 'X-CSRF': await tok }, signal: T() })).json();
       if (b.code === 0) return !!b.data?.id; if (b.code === 60015) return false; throw new Error('code ' + b.code); }; })(),
+  // —— 2026-W44 第三批（staging/2026-W44），全量真 id + 假 id 验过 ——
+  minimax: fsSaaS('https://vrfi1sk8a0.jobs.feishu.cn', '379481'),
+  sensetime: fsSaaS('https://sensetime.jobs.feishu.cn', 'edu'),
+  xpeng: fsSaaS('https://xiaopeng.jobs.feishu.cn', 'campus'),
+  nio: fsSaaS('https://nio.jobs.feishu.cn', 'campus'),
+  iqiyi: fsSaaS('https://careers.iqiyi.com', 'intern'),   // 自有域名的飞书 SaaS
+  iflytek: beisen('iflytek.zhiye.com'),
+  '360': beisen('360campus.zhiye.com'),
+  ke: beisen('campus.ke.com'),
+  // 腾讯音乐：不存在 → code 404 "该岗位不存在！"（code 是字符串 "200"）。
+  tme: async (pid, url) => { const id = (String(url).match(/[?&]id=(\d+)/) || [])[1] || pid;
+    const b = await (await fetch(`https://join.tencentmusic.com/api/uc-job/info?id=${id}`, { headers: UA, signal: T() })).json();
+    if (String(b.code) === '200') return !!b.data?.id; if (String(b.code) === '404') return false; throw new Error('code ' + b.code); },
+  // 理想：id 是 /employ/detail/{id}.html；下架/不存在 → code 404 "此职位已下架"。
+  lixiang: async (pid, url) => { const id = (String(url).match(/detail\/(\d+)\.html/) || [])[1] || pid;
+    const b = await (await fetch(`https://www.lixiang.com/osd-hr-recruitment-website/v1/recruit/job/detail?job_id=${id}`, { headers: UA, signal: T() })).json();
+    if (b.code === 0) return !!b.data?.id; if (b.code === 404) return false; throw new Error('code ' + b.code); },
+  // 荣耀（wecruit）：表单 POST；在招 → state "200"；关闭/不存在 → state "1017" "该职位招聘已经关闭"。
+  honor: async (pid, url) => { const id = (String(url).match(/postId=([0-9a-z]+)/i) || [])[1] || pid;
+    const b = await (await fetch('https://career.honor.com/wecruit/positionInfo/listPositionDetail/SU60eea919bef57c1023f6fe78?iSaJAx=isAjax&request_locale=zh_CN', { method: 'POST',
+      headers: { ...UA, 'Content-Type': 'application/x-www-form-urlencoded' }, body: `postId=${id}&recruitType=1`, signal: T() })).json();
+    if (b.state === '200') return !!b.data; if (b.state === '1017') return false; throw new Error('state ' + b.state); },
+  // 联想：详情即 jobBase/list?jobId=；不存在 → rows [] / total 0。
+  lenovo: async (pid, url) => { const id = (String(url).match(/[?&]id=(\d+)/) || [])[1] || pid;
+    const b = await (await fetch(`https://talent.lenovo.com.cn/gateway/jobBase/list?jobId=${id}`, { headers: UA, signal: T() })).json();
+    if (b.code === 0) return (b.result?.rows || []).some(r => String(r.id) === String(id)); throw new Error('code ' + b.code); },
 };
 if (typeof module !== 'undefined') module.exports = SNIPPETS;

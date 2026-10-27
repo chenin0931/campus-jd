@@ -18,11 +18,10 @@ print(co,'raw',len(L),collections.Counter((j.get('Category'),j.get('Kind')) for 
 out=[]
 for j in L:
   cat=j.get('Category') or ''
-  if '社' in cat: continue
   t=j['JobAdName'];c=cls(t)
   if not c: continue
   intern=j.get('Kind')=='实习' or '实习' in cat
   city=[x.split('·')[-1] for x in (j.get('LocNames') or [])]
-  out.append(rec(co,t,c,city,j.get('Require'),f"https://{h}/{'intern' if intern else 'campus'}/detail?jobAdId={j['Id']}",'实习' if intern else '校招'))
+  out.append(rec(co,t,c,city,j.get('Require'),f"https://{h}/{'intern' if intern else 'campus'}/detail?jobAdId={j['Id']}",'实习' if intern else ('社招' if '社' in cat else '校招')))
 json.dump(out,open(f'../../staging/2026-W44/{slug}.json','w'),ensure_ascii=False,indent=1)
 print(co,'kept',len(out),collections.Counter((r['job_type'],r['category']) for r in out))

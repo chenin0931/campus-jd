@@ -5,7 +5,7 @@ EX=re.compile(r'开发|研发|算法|工程师|测试|研究');AI=re.compile(r'A
 def wb(w):return r'(^|[^A-Za-z])(?:%s)([^A-Za-z]|$)'%w
 RULES=[('商务',re.compile('商务|'+wb('BD')+'|商业化|渠道|合作|招商|采购|供应链|投资|战略',re.I)),('市场',re.compile('市场|营销|品牌|公关|'+wb('PR')+'|广告|媒介|增长',re.I)),('销售',re.compile('销售|客户经理|大客户|售前|售后|客户成功|'+wb('KA'),re.I)),('设计',re.compile('设计|视觉|交互|'+wb('UI|UX')+'|美术|原画|动画|插画',re.I)),('职能',re.compile(wb('HR(?:BP)?')+'|人力|招聘|财务|会计|审计|税务|法务|律师|合规|风控|行政|秘书|助理|内控|IT支持',re.I))]
 PFX=re.compile(r'^\s*(?:\d{2,4}届)?(?:校招|校园招聘|实习生?|日常实习|暑期实习|应届生?)\s*[-－–—]\s*')
-from classify import classify  # CLASSIFIER.md 参考实现
+classify=lambda t:'待分类'  # 抓取阶段不过滤；分类只在 common.js classify()
 co,base,wp,slug=sys.argv[1:5];PT=int(sys.argv[5]) if len(sys.argv)>5 else 6
 # MODE: campus (default: only 校招/*), social_intern (社招 listings: keep 实习 only), text (no recruit_type: text rule, detail recruit_type first)
 MODE=sys.argv[6] if len(sys.argv)>6 else 'campus'

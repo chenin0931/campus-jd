@@ -21,6 +21,7 @@ function load(w) {
   return fs.readdirSync(path.join(DATA, w)).filter(f => f.endsWith('.json')).sort().flatMap(f => {
     const slug = f.slice(0, -5); let arr = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8'));
     if (!Array.isArray(arr)) { issues.push(`${w}/${f} 不是数组，跳过`); return []; }
+    { const n = arr.length; arr = require('./lib/common').dropSocial(arr); if (arr.length < n) issues.push(`${w}/${f} 丢弃非实习社招 ${n - arr.length} 条（§13）`); }
     arr = tagRegion(arr); // §11：标 region（国内/海外），不删
     const pids = uniqIds(arr.map(j => ({ title: j.title, apply_url: j.apply_url, pid: postId(j.apply_url) })));
     return arr.map((j, i) => {

@@ -177,6 +177,7 @@ function writeJobs(slug, jobs, opts = {}) {
   jobs = jobs.filter(j => !jdTech(j.title, j.requirements));  // JD 第二道把关（§10）
   for (const j of jobs) if (!j.city || !j.city.length) j.city = cityFromText(j.requirements);
   for (const j of jobs) j.city = normCities(j.city);
+  jobs = dropSocial(jobs);  // §13 社招非实习不收
   jobs = require('./overseas').tagRegion(jobs);  // 公共后处理：标 region 国内/海外（§11，不删）
   if (fs.existsSync(file) && !a.force) {
     const old = JSON.parse(fs.readFileSync(file, 'utf8')).length, min = +(process.env.MIN_RATIO || 0.5);
@@ -192,5 +193,8 @@ function writeJobs(slug, jobs, opts = {}) {
 function run(slug, fetcher) {
   fetcher().then(jobs => writeJobs(slug, jobs)).catch(e => { console.error(`[${slug}] 失败，保留旧文件：${e.message}`); process.exit(1); });
 }
-module.exports = { jdTech, classifyJob, cleanTitle, normCity, normCities, classify, isoWeek, nowIso, request, cookiesOf, args, writeJobs, run, sleep, cityFromText };
+// 社招只收实习（§13）：job_type=社招 且标题不含 实习/Intern/Internship → 不收；含 → 改记 实习
+const INTERN_RE = /实习|\bintern(ship)?s?\b/i;
+function dropSocial(jobs) { return jobs.flatMap(j => j.job_type !== '社招' ? [j] : INTERN_RE.test(j.title || '') ? [{ ...j, job_type: '实习' }] : []); }
+module.exports = { dropSocial, jdTech, classifyJob, cleanTitle, normCity, normCities, classify, isoWeek, nowIso, request, cookiesOf, args, writeJobs, run, sleep, cityFromText };
 

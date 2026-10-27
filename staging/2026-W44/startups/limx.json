@@ -1,0 +1,83 @@
+[
+ {
+  "company": "逐际动力",
+  "title": "技术美术（TA）Agent实习生-3D仿真资产方向",
+  "category": "设计",
+  "city": [
+   "深圳",
+   "北京"
+  ],
+  "requirements": "- 具备真实场景或物体重建能力，能依据图片与尺寸信息还原几何，并识别需要补拍或测量的关键细节。\n- 熟练使用 Blender 等 DCC 工具，掌握建模、UV 与材质基础，能独立修复重建或生成资产。\n- 理解刚体、碰撞体与关节约束，能配置基本物理参数，并检查尺度、碰撞及接触行为。\n- 熟悉 Isaac Sim、Omniverse、Unreal 或 Unity 的资产管线，能完成或快速迁移到 Isaac Sim / USD 的资产导入与验证。\n- 具备 Python 基础，能结合 GPT-6 等模型与 Codex 等 AI 编程 Agent 编写、调试 Blender 脚本，并验证和复现结果。\n- 能独立定位资产问题，与算法及仿真工程师协作，平衡视觉还原、物理稳定性与运行效率。\n加分项\n- 有 Isaac Sim 机器人操作仿真、合成数据生成或模型评测经验。\n- 有3D GS 或 NeRF 重建经验，能将重建结果整理为可交互的仿真资产。\n- 有混元 3D、Meshy、Tripo、Rodin 等生成式 3D 工具经验，能修复其典型资产缺陷。\n- 有 Houdini 程序化建模或场景变体批量生成经验。\n- 有 Omniverse Kit、Isaac Sim 扩展或资产自动化工具链开",
+  "deadline": null,
+  "apply_url": "https://career.limxdynamics.com/index/position/7683048146947016998/detail",
+  "source_url": "https://career.limxdynamics.com/index/position/7683048146947016998/detail",
+  "fetched_at": "2026-10-27T16:06:45+08:00",
+  "job_type": "实习",
+  "source": "official-ats:feishu",
+  "link_status": "正常"
+ },
+ {
+  "company": "逐际动力",
+  "title": "嵌入式实习生",
+  "category": "其他",
+  "city": [
+   "深圳"
+  ],
+  "requirements": "岗位要求：\n- 本科及以上在读，计算机科学与技术、电子信息工程、自动化、通信工程等相关专业。\n- 扎实掌握 C/C++ 编程语言，理解指针、内存管理、数据结构等核心概念。\n- 熟悉至少一种微控制器（如 STM32、ESP32、GD32）的工作原理与基础开发流程。\n- 了解基本的模拟 / 数字电路知识，能看懂简单原理图和芯片手册。\n- 具备良好的逻辑思维、问题分析能力，工作认真负责，主动学习意愿强。\n- 有良好的沟通能力和团队协作精神，能配合团队完成预研任务。",
+  "deadline": null,
+  "apply_url": "https://career.limxdynamics.com/index/position/7597640354803779867/detail",
+  "source_url": "https://career.limxdynamics.com/index/position/7597640354803779867/detail",
+  "fetched_at": "2026-10-27T16:06:45+08:00",
+  "job_type": "实习",
+  "source": "official-ats:feishu",
+  "link_status": "正常"
+ },
+ {
+  "company": "逐际动力",
+  "title": "人形机器人产品实习生",
+  "category": "产品",
+  "city": [
+   "深圳"
+  ],
+  "requirements": "1. 学历背景：本科及以上学历，大四或研二实习生优先，理工科专业优先；\n2. 实习经历：有机器人、智能硬件、新能源汽车实习经历最佳；\n3. 基础能力：\n  - 了解人形机器人或智能硬件产品开发相关知识；\n  - 具备基本的文档撰写能力；\n  - 逻辑思维清晰，善于发现问题、分析问题，有良好的跨部门沟通协调能力；\n4. 时间要求：连续3个月以上实习最佳，1个月内可到岗最好，如果要离开，请务必提前告诉我\n5. 加分项：\n  - 对人形机器人行业有浓厚兴趣\n  - 有机器人相关项目经验或竞赛经历者。\n\n实习福利：\n1. 深度参与人形机器人核心产品研发流程，与我们一起尝试给行业带来一些震撼，收获沉浸式成长体验；\n2. 配备专属导师，一对一指导工作，你想问的，我能回答的都会回答；\n3. 有竞争力的实习补贴；\n4. 开放的工作氛围，团队成员多为行业资深专家，可随时交流学习。",
+  "deadline": null,
+  "apply_url": "https://career.limxdynamics.com/index/position/7570906494187981098/detail",
+  "source_url": "https://career.limxdynamics.com/index/position/7570906494187981098/detail",
+  "fetched_at": "2026-10-27T16:06:45+08:00",
+  "job_type": "实习",
+  "source": "official-ats:feishu",
+  "link_status": "正常"
+ },
+ {
+  "company": "逐际动力",
+  "title": "法务实习生",
+  "category": "职能",
+  "city": [
+   "深圳"
+  ],
+  "requirements": "1.法律专业研究生在读（特别优秀者可放宽至本科）\n2.能以英文作为工作语言，有海外就读或涉外实习经验者优先\n3.专业基础扎实，逻辑清晰，通过国家法律职业资格考试者优先\n4.可长期实习（4个月以上，每周不少于4天），可尽快到岗\nBase深圳",
+  "deadline": null,
+  "apply_url": "https://career.limxdynamics.com/index/position/7543097982943054119/detail",
+  "source_url": "https://career.limxdynamics.com/index/position/7543097982943054119/detail",
+  "fetched_at": "2026-10-27T16:06:45+08:00",
+  "job_type": "实习",
+  "source": "official-ats:feishu",
+  "link_status": "正常"
+ },
+ {
+  "company": "逐际动力",
+  "title": "机器人强化学习实习生",
+  "category": "其他",
+  "city": [
+   "深圳"
+  ],
+  "requirements": "1、实习时间至少3个月；\n2、海内外研究生及以上学历在读生，机器人、自动化等相关专业优先，有机器人操作相关项目经验者优先；\n3、掌握C++ 和 python 编程语言，了解ROS系统工作方式，了解PyTorch，TensorFlow等深度学习框架使用方式。\n4、了解机器人仿真软件，如mojuco, gazebo, NVIDIA Isaac等.\n5、了解机器sim2real 过程中的关键问题，如电机建模，通讯延时模拟，噪声，感知仿真等。\n6、对机器人技术和AI强化学习有浓厚的兴趣和激情。",
+  "deadline": null,
+  "apply_url": "https://career.limxdynamics.com/index/position/7436212279131687178/detail",
+  "source_url": "https://career.limxdynamics.com/index/position/7436212279131687178/detail",
+  "fetched_at": "2026-10-27T16:06:45+08:00",
+  "job_type": "实习",
+  "source": "official-ats:feishu",
+  "link_status": "正常"
+ }
+]

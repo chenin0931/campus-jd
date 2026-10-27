@@ -226,3 +226,9 @@ AI产品=ai-product，供应链=supply，项目管理=pm，分析=analysis，策
 
 - 腾讯 `?postid=` 参数原值优先（含负数/短数字），不再落成 `post_detail`。
 - 同一文件里不同标题共用一个 URL（如拼多多手工录入的 `/campus/grad`）→ id 用 `h` + sha1(标题|URL) 前 10 位；同标题同 URL 仍视为重复去重。
+
+## 13. 社招只收实习（POC 2026-10-27）
+
+- `job_type=社招` 且标题不含「实习 / Intern / Internship」（整词，不区分大小写）→ 不收；含 → 收，job_type 记为「实习」。
+- 实现：`scripts/lib/common.js` 的 `dropSocial()`，`writeJobs` 和 `build.js` 读数据时都调用；`scripts/test_classify.js` 有用例（两种情况都有）。
+- 2026-W44 现有数据里 job_type=社招 为 0 条（全网改过的 bs.py 尚未重跑）。

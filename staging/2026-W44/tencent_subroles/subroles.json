@@ -1,0 +1,389 @@
+{
+ "source": "https://join.qq.com/api/v1/jobDetails/getJobDetailsByPostId",
+ "fetched_at": "2026-10-27T18:49:30+08:00",
+ "fails": [],
+ "subroles": [
+  {
+   "id": "1216426561818062848",
+   "internal_id": 267,
+   "title": "项目实习生-全栈开发",
+   "entry": "项目实习生-技术",
+   "direction": "软件开发类",
+   "location": [
+    "深圳总部"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "CDG"
+   ],
+   "department": [
+    "腾讯金融科技",
+    "集团金融消费者权益保护部"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1216426561818062848",
+   "technical_entry": true,
+   "fetched_at": "2026-10-27T18:49:04+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 具备编程能力，掌握C/C++/Java/Go/PHP/JavaScript/Python等其中一门编程语言。\n2. 具有一定的学习能力、分析及解决问题能力，有责任心与合作意识",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1226320039750543360",
+   "internal_id": 281,
+   "title": "项目实习生-应用运维安全",
+   "entry": "项目实习生-技术",
+   "direction": "安全技术类",
+   "location": [
+    "深圳总部"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "PCG"
+   ],
+   "department": [
+    "PCG技术线-技术战略方向"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1226320039750543360",
+   "technical_entry": true,
+   "fetched_at": "2026-10-27T18:49:04+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 具备编程能力，掌握C/C++/Java/Go/PHP/JavaScript/Python等其中一门编程语言。\n2. 具有一定的学习能力、分析及解决问题能力，有责任心与合作意识",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1244420450084484096",
+   "internal_id": 293,
+   "title": "项目实习生-游戏运营",
+   "entry": "项目实习生-产品",
+   "direction": "游戏产品类",
+   "location": [
+    "深圳总部"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "IEG"
+   ],
+   "department": [
+    "游戏国际发行 Level Infinite"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1244420450084484096",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:08+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1180954678935186432",
+   "internal_id": 290,
+   "title": "项目实习生-内容创作",
+   "entry": "项目实习生-产品",
+   "direction": "内容制作类",
+   "location": [
+    "深圳总部"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "IEG"
+   ],
+   "department": [
+    "天美工作室群"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1180954678935186432",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:10+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1161176783631188992",
+   "internal_id": 291,
+   "title": "项目实习生-产品策划",
+   "entry": "项目实习生-产品",
+   "direction": "通用产品类",
+   "location": [
+    "深圳总部",
+    "上海"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "IEG"
+   ],
+   "department": [
+    "办公室&行政中心",
+    "云互动创新科技"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1161176783631188992",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:12+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1181601618932789248",
+   "internal_id": 292,
+   "title": "项目实习生-产品运营",
+   "entry": "项目实习生-产品",
+   "direction": "通用产品类",
+   "location": [
+    "深圳总部",
+    "北京"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "CDG"
+   ],
+   "department": [
+    "腾讯金融科技",
+    "金融业务公共事务部",
+    "集团金融消费者权益保护部"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1181601618932789248",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:13+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 具有一定的逻辑思维能力、学习能力与文字组织能力\n2. 具有良好的沟通能力与执行力，有责任心与合作意识\n3. 对互联网产品有观察和认知",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1224072999578531840",
+   "internal_id": 309,
+   "title": "项目实习生-动画",
+   "entry": "项目实习生-设计",
+   "direction": "游戏美术类",
+   "location": [
+    "深圳总部"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "IEG"
+   ],
+   "department": [
+    "游戏前沿技术"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1224072999578531840",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:17+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 掌握常见美术及设计软件的使用方法\n2. 具有一定的审美能力，有美术或设计相关专业知识储备\n3. 具有良好的沟通能力与执行力，有责任心与合作意识",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1292191191915674624",
+   "internal_id": 294,
+   "title": "项目实习生-视觉设计",
+   "entry": "项目实习生-设计",
+   "direction": "平面交互类",
+   "location": [
+    "深圳总部"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "PCG"
+   ],
+   "department": [
+    "PCG技术线-技术战略方向"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1292191191915674624",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:18+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\n1. 掌握常见美术及设计软件的使用方法\n2. 具有一定的审美能力，有美术或设计相关专业知识储备\n3. 具有良好的沟通能力与执行力，有责任心与合作意识",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1225871633341097984",
+   "internal_id": 302,
+   "title": "项目实习生-商业分析",
+   "entry": "项目实习生-市场",
+   "direction": "战略投资类",
+   "location": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "CDG"
+   ],
+   "department": [
+    "腾讯战略发展部",
+    "青腾"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1225871633341097984",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:23+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\r\n1、有一定的市场意识，了解市场动态和新事物。\r\n2、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n3、掌握日常办公软件及办公设备的使用方法。\r\n4、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1250224484334840832",
+   "internal_id": 296,
+   "title": "项目实习生-市场营销",
+   "entry": "项目实习生-市场",
+   "direction": "市场营销类",
+   "location": [
+    "深圳总部"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "CDG"
+   ],
+   "department": [
+    "腾讯金融科技"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1250224484334840832",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:24+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\r\n1、有一定的市场意识，了解市场动态和新事物。\r\n2、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n3、掌握日常办公软件及办公设备的使用方法。\r\n4、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1216462959187228672",
+   "internal_id": 313,
+   "title": "项目实习生-人力资源",
+   "entry": "项目实习生-职能",
+   "direction": "人力资源类",
+   "location": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州",
+    "成都"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "S3"
+   ],
+   "department": [
+    "腾讯HR与管理线"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1216462959187228672",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:28+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\r\n1、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n2、掌握日常办公软件及办公设备的使用方法。\r\n3、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  },
+  {
+   "id": "1226701088032696320",
+   "internal_id": 307,
+   "title": "项目实习生-公共事务",
+   "entry": "项目实习生-职能",
+   "direction": "法律与公共策略类",
+   "location": [
+    "北京"
+   ],
+   "recruit_city": [
+    "远程面试"
+   ],
+   "recruit_type": "日常实习",
+   "business_unit": [
+    "S1"
+   ],
+   "department": [
+    "腾讯职能线"
+   ],
+   "official_url": "https://join.qq.com/post_detail.html?postid=1226701088032696320",
+   "technical_entry": false,
+   "description": "无",
+   "requirements": "无",
+   "fetched_at": "2026-10-27T18:49:30+08:00",
+   "overseas": false,
+   "dup_by_id": null,
+   "dup_by_title_ids": null,
+   "duplicate": false,
+   "entry_requirements": "我们期望你：\r\n1、工作主动，具有较好的人际沟通技巧，协调能力，擅于合作。\r\n2、掌握日常办公软件及办公设备的使用方法。\r\n3、理解力好，具有较好的沟通与协调能力，责任心与执行力强。",
+   "note": "子岗位官方 desc/request 均为「无」，要求见所属汇总入口 entry_requirements"
+  }
+ ]
+}
