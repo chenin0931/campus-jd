@@ -1,6 +1,6 @@
 # 大厂 AI产品/产品/运营 校招·实习 JD 库
 
-> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-10-27 生成。在招 3218，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
+> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-10-27 生成。在招 3228，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
 
 ## 怎么读
 1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。
@@ -11,6 +11,7 @@
 5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。
 6. 只指定公司、没给城市：先读 companies/{company}.md（公司总览，含各城市切片链接），不要读 index.json。
 7. 只给了届别：读 by-year/{yy}/{campus|intern}-{category}.md（只含官网明确写了届别的岗位）。
+7b. 公司后标了「手动更新 · 最后更新 YYYY-MM-DD」的（如拼多多）：超过 14 天没更新要提醒用户数据可能已过期；岗位要求为空时引导用户点官网链接自己看。
 8. 城市写到区县（如「深圳南山」「北京海淀」）按所属城市 slug 读；不在下面枚举里的城市/公司就是库里没有，直接说没有，不要编。
 
 ## 路径模板
@@ -25,7 +26,7 @@
 ## 枚举
 - category: ai-product=AI产品, product=产品, operations=运营
 - job_type: campus=校招, intern=实习
-- city: beijing=北京(1730), shanghai=上海(1264), shenzhen=深圳(320), hangzhou=杭州(228), other=其他城市(99), chengdu=成都(87), guangzhou=广州(84), wuhan=武汉(44), nanjing=南京(22), xian=西安(13), dongguan=东莞(13), hongkong=香港(11), zhengzhou=郑州(8), shenyang=沈阳(8), zhuhai=珠海(7), suzhou=苏州(7), chongqing=重庆(7), suqian=宿迁(6), singapore=新加坡(5), jinan=济南(5), qingdao=青岛(5), xiamen=厦门(5), kunming=昆明(4), tianjin=天津(4), nanchang=南昌(4), dalian=大连(3), nanning=南宁(3), lanzhou=兰州(3), ningbo=宁波(3), hefei=合肥(3), harbin=哈尔滨(3), changsha=长沙(3), tokyo=东京(2), nantong=南通(2), guilin=桂林(1), chengmai=澄迈(1)
+- city: beijing=北京(1730), shanghai=上海(1271), shenzhen=深圳(320), hangzhou=杭州(228), other=其他城市(102), chengdu=成都(87), guangzhou=广州(84), wuhan=武汉(44), nanjing=南京(22), xian=西安(13), dongguan=东莞(13), hongkong=香港(11), zhengzhou=郑州(8), shenyang=沈阳(8), zhuhai=珠海(7), suzhou=苏州(7), chongqing=重庆(7), suqian=宿迁(6), singapore=新加坡(5), jinan=济南(5), qingdao=青岛(5), xiamen=厦门(5), kunming=昆明(4), tianjin=天津(4), nanchang=南昌(4), dalian=大连(3), nanning=南宁(3), lanzhou=兰州(3), ningbo=宁波(3), hefei=合肥(3), harbin=哈尔滨(3), changsha=长沙(3), tokyo=东京(2), nantong=南通(2), guilin=桂林(1), chengmai=澄迈(1)
 
 - by-year: 26, 27, 28, 29（有届别列表的届）
 
@@ -45,6 +46,7 @@
 - mihoyo=米哈游：校招 13，实习 18
 - netease=网易：校招 14，实习 147
 - oppo=OPPO：校招 16，实习 16
+- pinduoduo=拼多多：校招 10，实习 0（手动更新 · 最后更新 2026-10-27）
 - tencent=腾讯：校招 14，实习 21
 - vivo=vivo：校招 1，实习 17
 - xiaohongshu=小红书：校招 9，实习 83

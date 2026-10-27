@@ -1,6 +1,6 @@
 // 构建共用：slug、id。
 const COMPANY = { bytedance: '字节跳动', tencent: '腾讯', alibaba: '阿里巴巴', antgroup: '蚂蚁集团', kuaishou: '快手', meituan: '美团', xiaohongshu: '小红书',
-  jd: '京东', pdd: '拼多多', netease: '网易', didi: '滴滴', xiaomi: '小米',
+  jd: '京东', pinduoduo: '拼多多', netease: '网易', didi: '滴滴', xiaomi: '小米',
   bilibili: '哔哩哔哩', dewu: '得物', oppo: 'OPPO', mihoyo: '米哈游', ctrip: '携程', vivo: 'vivo', huawei: '华为' };
 const CATS = { 'AI产品': 'ai-product', '产品': 'product', '运营': 'operations' };
 const TYPES = { '校招': 'campus', '实习': 'intern' };

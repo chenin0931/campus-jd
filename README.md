@@ -4,7 +4,7 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 
 ## 总览
 <!-- overview:start -->
-数据周 **2026-W44**（2026-10-27 生成）· 在招 **3218** · 本周新增 **0** · 下架 **0**
+数据周 **2026-W44**（2026-10-27 生成）· 在招 **3228** · 本周新增 **0** · 下架 **0**
 
 | 公司 | 校招 | 实习 | 合计 |
 |---|---:|---:|---:|
@@ -23,6 +23,7 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 | 米哈游 | 13 | 18 | 31 |
 | 网易 | 14 | 147 | 161 |
 | OPPO | 16 | 16 | 32 |
+| 拼多多 | 10 | 0 | 10 |
 | 腾讯 | 14 | 21 | 35 |
 | vivo | 1 | 17 | 18 |
 | 小红书 | 9 | 83 | 92 |
@@ -67,6 +68,9 @@ node scripts/build.js                       # 生成 site/，并校验：文件 
 ```
 - 新增公司：写 `scripts/fetchers/<slug>.js`（参考现有文件，调用 `run(slug, async () => jobs)`），在 `scripts/lib/site.js` 的 `COMPANY` 加中文名。build 会自动发现 `data/` 下的新文件。
 - fetcher 抓到 0 条或比旧文件少一半以上会拒绝覆盖（`--force` 跳过）。
+- **拼多多是手动来源**（`source: manual-browser`）：官网接口要 anti_content 风控令牌，写不了抓取器，也没有逐条校验，链接统一「链接待核」，`requirements` 可为 null。站点公司总览、切片和 llms.txt 标「手动更新 · 最后更新 YYYY-MM-DD」，超过 14 天加过期警告。
+  - 每周怎么更新：用浏览器按正常访客打开 careers.pddglobalhr.com 应届生/实习列表，按 `data/schema.json` 抄成 `staging/<周>/pinduoduo.json`（`source` 写 `manual-browser`、`link_status` 写「链接待核」、`fetched_at` 写抄录时间），核对分类和城市（省级写「广东省」、全国多地写「全国多地」，原文放 `city_note`）后移到 `data/<周>/pinduoduo.json`，再跑 `node scripts/build.js`。
+  - 某周没放新文件时，build 自动沿用最近一周的手动文件，岗位保持 active，不会记成下架；要真正下架某条，就在新的手动文件里删掉它。
 - 19 家都有 Node 抓取器（`scripts/fetchers/<slug>.js`），weekly.yml 逐个跑 `scripts/fetchers/*.js`，无需 Python。2026-10-27 新增网易（campus.163.com / campus.game.163.com / hr.163.com 三个域名）、滴滴（列表接口 AES-CBC 加密，用 Node 内置 crypto 按 necromancer 解密，同 reference/dd.py）、B站（串行，请求间隔 ≥1.5s）、得物（飞书 website-path 578078）、OPPO、米哈游、携程（id 保留 MJ 前缀，英文城市转中文）、vivo、华为（浏览器 UA）。抓取结果与 data/2026-W44 对比：id 集合一致（网易少 1 条为官网当天下架）。
 - 只想试跑不写 data：`node scripts/fetchers/didi.js --out /tmp/x`。
 - `scripts/reference/*.py` 是最初的探索脚本，仅供参考。

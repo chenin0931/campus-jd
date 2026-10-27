@@ -33,7 +33,25 @@ function load(w) {
 }
 // 去重（同 id 保留第一条）
 const dedup = l => { const m = new Map(); let d = 0; for (const j of l) m.has(j.id) ? d++ : m.set(j.id, j); return [m, d]; };
-const [curMap, dup] = dedup(load(cur)), [prevMap] = dedup(load(prev));
+// 手动来源（source=manual-browser，如拼多多）：周跑没有抓取器；当周没有新文件就沿用最近一周的文件，不判下架。
+const isManual = (w, f) => { try { const a = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8')); return Array.isArray(a) && a.some(j => j.source === 'manual-browser'); } catch { return false; } };
+const manual = {}; // slug -> { updated: YYYY-MM-DD, from_week, stale }
+function loadCarry(w) {
+  if (!w) return [];
+  const own = load(w), have = new Set(fs.readdirSync(path.join(DATA, w)).filter(f => f.endsWith('.json')));
+  const extra = [];
+  for (const f of new Set(weeks.filter(x => x < w).flatMap(x => fs.readdirSync(path.join(DATA, x)).filter(g => g.endsWith('.json') && isManual(x, g))))) {
+    if (have.has(f)) continue; const src = weeks.filter(x => x < w && fs.existsSync(path.join(DATA, x, f))).at(-1);
+    const keep = fs.readdirSync(path.join(DATA, src)).filter(g => g === f);
+    extra.push(...load(src).filter(j => keep.includes(j.company_slug + '.json')).map(j => ({ ...j, carried_from: src })));
+  }
+  return [...own, ...extra];
+}
+const [curMap, dup] = dedup(loadCarry(cur)), [prevMap] = dedup(loadCarry(prev));
+for (const j of curMap.values()) if (j.source === 'manual-browser') { const m = manual[j.company_slug] ||= { updated: '', from_week: j.carried_from || cur };
+  const d = String(j.fetched_at).slice(0, 10); if (d > m.updated) m.updated = d; }
+for (const m of Object.values(manual)) { m.days = Math.round((Date.parse(today) - Date.parse(m.updated)) / 864e5); m.stale = m.days > 14; }
+const manualTag = co => manual[co] ? `手动更新 · 最后更新 ${manual[co].updated}${manual[co].stale ? `（⚠️已 ${manual[co].days} 天未更新，数据可能已过期）` : ''}` : '';
 
 // state.json：按 id 记录 first_seen / last_seen / status / removed_at；兼容旧版按 apply_url 的 first_seen
 const STATE = path.join(DATA, 'state.json');
@@ -41,7 +59,7 @@ let st = fs.existsSync(STATE) ? JSON.parse(fs.readFileSync(STATE, 'utf8')) : {};
 if (!st.jobs) { const old = st.first_seen || {}; st = { jobs: {} };
   for (const j of [...prevMap.values(), ...curMap.values()]) if (old[j.apply_url]) st.jobs[j.id] = { first_seen: old[j.apply_url] }; }
 for (const [id, j] of curMap) { const s = st.jobs[id] ||= { first_seen: today }; s.last_seen = today; s.last_week = cur; s.status = 'active'; delete s.removed_at;
-  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = linkStatus[id]?.status || 'unchecked'; j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
+  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? 'unverified' : (linkStatus[id]?.status || 'unchecked'); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
 const removed = [];
 for (const [id, s] of Object.entries(st.jobs)) if (!curMap.has(id) && s.status === 'active') { s.status = 'removed'; s.removed_at = today; if (prevMap.has(id)) removed.push({ ...prevMap.get(id), status: 'removed', first_seen: s.first_seen }); }
 st.updated_at = today; st.week = cur;
@@ -90,7 +108,7 @@ const names = Object.fromEntries(jobs.map(j => [j.company_slug, j.company]));
 // slices/{company}/{campus|intern}/{category}/{city}.md
 for (const co of companies) {
   const cj = jobs.filter(j => j.company_slug === co);
-  index.companies[co] = { name: names[co], total: cj.length, campus: cj.filter(j => j.job_type === '校招').length, intern: cj.filter(j => j.job_type === '实习').length, new: cj.filter(j => j.is_new).length };
+  index.companies[co] = { ...(manual[co] ? { manual: true, manual_updated: manual[co].updated, manual_stale: manual[co].stale } : {}), name: names[co], total: cj.length, campus: cj.filter(j => j.job_type === '校招').length, intern: cj.filter(j => j.job_type === '实习').length, new: cj.filter(j => j.is_new).length };
   for (const [jt, ts] of Object.entries(TYPES)) for (const [c, cs] of Object.entries(CATS)) {
     const l = cj.filter(j => j.job_type === jt && j.category === c); if (!l.length) continue;
     const cities = {};
@@ -118,7 +136,7 @@ for (const [cyS, v] of Object.entries(cityAll)) for (const [jt, ts] of Object.en
 index.company_pages = [];
 for (const co of companies) {
   const f = `companies/${co}.md`, ss = index.slices.filter(s => s.company === co), c = index.companies[co];
-  const lines = [`# ${names[co]} 总览（在招 ${c.total}：校招 ${c.campus}，实习 ${c.intern}）`, '', NOTE, '', '没列出的 类型×类别 组合就是没有岗位，不要再猜路径。', ''];
+  const lines = [`# ${names[co]} 总览（在招 ${c.total}：校招 ${c.campus}，实习 ${c.intern}）`, '', ...(manual[co] ? [`> ${manualTag(co)}。该公司无自动抓取器，靠浏览器手动更新；链接统一「链接待核」，岗位要求为空时请到官网链接查看。`, ''] : []), NOTE, '', '没列出的 类型×类别 组合就是没有岗位，不要再猜路径。', ''];
   for (const [jt, ts] of Object.entries(TYPES)) for (const [cn, cs] of Object.entries(CATS)) {
     const l = ss.filter(s => s.job_type === ts && s.category === cs).sort((a, b) => b.count - a.count); if (!l.length) continue;
     const n = jobs.filter(j => j.company_slug === co && j.job_type === jt && j.category === cn).length;
@@ -145,13 +163,13 @@ for (const y of years) for (const [jt, ts] of Object.entries(TYPES)) for (const 
   index.changes.push({ week: cur, new: nw.length, removed: removed.length, pages }); }
 
 // jobs/{id}.md：在招 + 历史下架（从最近含该 id 的周数据重建）
-const cache = {}; const findOld = id => { for (const w of [...weeks].reverse()) { const m = cache[w] ||= dedup(load(w))[0]; if (m.has(id)) return m.get(id); } };
+const cache = {}; const findOld = id => { for (const w of [...weeks].reverse()) { const m = cache[w] ||= dedup(loadCarry(w))[0]; if (m.has(id)) return m.get(id); } };
 const detail = (j, s) => { const f = `jobs/${j.id}.md`; out(f, [`# ${j.title}`, '',
   `- id: ${j.id}`, `- 公司: ${j.company}${j.business_unit.length ? `（${j.business_unit.join('、')}）` : ''}`, `- job_type: ${j.job_type}`, `- 类别: ${j.category}`,
-  `- 城市: ${j.city.join('、') || '未知'}`, `- status: ${s.status}${s.status === 'removed' ? `（${s.removed_at} 起未在官网出现，勿投）` : ''}`,
+  `- 城市: ${j.city.join('、') || '未知'}${j.city_note ? '（' + j.city_note + '）' : ''}`, ...(j.source === 'manual-browser' ? [`- 来源: ${manualTag(j.company_slug) || '手动更新'}`] : []), `- status: ${s.status}${s.status === 'removed' ? `（${s.removed_at} 起未在官网出现，勿投）` : ''}`,
   `- 届别 grad_year: ${j.grad_year ? j.grad_year.join('、') + '届' : '未注明'}`, ...(j.job_type === '实习' ? [`- 实习时长 intern_duration: ${j.intern_duration || '未注明'}`] : []), `- 首次出现: ${s.first_seen}　最近出现: ${s.last_seen || '-'}`, `- 截止: ${j.deadline || '以官网为准'}`,
   `- 投递: ${j.apply_url}${(linkStatus[j.id]?.status) === 'invalid' ? '（❌疑似下架：官网详情接口查不到该岗位）' : (linkStatus[j.id]?.status) === 'unverified' ? '（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）' : ''}`, '',
-  '## 岗位要求', '', String(j.requirements || '（官网未提供）').trim(), '', `[总目录](${rel(f, 'llms.txt')})`, ''].join('\n'), 1); };
+  '## 岗位要求', '', String(j.requirements || (j.source === 'manual-browser' ? '（手动抄录未含岗位要求，请点上面的投递链接到官网查看）' : '（官网未提供）')).trim(), '', `[总目录](${rel(f, 'llms.txt')})`, ''].join('\n'), 1); };
 for (const j of jobs) detail(j, st.jobs[j.id]);
 for (const [id, s] of Object.entries(st.jobs)) if (s.status === 'removed') { const j = findOld(id); if (j) detail(j, s); }
 index.jobs = written.filter(w => w.path.startsWith('jobs/')).length;
@@ -161,12 +179,12 @@ const cnt = (co, ts, cs) => index.slices.filter(s => s.company === co && s.job_t
 const cityCounts = Object.entries(cityAll).map(([k, v]) => [k, cityName(k), v.l.length]).sort((a, b) => b[2] - a[2]);
 const llms = [`# 大厂 AI产品/产品/运营 校招·实习 JD 库`, '',
   `> 每周一由 GitHub Actions 预计算的静态切片。数据周 ${cur}，${today} 生成。在招 ${jobs.length}，本周新增 ${jobs.filter(j => j.is_new).length}，下架 ${removed.length}。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。`, '',
-  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。', '4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。', '5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。', '6. 只指定公司、没给城市：先读 companies/{company}.md（公司总览，含各城市切片链接），不要读 index.json。', '7. 只给了届别：读 by-year/{yy}/{campus|intern}-{category}.md（只含官网明确写了届别的岗位）。', '8. 城市写到区县（如「深圳南山」「北京海淀」）按所属城市 slug 读；不在下面枚举里的城市/公司就是库里没有，直接说没有，不要编。', '',
+  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。', '4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。', '5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。', '6. 只指定公司、没给城市：先读 companies/{company}.md（公司总览，含各城市切片链接），不要读 index.json。', '7. 只给了届别：读 by-year/{yy}/{campus|intern}-{category}.md（只含官网明确写了届别的岗位）。', '7b. 公司后标了「手动更新 · 最后更新 YYYY-MM-DD」的（如拼多多）：超过 14 天没更新要提醒用户数据可能已过期；岗位要求为空时引导用户点官网链接自己看。', '8. 城市写到区县（如「深圳南山」「北京海淀」）按所属城市 slug 读；不在下面枚举里的城市/公司就是库里没有，直接说没有，不要编。', '',
   '## 路径模板', '- slices/{company}/{campus|intern}/{category}/{city}.md', '- by-city/{city}/{campus|intern}-{category}.md', `- changes/${cur}.md（本周新增/下架）`, '- companies/{company}.md（公司总览）', '- by-year/{yy}/{campus|intern}-{category}.md（按届别，yy 如 27、28）', '- jobs/{company}-{postId}.md', '- index.json（全部文件清单与计数）', '',
   '## 枚举', `- category: ai-product=AI产品, product=产品, operations=运营`, '- job_type: campus=校招, intern=实习',
   `- city: ${cityCounts.map(([k, n, c]) => `${k}=${n}(${c})`).join(', ')}`, '',
   `- by-year: ${years.map(y=>y.slice(2)).join(', ')}（有届别列表的届）`, '',
-  '## 公司（校招/实习 岗位数）', ...companies.map(co => `- ${co}=${names[co]}：校招 ${index.companies[co].campus}，实习 ${index.companies[co].intern}`), ''].join('\n');
+  '## 公司（校招/实习 岗位数）', ...companies.map(co => `- ${co}=${names[co]}：校招 ${index.companies[co].campus}，实习 ${index.companies[co].intern}${manual[co] ? '（' + manualTag(co) + '）' : ''}`), ''].join('\n');
 out('llms.txt', llms, 0);
 index.files = written.length + 1;
 out('index.json', JSON.stringify(index), 0);

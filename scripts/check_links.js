@@ -116,7 +116,7 @@ const DETAIL = {
       if (b.code === 0) return !!b.data?.id; if (b.code === 60015) return false; throw new Error('code ' + b.code); }; })(),
 };
 // 无法逐条校验的公司：统一链接待核
-const PENDING = { didi: 'list-api-encrypted' };   // 滴滴列表接口加密，暂无逐条校验办法
+const PENDING = { didi: 'list-api-encrypted', pinduoduo: 'manual-browser' };   // 拼多多：手动来源，接口要 anti_content   // 滴滴列表接口加密，暂无逐条校验办法
 const busy = {}, waitq = {};
 const acquire = s => { if (!LIMIT[s]) return Promise.resolve(); if ((busy[s] || 0) < LIMIT[s]) { busy[s] = (busy[s] || 0) + 1; return Promise.resolve(); } return new Promise(r => (waitq[s] ||= []).push(r)); };
 const release = s => { if (!LIMIT[s]) return; const n = waitq[s]?.shift(); if (n) n(); else busy[s]--; };

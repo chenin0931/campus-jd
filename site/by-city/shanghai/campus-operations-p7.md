@@ -1,11 +1,14 @@
-# 上海 · 校招 · 运营 · 全部公司（284 个岗位）（第 7/7 页）
+# 上海 · 校招 · 运营 · 全部公司（290 个岗位）（第 7/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [得物 67](../../slices/dewu/campus/operations/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/operations/shanghai.md) · [携程 10](../../slices/ctrip/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [华为 1](../../slices/huawei/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [得物 67](../../slices/dewu/campus/operations/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/operations/shanghai.md) · [携程 10](../../slices/ctrip/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [华为 1](../../slices/huawei/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 快手 | 商业化销售运营专员（2个团队） | 上海/北京 | 2026-10-27 | [1](../../jobs/kuaishou-13260.md) [2](../../jobs/kuaishou-9756.md) |
+| 快手 | 行业商家运营 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-9803.md) |
+| 美团 | 产品运营岗 | 杭州/北京/科威特城/香港/上海/西安/利雅得/广州/哈尔滨/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4696454382.md) |
 | 美团 | 城市运营管理储备岗 | 温州/苏州/北京/烟台/绍兴/沈阳/南宁/上海/兰州/成都/昆明/贵阳/珠海/长沙/银川/重庆/济南/洛阳/南昌/郑州/佛山/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697288183.md) |
 | 美团 | 大模型业务运营岗 | 北京/南通/上海 | 2026-10-27 | [详情](../../jobs/meituan-4694790192.md) |
 | 美团 | 销售运营岗 | 北京/科威特城/上海/利雅得 | 2026-10-27 | [详情](../../jobs/meituan-4695101932.md) |
@@ -23,6 +26,12 @@
 | 米哈游 | 周边电商商品运营（原神） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9149.md) |
 | 米哈游 | 周边电商运营（崩坏系列） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9148.md) |
 | 米哈游 | IP衍生品项目运营 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9147.md) |
+| 拼多多 | 合规运营管培生（上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-60266382-d957-41e4-bd5d-1713aa404759.md) |
+| 拼多多 | 商家运营（多语种优势-上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-b8035e7b-d947-4e3e-96e9-4d81316842bc.md) |
+| 拼多多 | 物流运营管培生（上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-5f91d23a-54c1-4fc1-93f7-c81af681ec84.md) |
+| 拼多多 | 消费者服务运营管培生（上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-302ef710-75f2-4e9c-bc94-244ba721d1b8.md) |
+| 拼多多 | 用户体验运营（多语种优势-上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-11ba506f-f655-4008-87f7-6c5209ea8233.md) |
+| 拼多多 | 运营管培生（上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-2294d7d0-3186-433b-95fc-d05ff85c33a8.md) |
 | 腾讯 | 行业运营 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126495480718336.md) |
 | 腾讯 | 游戏发行/运营培训生 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282032033786619905.md) |
 | 腾讯 | 员工福利运营 | 深圳/上海/香港 | 2026-10-27 | [详情](../../jobs/tencent-1284512614105555968.md) |

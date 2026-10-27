@@ -1,11 +1,12 @@
-# 上海 · 校招 · 运营 · 全部公司（284 个岗位）（第 3/7 页）
+# 上海 · 校招 · 运营 · 全部公司（290 个岗位）（第 3/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [得物 67](../../slices/dewu/campus/operations/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/operations/shanghai.md) · [携程 10](../../slices/ctrip/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [华为 1](../../slices/huawei/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [得物 67](../../slices/dewu/campus/operations/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/operations/shanghai.md) · [携程 10](../../slices/ctrip/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [华为 1](../../slices/huawei/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 内容作者运营（FR） - 剪映CapCut 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667162136992778549.md) |
 | 字节跳动 | 内容作者运营（UK） - 剪映CapCut 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667443865918130485.md) |
 | 字节跳动 | 女装行业运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668208806895356213.md) |
 | 字节跳动 | 企业文化活动运营 - 人力与管理部 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700910005920712965.md) |
@@ -45,7 +46,5 @@
 | 字节跳动 | 营销活动运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7682670479749466421.md) |
 | 字节跳动 | 用户体验运营 - 抖音生活服务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668518017689995573.md) |
 | 字节跳动 | 用户运营经理 - 抖音UGC 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667946642422843701.md) |
-| 字节跳动 | 用户增长运营（AMS） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668646542006667573.md) |
-| 字节跳动 | 用户增长运营（SEA） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668647745578404149.md) |
 
 [上一页](campus-operations-p2.md) · [下一页](campus-operations-p4.md) · [总目录](../../llms.txt)

@@ -1,11 +1,13 @@
-# 上海 · 校招 · 运营 · 全部公司（284 个岗位）（第 4/7 页）
+# 上海 · 校招 · 运营 · 全部公司（290 个岗位）（第 4/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [得物 67](../../slices/dewu/campus/operations/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/operations/shanghai.md) · [携程 10](../../slices/ctrip/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [华为 1](../../slices/huawei/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [得物 67](../../slices/dewu/campus/operations/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/operations/shanghai.md) · [携程 10](../../slices/ctrip/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [华为 1](../../slices/huawei/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 用户增长运营（AMS） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668646542006667573.md) |
+| 字节跳动 | 用户增长运营（SEA） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668647745578404149.md) |
 | 字节跳动 | 语音大模型数据运营 - AI数据与安全 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683402900953188661.md) |
 | 字节跳动 | 云基础资源运营 - 火山引擎 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667125843387156789.md) |
 | 字节跳动 | 招聘运营 - 人力与管理部 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7672609741508266293.md) |
@@ -43,8 +45,5 @@
 | 携程 | 产品运营（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036683.md) |
 | 携程 | 旅游业务培训生（业务运营）- 日语/韩语/阿拉伯语（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036642.md) |
 | 携程 | 旅游业务培训生（业务运营）-日语/韩语/泰语/粤语（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036723.md) |
-| 携程 | 旅游业务培训生（业务运营）（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036699.md) |
-| 携程 | 业务运营（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036914.md) |
-| 携程 | 业务运营（数据分析方向）（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036695.md) |
 
 [上一页](campus-operations-p3.md) · [下一页](campus-operations-p5.md) · [总目录](../../llms.txt)

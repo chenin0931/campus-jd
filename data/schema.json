@@ -37,7 +37,11 @@
         }
       },
       "requirements": {
-        "type": "string"
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "岗位要求正文；仅 source=manual-browser 时允许 null（只抄了列表），此时引导用户点官网链接查看"
       },
       "deadline": {
         "type": [
@@ -104,6 +108,21 @@
           "null"
         ],
         "description": "build 时派生（仅实习）：如「≥3个月，每周≥4天」；抽不到 null"
+      },
+      "source": {
+        "enum": [
+          "api",
+          "manual-browser"
+        ],
+        "description": "数据来源；缺省为抓取器 api"
+      },
+      "link_status": {
+        "type": "string",
+        "description": "手动来源统一「链接待核」"
+      },
+      "city_note": {
+        "type": "string",
+        "description": "城市原文说明（省级/全国多地时保留原文）"
       }
     }
   }
