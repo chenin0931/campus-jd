@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 运营 · 全部公司（103 个岗位）（第 1/3 页）
+# 深圳 · 实习 · 运营 · 全部公司（105 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 73](../../slices/bytedance/intern/operations/shenzhen.md) · [腾讯 12](../../slices/tencent/intern/operations/shenzhen.md) · [百度 10](../../slices/baidu/intern/operations/shenzhen.md) · [京东 6](../../slices/jd/intern/operations/shenzhen.md) · [美团 1](../../slices/meituan/intern/operations/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/operations/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 73](../../slices/bytedance/intern/operations/shenzhen.md) · [腾讯 12](../../slices/tencent/intern/operations/shenzhen.md) · [百度 10](../../slices/baidu/intern/operations/shenzhen.md) · [京东 6](../../slices/jd/intern/operations/shenzhen.md) · [滴滴 2](../../slices/didi/intern/operations/shenzhen.md) · [美团 1](../../slices/meituan/intern/operations/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/operations/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -46,6 +46,5 @@
 | 字节跳动 | 内容运营实习生 - TikTok Shop 〔≥6个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7664898513770055941.md) |
 | 字节跳动 | 内容运营实习生-抖音 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7618877882953615621.md) |
 | 字节跳动 | 内容运营实习生-飞书多维表格 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7641070670048659717.md) |
-| 字节跳动 | 日本内容运营（图片素材方向）实习生 - 剪映CapCut 〔≥3个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7684185488314206469.md) |
 
 [下一页](intern-operations-p2.md) · [总目录](../../llms.txt)

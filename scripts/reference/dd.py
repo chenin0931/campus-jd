@@ -37,4 +37,4 @@ for x in I:
     if (c:=cls(h)):
         out.append(rec('滴滴',t,c,[l.get('cityName') or l.get('address') or '' for l in x.get('locations') or []],x.get('jobDescription'),f"https://app.mokahr.com/apply/didiglobal/6222#/job/{x['id']}",'实习'))
 print(len(out),collections.Counter((r['job_type'],r['category']) for r in out))
-json.dump(out,open('../../data/2026-W44/didi.json','w'),ensure_ascii=False,indent=1)
+json.dump(out,open('../../staging/2026-W44/didi.json','w'),ensure_ascii=False,indent=1)

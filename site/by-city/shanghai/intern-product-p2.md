@@ -1,11 +1,12 @@
-# 上海 · 实习 · 产品 · 全部公司（144 个岗位）（第 2/4 页）
+# 上海 · 实习 · 产品 · 全部公司（151 个岗位）（第 2/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 122](../../slices/bytedance/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 122](../../slices/bytedance/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 电商搜索用户产品实习生-抖音搜索 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7522694485680228615.md) |
 | 字节跳动 | 电商推荐策略产品实习生（SEA直播方向） - TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7696463111062571317.md) |
 | 字节跳动 | 电商用户产品实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697216139231774981.md) |
 | 字节跳动 | 电商直播间用户产品实习生 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688547060120308021.md) |
@@ -44,6 +45,5 @@
 | 字节跳动 | 商业产品实习生-广告业务 〔27届 · ≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628163243531553029.md) |
 | 字节跳动 | 商业产品实习生-国际化 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7584735135502862645.md) |
 | 字节跳动 | 商业产品实习生（项目管理方向）-国际化广告创意与品牌 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7554261195529619719.md) |
-| 字节跳动 | 商业产品实习生（行业产品）-广告业务（2个团队） 〔27届〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7591390835369396485.md) [2](../../jobs/bytedance-7628548251319798021.md) |
 
 [上一页](intern-product.md) · [下一页](intern-product-p3.md) · [总目录](../../llms.txt)

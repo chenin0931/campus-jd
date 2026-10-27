@@ -25,8 +25,12 @@ const SNIPPETS = {
   baidu: async (pid, url) => { const rt = (String(url).match(/\/jobs\/detail\/([A-Z]+)\//) || [])[1] || 'GRADUATE';
     const b = await (await fetch(`https://talent.baidu.com/httservice/getPostDetail?postId=${pid}&recruitType=${rt}`, { headers: { ...UA, Referer: 'https://talent.baidu.com/jobs/list' }, signal: T() })).json();
     if (b.status === 'ok') return !!b.data?.postId; if (b.status === 'fail') return false; throw new Error('baidu ' + b.status); },
-  netease: async pid => { const host = 'campus.163.com';
-    const b = await (await fetch(`https://${host}/api/campuspc/position/getJobDetails?id=${pid}`, { headers: UA, signal: T() })).json();
+  // 网易三类链接：campus.163.com / campus.game.163.com（校招，getJobDetails：不存在 → code 200 + data null）；
+  // hr.163.com/job-detail.html（日常实习，position/query：不存在 → code 500 "系统错误"，无专门不存在码）。
+  netease: async (pid, url) => { const h = new URL(url).host;
+    if (h === 'hr.163.com') { const b = await (await fetch(`https://hr.163.com/api/hr163/position/query?id=${pid}`, { headers: UA, signal: T() })).json();
+      if (b.code === 200) return !!b.data?.id; if (b.code === 500 && b.data == null) return false; throw new Error('code ' + b.code); }
+    const b = await (await fetch(`https://${h}/api/campuspc/position/getJobDetails?id=${pid}`, { headers: UA, signal: T() })).json();
     if (b.code === 200) return !!b.data; throw new Error('code ' + b.code); },
 };
 if (typeof module !== 'undefined') module.exports = SNIPPETS;

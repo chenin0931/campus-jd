@@ -13,8 +13,8 @@ const CITY = { 北京: 'beijing', 上海: 'shanghai', 深圳: 'shenzhen', 杭州
 const normCity = c => String(c).replace(/^中国/, '').replace(/(总部|市|县|特别行政区)$/, '').trim();
 const citySlug = c => CITY[normCity(c)] || 'other';
 // postId：apply_url 中最后一段数字
-// postId：URL 含 UUID 则取 UUID；否则取最后一段 ≥3 位纯数字；再否则取最后一个路径/参数 token（小写）
+// postId：URL 含 UUID 则取 UUID；含 ?id=/&id= 数字参数则取它（网易 ...?id=4805&projectId=103 不能取 projectId）；否则取最后一段 ≥3 位纯数字；再否则取最后一个路径/参数 token（小写）
 const postId = u => { const x = String(u).split('#').at(-1) === String(u) ? String(u) : String(u);
   return (x.match(/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i) || [])[0]?.toLowerCase() ||
-    (x.match(/(\d{3,})(?!.*\d{3,})/) || [])[1] || (x.match(/.*[/=]([A-Za-z0-9][A-Za-z0-9_-]{5,})/) || [])[1]?.toLowerCase(); };
+    (x.match(/[?&]id=(\d+)/) || [])[1] || (x.match(/(\d{3,})(?!.*\d{3,})/) || [])[1] || (x.match(/.*[/=]([A-Za-z0-9][A-Za-z0-9_-]{5,})/) || [])[1]?.toLowerCase(); };
 module.exports = { COMPANY, CATS, TYPES, CITY, normCity, citySlug, postId };

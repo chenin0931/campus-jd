@@ -4,7 +4,7 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 
 ## 总览
 <!-- overview:start -->
-数据周 **2026-W44**（2026-10-27 生成）· 在招 **2560** · 本周新增 **0** · 下架 **0**
+数据周 **2026-W44**（2026-10-27 生成）· 在招 **2868** · 本周新增 **0** · 下架 **0**
 
 | 公司 | 校招 | 实习 | 合计 |
 |---|---:|---:|---:|
@@ -12,9 +12,11 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 | 蚂蚁集团 | 5 | 3 | 8 |
 | 百度 | 19 | 173 | 192 |
 | 字节跳动 | 568 | 1199 | 1767 |
+| 滴滴 | 33 | 114 | 147 |
 | 京东 | 23 | 21 | 44 |
 | 快手 | 84 | 41 | 125 |
 | 美团 | 26 | 81 | 107 |
+| 网易 | 14 | 147 | 161 |
 | 腾讯 | 14 | 21 | 35 |
 | 小红书 | 9 | 83 | 92 |
 | 小米 | 157 | 0 | 157 |
@@ -51,7 +53,7 @@ slug：category `ai-product|product|operations`；城市为拼音（`beijing`、
 ```bash
 node scripts/fetchers/bytedance.js          # 单家抓取 → data/<本周>/bytedance.json（Node 18+，无依赖）
 for f in scripts/fetchers/*.js; do node $f; done
-node scripts/check_links.js                 # 链接校验：先用官网按 id 查详情接口（腾讯、字节、小米），没有接口的公司做格式/HTTP 校验
+node scripts/check_links.js                 # 链接校验：先用官网按 id 查详情接口（除滴滴外 11 家；滴滴列表接口加密，统一记链接待核；网易日常实习接口返回通用 500 时记待核），接口异常时退回格式/HTTP 校验；--probe 每家用真/假 id 验判断逻辑
 node scripts/lib/check_links_browser.js --sample 5 --fake   # 可选：Playwright 浏览器兜底（npm i playwright；加 --write 写回）
 node scripts/build.js                       # 生成 site/，并校验：文件 ≤8KB、id 唯一、切片计数一致；不通过退出码 1
 ```

@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 产品 · 全部公司（43 个岗位）
+# 深圳 · 实习 · 产品 · 全部公司（45 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 26](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 7](../../slices/tencent/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [美团 1](../../slices/meituan/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 26](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 7](../../slices/tencent/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [滴滴 2](../../slices/didi/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [美团 1](../../slices/meituan/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -32,6 +32,8 @@
 | 字节跳动 | 收银产品经理实习生-国际支付 〔27届 · ≥3个月，每周≥3天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7606285579219880245.md) |
 | 字节跳动 | 投放策略产品实习生 - 抖音 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7673816932219062581.md) |
 | 字节跳动 | 用户产品实习生-抖音效果与创作 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7506465013847410951.md) |
+| 滴滴 | 效能平台部（2）产品实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/didi-4f8e6b43-2543-48fa-a2ff-b7a9a4383d9e.md) |
+| 滴滴 | IBG Fintech（2）产品实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/didi-1e128da0-a372-4650-8549-b46617960a52.md) |
 | 京东 | 技术产品经理 〔27届〕 | 上海/北京/宿迁/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-4910.md) |
 | 京东 | 物流产品服务 〔27届〕 | 北京/广州/深圳 | 2026-10-27 | [详情](../../jobs/jd-4920.md) |
 | 快手 | 【留用实习】策略产品经理 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-11300.md) |

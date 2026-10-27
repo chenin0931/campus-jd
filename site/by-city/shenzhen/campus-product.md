@@ -1,12 +1,12 @@
-# 深圳 · 校招 · 产品 · 全部公司（32 个岗位）
+# 深圳 · 校招 · 产品 · 全部公司（34 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 19](../../slices/bytedance/campus/product/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/product/shenzhen.md) · [百度 2](../../slices/baidu/campus/product/shenzhen.md) · [京东 2](../../slices/jd/campus/product/shenzhen.md) · [美团 2](../../slices/meituan/campus/product/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/product/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 19](../../slices/bytedance/campus/product/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/product/shenzhen.md) · [百度 2](../../slices/baidu/campus/product/shenzhen.md) · [滴滴 2](../../slices/didi/campus/product/shenzhen.md) · [京东 2](../../slices/jd/campus/product/shenzhen.md) · [美团 2](../../slices/meituan/campus/product/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/product/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 蚂蚁集团 | 产品解决方案 ⚠️链接待核 | 深圳/香港 | 2026-10-27 | [详情](../../jobs/antgroup-260721010984484.md) |
+| 蚂蚁集团 | 产品解决方案 | 深圳/香港 | 2026-10-27 | [详情](../../jobs/antgroup-260721010984484.md) |
 | 百度 | 深圳-产品经理(日语)(J100796) | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-2ce00a5c-20eb-42cf-a4d9-200cc904386f.md) |
 | 百度 | 深圳-产品经理(J100825) | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-ebb64b78-0b20-4e6f-8866-e494eb0aee6d.md) |
 | 字节跳动 | 策略产品经理 - 红果短剧 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7669676815537572101.md) |
@@ -28,6 +28,8 @@
 | 字节跳动 | 用户产品经理 - 今日头条 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7669672681320712453.md) |
 | 字节跳动 | 用户钱包产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585547041802549.md) |
 | 字节跳动 | 用户账户产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585566877436213.md) |
+| 滴滴 | 27届秋招-产品助理（国际化金融-巴西信贷-葡语） 〔27届〕 ⚠️链接待核 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/didi-5889dce0-0494-442b-9776-8b885ec0c2d6.md) |
+| 滴滴 | 27届秋招-产品助理（国际化金融-巴西支付-英语/葡语） 〔27届〕 ⚠️链接待核 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/didi-a0e29044-eb0d-4ae8-aa60-0e754a8de68c.md) |
 | 京东 | 技术产品经理 〔27届〕 | 上海/北京/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-9085.md) |
 | 京东 | 金融产品经理 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-9122.md) |
 | 快手 | 策略产品培训生 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13192.md) |

@@ -1,11 +1,12 @@
-# 上海 · 实习 · 运营 · 全部公司（351 个岗位）（第 4/8 页）
+# 上海 · 实习 · 运营 · 全部公司（363 个岗位）（第 4/9 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 288](../../slices/bytedance/intern/operations/shanghai.md) · [小红书 36](../../slices/xiaohongshu/intern/operations/shanghai.md) · [美团 11](../../slices/meituan/intern/operations/shanghai.md) · [京东 7](../../slices/jd/intern/operations/shanghai.md) · [腾讯 6](../../slices/tencent/intern/operations/shanghai.md) · [百度 2](../../slices/baidu/intern/operations/shanghai.md) · [快手 1](../../slices/kuaishou/intern/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 288](../../slices/bytedance/intern/operations/shanghai.md) · [小红书 36](../../slices/xiaohongshu/intern/operations/shanghai.md) · [美团 11](../../slices/meituan/intern/operations/shanghai.md) · [京东 7](../../slices/jd/intern/operations/shanghai.md) · [网易 7](../../slices/netease/intern/operations/shanghai.md) · [腾讯 6](../../slices/tencent/intern/operations/shanghai.md) · [滴滴 5](../../slices/didi/intern/operations/shanghai.md) · [百度 2](../../slices/baidu/intern/operations/shanghai.md) · [快手 1](../../slices/kuaishou/intern/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 欧洲用户增长运营实习生 - TikTok Shop 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7699009723102300421.md) |
 | 字节跳动 | 品牌广告产品策略运营实习生-Global Business Solutions 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7661976908746967301.md) |
 | 字节跳动 | 品牌活动运营实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675625697136593157.md) |
 | 字节跳动 | 品牌商家策略运营实习生 - TikTok Shop 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7695666354910120245.md) |
@@ -45,7 +46,5 @@
 | 字节跳动 | 生活休闲运营（UGC中台方向）实习生 - 抖音运营 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673018975856642357.md) |
 | 字节跳动 | 生态伙伴招商AI运营实习生-飞书 〔27届 · ≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7657158351110326581.md) |
 | 字节跳动 | 生态治理运营实习生-TikTok直播 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7629650719462721797.md) |
-| 字节跳动 | 市场活动运营实习生-商业化 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7644760915019450677.md) |
-| 字节跳动 | 数据分析实习生（安全模型运营方向）-国际化 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7565811093520714037.md) |
 
 [上一页](intern-operations-p3.md) · [下一页](intern-operations-p5.md) · [总目录](../../llms.txt)

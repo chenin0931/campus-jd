@@ -19,7 +19,7 @@ for pid,(h,jt,bu) in P.items():
         if d.get('lastPage') or p>=d['pages']: break
         p+=1
 print(raw,len(out),collections.Counter((r['job_type'],r['category']) for r in out))
-json.dump(out,open('../../data/2026-W44/netease.json','w'),ensure_ascii=False,indent=1)
+json.dump(out,open('../../staging/2026-W44/netease.json','w'),ensure_ascii=False,indent=1)
 # 日常实习 (navigation link hr.163.com/job-list.html?workType=1) -> POST hr.163.com/api/hr163/position/queryPage
 p=1;n0=len(out)
 while True:
@@ -31,4 +31,4 @@ while True:
     if p>=d['pages']:break
     p+=1
 print('daily interns kept',len(out)-n0,collections.Counter((r['job_type'],r['category']) for r in out))
-json.dump(out,open('../../data/2026-W44/netease.json','w'),ensure_ascii=False,indent=1)
+json.dump(out,open('../../staging/2026-W44/netease.json','w'),ensure_ascii=False,indent=1)

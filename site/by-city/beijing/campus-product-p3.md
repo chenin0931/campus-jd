@@ -1,8 +1,8 @@
-# 北京 · 校招 · 产品 · 全部公司（184 个岗位）（第 3/4 页）
+# 北京 · 校招 · 产品 · 全部公司（188 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 99](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 99](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -21,6 +21,10 @@
 | 字节跳动 | CoreHR产品经理 - 集团信息系统 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668219372510955829.md) |
 | 字节跳动 | Payroll产品经理 - 集团信息系统 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668231942056282421.md) |
 | 字节跳动 | People产品设计 - 集团信息系统（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7668191629681559861.md) [2](../../jobs/bytedance-7669703464071596341.md) |
+| 滴滴 | 27届秋招-产品助理（国际化出行-西语/英语） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-46f7a554-3a95-4b34-8f4c-8bd8423c3a74.md) |
+| 滴滴 | 27届秋招-产品助理（国际化金融-西语） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-7a754c6b-393e-4c3d-88ee-30274c0554cb.md) |
+| 滴滴 | 27届秋招-数据产品助理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-f2e8e2e1-5761-41f2-abeb-8cd8e1b77e83.md) |
+| 滴滴 | 27届秋招-数据产品助理（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-aaa2328e-b32c-4152-884e-ddd9097add4f.md) |
 | 京东 | 产品方向 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9216.md) |
 | 京东 | 技术产品经理 〔27届〕 | 上海/北京/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-9085.md) |
 | 京东 | 金融产品经理 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-9122.md) |
@@ -50,11 +54,5 @@
 | 腾讯 | 产品体验设计 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126425985295360.md) |
 | 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284317600528245760.md) |
 | 腾讯 | CSIG技术产品商务培训生 | 青岛/深圳/北京/上海/广州/成都/武汉/杭州/南京/香港/西安/重庆/厦门 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182210.md) |
-| 小米 | 安全策略产品经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924090912065811.md) |
-| 小米 | 保险产品经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670930676523321619.md) |
-| 小米 | 策略产品经理 〔27届〕 | 北京/南京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923739324287273.md) |
-| 小米 | 产品操盘专员-手机 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670884567754901806.md) |
-| 小米 | 产品操盘专员-手机-阿拉伯语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670884383143250202.md) |
-| 小米 | 产品操盘专员-手机-俄语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670884590122699054.md) |
 
 [上一页](campus-product-p2.md) · [下一页](campus-product-p4.md) · [总目录](../../llms.txt)
