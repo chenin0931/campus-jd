@@ -1,11 +1,17 @@
-# 北京 · 实习 · 运营 · 全部公司（553 个岗位）（第 9/13 页）
+# 北京 · 实习 · 运营 · 全部公司（557 个岗位）（第 9/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI技术运营实习生-大模型数据服务中心 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7600237416825964805.md) |
+| 字节跳动 | AI漫剧内容运营实习生-广告业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7631461146910066997.md) |
+| 字节跳动 | AI内容种草&评测运营实习生 - AI数据与安全 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7674953097318304005.md) |
+| 字节跳动 | AI生态和赛事运营实习生-抖音 〔≥5个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7613656611042724149.md) |
+| 字节跳动 | AI数据产品运营实习生（数据分析方向）-国际化 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7513775416512334088.md) |
+| 字节跳动 | AI数据产品运营实习生（质量管控方向）-国际化 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7579515111615547701.md) |
 | 字节跳动 | AI数据服务平台产品运营实习生-国际化 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7579823295375493429.md) |
 | 字节跳动 | AI数据服务平台产品运营实习生-TikTok 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7623319113452308741.md) |
 | 字节跳动 | AI数据项目运营（语言方向）实习生 - TikTok 〔≥3个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680429860201171253.md) |
@@ -39,11 +45,5 @@
 | 滴滴 | 国际事业群IBG-策略运营实习生（6） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-6d41d188-4836-47c9-9ab7-f4f7421efbe6.md) |
 | 滴滴 | 国际事业群IBG-产品与用户运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-27bb77d0-64d1-4c3f-8c02-f24896f89c86.md) |
 | 滴滴 | 国际事业群IBG-产品与用户运营实习生  二 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-14689ef2-3ada-40a4-bbef-4b72e02a45c9.md) |
-| 滴滴 | 国际事业群IBG-产品与用户运营实习生（9） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-9692ff93-6168-4431-afde-a649fd99ad35.md) |
-| 滴滴 | 国际事业群IBG-产品运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-5c7b154e-95bc-42b3-a491-2033c8c631f7.md) |
-| 滴滴 | 国际事业群IBG-商家营销运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-4c746924-0378-48e8-9d7c-b836f9f2470b.md) |
-| 滴滴 | 国际事业群IBG-数据运营实习生（6） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-1731f427-b076-434d-a021-f778d8563f51.md) |
-| 滴滴 | 国际事业群IBG-销售运营实习生（商机运营方向） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-189f6082-9fdc-4542-9d6f-25414acd5bee.md) |
-| 滴滴 | 国际事业群IBG-运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-2b2ba4e8-d252-44fc-ba44-db0370bb6a8e.md) |
 
 [上一页](intern-operations-p8.md) · [下一页](intern-operations-p10.md) · [总目录](../../llms.txt)

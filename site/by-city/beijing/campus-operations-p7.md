@@ -1,11 +1,15 @@
-# 北京 · 校招 · 运营 · 全部公司（339 个岗位）（第 7/7 页）
+# 北京 · 校招 · 运营 · 全部公司（340 个岗位）（第 7/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 170](../../slices/bytedance/campus/operations/beijing.md) · [小米 55](../../slices/xiaomi/campus/operations/beijing.md) · [快手 47](../../slices/kuaishou/campus/operations/beijing.md) · [京东 20](../../slices/jd/campus/operations/beijing.md) · [美团 17](../../slices/meituan/campus/operations/beijing.md) · [滴滴 13](../../slices/didi/campus/operations/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/beijing.md) · [百度 5](../../slices/baidu/campus/operations/beijing.md) · [腾讯 4](../../slices/tencent/campus/operations/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 170](../../slices/bytedance/campus/operations/beijing.md) · [小米 55](../../slices/xiaomi/campus/operations/beijing.md) · [快手 47](../../slices/kuaishou/campus/operations/beijing.md) · [京东 20](../../slices/jd/campus/operations/beijing.md) · [美团 17](../../slices/meituan/campus/operations/beijing.md) · [滴滴 13](../../slices/didi/campus/operations/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/beijing.md) · [百度 5](../../slices/baidu/campus/operations/beijing.md) · [腾讯 4](../../slices/tencent/campus/operations/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/beijing.md) · [华为 1](../../slices/huawei/campus/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 小红书 | 【2027校招】体验运营 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22525.md) |
+| 小红书 | 【2027校招】AI治理运营 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22523.md) |
+| 小红书 | 【2027校招】rednote策略运营 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22504.md) |
+| 小红书 | 【2027校招】rednote全球内容运营/Global Content Operations | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22000.md) |
 | 小米 | 备件运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670884989014493491.md) |
 | 小米 | 备件运营（备件逆向坏品处理方向） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885350293899546.md) |
 | 小米 | 策略运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671293483919853850.md) |

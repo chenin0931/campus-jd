@@ -1,8 +1,8 @@
-# 深圳 · 实习 · AI产品 · 全部公司（25 个岗位）
+# 深圳 · 实习 · AI产品 · 全部公司（28 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 21](../../slices/bytedance/intern/ai-product/shenzhen.md) · [百度 2](../../slices/baidu/intern/ai-product/shenzhen.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 21](../../slices/bytedance/intern/ai-product/shenzhen.md) · [百度 2](../../slices/baidu/intern/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/intern/ai-product/shenzhen.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shenzhen.md) · [vivo 1](../../slices/vivo/intern/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -28,7 +28,10 @@
 | 字节跳动 | AI互动产品实习生 - 抖音社交与互动 〔≥6个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7688631333216045317.md) |
 | 字节跳动 | AI平台产品实习生（商业安全方向） - 广告业务 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7683448753924163893.md) |
 | 字节跳动 | AIGC产品实习生（创作方向）-抖音 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7623733460372343045.md) |
+| OPPO | 互联网产品经理（AI Coding方向） 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1725.md) |
+| OPPO | AI产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1606.md) |
 | 腾讯 | AI产品经理 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1310631402664067072.md) |
 | 腾讯 | AI产品经理 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284862486247711744.md) |
+| vivo | AI产品规划经理（深圳）-实习 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-cf823947-e640-43f9-be9f-d00e63cd9b63.md) |
 
 [总目录](../../llms.txt)

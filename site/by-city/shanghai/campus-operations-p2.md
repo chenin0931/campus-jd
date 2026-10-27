@@ -1,11 +1,24 @@
-# 上海 · 校招 · 运营 · 全部公司（182 个岗位）（第 2/5 页）
+# 上海 · 校招 · 运营 · 全部公司（284 个岗位）（第 2/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [得物 67](../../slices/dewu/campus/operations/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/operations/shanghai.md) · [携程 10](../../slices/ctrip/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [华为 1](../../slices/huawei/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 风控治理运营 - 广告业务 〔27届〕 | 杭州/上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665594404154214709.md) |
+| 字节跳动 | 服饰美妆类目商业化运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685608383439325445.md) |
+| 字节跳动 | 服饰KA行业运营（女装） - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667952201712585013.md) |
+| 字节跳动 | 服务策略运营 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667934630994446645.md) |
+| 字节跳动 | 广告产品运营 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669645516338645301.md) |
+| 字节跳动 | 广告产品运营 - 规模化增长 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668229518201456901.md) |
+| 字节跳动 | 广告产品运营 - 国际化电商广告 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668247298219018501.md) |
+| 字节跳动 | 广告产品运营 - 国际化商业安全 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668229503697619253.md) |
+| 字节跳动 | 广告履约运营 - 商业化 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669688946746165557.md) |
+| 字节跳动 | 国际商业化产品运营 - Pangle 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667845384858618117.md) |
+| 字节跳动 | 合规运营 - 国际支付 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667889676602149125.md) |
+| 字节跳动 | 护肤行业运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668297905238034741.md) |
+| 字节跳动 | 家纺日百行业运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683889260061739269.md) |
 | 字节跳动 | 家装家具行业运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683882817373587765.md) |
 | 字节跳动 | 家装C端产品运营 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669645620761020725.md) |
 | 字节跳动 | 教育培训行业运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683433731350857989.md) |
@@ -33,20 +46,5 @@
 | 字节跳动 | 内容运营（热点策划方向） - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673822066950539525.md) |
 | 字节跳动 | 内容作者运营(DE) - 剪映CapCut 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667165600451725573.md) |
 | 字节跳动 | 内容作者运营（FR） - 剪映CapCut 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667162136992778549.md) |
-| 字节跳动 | 内容作者运营（UK） - 剪映CapCut 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667443865918130485.md) |
-| 字节跳动 | 女装行业运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668208806895356213.md) |
-| 字节跳动 | 企业文化活动运营 - 人力与管理部 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700910005920712965.md) |
-| 字节跳动 | 千川运营策略 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685725884202404101.md) |
-| 字节跳动 | 渠道策略运营 - 商业化 〔27届〕 | 北京/上海/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7669691566811089157.md) |
-| 字节跳动 | 人力运营 - 人力与管理部 〔27届〕 | 北京/上海/成都 | 2026-10-27 | [详情](../../jobs/bytedance-7667395350599125253.md) |
-| 字节跳动 | 乳饮冲调行业运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685765534395042053.md) |
-| 字节跳动 | 商家策略运营 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669263051565435189.md) |
-| 字节跳动 | 商家策略运营经理 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668568596697581829.md) |
-| 字节跳动 | 商家体验运营 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7699025234063755525.md) |
-| 字节跳动 | 商家运营 - 抖音生活服务 〔27届〕 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7685328587668834565.md) |
-| 字节跳动 | 商品信息运营 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668569169417668869.md) |
-| 字节跳动 | 商业化广告产品运营（交易支付方向） - Global Business Solutions 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673078220330256645.md) |
-| 字节跳动 | 生态内容研判运营 - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670575044343367941.md) |
-| 字节跳动 | 食品生鲜类目商业化运营 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685612033076857093.md) |
 
 [上一页](campus-operations.md) · [下一页](campus-operations-p3.md) · [总目录](../../llms.txt)

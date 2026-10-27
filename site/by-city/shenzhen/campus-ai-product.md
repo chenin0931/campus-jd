@@ -1,8 +1,8 @@
-# 深圳 · 校招 · AI产品 · 全部公司（29 个岗位）
+# 深圳 · 校招 · AI产品 · 全部公司（31 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 25](../../slices/bytedance/campus/ai-product/shenzhen.md) · [美团 2](../../slices/meituan/campus/ai-product/shenzhen.md) · [阿里巴巴 1](../../slices/alibaba/campus/ai-product/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 25](../../slices/bytedance/campus/ai-product/shenzhen.md) · [美团 2](../../slices/meituan/campus/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/campus/ai-product/shenzhen.md) · [阿里巴巴 1](../../slices/alibaba/campus/ai-product/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -34,6 +34,8 @@
 | 字节跳动 | AI轻应用产品经理（抖音AI产品人才校招） - 抖音直播 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667854712818174261.md) |
 | 美团 | AI产品经理岗 | 北京/上海/成都/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697309845.md) |
 | 美团 | AI产品Builder | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4696304163.md) |
+| OPPO | 互联网产品经理（AI方向） 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1825.md) |
+| OPPO | AI产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1839.md) |
 | 腾讯 | AI产品经理 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126456553382912.md) |
 
 [总目录](../../llms.txt)

@@ -187,7 +187,7 @@ for (const co of companies) for (const ts of Object.values(TYPES)) for (const cs
   const want = jobs.filter(j => j.company_slug === co && TYPES[j.job_type] === ts && CATS[j.category] === cs).length;
   const sl = index.slices.filter(s => s.company === co && s.job_type === ts && s.category === cs);
   // 城市切片按 id 求并集应等于该组岗位数
-  const u = new Set(); for (const s of sl) for (const p of s.pages) for (const m of fs.readFileSync(path.join(SITE, p), 'utf8').matchAll(/jobs\/([a-z0-9_-]+)\.md/g)) u.add(m[1]);
+  const u = new Set(); for (const s of sl) for (const p of s.pages) for (const m of fs.readFileSync(path.join(SITE, p), 'utf8').matchAll(/jobs\/([A-Za-z0-9_-]+)\.md/g)) u.add(m[1]);
   if (u.size !== want) errs.push(`计数不一致 ${co}/${ts}/${cs}: 数据 ${want}，切片 ${u.size}`);
 }
 const missing = ids.filter(id => !fs.existsSync(path.join(SITE, 'jobs', id + '.md'))); if (missing.length) errs.push(`缺详情页 ${missing.length}`);

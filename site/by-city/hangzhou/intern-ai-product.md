@@ -1,8 +1,8 @@
-# 杭州 · 实习 · AI产品 · 全部公司（26 个岗位）
+# 杭州 · 实习 · AI产品 · 全部公司（28 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 17](../../slices/bytedance/intern/ai-product/hangzhou.md) · [网易 7](../../slices/netease/intern/ai-product/hangzhou.md) · [腾讯 1](../../slices/tencent/intern/ai-product/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ai-product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 17](../../slices/bytedance/intern/ai-product/hangzhou.md) · [网易 7](../../slices/netease/intern/ai-product/hangzhou.md) · [vivo 2](../../slices/vivo/intern/ai-product/hangzhou.md) · [腾讯 1](../../slices/tencent/intern/ai-product/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ai-product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -24,12 +24,14 @@
 | 字节跳动 | AI平台产品实习生 - Data AML 〔≥4个月，每周≥4天〕 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7683898217184725301.md) |
 | 网易 | 【精英实习】工程机械具身智能产品经理 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-77976.md) |
 | 网易 | 【精英实习】工程机械智能化硬件产品经理 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-77975.md) |
-| 网易 | 产品精英实习生（AI创新方向） 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78713.md) |
+| 网易 | 产品精英实习生（AI创新方向） 〔27/28届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78713.md) |
 | 网易 | 游戏AI产品策划实习生 〔26/27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78884.md) |
 | 网易 | AI 内容产品实习生 〔≥4个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-77991.md) |
 | 网易 | AI产品策划实习生（游戏AI 竞技机器人方向） 〔≥4个月〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-50960.md) |
 | 网易 | AI社交产品市场推广实习-日语方向 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79208.md) |
 | 腾讯 | AI产品经理 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284862486247711744.md) |
+| vivo | AI产品经理-杭州实习 〔≥3个月〕 | 杭州 | 2026-10-27 | [详情](../../jobs/vivo-73d1af9f-17fc-4a00-ac02-72a2f7f8ec15.md) |
+| vivo | AI产品经理(平台产品方向)-实习 | 杭州 | 2026-10-27 | [详情](../../jobs/vivo-4c86514f-0bb8-4753-b98b-b2127a3cf15f.md) |
 | 小红书 | 智能体Agent Infra 产品经理实习生 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20205.md) |
 
 [总目录](../../llms.txt)

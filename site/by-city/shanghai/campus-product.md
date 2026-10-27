@@ -1,14 +1,15 @@
-# 上海 · 校招 · 产品 · 全部公司（91 个岗位）（第 1/3 页）
+# 上海 · 校招 · 产品 · 全部公司（113 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 81](../../slices/bytedance/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 81](../../slices/bytedance/campus/product/shanghai.md) · [得物 19](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 百度 | 上海-策略产品经理(J100673) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-b1537e9d-99b2-4f5c-a546-559d5c5a8718.md) |
 | 百度 | 上海-商业产品经理(J100706) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-b7532741-3f9d-4ee6-9446-a76b5413eb17.md) |
 | 百度 | 上海-用户产品经理(J101084) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-950150b6-f8d8-454e-8cc8-88a2b046e96a.md) |
+| 哔哩哔哩 | 增长策略产品经理【2027届】 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30712.md) |
 | 字节跳动 | 榜单产品经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668575132492417333.md) |
 | 字节跳动 | 策略产品经理 - 抖音生活服务 〔27届〕 | 北京/上海/成都 | 2026-10-27 | [详情](../../jobs/bytedance-7668576797001664821.md) |
 | 字节跳动 | 产品经理 - 业务中台 〔27届〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667380186237716741.md) |
@@ -48,7 +49,5 @@
 | 字节跳动 | 巨量千川广告策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680458256896690485.md) |
 | 字节跳动 | 巨量千川客户策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668302051415361845.md) |
 | 字节跳动 | 巨量千川流量策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668303337959819573.md) |
-| 字节跳动 | 流量策略产品经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665921870118603061.md) |
-| 字节跳动 | 内容产品 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668575132089583925.md) |
 
 [下一页](campus-product-p2.md) · [总目录](../../llms.txt)

@@ -1,11 +1,22 @@
-# 上海 · 实习 · AI产品 · 全部公司（93 个岗位）（第 3/3 页）
+# 上海 · 实习 · AI产品 · 全部公司（102 个岗位）（第 3/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 83](../../slices/bytedance/intern/ai-product/shanghai.md) · [小红书 4](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [美团 2](../../slices/meituan/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 83](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 6](../../slices/bilibili/intern/ai-product/shanghai.md) · [小红书 4](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [米哈游 3](../../slices/mihoyo/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [美团 2](../../slices/meituan/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AIGC商业产品经理实习生-国际化（2个团队） 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7516809943816325384.md) [2](../../jobs/bytedance-7498320552189380882.md) |
+| 字节跳动 | AIGC商业产品实习生-国际化（3个团队） 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7523068361303935239.md) [2](../../jobs/bytedance-7497166212713351432.md) [3](../../jobs/bytedance-7525348347533068552.md) |
+| 字节跳动 | Aime产品实习生 - Aime 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7641979186526456069.md) |
+| 字节跳动 | Feed产品实习生（跨语言AI方向）-TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7612480968992065797.md) |
+| 美团 | 大模型平台产品实习生 〔26/27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-2836792916.md) |
+| 美团 | AI产品实习 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4790166200.md) |
+| 米哈游 | 国际化产品反馈与用户管理实习生（AI技术应用方向） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8397.md) |
+| 米哈游 | AI 产品实习生（发行方向） 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9702.md) |
+| 米哈游 | AI 创新产品实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8526.md) |
+| 腾讯 | AI产品经理 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1310631402664067072.md) |
+| 腾讯 | AI产品经理 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284862486247711744.md) |
 | 小红书 | 【Ace顶尖实习生】小红书AI × 社区 RPT产品培训生 〔27/28届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20413.md) |
 | 小红书 | 智能体Agent Infra 产品经理实习生 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20205.md) |
 | 小红书 | AI 对话策略产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22508.md) |

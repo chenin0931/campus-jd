@@ -1,13 +1,19 @@
-# 上海 · 实习 · AI产品 · 全部公司（93 个岗位）（第 1/3 页）
+# 上海 · 实习 · AI产品 · 全部公司（102 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 83](../../slices/bytedance/intern/ai-product/shanghai.md) · [小红书 4](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [美团 2](../../slices/meituan/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 83](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 6](../../slices/bilibili/intern/ai-product/shanghai.md) · [小红书 4](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [米哈游 3](../../slices/mihoyo/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [美团 2](../../slices/meituan/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 百度 | Agent产品实习生（J105730） | 上海 | 2026-10-27 | [详情](../../jobs/baidu-8930fd37-ded0-439d-b859-446bbc09ddd8.md) |
 | 百度 | AI短视频产品实习生（J104973） | 上海 | 2026-10-27 | [详情](../../jobs/baidu-b0af69c1-52cf-4c39-b788-a04fb489ddf2.md) |
+| 哔哩哔哩 | 产品经理实习生（创作服务AI提效方向） 〔≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29294.md) |
+| 哔哩哔哩 | AI产品经理实习生（语音） 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28175.md) |
+| 哔哩哔哩 | AI产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28157.md) |
+| 哔哩哔哩 | AI创作产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30981.md) |
+| 哔哩哔哩 | AI数据消费产品实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30416.md) |
+| 哔哩哔哩 | AI玩法产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30970.md) |
 | 字节跳动 | 产品内容营销（AI Agent方向）实习生 - 飞书 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7641527999201184005.md) |
 | 字节跳动 | 产品设计（AI方向）实习生-飞书设计 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7611826461696330037.md) |
 | 字节跳动 | 产品实习生（数据智能体方向）-数据平台 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7554289793937606930.md) |
@@ -42,12 +48,5 @@
 | 字节跳动 | AI产品实习生 - 数据平台 〔≥3个月，每周≥4天〕 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7670443664103786805.md) |
 | 字节跳动 | AI产品实习生 - Aime 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7676081500040431877.md) |
 | 字节跳动 | AI产品实习生 - TikTok 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680390407540640005.md) |
-| 字节跳动 | AI产品实习生 - TikTok Shop | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7631503751354779909.md) |
-| 字节跳动 | AI产品实习生 - TikTok直播 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688613641994766645.md) |
-| 字节跳动 | AI产品实习生-抖音生活服务 〔27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7637370586979584261.md) |
-| 字节跳动 | AI产品实习生-飞书 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7603227201404291381.md) |
-| 字节跳动 | AI产品实习生-风控 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591868000171542789.md) |
-| 字节跳动 | AI产品实习生-国际化广告创意与品牌 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591364390168086837.md) |
-| 字节跳动 | AI产品实习生-TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7634381267023350069.md) |
 
 [下一页](intern-ai-product-p2.md) · [总目录](../../llms.txt)

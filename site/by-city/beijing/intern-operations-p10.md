@@ -1,11 +1,17 @@
-# 北京 · 实习 · 运营 · 全部公司（553 个岗位）（第 10/13 页）
+# 北京 · 实习 · 运营 · 全部公司（557 个岗位）（第 10/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 滴滴 | 国际事业群IBG-产品与用户运营实习生（9） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-9692ff93-6168-4431-afde-a649fd99ad35.md) |
+| 滴滴 | 国际事业群IBG-产品运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-5c7b154e-95bc-42b3-a491-2033c8c631f7.md) |
+| 滴滴 | 国际事业群IBG-商家营销运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-4c746924-0378-48e8-9d7c-b836f9f2470b.md) |
+| 滴滴 | 国际事业群IBG-数据运营实习生（6） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-1731f427-b076-434d-a021-f778d8563f51.md) |
+| 滴滴 | 国际事业群IBG-销售运营实习生（商机运营方向） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-189f6082-9fdc-4542-9d6f-25414acd5bee.md) |
+| 滴滴 | 国际事业群IBG-运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-2b2ba4e8-d252-44fc-ba44-db0370bb6a8e.md) |
 | 滴滴 | 国际事业群IBG（2）-策略运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-1cb0e750-c047-41bc-9454-2f16e44c522a.md) |
 | 滴滴 | 国际事业群IBG（3）-安全运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-3f69e864-fcbc-46d0-b605-c156c360c2f7.md) |
 | 滴滴 | 国际事业群MX loans-策略运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-554a498f-a4ce-410f-b3f4-e1709f9e36d6.md) |
@@ -48,14 +54,5 @@
 | 快手 | 【留用实习】达人运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11323.md) |
 | 快手 | 【留用实习】广告流量运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13937.md) |
 | 快手 | 【留用实习】海外产品运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11381.md) |
-| 快手 | 【留用实习】海外用户增长运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11403.md) |
-| 快手 | 【留用实习】海外运营-阿拉伯语 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11405.md) |
-| 快手 | 【留用实习】海外运营-葡语 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11406.md) |
-| 快手 | 【留用实习】海外运营-印尼语 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11409.md) |
-| 快手 | 【留用实习】活动运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11416.md) |
-| 快手 | 【留用实习】内容运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11445.md) |
-| 快手 | 【留用实习】内容运营-二次元 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11446.md) |
-| 快手 | 【留用实习】内容运营-音乐 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11448.md) |
-| 快手 | 【留用实习】内容运营-运动 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11450.md) |
 
 [上一页](intern-operations-p9.md) · [下一页](intern-operations-p11.md) · [总目录](../../llms.txt)

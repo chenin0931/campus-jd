@@ -1,11 +1,13 @@
-# 北京 · 校招 · 运营 · 全部公司（339 个岗位）（第 5/7 页）
+# 北京 · 校招 · 运营 · 全部公司（340 个岗位）（第 5/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 170](../../slices/bytedance/campus/operations/beijing.md) · [小米 55](../../slices/xiaomi/campus/operations/beijing.md) · [快手 47](../../slices/kuaishou/campus/operations/beijing.md) · [京东 20](../../slices/jd/campus/operations/beijing.md) · [美团 17](../../slices/meituan/campus/operations/beijing.md) · [滴滴 13](../../slices/didi/campus/operations/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/beijing.md) · [百度 5](../../slices/baidu/campus/operations/beijing.md) · [腾讯 4](../../slices/tencent/campus/operations/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 170](../../slices/bytedance/campus/operations/beijing.md) · [小米 55](../../slices/xiaomi/campus/operations/beijing.md) · [快手 47](../../slices/kuaishou/campus/operations/beijing.md) · [京东 20](../../slices/jd/campus/operations/beijing.md) · [美团 17](../../slices/meituan/campus/operations/beijing.md) · [滴滴 13](../../slices/didi/campus/operations/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/beijing.md) · [百度 5](../../slices/baidu/campus/operations/beijing.md) · [腾讯 4](../../slices/tencent/campus/operations/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/beijing.md) · [华为 1](../../slices/huawei/campus/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI学习能力产品运营 - 商业化 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669691022977845557.md) |
+| 字节跳动 | GEO策略运营（抖音AI产品人才校招） - 抖音 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667840882890590469.md) |
 | 字节跳动 | IT音视频业务运营 - IT 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7698709991883065605.md) |
 | 字节跳动 | KA营销活动运营 - 抖音生活服务 〔27届〕 | 上海/杭州/北京/成都 | 2026-10-27 | [详情](../../jobs/bytedance-7668630764718000389.md) |
 | 字节跳动 | PUSH运营（策略运营方向） - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669697357131286789.md) |
@@ -22,6 +24,7 @@
 | 滴滴 | 27届秋招-国际化运营分析师（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/didi-e7caa9d5-9e1d-41b4-8975-2a4b978e03a8.md) |
 | 滴滴 | 27届秋招-用户增长运营分析师（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京/上海 | 2026-10-27 | [详情](../../jobs/didi-ab4a1333-a550-401d-a8e8-f45a5bb089bc.md) |
 | 滴滴 | 27届秋招-运力运营顾问（北京） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-dc53db79-3cb8-43a5-9961-a0373f04c2eb.md) |
+| 华为 | 产品运营经理 | 东莞/南京/杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38425.md) |
 | 京东 | 采销（电商运营）（2个团队） 〔27届〕 | 上海/兰州/北京/南京/厦门/头屯河区/宁波/广州/建邺区/成都/房山区/日本/杭州/武汉/深圳/苏州/西安/郑州/香港 | 2026-10-27 | [1](../../jobs/jd-9222.md) [2](../../jobs/jd-9222.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/天津/宿迁/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-9119.md) |
 | 京东 | 服务运营 〔27届〕 | 上海/北京/广州/建邺区/德州/成都/武汉/沈阳/西安/重庆 | 2026-10-27 | [详情](../../jobs/jd-9127.md) |
@@ -46,10 +49,5 @@
 | 快手 | 策略运营-补贴 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12179.md) |
 | 快手 | 策略运营-创作者 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12536.md) |
 | 快手 | 策略运营-分析 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13249.md) |
-| 快手 | 策略运营-内容 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13278.md) |
-| 快手 | 策略运营-社区安全 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13573.md) |
-| 快手 | 产品运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13193.md) |
-| 快手 | 产品运营-商业产品 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9704.md) |
-| 快手 | 创作者运营（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13220.md) [2](../../jobs/kuaishou-9810.md) |
 
 [上一页](campus-operations-p4.md) · [下一页](campus-operations-p6.md) · [总目录](../../llms.txt)

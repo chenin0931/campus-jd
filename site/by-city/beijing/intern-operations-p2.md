@@ -1,11 +1,12 @@
-# 北京 · 实习 · 运营 · 全部公司（553 个岗位）（第 2/13 页）
+# 北京 · 实习 · 运营 · 全部公司（557 个岗位）（第 2/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 百度 | 运营分析师（J106244） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-068d61d1-7843-406a-8bdc-17a39bb3f3f6.md) |
 | 百度 | 运营实习生（J57795） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-0a97d07e-3485-4bc8-a9f6-4cc76807702a.md) |
 | 百度 | 运营实习生（J72203） 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-c351df3e-6f13-49d5-9252-8adaeff4a7be.md) |
 | 百度 | 增长策略运营实习生（J106804） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-a7c5d9e8-bfda-478a-9185-ead2e2b925dd.md) |
@@ -19,6 +20,10 @@
 | 百度 | DuMate产品运营实习生（J106391） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-c325e4e8-d27e-40d4-a517-3dbc27bb4303.md) |
 | 百度 | MCN运营实习生（J106847） 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-20ad081d-d9c7-4201-8937-041574570ac6.md) |
 | 百度 | SQC业务运营实习生（J106295） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-9ba0eeb1-990b-4099-abb4-1856124f9751.md) |
+| 哔哩哔哩 | 俄语出海运营实习生 〔≥3个月〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bilibili-25839.md) |
+| 哔哩哔哩 | 法语出海运营实习生 〔≥3个月〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bilibili-25837.md) |
+| 哔哩哔哩 | 土耳其语出海运营实习生 〔≥3个月〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bilibili-25841.md) |
+| 哔哩哔哩 | 影视IP商业化运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/bilibili-31032.md) |
 | 字节跳动 | 阿拉伯语&英语运营实习生-国际化 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7411394073720031498.md) |
 | 字节跳动 | 安全策略运营实习生 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669703921591175429.md) |
 | 字节跳动 | 安全策略运营实习生-番茄小说 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7535720499922995474.md) |
@@ -43,10 +48,5 @@
 | 字节跳动 | 产品运营实习生 - 国际化内容与服务广告 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665938446779123973.md) |
 | 字节跳动 | 产品运营实习生 - AI 工具运营 〔≥6个月，每周≥3天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7631523817171355909.md) |
 | 字节跳动 | 产品运营实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7551333777676372231.md) |
-| 字节跳动 | 产品运营实习生-抖音生活服务（2个团队） 〔27届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7624128504213539077.md) [2](../../jobs/bytedance-7634088231903463733.md) |
-| 字节跳动 | 产品运营实习生-番茄畅听 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7578768588858083637.md) |
-| 字节跳动 | 产品运营实习生-广告业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7615832668840495413.md) |
-| 字节跳动 | 产品运营实习生-国际化内容与服务广告 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7597837887681530117.md) |
-| 字节跳动 | 产品运营实习生-业务中台 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7405851664081357066.md) |
 
 [上一页](intern-operations.md) · [下一页](intern-operations-p3.md) · [总目录](../../llms.txt)

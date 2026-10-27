@@ -1,11 +1,20 @@
-# 北京 · 实习 · 运营 · 全部公司（553 个岗位）（第 11/13 页）
+# 北京 · 实习 · 运营 · 全部公司（557 个岗位）（第 11/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 快手 | 【留用实习】海外用户增长运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11403.md) |
+| 快手 | 【留用实习】海外运营-阿拉伯语 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11405.md) |
+| 快手 | 【留用实习】海外运营-葡语 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11406.md) |
+| 快手 | 【留用实习】海外运营-印尼语 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11409.md) |
+| 快手 | 【留用实习】活动运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11416.md) |
+| 快手 | 【留用实习】内容运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11445.md) |
+| 快手 | 【留用实习】内容运营-二次元 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11446.md) |
+| 快手 | 【留用实习】内容运营-音乐 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11448.md) |
+| 快手 | 【留用实习】内容运营-运动 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11450.md) |
 | 快手 | 【留用实习】商业化销售运营专员 | 上海/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11494.md) |
 | 快手 | 【留用实习】销售运营-分析方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11546.md) |
 | 快手 | 【留用实习】信息安全运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11551.md) |
@@ -47,13 +56,6 @@
 | 网易 | 【线上实践项目】小蜜蜂校园大使（社群运营） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79168.md) |
 | 网易 | 版权运营实习生 〔27/28届 · ≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79173.md) |
 | 网易 | 财经内容运营实习生 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77351.md) |
-| 网易 | 产品运营实习生（演出票务） 〔27届 · ≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79179.md) |
-| 网易 | 创作者运营实习生（4个团队） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-79094.md) [2](../../jobs/netease-78368.md) [3](../../jobs/netease-78288.md) [4](../../jobs/netease-76415.md) |
-| 网易 | 短视频品类创作者运营实习生（2个团队） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-78957.md) [2](../../jobs/netease-77681.md) |
-| 网易 | 二次元/AI抽象内容，运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-75341.md) |
-| 网易 | 歌曲运营实习生（自制方向） 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78612.md) |
-| 网易 | 浪潮内容运营实习生（3个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-79385.md) [2](../../jobs/netease-79260.md) [3](../../jobs/netease-79253.md) |
-| 网易 | 浪潮运营实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-78777.md) [2](../../jobs/netease-78213.md) |
-| 网易 | 内容策略运营实习生（云上工作室） 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77877.md) |
+| 网易 | 产品运营实习生（演出票务） 〔27/28届 · ≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79179.md) |
 
 [上一页](intern-operations-p10.md) · [下一页](intern-operations-p12.md) · [总目录](../../llms.txt)

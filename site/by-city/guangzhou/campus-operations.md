@@ -1,8 +1,8 @@
-# 广州 · 校招 · 运营 · 全部公司（30 个岗位）
+# 广州 · 校招 · 运营 · 全部公司（32 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 11](../../slices/bytedance/campus/operations/guangzhou.md) · [阿里巴巴 6](../../slices/alibaba/campus/operations/guangzhou.md) · [京东 6](../../slices/jd/campus/operations/guangzhou.md) · [美团 3](../../slices/meituan/campus/operations/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/operations/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/operations/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 11](../../slices/bytedance/campus/operations/guangzhou.md) · [阿里巴巴 6](../../slices/alibaba/campus/operations/guangzhou.md) · [京东 6](../../slices/jd/campus/operations/guangzhou.md) · [美团 3](../../slices/meituan/campus/operations/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/operations/guangzhou.md) · [携程 1](../../slices/ctrip/campus/operations/guangzhou.md) · [得物 1](../../slices/dewu/campus/operations/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/operations/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -23,6 +23,8 @@
 | 字节跳动 | 行业运营（教育及平台服务） - 商业化 〔27届〕 | 北京/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7666349170153277749.md) |
 | 字节跳动 | 行业运营（美妆日化） - 商业化 〔27届〕 | 上海/广州/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7669692124774369589.md) |
 | 字节跳动 | 行业运营管培生（全托管） - TikTok Shop 〔27届〕 | 深圳/广州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667542125177948469.md) |
+| 携程 | 旅游业务培训生（业务运营）（2027届秋招）- 广州 〔27届〕 | 广州 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036701.md) |
+| 得物 | 【27届校招】中台运营（全品类）【广州】 〔27届〕 | 广州 | 2026-10-27 | [详情](../../jobs/dewu-7670553753749309737.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/兰州/北京/南京/厦门/头屯河区/宁波/广州/建邺区/成都/房山区/日本/杭州/武汉/深圳/苏州/西安/郑州/香港 | 2026-10-27 | [详情](../../jobs/jd-9222.md) |
 | 京东 | 服务运营 〔27届〕 | 上海/北京/广州/建邺区/德州/成都/武汉/沈阳/西安/重庆 | 2026-10-27 | [详情](../../jobs/jd-9127.md) |
 | 京东 | 家政运营 〔27届〕 | 上海/北京/南京/广州/成都/杭州/武汉/济南/深圳/西安/长春 | 2026-10-27 | [详情](../../jobs/jd-9355.md) |

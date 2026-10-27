@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 产品 · 全部公司（34 个岗位）
+# 深圳 · 校招 · 产品 · 全部公司（41 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 19](../../slices/bytedance/campus/product/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/product/shenzhen.md) · [百度 2](../../slices/baidu/campus/product/shenzhen.md) · [滴滴 2](../../slices/didi/campus/product/shenzhen.md) · [京东 2](../../slices/jd/campus/product/shenzhen.md) · [美团 2](../../slices/meituan/campus/product/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/product/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 19](../../slices/bytedance/campus/product/shenzhen.md) · [OPPO 7](../../slices/oppo/campus/product/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/product/shenzhen.md) · [百度 2](../../slices/baidu/campus/product/shenzhen.md) · [滴滴 2](../../slices/didi/campus/product/shenzhen.md) · [京东 2](../../slices/jd/campus/product/shenzhen.md) · [美团 2](../../slices/meituan/campus/product/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/product/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -35,6 +35,13 @@
 | 快手 | 策略产品培训生 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13192.md) |
 | 美团 | 产品经理岗 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697314739.md) |
 | 美团 | 硬件产品 | 深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697315440.md) |
+| OPPO | 产品营销经理（海外-小语种） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1816.md) |
+| OPPO | 多媒体屏显产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1829.md) |
+| OPPO | 多媒体影像产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1827.md) |
+| OPPO | 互联网产品经理 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1860.md) |
+| OPPO | 健康产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1813.md) |
+| OPPO | 软件产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1835.md) |
+| OPPO | 营销策划经理（软件产品方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1840.md) |
 | 腾讯 | 产品策划 | 深圳/北京/上海/广州/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707374754604032.md) |
 | 腾讯 | 产品体验设计 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126425985295360.md) |
 | 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284317600528245760.md) |
