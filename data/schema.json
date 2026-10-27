@@ -60,6 +60,20 @@
       },
       "example": {
         "type": "boolean"
+      },
+      "job_type": {
+        "enum": [
+          "校招",
+          "实习"
+        ],
+        "description": "可选；也兼容读取 type。缺失时 build 从 title 含“实习”推断，否则为校招，并加 job_type_inferred:true"
+      },
+      "type": {
+        "enum": [
+          "校招",
+          "实习"
+        ],
+        "description": "job_type 的兼容别名"
       }
     }
   }

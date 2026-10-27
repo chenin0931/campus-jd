@@ -1,59 +1,34 @@
 # 大厂 AI / 产品 / 运营岗秋招 JD 库（每周更新）
 
-> 数据周：**2026-W44**　生成日期：2026-10-27（北京时间）　共 9 个岗位，覆盖 3 家公司
+> 数据周：**2026-W44**　生成：2026-10-27（北京时间）　在招 **1794** 个岗位 · 本周新增 **1794** · 已下架 **0**
 >
-> ⚠️ 标 `示例` 的条目为占位假数据，不是真实岗位。
+> ⚠️ 以下公司目前仍是**示例假数据**：alibaba、tencent
 
-机器可读数据：[`jobs/latest.json`](jobs/latest.json)　给 Agent 用的 skill：[`skill/SKILL.md`](skill/SKILL.md)
+## 总览（点数字进分表）
 
-## 🆕 本周新增（9）
+| 公司 | 校招·AI产品 | 校招·产品 | 校招·运营 | 实习·AI产品 | 实习·产品 | 实习·运营 | 合计 | 本周新增 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| alibaba `示例` | [1](jobs/alibaba/AI%E4%BA%A7%E5%93%81.md) | [1](jobs/alibaba/%E4%BA%A7%E5%93%81.md) | [1](jobs/alibaba/%E8%BF%90%E8%90%A5.md) | 0 | 0 | 0 | 3 | 3 |
+| 字节跳动 | [166](jobs/bytedance/AI%E4%BA%A7%E5%93%81.md) | [133](jobs/bytedance/%E4%BA%A7%E5%93%81.md) | [271](jobs/bytedance/%E8%BF%90%E8%90%A5.md) | [235](jobs/bytedance/%E5%AE%9E%E4%B9%A0-AI%E4%BA%A7%E5%93%81.md) | [286](jobs/bytedance/%E5%AE%9E%E4%B9%A0-%E4%BA%A7%E5%93%81.md) | [697](jobs/bytedance/%E5%AE%9E%E4%B9%A0-%E8%BF%90%E8%90%A5.md) | 1788 | 1788 |
+| tencent `示例` | [1](jobs/tencent/AI%E4%BA%A7%E5%93%81.md) | [1](jobs/tencent/%E4%BA%A7%E5%93%81.md) | [1](jobs/tencent/%E8%BF%90%E8%90%A5.md) | 0 | 0 | 0 | 3 | 3 |
+
 没有上一周数据，本周全部视为新增。
 
-| 公司 | 岗位 | 城市 | 截止 | 链接 |
-|---|---|---|---|---|
-| alibaba | 【示例】AI运营-钉钉 `示例` | 杭州 | 2026-10-30 | [投递](https://example.com/alibaba/job/3) |
-| bytedance | 【示例】AI产品经理-大模型应用 `示例` | 北京/上海 | 2026-10-31 | [投递](https://example.com/bytedance/job/1) |
-| tencent | 【示例】AI产品策划-混元 `示例` | 深圳 | 2026-11-02 | [投递](https://example.com/tencent/job/1) |
-| alibaba | 【示例】AI产品经理-通义 `示例` | 杭州/北京 | 2026-11-10 | [投递](https://example.com/alibaba/job/1) |
-| tencent | 【示例】用户运营-腾讯元宝 `示例` | 深圳 | 2026-11-15 | [投递](https://example.com/tencent/job/3) |
-| bytedance | 【示例】产品经理-抖音电商 `示例` | 杭州 | 2026-11-20 | [投递](https://example.com/bytedance/job/2) |
-| tencent | 【示例】产品策划-微信 `示例` | 广州/深圳 | 2026-11-30 | [投递](https://example.com/tencent/job/2) |
-| alibaba | 【示例】产品经理-淘宝 `示例` | 杭州 | 未注明 | [投递](https://example.com/alibaba/job/2) |
-| bytedance | 【示例】内容运营-AI创作工具 `示例` | 北京 | 未注明 | [投递](https://example.com/bytedance/job/3) |
+## ⏰ 7 天内截止（2）
 
-## ⏰ 7 天内截止（3）
+| 公司 | 岗位 | 城市 | 截止 | 首次出现 | 链接 |
+|---|---|---|---|---|---|
+| alibaba | 【示例】AI运营-钉钉 `示例` 🆕 | 杭州 | 2026-10-30 | 2026-10-27 | [投递](https://example.com/alibaba/job/3) |
+| tencent | 【示例】AI产品策划-混元 `示例` 🆕 | 深圳 | 2026-11-02 | 2026-10-27 | [投递](https://example.com/tencent/job/1) |
 
-| 公司 | 岗位 | 城市 | 截止 | 链接 |
-|---|---|---|---|---|
-| alibaba | 【示例】AI运营-钉钉 `示例` | 杭州 | 2026-10-30 | [投递](https://example.com/alibaba/job/3) |
-| bytedance | 【示例】AI产品经理-大模型应用 `示例` | 北京/上海 | 2026-10-31 | [投递](https://example.com/bytedance/job/1) |
-| tencent | 【示例】AI产品策划-混元 `示例` | 深圳 | 2026-11-02 | [投递](https://example.com/tencent/job/1) |
+## 📦 已下架（0）
 
-## 全部岗位（按类别）
+_无_
 
-### AI产品（3）
+## 数据
 
-| 公司 | 岗位 | 城市 | 截止 | 链接 |
-|---|---|---|---|---|
-| bytedance | 【示例】AI产品经理-大模型应用 `示例` | 北京/上海 | 2026-10-31 | [投递](https://example.com/bytedance/job/1) |
-| tencent | 【示例】AI产品策划-混元 `示例` | 深圳 | 2026-11-02 | [投递](https://example.com/tencent/job/1) |
-| alibaba | 【示例】AI产品经理-通义 `示例` | 杭州/北京 | 2026-11-10 | [投递](https://example.com/alibaba/job/1) |
+- 全量机器可读：[`jobs/latest.json`](jobs/latest.json)
+- 给 Agent 的 skill：[`skill/SKILL.md`](skill/SKILL.md)
+- 字段说明：[`data/SCHEMA.md`](data/SCHEMA.md)
 
-### 产品（3）
-
-| 公司 | 岗位 | 城市 | 截止 | 链接 |
-|---|---|---|---|---|
-| bytedance | 【示例】产品经理-抖音电商 `示例` | 杭州 | 2026-11-20 | [投递](https://example.com/bytedance/job/2) |
-| tencent | 【示例】产品策划-微信 `示例` | 广州/深圳 | 2026-11-30 | [投递](https://example.com/tencent/job/2) |
-| alibaba | 【示例】产品经理-淘宝 `示例` | 杭州 | 未注明 | [投递](https://example.com/alibaba/job/2) |
-
-### 运营（3）
-
-| 公司 | 岗位 | 城市 | 截止 | 链接 |
-|---|---|---|---|---|
-| alibaba | 【示例】AI运营-钉钉 `示例` | 杭州 | 2026-10-30 | [投递](https://example.com/alibaba/job/3) |
-| tencent | 【示例】用户运营-腾讯元宝 `示例` | 深圳 | 2026-11-15 | [投递](https://example.com/tencent/job/3) |
-| bytedance | 【示例】内容运营-AI创作工具 `示例` | 北京 | 未注明 | [投递](https://example.com/bytedance/job/3) |
-
----
-数据只取自各公司校招官网的公开页面，以官网为准。字段说明见 [data/SCHEMA.md](data/SCHEMA.md)。
+数据只取自各公司校招官网的公开页面，以官网为准。
