@@ -30,17 +30,67 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 | 小米 | 316 | 291 | 607 |
 <!-- overview:end -->
 
-## 使用教程（学生）
-1. 下载 [`skill/campus-jd-skill.zip`](skill/campus-jd-skill.zip)。
-2. WorkBuddy：技能 → 添加技能 → 上传技能，选这个 zip（也可以把 `skill/SKILL.md` 内容直接贴给助手）。
-3. 直接问，比如：
-   - “字节跳动上海的 AI 产品实习有哪些？”
-   - “北京的运营校招，帮我挑 5 个适合文科生的”
-   - “这周新增了哪些岗位？”
-   - “这是我的简历，对照第 2 个岗位帮我改”
-4. 标「⚠️链接待核」的投递链接没通过自动校验，打不开就到公司官网搜岗位名。
+## 使用教程（学生，不需要会写代码）
 
-不用 AI 也可以直接浏览：打开 Pages 首页的 `llms.txt`，或在仓库里看 [`site/`](site/)。
+这个库能做什么：把它装进 AI 助手 WorkBuddy 以后，你用中文直接问「上海有哪些运营实习」，助手就会从这里查各大厂官网上的真实岗位，给你列表格、贴投递链接，还能对照岗位要求帮你改简历。数据每周一更新。
+
+### 第 1 步：下载技能包（一个 zip 文件）
+- 点这里直接下载：**[campus-jd-skill.zip](https://github.com/<OWNER>/<REPO>/releases/latest/download/campus-jd-skill.zip)**
+- ⚠️ **下载后不要解压**，也不要改文件名，后面要把这个 zip 原样上传。
+- 有的电脑（比如 Mac 的 Safari）会自动解压，变成一个叫 `campus-jd` 的文件夹。遇到这种情况，请换 Chrome/Edge 重新下载，或者在浏览器设置里关掉「下载后自动打开」。
+
+> 【截图占位 1：浏览器下载完成后看到的 campus-jd-skill.zip】
+
+### 第 2 步：安装 WorkBuddy 并登录
+- 官网下载：<https://www.workbuddy.cn/>，有 **Mac、Windows、鸿蒙电脑版**（Linux 电脑请到系统自带的应用商店里搜索 WorkBuddy）。
+- 安装后打开，**需要先登录账号才能用**（按软件里的提示注册或登录）。
+
+> 【截图占位 2：WorkBuddy 官网下载页 / 登录界面】
+
+### 第 3 步：上传技能
+1. 在 WorkBuddy 左侧栏点 **「专家·技能·连接器」**，再点上方的 **「技能」**。
+2. 点 **「添加技能」→「上传技能」**，把第 1 步下载的 `campus-jd-skill.zip` 拖进去，或者点「选择文件」选中它。
+3. 上传后 WorkBuddy 会做一次**安全检测**。如果提示需要确认，点继续或确认安装即可（这个技能只会读取公开的岗位网页，不碰你的电脑文件）。
+4. 装好后，技能列表里会出现 **campus-jd**。如果没看到，刷新一下页面，或者关掉 WorkBuddy 重新打开。
+
+不同版本 WorkBuddy 的按钮名字可能略有不同，找意思相近的就行。
+
+> 【截图占位 3：左侧栏「专家·技能·连接器」→「技能」页签】
+> 【截图占位 4：「添加技能 → 上传技能」对话框】
+> 【截图占位 5：安全检测提示 / 安装成功后技能列表里的 campus-jd】
+
+### 第 4 步：新建对话，确认技能生效
+1. **新建一个对话**（旧对话可能还没加载新技能）。
+2. 先问一句测试：「**你有哪些大厂的校招 JD？**」
+3. 生效的样子：助手会说它在读这个 JD 库，回答里有公司名单和岗位数量（约 20 家公司、几千个岗位），并且会反过来问你是哪一届、找校招还是实习、在哪个城市。
+4. 没生效的样子：助手泛泛地说「建议你去各公司官网看看」，或者编了一些没有链接的岗位。这时请看下面的「常见问题」。
+
+> 【截图占位 6：测试提问后助手的正确回答】
+
+### 第 5 步：开始问（最好一次说清三件事）
+**哪一届**（哪年毕业）、**校招还是实习**、**哪个城市**。说清了，助手就不用来回追问。例如：
+- 「我是 2027 届，找**上海**的 **AI 产品实习**，字节跳动有哪些？」
+- 「2027 届文科生，想找**北京**的**运营校招**，帮我挑 5 个不要求会写代码的。」
+- 「2028 届，**杭州或上海**的**市场实习**，每周能去 4 天，能实习 3 个月。」
+- 「这周新增了哪些岗位？」（可以不说届别）
+- 「这是我的简历（粘贴进来），对照你刚才推荐的第 2 个岗位帮我改。」
+
+### 回答里的标记是什么意思
+- **⚠️链接待核**：这个投递链接我们没能自动确认能不能打开。如果打不开，就去这家公司的校招官网，搜索岗位名称。
+- **❌疑似下架**：公司官网已经查不到这个岗位，大概率招满或关闭了。
+- **🌏海外**：工作地点在海外（港澳台算国内）。
+- **🆕**：本周新增的岗位。
+- 截止日期大多数公司没写，一律以官网为准，建议尽早投。
+
+### 常见问题
+- **上传失败 / 提示格式不对**：多半是 zip 被解压过或下载不完整。重新点第 1 步的链接下载，**不要解压**，再上传。还不行就截图报错信息发给运营同学。
+- **助手说打不开数据地址**：等几分钟再问一次；或者直接对它说「主地址打不开，请用备用地址」（技能里写了备用地址）。
+- **数据多久更新一次**：每周一自动更新。新技能包不用重新下载，助手每次都会读取最新数据；只有技能本身改版时我们才会通知大家重新下载。
+- **我想找的公司没有**：说明这个库暂时没收录，请直接去该公司校招官网。助手也会如实告诉你没有，不会拿别的公司凑数。
+- **助手推荐的岗位和官网对不上**：以官网为准。可以把岗位名称和链接发给运营同学，我们核实后修正。
+
+### 不想用 AI，也能直接看
+用浏览器打开这个网址，就是全部岗位的目录（纯文字页面，按公司、城市、类别分好了）：[https://<OWNER>.github.io/<REPO>/llms.txt](https://<OWNER>.github.io/<REPO>/llms.txt)
 
 ## 数据结构
 ```
@@ -54,7 +104,7 @@ site/by-city/{city}/{campus|intern}-{category}.md            跨公司按城市
 site/changes/{week}.md        本周新增/下架
 site/jobs/{company}-{postId}.md   岗位详情（job_type、status、要求、投递链接）
 site/companies/{company}.md 公司总览；site/by-year/{yy}/ 按届别
-skill/SKILL.md + campus-jd-skill.zip   给 agent 的 skill（<BASE_URL> 占位，主 Pages，备 jsDelivr）
+skill/SKILL.md + campus-jd-skill.zip   给 agent 的 skill（主 Pages，备 jsDelivr；仓库地址占位见下方「维护者」）
 ```
 slug：category `ai-product|product|ops|business|marketing|sales|design|corporate|pm|analysis|planning|supply|other`（排除法：技术岗以外全收，规则见 scripts/reference/CLASSIFIER.md）；城市为拼音（`beijing`、`shanghai`…，未登记城市归 `other`）。
 
@@ -64,17 +114,21 @@ node scripts/fetchers/bytedance.js          # 单家抓取 → data/<本周>/byt
 for f in scripts/fetchers/*.js; do node $f; done
 node scripts/check_links.js                 # 链接校验：先用官网按 id 查详情接口（除滴滴外 18 家；B站限并发 2，华为需浏览器 UA；滴滴列表接口加密，统一记链接待核；网易日常实习 402「职位失效」判下架、通用 500 记待核；vivo Status 2 判疑似下架、500「参数错误」记待核），接口异常时退回格式/HTTP 校验；--probe 每家用真/假 id 验判断逻辑
 node scripts/lib/check_links_browser.js --sample 5 --fake   # 可选：Playwright 浏览器兜底（npm i playwright；加 --write 写回）
-node scripts/build.js                       # 生成 site/，并校验：文件 ≤8KB、id 唯一、切片计数一致；不通过退出码 1
+node scripts/build.js                       # 生成 site/ 并打包 skill/campus-jd-skill.zip，校验：文件 ≤8KB、id 唯一、切片计数一致、zip 与 SKILL.md 一致；不通过退出码 1
+node scripts/set_repo.js OWNER/REPO         # 把 SKILL.md、README 里尖括号写法的 OWNER/REPO 占位符换成真实仓库（CI 用 GITHUB_REPOSITORY 自动做）
+node scripts/package_skill.js --check       # 只校验 zip 是否与 SKILL.md 一致
 ```
 - 新增公司：写 `scripts/fetchers/<slug>.js`（参考现有文件，调用 `run(slug, async () => jobs)`），在 `scripts/lib/site.js` 的 `COMPANY` 加中文名。build 会自动发现 `data/` 下的新文件。
 - fetcher 抓到 0 条或比旧文件少一半以上会拒绝覆盖（`--force` 跳过）。
-- **拼多多是手动来源**（`source: manual-browser`）：官网接口要 anti_content 风控令牌，写不了抓取器，也没有逐条校验，链接统一「链接待核」，`requirements` 可为 null。站点公司总览、切片和 llms.txt 标「手动更新 · 最后更新 YYYY-MM-DD」，超过 14 天加过期警告。
+- **拼多多是手动来源**（`source: manual-browser`）：官网接口要 anti_content 风控令牌，写不了抓取器，也不能自动校验；每次浏览器人工逐条核对后在 `data/link_status.json` 记 `code: manual-browser-verified` 和 `verified_at`，14 天内显示为已核对，超期自动回到「链接待核」，`requirements` 可为 null。站点公司总览、切片和 llms.txt 标「手动更新 · 最后更新 YYYY-MM-DD」，超过 14 天加过期警告。
   - 每周怎么更新：用浏览器按正常访客打开 careers.pddglobalhr.com 应届生/实习列表，按 `data/schema.json` 抄成 `staging/<周>/pinduoduo.json`（`source` 写 `manual-browser`、`link_status` 写「链接待核」、`fetched_at` 写抄录时间），核对分类和城市（省级写「广东省」、全国多地写「全国多地」，原文放 `city_note`）后移到 `data/<周>/pinduoduo.json`，再跑 `node scripts/build.js`。
   - 某周没放新文件时，build 自动沿用最近一周的手动文件，岗位保持 active，不会记成下架；要真正下架某条，就在新的手动文件里删掉它。
 - 19 家都有 Node 抓取器（`scripts/fetchers/<slug>.js`），weekly.yml 逐个跑 `scripts/fetchers/*.js`，无需 Python。2026-10-27 新增网易（campus.163.com / campus.game.163.com / hr.163.com 三个域名）、滴滴（列表接口 AES-CBC 加密，用 Node 内置 crypto 按 necromancer 解密，同 reference/dd.py）、B站（串行，请求间隔 ≥1.5s）、得物（飞书 website-path 578078）、OPPO、米哈游、携程（id 保留 MJ 前缀，英文城市转中文）、vivo、华为（浏览器 UA）。抓取结果与 data/2026-W44 对比：id 集合一致（网易少 1 条为官网当天下架）。
 - 只想试跑不写 data：`node scripts/fetchers/didi.js --out /tmp/x`。
 - `scripts/reference/*.py` 是最初的探索脚本，仅供参考。
 - 详情接口在 `scripts/check_links.js` 的 `DETAIL`（除滴滴外 18 家已接）：`async (postId, url) => boolean`，返回 true=在招、false=疑似下架，抛带 `pending` 的错误=链接待核。
-- `.github/workflows/weekly.yml`：fetch → check_links →（可选）浏览器校验 → build → 打包 skill → commit → tag `w<周>` → 发布 Pages（需要在仓库设置里把 Pages 来源设为 GitHub Actions）。
+- `.github/workflows/weekly.yml`：fetch → check_links →（可选）浏览器校验 → set_repo 填地址 → build（含打包 skill）→ commit → tag `w<周>` → Release 附上 zip（README 下载链接 `releases/latest/download/campus-jd-skill.zip` 指向它）→ 发布 Pages。
+- **仓库地址占位符**：源文件里只用尖括号包住的 OWNER、REPO 一种写法（SKILL.md 的主/备地址、README 的下载和目录链接）。CI 每次构建前自动替换；本地确定仓库名后可跑 `node scripts/set_repo.js OWNER/REPO`。若仓库名本身是 `OWNER.github.io`，Pages 地址没有 `/<REPO>/` 这一段，需要手改。
+- 首次推送前请过一遍 [docs/pre-push-checklist.md](docs/pre-push-checklist.md)。
 
 数据只取自各公司校招官网的公开接口，不抓需要登录的内容；一切以官网为准。

@@ -226,5 +226,6 @@ const maxf = written.filter(w => w.path !== 'index.json').sort((a, b) => b.bytes
 console.log(`build ${cur} vs ${prev || '-'}: ${jobs.length} jobs, ${dup} dup dropped, ${removed.length} removed, ${written.length} files; 最大 md ${maxf.path} ${maxf.bytes}B; llms.txt ${written.find(w => w.path === 'llms.txt').bytes}B; index.json ${written.at(-1).bytes}B`);
 for (const co of companies) console.log(' ', co, JSON.stringify(index.companies[co]));
 if (issues.length) { console.log(`数据问题 ${issues.length}：`); issues.slice(0, 20).forEach(i => console.log('  ' + i)); }
+{ const ps = require('./package_skill'); ps.pack(); if (!ps.check()) errs.push('skill zip 与 skill/SKILL.md 不一致'); }
 if (errs.length) { console.error('校验失败：\n  ' + errs.join('\n  ')); process.exit(1); }
-console.log('校验通过：所有文件 ≤8KB（index.json 除外）、id 唯一、切片计数一致');
+console.log('校验通过：所有文件 ≤8KB（index.json 除外）、id 唯一、切片计数一致、skill zip 与 SKILL.md 一致');

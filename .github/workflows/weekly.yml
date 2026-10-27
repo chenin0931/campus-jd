@@ -1,5 +1,5 @@
 name: weekly-update
-# 每周一 09:00（北京时间）：抓取 → 链接校验 → 预计算构建 site/ → 提交 → 打 tag → 发布 GitHub Pages
+# 每周一 09:00（北京时间）：抓取 → 链接校验 → 填仓库地址 → 预计算构建 site/ + 打包 skill → 提交 → 打 tag → Release 附 zip → 发布 GitHub Pages
 on:
   schedule:
     - cron: '0 1 * * 1'
@@ -48,10 +48,10 @@ jobs:
           npm i --no-save playwright
           npx playwright install --with-deps chromium
           node scripts/lib/check_links_browser.js --status unverified,format_verified --write
-      - name: Build（失败即停止：切片 >8KB、id 重复或计数不一致）
+      - name: Fill repo URLs（把 SKILL.md、README 里的 <OWNER>/<REPO> 占位符换成本仓库；已替换过则不变）
+        run: node scripts/set_repo.js "$GITHUB_REPOSITORY"
+      - name: Build + package skill（失败即停止：切片 >8KB、id 重复、计数不一致、skill zip 与 SKILL.md 不一致）
         run: node scripts/build.js
-      - name: Package skill
-        run: python3 -c "import zipfile;z=zipfile.ZipFile('skill/campus-jd-skill.zip','w',zipfile.ZIP_DEFLATED);z.write('skill/SKILL.md','campus-jd/SKILL.md');z.close()"
       - name: Commit & tag
         run: |
           git config user.name "github-actions[bot]"
@@ -62,6 +62,17 @@ jobs:
           git tag -f "$tag"
           git push origin HEAD
           git push -f origin "$tag"
+          echo "TAG=$tag" >> "$GITHUB_ENV"
+      - name: Release skill zip（README 的下载地址 releases/latest/download/campus-jd-skill.zip 指向最新 Release 的这个附件）
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" skill/campus-jd-skill.zip --clobber
+            gh release edit "$TAG" --latest
+          else
+            gh release create "$TAG" skill/campus-jd-skill.zip --latest --title "JD 库 $TAG" --notes "WorkBuddy 技能包：下载 campus-jd-skill.zip，不要解压，直接上传。"
+          fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
