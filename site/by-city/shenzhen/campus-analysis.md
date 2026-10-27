@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 分析 · 全部公司（14 个岗位）
+# 深圳 · 校招 · 分析 · 全部公司（17 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 7](../../slices/bytedance/campus/analysis/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/analysis/shenzhen.md) · [阿里巴巴 2](../../slices/alibaba/campus/analysis/shenzhen.md) · [OPPO 1](../../slices/oppo/campus/analysis/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 7](../../slices/bytedance/campus/analysis/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/analysis/shenzhen.md) · [阿里巴巴 2](../../slices/alibaba/campus/analysis/shenzhen.md) · [腾讯音乐 2](../../slices/tme/campus/analysis/shenzhen.md) · [OPPO 1](../../slices/oppo/campus/analysis/shenzhen.md) · [千寻智能 1](../../slices/spiritai/campus/analysis/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,9 +15,12 @@
 | 字节跳动 | 数据科学 - 剪映 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667794210841610501.md) |
 | 字节跳动 | 数据科学（社交&互动游戏方向） - 抖音社交与互动 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667544823964256517.md) |
 | OPPO | 用户研究经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1837.md) |
+| 千寻智能 | 【2027 届校招】商业分析师 〔27届〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/spiritai-7672037554481629466.md) |
 | 腾讯 | 安全策略 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1284528300198503424.md) |
 | 腾讯 | 商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1282707381767480320.md) |
 | 腾讯 | 用户研究 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1283878533483275264.md) |
 | 腾讯 | 战略商业分析师 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126469811577856.md) |
+| 腾讯音乐 | 安全策略 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14659.md) |
+| 腾讯音乐 | 商业分析 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-13098.md) |
 
 [总目录](../../llms.txt)

@@ -1,11 +1,12 @@
-# 上海 · 校招 · 其他 · 全部公司（16 个岗位）
+# 上海 · 校招 · 其他 · 全部公司（25 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[小红书 4](../../slices/xiaohongshu/campus/other/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/other/shanghai.md) · [米哈游 3](../../slices/mihoyo/campus/other/shanghai.md) · [字节跳动 2](../../slices/bytedance/campus/other/shanghai.md) · [得物 2](../../slices/dewu/campus/other/shanghai.md) · [携程 1](../../slices/ctrip/campus/other/shanghai.md) · [京东 1](../../slices/jd/campus/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 4](../../slices/jd/campus/other/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/other/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/other/shanghai.md) · [米哈游 3](../../slices/mihoyo/campus/other/shanghai.md) · [蔚来 3](../../slices/nio/campus/other/shanghai.md) · [字节跳动 2](../../slices/bytedance/campus/other/shanghai.md) · [得物 2](../../slices/dewu/campus/other/shanghai.md) · [智元机器人 1](../../slices/agibot/campus/other/shanghai.md) · [携程 1](../../slices/ctrip/campus/other/shanghai.md) · [理想汽车 1](../../slices/lixiang/campus/other/shanghai.md) · [MiniMax 1](../../slices/minimax/campus/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 机器人培训讲师 ⚠️链接待核 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/agibot-7700814700834228506.md) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-渠道销售 | 北京/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907860005.md) |
 | 阿里巴巴 | 虎鲸文娱娱跃班-演出商务拓展 | 北京/杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199908000004.md) |
 | 阿里巴巴 | 游戏动作 | 广州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907660017.md) |
@@ -14,10 +15,18 @@
 | 携程 | AI Solution (Customer Service Intelligence) - Arabic (2027 Graduates) 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036717.md) |
 | 得物 | 【27届校招】风险管理管培生 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7677426608730786084.md) |
 | 得物 | 【27届校招】鉴别研究校招生 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670549919370840358.md) |
+| 京东 | 安全管理/损耗控制 〔27届〕 ⚠️链接待核 | 上海/昆明/北京/长春/合肥/德州/青岛/太原/东莞/佛山/广州/深圳 等 27 城 | 2026-10-27 | [详情](../../jobs/jd-9260.md) |
+| 京东 | 仓/场地经理 〔27届〕 ⚠️链接待核 | 上海/昆明/北京/长春/成都/天津/银川/合肥/安庆/滁州/芜湖/蚌埠 等 59 城 | 2026-10-27 | [详情](../../jobs/jd-9392.md) |
 | 京东 | 医技 〔27届〕 | 上海/北京/天津/太原 | 2026-10-27 | [详情](../../jobs/jd-9313.md) |
+| 京东 | 营业部/集配站站长 〔27届〕 ⚠️链接待核 | 上海/大理白族自治州/昆明/普洱/曲靖/玉溪/乌兰察布/包头/呼和浩特/赤峰/通辽/鄂尔多斯 等 263 城 | 2026-10-27 | [详情](../../jobs/jd-9257.md) |
+| 理想汽车 | 变更管理-上海 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/lixiang-105738.md) |
 | 米哈游 | 绑定师（Maya/Max） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9184.md) |
 | 米哈游 | 服务体验岗 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9220.md) |
 | 米哈游 | 音乐制作 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9228.md) |
+| MiniMax | AI Talent Partner | 上海 | 2026-10-27 | [详情](../../jobs/minimax-7654958171602045235.md) |
+| 蔚来 | 校招-成本工程sparks | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027205643389194.md) |
+| 蔚来 | 校招-业务运管管理（区域管理支持） | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027148605507850.md) |
+| 蔚来 | 校招-整车音响调音师 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027271255181577.md) |
 | 小红书 | 【2027校招】综合创意写作 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22156.md) |
 | 小红书 | 【2027校招】AI创意影像制作 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22152.md) |
 | 小红书 | 服饰行业内衣童装-专家侧 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22770.md) |

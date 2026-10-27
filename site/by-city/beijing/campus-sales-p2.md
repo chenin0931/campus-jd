@@ -1,0 +1,21 @@
+# 北京 · 校招 · 销售 · 全部公司（53 个岗位）（第 2/2 页）
+
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+按公司：[字节跳动 27](../../slices/bytedance/campus/sales/beijing.md) · [小米 6](../../slices/xiaomi/campus/sales/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/sales/beijing.md) · [京东 3](../../slices/jd/campus/sales/beijing.md) · [快手 3](../../slices/kuaishou/campus/sales/beijing.md) · [百度 2](../../slices/baidu/campus/sales/beijing.md) · [联想 2](../../slices/lenovo/campus/sales/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/sales/beijing.md) · [蔚来 1](../../slices/nio/campus/sales/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/sales/beijing.md) · [腾讯 1](../../slices/tencent/campus/sales/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+
+| 公司 | 岗位 | 城市 | 首次出现 | 详情 |
+|---|---|---|---|---|
+| 理想汽车 | 人才发展专员（销售培训） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-202218.md) |
+| 理想汽车 | 销售拓展（3个团队） ⚠️链接待核 | 北京 | 2026-10-27 | [1](../../jobs/lixiang-163474.md) [2](../../jobs/lixiang-138072.md) [3](../../jobs/lixiang-96249.md) |
+| 蔚来 | 校招正式-乐道顾问（25/26可投）-北京 | 北京 | 2026-10-27 | [详情](../../jobs/nio-7676297902574569769.md) |
+| 商汤科技 | 【27届校招】售前解决方案经理-大装置 〔27届〕 | 北京/上海/深圳/成都 | 2026-10-27 | [详情](../../jobs/sensetime-7659351910298274054.md) |
+| 腾讯 | 解决方案-技术咨询方向 | 深圳/北京/上海/广州/西安/重庆 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182209.md) |
+| 小米 | 大客户经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670883858238621961.md) |
+| 小米 | 广告销售 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671293003588143386.md) |
+| 小米 | 销售管理（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7670885563403340068.md) [2](../../jobs/xiaomi-7670883911417497883.md) |
+| 小米 | 新零售平台-俄语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670886531393505577.md) |
+| 小米 | 中国区-销售管培生 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671129801244231982.md) |
+| 小鹏汽车 | 【27届校招】销售大区管理培训生-北京大区 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xpeng-7675283351821404458.md) |
+
+[上一页](campus-sales.md) · [总目录](../../llms.txt)

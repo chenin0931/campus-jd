@@ -1,16 +1,38 @@
-# 北京 · 校招 · 其他 · 全部公司（62 个岗位）（第 2/2 页）
+# 北京 · 校招 · 其他 · 全部公司（76 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 13](../../slices/alibaba/campus/other/beijing.md) · [京东 11](../../slices/jd/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [腾讯 3](../../slices/tencent/campus/other/beijing.md) · [网易 2](../../slices/netease/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 14](../../slices/jd/campus/other/beijing.md) · [阿里巴巴 13](../../slices/alibaba/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [科大讯飞 4](../../slices/iflytek/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [理想汽车 3](../../slices/lixiang/campus/other/beijing.md) · [腾讯 3](../../slices/tencent/campus/other/beijing.md) · [联想 2](../../slices/lenovo/campus/other/beijing.md) · [网易 2](../../slices/netease/campus/other/beijing.md) · [蔚来 1](../../slices/nio/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md) · [知乎 1](../../slices/zhihu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 理想汽车 | 工程标准 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-209662.md) |
+| 理想汽车 | 专利专员 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-03337.md) |
+| 美团 | 安全管理岗 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4695086131.md) |
+| 美团 | 办公安全岗 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4695077600.md) |
+| 美团 | 公共关系岗 | 南京/北京 | 2026-10-27 | [详情](../../jobs/meituan-4694790935.md) |
+| 美团 | 公共关系岗（公益方向） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4712533511.md) |
+| 美团 | 内审专员 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4697270407.md) |
+| 美团 | 食杂零售管培生 〔27届〕 | 厦门/杭州/北京/成都/广州 | 2026-10-27 | [详情](../../jobs/meituan-4694966493.md) |
+| 美团 | AI智能学习（培训） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4694886973.md) |
+| 网易 | 高中教师管培生-有道领世 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4849.md) |
+| 网易 | 少儿英语主讲老师-网易有道 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4913.md) |
+| 蔚来 | 校招-实车-伴生数据及应用 | 北京 | 2026-10-27 | [详情](../../jobs/nio-7673027059904284954.md) |
+| 腾讯 | 法律/行业/产业研究 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1292833382451231744.md) |
+| 腾讯 | 数字生态研究 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1284528300198503425.md) |
+| 腾讯 | 专利 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1284512614101361666.md) |
+| 小红书 | Trust & Safety Policy Intern | 北京/上海/新加坡 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21956.md) |
+| 小米 | 安全事务专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671290558057777418.md) |
+| 小米 | 服务管培生 - 备件管理类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675291796579289387.md) |
+| 小米 | 服务管培生 - 售后管理类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675292530737137963.md) |
+| 小米 | 服务管培生 - 物流服务类 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675292549434902811.md) |
+| 小米 | 关务专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923695657453843.md) |
 | 小米 | 合同管理专员-西语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885668138912036.md) |
 | 小米 | 零售主管-俄语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885937555638570.md) |
 | 小米 | 生产管理培训生-汽车工厂 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670919733348305203.md) |
 | 小米 | 投后专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923941339580715.md) |
 | 小米 | 网络发展专员-汽车 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670930725600545067.md) |
 | 小米 | 中国区-汽车培训师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675292531886983475.md) |
+| 知乎 | 制作人 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/zhihu-baef8d14-30f7-414e-863b-96ca051e3d54.md) |
 
 [上一页](campus-other.md) · [总目录](../../llms.txt)

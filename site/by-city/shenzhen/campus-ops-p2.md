@@ -1,17 +1,27 @@
-# 深圳 · 校招 · 运营 · 全部公司（56 个岗位）（第 2/2 页）
+# 深圳 · 校招 · 运营 · 全部公司（71 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 20](../../slices/bytedance/campus/ops/shenzhen.md) · [腾讯 11](../../slices/tencent/campus/ops/shenzhen.md) · [京东 8](../../slices/jd/campus/ops/shenzhen.md) · [美团 5](../../slices/meituan/campus/ops/shenzhen.md) · [OPPO 4](../../slices/oppo/campus/ops/shenzhen.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/shenzhen.md) · [哔哩哔哩 2](../../slices/bilibili/campus/ops/shenzhen.md) · [华为 1](../../slices/huawei/campus/ops/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/ops/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 20](../../slices/bytedance/campus/ops/shenzhen.md) · [腾讯 11](../../slices/tencent/campus/ops/shenzhen.md) · [京东 10](../../slices/jd/campus/ops/shenzhen.md) · [美团 5](../../slices/meituan/campus/ops/shenzhen.md) · [OPPO 4](../../slices/oppo/campus/ops/shenzhen.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/shenzhen.md) · [腾讯音乐 3](../../slices/tme/campus/ops/shenzhen.md) · [哔哩哔哩 2](../../slices/bilibili/campus/ops/shenzhen.md) · [蔚来 2](../../slices/nio/campus/ops/shenzhen.md) · [小鹏汽车 2](../../slices/xpeng/campus/ops/shenzhen.md) · [智元机器人 1](../../slices/agibot/campus/ops/shenzhen.md) · [华为 1](../../slices/huawei/campus/ops/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/ops/shenzhen.md) · [联想 1](../../slices/lenovo/campus/ops/shenzhen.md) · [理想汽车 1](../../slices/lixiang/campus/ops/shenzhen.md) · [商汤科技 1](../../slices/sensetime/campus/ops/shenzhen.md) · [Shopee 1](../../slices/shopee/campus/ops/shenzhen.md) · [千寻智能 1](../../slices/spiritai/campus/ops/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 美团 | 物流管理储备岗 | 杭州/南京/北京/苏州/天津/上海/西安/成都/长沙/东莞/广州/武汉/深圳/佛山 | 2026-10-27 | [详情](../../jobs/meituan-4697381206.md) |
+| 联想 | 产品运营 〔27届〕 ⚠️链接待核 | 北京/深圳/天津 | 2026-10-27 | [详情](../../jobs/lenovo-2364.md) |
+| 理想汽车 | 【2027届】服务储备管理-深圳市 〔27届〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/lixiang-40301.md) |
+| 美团 | 产品运营岗 | 杭州/北京/科威特城/香港/上海/西安/利雅得/广州/哈尔滨/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4696454382.md) |
+| 美团 | 城市运营管理储备岗 | 温州/苏州/北京/烟台/绍兴/沈阳/南宁/上海/兰州/成都/昆明/贵阳 等 23 城 | 2026-10-27 | [详情](../../jobs/meituan-4697288183.md) |
+| 美团 | 门店管理储备岗 | 杭州/宁波/无锡/北京/苏州/天津/上海/石家庄/成都/珠海/济南/青岛 等 29 城 | 2026-10-27 | [详情](../../jobs/meituan-4697361084.md) |
+| 美团 | 物流管理储备岗 | 杭州/南京/北京/苏州/天津/上海/西安/成都/长沙/东莞/广州/武汉 等 14 城 | 2026-10-27 | [详情](../../jobs/meituan-4697381206.md) |
 | 美团 | AI产品运营岗 | 北京/科威特城/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697324893.md) |
+| 蔚来 | 校招-大区运营管理（储备） | 深圳 | 2026-10-27 | [详情](../../jobs/nio-7675579599702985023.md) |
+| 蔚来 | 校招-业务运营管理 | 广州/深圳 | 2026-10-27 | [详情](../../jobs/nio-7673027164010334474.md) |
 | OPPO | 广告客户运营经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1767.md) |
 | OPPO | 互联网产品运营 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1859.md) |
 | OPPO | 社媒运营经理（海外-小语种） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1814.md) |
 | OPPO | Product Operation Manager 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1800.md) |
+| 商汤科技 | 【27届校招】运营管理岗-政府事务部 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/sensetime-7659336158523443482.md) |
+| Shopee | （27届秋招）跨境金融业务策略与运营 - 深圳 〔27届〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/shopee-e2e39bff-a6fe-4d93-8a54-07f1f77b54b1.md) |
+| 千寻智能 | 【2027 届校招】技术交付运营 〔27届〕 ⚠️链接待核 | 深圳/杭州 | 2026-10-27 | [详情](../../jobs/spiritai-7672038113417791787.md) |
 | 腾讯 | 产品运营 | 深圳/北京/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1282707379615819777.md) |
 | 腾讯 | 技术运营 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1284501698043487233.md) |
 | 腾讯 | 内容创作 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1284592104206836736.md) |
@@ -23,6 +33,11 @@
 | 腾讯 | 业务管理运营 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1284317968595231744.md) |
 | 腾讯 | 游戏发行/运营培训生 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282032033786619905.md) |
 | 腾讯 | 员工福利运营 | 深圳/上海/香港 | 2026-10-27 | [详情](../../jobs/tencent-1284512614105555968.md) |
+| 腾讯音乐 | 内容管理 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14785.md) |
+| 腾讯音乐 | 内容运营（版权方向） ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-15087.md) |
+| 腾讯音乐 | AI产品商业化运营 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-15068.md) |
 | 小米 | 电商销售运营 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885805251037446.md) |
+| 小鹏汽车 | 【27届校招】服务大区管理培训生-深闽大区 〔27届〕 | 厦门/福州/泉州/深圳/东莞 | 2026-10-27 | [详情](../../jobs/xpeng-7675270735959886121.md) |
+| 小鹏汽车 | 【27届校招】具身智能数据运营经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/xpeng-7666022628972808490.md) |
 
 [上一页](campus-ops.md) · [总目录](../../llms.txt)

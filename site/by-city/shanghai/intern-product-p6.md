@@ -1,13 +1,34 @@
-# 上海 · 实习 · 产品 · 全部公司（228 个岗位）（第 6/6 页）
+# 上海 · 实习 · 产品 · 全部公司（237 个岗位）（第 6/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 167](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [腾讯 5](../../slices/tencent/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [百度 3](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 167](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [腾讯 5](../../slices/tencent/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [百度 3](../../slices/baidu/intern/product/shanghai.md) · [爱奇艺 3](../../slices/iqiyi/intern/product/shanghai.md) · [商汤科技 2](../../slices/sensetime/intern/product/shanghai.md) · [特赞 2](../../slices/tezign/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [MiniMax 1](../../slices/minimax/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md) · [蔚来 1](../../slices/nio/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 滴滴 | 国际事业群IBG（7）-西班牙语产品实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-4bba4690-b612-4976-9179-2eed769c71d4.md) |
+| 滴滴 | IBG Food-数据产品实习生（8） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-316768d4-a4ac-40a8-9eb0-8bfe7ad65b06.md) |
+| 爱奇艺 | 产品实习生（移动端） 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7700798402138130730.md) |
+| 爱奇艺 | 产品实习生（PC端） 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7390273739705764132.md) |
+| 爱奇艺 | 数据产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7416557681417062710.md) |
+| 京东 | 技术产品经理 〔27届〕 | 上海/北京/成都/深圳/宿迁 | 2026-10-27 | [详情](../../jobs/jd-4910.md) |
+| 快手 | 【留用实习】平台产品经理-智能平台 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-11474.md) |
+| 美团 | 【实习】境外酒店直连产品实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-3258846670.md) |
+| 美团 | 餐饮SaaS产品项目实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4407242449.md) |
+| 美团 | 产品经理实习生（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/meituan-4588857676.md) [2](../../jobs/meituan-4588887634.md) |
+| 米哈游 | 数据产品经理实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9001.md) |
+| MiniMax | 产品增长实习生-seo方向 | 上海 | 2026-10-27 | [详情](../../jobs/minimax-7582811515381582123.md) |
+| 网易 | 活动策划日常实习生（产品方向） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79382.md) |
+| 蔚来 | 实习-领域应用产品经理 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7633337685424687401.md) |
+| 商汤科技 | 云平台产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/sensetime-7665903373330680070.md) |
+| 商汤科技 | AI-Native产品经理实习生 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/sensetime-7697195799821830427.md) |
+| 腾讯 | 产品策划 | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1188988696721092608.md) |
+| 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1224696104600437761.md) |
+| 腾讯 | 技术产品经理 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696103971292160.md) |
 | 腾讯 | 项目实习生-产品策划 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1161176783631188992.md) |
 | 腾讯 | CSIG技术产品商务培训生 | 西安/深圳/北京/上海/广州/杭州/南京/厦门/香港 | 2026-10-27 | [详情](../../jobs/tencent-1153452731391100929.md) |
+| 特赞 | 产品设计实习生 〔≥6个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/tezign-7365751376670411045.md) |
+| 特赞 | PM实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/tezign-7598372681066481983.md) |
 | 小红书 | 产品经理实习生-电商C端直播私域 〔28/29届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21211.md) |
 | 小红书 | 创新产品经理实习生（运动健康方向） 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22788.md) |
 | 小红书 | 海外生态策略产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22186.md) |

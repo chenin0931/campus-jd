@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 市场 · 全部公司（19 个岗位）
+# 深圳 · 实习 · 市场 · 全部公司（30 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 6](../../slices/bytedance/intern/marketing/shenzhen.md) · [腾讯 6](../../slices/tencent/intern/marketing/shenzhen.md) · [OPPO 3](../../slices/oppo/intern/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shenzhen.md) · [百度 1](../../slices/baidu/intern/marketing/shenzhen.md) · [京东 1](../../slices/jd/intern/marketing/shenzhen.md) · [美团 1](../../slices/meituan/intern/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 6](../../slices/bytedance/intern/marketing/shenzhen.md) · [腾讯 6](../../slices/tencent/intern/marketing/shenzhen.md) · [腾讯音乐 6](../../slices/tme/intern/marketing/shenzhen.md) · [OPPO 3](../../slices/oppo/intern/marketing/shenzhen.md) · [小鹏汽车 3](../../slices/xpeng/intern/marketing/shenzhen.md) · [自变量机器人 2](../../slices/x2robot/intern/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shenzhen.md) · [百度 1](../../slices/baidu/intern/marketing/shenzhen.md) · [京东 1](../../slices/jd/intern/marketing/shenzhen.md) · [美团 1](../../slices/meituan/intern/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -25,5 +25,15 @@
 | 腾讯 | 市场营销 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1227032176378652672.md) |
 | 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875613710029824.md) |
 | 腾讯 | 项目实习生-市场营销 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1250224484334840832.md) |
+| 腾讯音乐 | 方案策划（品牌广告） ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14850.md) |
+| 腾讯音乐 | 市场公关 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14403.md) |
+| 腾讯音乐 | 市场营销 〔≥3个月，每周≥5天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14401.md) |
+| 腾讯音乐 | 艺人商业整合营销实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14919.md) |
+| 腾讯音乐 | QQ音乐市场实习生 〔≥3个月，每周≥5天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14330.md) |
+| 腾讯音乐 | QQ音乐AI视频创意实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14862.md) |
+| 自变量机器人 | 海外内容营销实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/x2robot-7677812349520775434.md) |
+| 自变量机器人 | GTM产品市场实习生 〔26/27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/x2robot-7641575900195227958.md) |
+| 小鹏汽车 | 2026年校园大使（2个团队） | 广州/北京/上海/深圳/武汉 | 2026-10-27 | [1](../../jobs/xpeng-7640096033099712804.md) [2](../../jobs/xpeng-7516766215387531539.md) |
+| 小鹏汽车 | 新媒体实习生（深闽大区） | 深圳/东莞/福州/泉州/厦门 | 2026-10-27 | [详情](../../jobs/xpeng-7484066123403774249.md) |
 
 [总目录](../../llms.txt)

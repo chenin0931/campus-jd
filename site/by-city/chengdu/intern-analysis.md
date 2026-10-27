@@ -1,13 +1,14 @@
-# 成都 · 实习 · 分析 · 全部公司（4 个岗位）
+# 成都 · 实习 · 分析 · 全部公司（5 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 2](../../slices/tencent/intern/analysis/chengdu.md) · [字节跳动 1](../../slices/bytedance/intern/analysis/chengdu.md) · [美团 1](../../slices/meituan/intern/analysis/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 2](../../slices/tencent/intern/analysis/chengdu.md) · [字节跳动 1](../../slices/bytedance/intern/analysis/chengdu.md) · [美团 1](../../slices/meituan/intern/analysis/chengdu.md) · [蔚来 1](../../slices/nio/intern/analysis/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 字节跳动 | 数据分析实习生-抖音生活服务 〔27届〕 | 成都 | 2026-10-27 | [详情](../../jobs/bytedance-7592458777560746293.md) |
 | 美团 | 大模型数据生产实习生-math&code 〔27/28届〕 | 北京/成都 | 2026-10-27 | [详情](../../jobs/meituan-3052598290.md) |
+| 蔚来 | 校招-销售业务数据分析实习生-成都 〔27届〕 | 成都 | 2026-10-27 | [详情](../../jobs/nio-7676072298550823174.md) |
 | 腾讯 | 安全策略 | 深圳/北京/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102081.md) |
 | 腾讯 | 游戏用户研究 | 深圳/成都 | 2026-10-27 | [详情](../../jobs/tencent-1257021174874167296.md) |
 

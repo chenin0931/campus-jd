@@ -1,11 +1,18 @@
-# 北京 · 实习 · 设计 · 全部公司（93 个岗位）（第 2/2 页）
+# 北京 · 实习 · 设计 · 全部公司（111 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 34](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [爱奇艺 5](../../slices/iqiyi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/design/beijing.md) · [360 2](../../slices/360/intern/design/beijing.md) · [理想汽车 2](../../slices/lixiang/intern/design/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/design/beijing.md) · [爱诗科技 1](../../slices/aisphere/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md) · [贝壳 1](../../slices/ke/intern/design/beijing.md) · [Manus 1](../../slices/manus/intern/design/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 用户体验分析实习生-抖音生活服务 〔27届 · ≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7593211387334691125.md) |
+| 字节跳动 | AI工程/设计（内容设计与本地化方向）实习生-TikTok 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7616313875478628661.md) |
+| 字节跳动 | AI平台设计实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7532416564194199826.md) |
+| 字节跳动 | AI视觉实习生-中国公共关系 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7633657098219817269.md) |
+| 字节跳动 | AIGC美学设计实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7543585756112406792.md) |
+| 字节跳动 | Seedance 2.5资产美术实习生-火山方舟 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7654142191791409461.md) |
+| 字节跳动 | UI设计实习生-AI创新业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7628814219996465413.md) |
 | 滴滴 | （1）设计部/用户体验设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-f066dc45-b4d1-4741-91e1-47fdeec25555.md) |
 | 滴滴 | （12）设计部-设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-1318a6cb-82d4-4e10-be67-14719b670519.md) |
 | 滴滴 | （13）设计部-设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-f30be033-12fb-49c2-995f-e59124893ad3.md) |
@@ -22,9 +29,14 @@
 | 滴滴 | 设计部（7）-设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-2a001f64-b386-42d5-9b78-50cb3e033eb3.md) |
 | 滴滴 | 设计部（9）-海外设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-fa7ecf1b-7d3d-431e-b482-cb47cc4baaa6.md) |
 | 华为 | ID与UX设计师 | 苏州/东莞/南京/西安/杭州/武汉/成都/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-30857.md) |
+| 爱奇艺 | 设计实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/iqiyi-7514657839323957523.md) [2](../../jobs/iqiyi-7389554876001323305.md) |
+| 爱奇艺 | 设计实习生（电商业务） 〔28届〕 | 北京 | 2026-10-27 | [详情](../../jobs/iqiyi-7571410898280007982.md) |
+| 爱奇艺 | AIGC导演实习生（视觉方向） | 北京 | 2026-10-27 | [详情](../../jobs/iqiyi-7621090035219695908.md) |
+| 爱奇艺 | AIGC动画制片实习生 | 北京 | 2026-10-27 | [详情](../../jobs/iqiyi-7649947819154983204.md) |
 | 京东 | 创意设计师 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-6742.md) |
 | 京东 | 交互设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-4960.md) |
 | 京东 | 视觉设计师 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-4958.md) |
+| 贝壳 | 视觉设计【实习】(J72644) 〔≥9个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/ke-588c8029-3019-453d-bbff-4431cc64e83e.md) |
 | 快手 | 【留用实习】插画设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11314.md) |
 | 快手 | 【留用实习】创意设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11320.md) |
 | 快手 | 【留用实习】海外视觉设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11383.md) |
@@ -35,22 +47,8 @@
 | 快手 | 【留用实习】AIGC设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12131.md) |
 | 快手 | 【留用实习】UI设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11288.md) |
 | 快手 | 【留用实习】UX设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11289.md) |
-| 美团 | 【2027】Keeta-体验设计实习生 〔≥6个月，每周≥5天〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4691988917.md) |
-| 美团 | 华北区设计实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4724689056.md) |
-| 美团 | 实习-餐饮类客户美工设计-成都&北京 | 成都/北京 | 2026-10-27 | [详情](../../jobs/meituan-4858498338.md) |
-| 美团 | AI 产品设计师-实习 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4783317158.md) |
-| 美团 | Keeta平面设计实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4718078089.md) |
-| 腾讯 | 多媒体设计 | 深圳/北京/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751792028676096.md) |
-| 腾讯 | 交互设计 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1210646470286783491.md) |
-| 腾讯 | 视觉设计（2个团队） | 深圳/北京/广州 | 2026-10-27 | [1](../../jobs/tencent-1177660287760077824.md) [2](../../jobs/tencent-1210646470286783489.md) |
-| 小红书 | 【急招】小红书活动&设计实习生 〔27届 · ≥5个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21306.md) |
-| 小红书 | 【Ace顶尖实习生】端到端的全双工自然语音交互 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19812.md) |
-| 小红书 | 【Ace顶尖实习生】基于Agent的交互式推荐系统 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19816.md) |
-| 小红书 | 体验设计实习生（直播方向） 〔26/27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-16537.md) |
-| 小米 | 视觉设计师实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7612468282264799494.md) |
-| 小米 | 视觉设计实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7563478037440104713.md) [2](../../jobs/xiaomi-7537842909430726764.md) |
-| 小米 | 小米汽车-视觉设计师 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7683793700866427172.md) |
-| 小米 | 小米汽车-视觉设计实习生（活动设计方向） 〔28/29届 · ≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7697092448811977001.md) |
-| 小米 | 用户体验设计师实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7553107909829298441.md) |
+| 理想汽车 | 零售平面设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-71687.md) |
+| 理想汽车 | AI系统交互设计师-北京(有转正机会） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-135567.md) |
+| Manus | 品牌与视觉设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/manus-b46136a6-ba06-43d3-be7d-5cbcd9069b40.md) |
 
-[上一页](intern-design.md) · [总目录](../../llms.txt)
+[上一页](intern-design.md) · [下一页](intern-design-p3.md) · [总目录](../../llms.txt)

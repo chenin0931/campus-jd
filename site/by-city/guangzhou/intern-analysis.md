@@ -1,8 +1,8 @@
-# 广州 · 实习 · 分析 · 全部公司（8 个岗位）
+# 广州 · 实习 · 分析 · 全部公司（9 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 4](../../slices/netease/intern/analysis/guangzhou.md) · [腾讯 3](../../slices/tencent/intern/analysis/guangzhou.md) · [京东 1](../../slices/jd/intern/analysis/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 4](../../slices/netease/intern/analysis/guangzhou.md) · [腾讯 3](../../slices/tencent/intern/analysis/guangzhou.md) · [京东 1](../../slices/jd/intern/analysis/guangzhou.md) · [腾讯音乐 1](../../slices/tme/intern/analysis/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -14,5 +14,6 @@
 | 腾讯 | 安全策略 | 深圳/北京/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102081.md) |
 | 腾讯 | 商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067393358393344.md) |
 | 腾讯 | 项目实习生-商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1225871633341097984.md) |
+| 腾讯音乐 | 酷狗音乐数据分析日常实习生 〔≥3个月，每周≥3天〕 ⚠️链接待核 | 广州 | 2026-10-27 | [详情](../../jobs/tme-14988.md) |
 
 [总目录](../../llms.txt)

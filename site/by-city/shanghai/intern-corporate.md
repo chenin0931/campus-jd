@@ -1,11 +1,12 @@
-# 上海 · 实习 · 职能 · 全部公司（161 个岗位）（第 1/4 页）
+# 上海 · 实习 · 职能 · 全部公司（168 个岗位）（第 1/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 82](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 3](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 3](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/intern/corporate/shanghai.md) · [智元机器人 1](../../slices/agibot/intern/corporate/shanghai.md) · [爱奇艺 1](../../slices/iqiyi/intern/corporate/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/corporate/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md) · [商汤科技 1](../../slices/sensetime/intern/corporate/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/intern/corporate/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | HR实习生（校园招聘方向） 〔≥3个月，每周≥5天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7517537220057499923.md) |
 | 哔哩哔哩 | 财务实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30983.md) |
 | 哔哩哔哩 | 财务实习生（税务） 〔每周≥3天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30610.md) |
 | 哔哩哔哩 | 财务实习生（资金） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30831.md) |
@@ -42,9 +43,5 @@
 | 字节跳动 | 招聘（国际化方向）实习生-飞书 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7649648584650737925.md) |
 | 字节跳动 | 招聘实习生 - 集团职能 〔≥3个月，每周≥4天〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7449224456953022727.md) |
 | 字节跳动 | 招聘实习生 - 人力与管理部 〔≥3个月，每周≥4天〕 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7474979167932254472.md) |
-| 字节跳动 | 招聘实习生 - 人力与管理部（2个团队） 〔27届 · ≥3个月，每周≥5天〕 | 北京/上海 | 2026-10-27 | [1](../../jobs/bytedance-7668601789113452853.md) [2](../../jobs/bytedance-7611117363446368565.md) |
-| 字节跳动 | 招聘实习生 - 生活服务 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7678185468568029493.md) |
-| 字节跳动 | 招聘实习生 - 研发中台（2个团队） 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [1](../../jobs/bytedance-7474978635624007954.md) [2](../../jobs/bytedance-7561023040923896117.md) |
-| 字节跳动 | 招聘实习生-产品研发 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7449280361354594567.md) |
 
 [下一页](intern-corporate-p2.md) · [总目录](../../llms.txt)

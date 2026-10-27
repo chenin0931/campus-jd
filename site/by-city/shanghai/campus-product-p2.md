@@ -1,11 +1,16 @@
-# 上海 · 校招 · 产品 · 全部公司（115 个岗位）（第 2/3 页）
+# 上海 · 校招 · 产品 · 全部公司（137 个岗位）（第 2/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [蔚来 11](../../slices/nio/campus/product/shanghai.md) · [阶跃星辰 4](../../slices/stepfun/campus/product/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [商汤科技 2](../../slices/sensetime/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [Shopee 1](../../slices/shopee/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 交易应用产品经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665925299130190085.md) |
+| 字节跳动 | 交易用户产品经理 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668304557114804533.md) |
+| 字节跳动 | 巨量千川广告策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680458256896690485.md) |
+| 字节跳动 | 巨量千川客户策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668302051415361845.md) |
+| 字节跳动 | 巨量千川流量策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668303337959819573.md) |
 | 字节跳动 | 流量策略产品经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665921870118603061.md) |
 | 字节跳动 | 内容产品 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668575132089583925.md) |
 | 字节跳动 | 内容产品经理 - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667548693747075333.md) |
@@ -40,12 +45,5 @@
 | 字节跳动 | 用户增长产品经理 - TikTok Shop 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668327844800088373.md) |
 | 字节跳动 | 用户增长产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668646515574294837.md) |
 | 字节跳动 | 用户增长产品经理（独立端） - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668194099742738693.md) |
-| 字节跳动 | 用户增长产品经理（多端） - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667561625356323125.md) |
-| 字节跳动 | 用户增长产品经理（联合用户增长） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668321009259579701.md) |
-| 字节跳动 | 用户增长产品经理（SEA） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668648081264527621.md) |
-| 字节跳动 | 用户账户产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585566877436213.md) |
-| 字节跳动 | 增长策略产品 - 国际支付 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665585620055689525.md) |
-| 字节跳动 | 直播产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668331033272944949.md) |
-| 字节跳动 | 直播产品经理（商家供给与成长） - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7694222239787059461.md) |
 
 [上一页](campus-product.md) · [下一页](campus-product-p3.md) · [总目录](../../llms.txt)

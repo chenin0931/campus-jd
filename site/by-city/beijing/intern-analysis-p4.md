@@ -1,11 +1,24 @@
-# 北京 · 实习 · 分析 · 全部公司（233 个岗位）（第 4/5 页）
+# 北京 · 实习 · 分析 · 全部公司（246 个岗位）（第 4/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [360 3](../../slices/360/intern/analysis/beijing.md) · [MiniMax 3](../../slices/minimax/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/analysis/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/analysis/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/analysis/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/analysis/beijing.md) · [知乎 1](../../slices/zhihu/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 数据科学实习生 - TikTok Shop（3个团队） 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7684131052772657461.md) [2](../../jobs/bytedance-7675733687380150581.md) [3](../../jobs/bytedance-7678256791041804597.md) |
+| 字节跳动 | 数据科学实习生 - TikTok用户增长 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7657049199338539317.md) |
+| 字节跳动 | 数据科学实习生 - TikTok直播 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683002882310785285.md) |
+| 字节跳动 | 数据科学实习生-抖音 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7594466668266424629.md) |
+| 字节跳动 | 数据科学实习生-抖音电商 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7660773799478102325.md) |
+| 字节跳动 | 数据科学实习生-抖音生活服务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7446682811137165576.md) |
+| 字节跳动 | 数据科学实习生-抖音推荐 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7584392651304339765.md) |
+| 字节跳动 | 数据科学实习生-剪映（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7550152520057325842.md) [2](../../jobs/bytedance-7594466451949226245.md) |
+| 字节跳动 | 数据科学实习生-TikTok（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7594685767386335493.md) [2](../../jobs/bytedance-7659280591617263877.md) |
+| 字节跳动 | 数据科学实习生（安全产品方向）-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7608864737657456949.md) |
+| 字节跳动 | 数据科学实习生（垂搜）-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7614055205441702197.md) |
+| 字节跳动 | 数据科学实习生（用户增长）-TikTok | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7522374078528407826.md) |
+| 字节跳动 | 数据科学实习生（增长）-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7604792919741008133.md) |
 | 字节跳动 | 数据实习生-财经业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7594289771743774981.md) |
 | 字节跳动 | 数据挖掘实习生 - 今日头条（2个团队） 〔≥4个月，每周≥4天〕 | 北京/深圳 | 2026-10-27 | [1](../../jobs/bytedance-7696103175413254405.md) [2](../../jobs/bytedance-7592094922270918965.md) |
 | 字节跳动 | 数据挖掘实习生-安全与风控 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7593252047508998453.md) |
@@ -30,21 +43,5 @@
 | 字节跳动 | BI商业分析实习生-商业产品与技术 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7581699647900600581.md) |
 | 字节跳动 | CRM数据分析产品实习生 - 销售运营管理平台 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7684198381504170245.md) |
 | 字节跳动 | SEA&CCA分析中台实习生-TikTok 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7654914973756033333.md) |
-| 字节跳动 | US直播推荐数据科学实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699803973236705541.md) |
-| 字节跳动 | VN活动策略实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665220878238894389.md) |
-| 滴滴 | 滴盟商业分析-商业分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-3cac9932-1099-4072-baad-d07624e27bea.md) |
-| 滴滴 | 国际事业群IBG-商业分析实习生（4） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-c819cb96-4e21-4b0b-9629-8eee601667fa.md) |
-| 滴滴 | 国际事业群IBG-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-beb15d40-5e81-4007-b4fd-feaaae196e3f.md) |
-| 滴滴 | 国际事业群IBG（1）-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-e852e735-74a3-494b-ae8c-3c6e1a888f77.md) |
-| 滴滴 | 国际事业群IBG（11）-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-4ddea13b-2ba3-4393-ac89-073d29bfd00a.md) |
-| 滴滴 | 花小猪打车-城市数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-e70db446-f071-480c-b3e8-bb1357d78d7b.md) |
-| 滴滴 | 货运事业部-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-cd6694bf-7e81-4338-a44e-327761e98ece.md) |
-| 滴滴 | 竞争中台-商业分析实习生（1） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-b366b5f4-039f-4c31-83de-a9177b46280a.md) |
-| 滴滴 | 拉货有人车业务部-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-1b38efa1-b41b-4775-8c70-0de61ddf70fc.md) |
-| 滴滴 | 两轮车事业部-商业分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-269cae33-0af4-4765-bcc5-023b45741ea7.md) |
-| 滴滴 | 潜力市场-商业分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-ae3d9d47-fa6e-4b89-81d2-0253b4a0fc6a.md) |
-| 滴滴 | 数据科学中台部-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-dfdf779b-ba53-46d9-a766-9dec030747b6.md) |
-| 滴滴 | 战略商分部-商业分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-91d3eeba-f45f-4041-b555-2d6f2419a388.md) |
-| 滴滴 | 战略与决策支持部-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-8c0fbcee-21c0-4bcd-8dd2-b200c3b2e84d.md) |
 
 [上一页](intern-analysis-p3.md) · [下一页](intern-analysis-p5.md) · [总目录](../../llms.txt)

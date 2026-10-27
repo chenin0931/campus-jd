@@ -1,8 +1,8 @@
-# 杭州 · 校招 · AI产品 · 全部公司（33 个岗位）
+# 杭州 · 校招 · AI产品 · 全部公司（34 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 21](../../slices/bytedance/campus/ai-product/hangzhou.md) · [阿里巴巴 5](../../slices/alibaba/campus/ai-product/hangzhou.md) · [蚂蚁集团 5](../../slices/antgroup/campus/ai-product/hangzhou.md) · [快手 1](../../slices/kuaishou/campus/ai-product/hangzhou.md) · [网易 1](../../slices/netease/campus/ai-product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 21](../../slices/bytedance/campus/ai-product/hangzhou.md) · [阿里巴巴 5](../../slices/alibaba/campus/ai-product/hangzhou.md) · [蚂蚁集团 5](../../slices/antgroup/campus/ai-product/hangzhou.md) · [快手 1](../../slices/kuaishou/campus/ai-product/hangzhou.md) · [网易 1](../../slices/netease/campus/ai-product/hangzhou.md) · [千寻智能 1](../../slices/spiritai/campus/ai-product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -39,5 +39,6 @@
 | 字节跳动 | AI计算产品经理 - AI算力基础设施 〔27届〕 | 北京/杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7687893581964773685.md) |
 | 快手 | AI产品经理-导购方向 | 杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-13732.md) |
 | 网易 | 产品经理（HR+AI方向） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-4918.md) |
+| 千寻智能 | 【2027 届校招】具身智能产品经理 〔27届〕 ⚠️链接待核 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/spiritai-7672031985867295002.md) |
 
 [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 上海 · 实习 · 供应链 · 全部公司（10 个岗位）
+# 上海 · 实习 · 供应链 · 全部公司（11 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 4](../../slices/bytedance/intern/supply/shanghai.md) · [京东 2](../../slices/jd/intern/supply/shanghai.md) · [携程 1](../../slices/ctrip/intern/supply/shanghai.md) · [得物 1](../../slices/dewu/intern/supply/shanghai.md) · [美团 1](../../slices/meituan/intern/supply/shanghai.md) · [小红书 1](../../slices/xiaohongshu/intern/supply/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 4](../../slices/bytedance/intern/supply/shanghai.md) · [京东 2](../../slices/jd/intern/supply/shanghai.md) · [携程 1](../../slices/ctrip/intern/supply/shanghai.md) · [得物 1](../../slices/dewu/intern/supply/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/supply/shanghai.md) · [美团 1](../../slices/meituan/intern/supply/shanghai.md) · [小红书 1](../../slices/xiaohongshu/intern/supply/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -12,7 +12,8 @@
 | 携程 | 酒店供应链实习生 〔每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ037413.md) |
 | 得物 | 供应链实习生【上海】 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7567342263292381467.md) |
 | 京东 | 供应链规划 〔27届〕 | 上海/北京/合肥/广州/深圳 | 2026-10-27 | [详情](../../jobs/jd-4860.md) |
-| 京东 | 物流规划与实施 〔27届〕 | 上海/昆明/北京/成都/合肥/太原/广州/南宁/南京/石家庄/郑州/海口/武汉/长沙/兰州/沈阳/哈尔滨 | 2026-10-27 | [详情](../../jobs/jd-4862.md) |
+| 京东 | 物流规划与实施 〔27届〕 | 上海/昆明/北京/成都/合肥/太原/广州/南宁/南京/石家庄/郑州/海口 等 17 城 | 2026-10-27 | [详情](../../jobs/jd-4862.md) |
+| 理想汽车 | 充电网络工程供应管理实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/lixiang-01544.md) |
 | 美团 | 【实习】商品与供应链管理 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4861621419.md) |
 | 小红书 | 【Ace顶尖实习生】超低码率高质量音视频编码与语义感知压缩 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19943.md) |
 

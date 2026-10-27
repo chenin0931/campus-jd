@@ -1,11 +1,14 @@
-# 上海 · 校招 · 销售 · 全部公司（41 个岗位）
+# 上海 · 校招 · 销售 · 全部公司（49 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 30](../../slices/bytedance/campus/sales/shanghai.md) · [百度 2](../../slices/baidu/campus/sales/shanghai.md) · [京东 2](../../slices/jd/campus/sales/shanghai.md) · [腾讯 2](../../slices/tencent/campus/sales/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/sales/shanghai.md) · [携程 1](../../slices/ctrip/campus/sales/shanghai.md) · [得物 1](../../slices/dewu/campus/sales/shanghai.md) · [快手 1](../../slices/kuaishou/campus/sales/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 30](../../slices/bytedance/campus/sales/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/sales/shanghai.md) · [百度 2](../../slices/baidu/campus/sales/shanghai.md) · [科大讯飞 2](../../slices/iflytek/campus/sales/shanghai.md) · [京东 2](../../slices/jd/campus/sales/shanghai.md) · [腾讯 2](../../slices/tencent/campus/sales/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/sales/shanghai.md) · [携程 1](../../slices/ctrip/campus/sales/shanghai.md) · [得物 1](../../slices/dewu/campus/sales/shanghai.md) · [快手 1](../../slices/kuaishou/campus/sales/shanghai.md) · [蔚来 1](../../slices/nio/campus/sales/shanghai.md) · [商汤科技 1](../../slices/sensetime/campus/sales/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/campus/sales/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 国内销售-智鼎子公司 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662631480590059830.md) |
+| 智元机器人 | 海外销售-智鼎子公司 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662631659598580022.md) |
+| 智元机器人 | ToB销售管培生-擎天租子公司 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7673710085365664063.md) |
 | 蚂蚁集团 | OceanBase销售管培生（商业技术方向） | 北京/上海/杭州/深圳 | 2026-10-27 | [详情](../../jobs/antgroup-260820011569212.md) |
 | 百度 | 上海-大客户销售经理(J101190) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-6a6addeb-054a-4a53-8361-396fcb4c52b9.md) |
 | 百度 | 上海-云和大模型大客户销售(J100775) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-2726a03c-94e5-4511-9c98-077f07ecd6c6.md) |
@@ -40,11 +43,5 @@
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 北京/上海/成都/武汉/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667154545639246085.md) |
 | 字节跳动 | 云与AI咨询销售（汽车行业线） - 火山引擎（2个团队） 〔27届〕 | 北京/上海 | 2026-10-27 | [1](../../jobs/bytedance-7694957404425832757.md) [2](../../jobs/bytedance-7694611254162524469.md) |
 | 携程 | 黑钻客户经理（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036666.md) |
-| 得物 | 【27届校招】VIC私人顾问 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670420986290882842.md) |
-| 京东 | 大客户销售 〔27届〕 | 上海/昆明/北京/长春/成都/广州/深圳/南昌/杭州/武汉/大连/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9079.md) |
-| 京东 | 解决方案 〔27届〕 | 上海/北京/成都/济南/广州/杭州/兰州/厦门/重庆 | 2026-10-27 | [详情](../../jobs/jd-9070.md) |
-| 快手 | 商业化KA销售 | 上海/广州/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9752.md) |
-| 腾讯 | 解决方案-技术咨询方向 | 深圳/北京/上海/广州/西安/重庆 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182209.md) |
-| 腾讯 | 解决方案-行业咨询方向 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182208.md) |
 
-[总目录](../../llms.txt)
+[下一页](campus-sales-p2.md) · [总目录](../../llms.txt)

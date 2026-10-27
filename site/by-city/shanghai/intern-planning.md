@@ -1,8 +1,8 @@
-# 上海 · 实习 · 策划 · 全部公司（21 个岗位）
+# 上海 · 实习 · 策划 · 全部公司（22 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 8](../../slices/mihoyo/intern/planning/shanghai.md) · [网易 6](../../slices/netease/intern/planning/shanghai.md) · [字节跳动 3](../../slices/bytedance/intern/planning/shanghai.md) · [腾讯 3](../../slices/tencent/intern/planning/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/intern/planning/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 8](../../slices/mihoyo/intern/planning/shanghai.md) · [网易 6](../../slices/netease/intern/planning/shanghai.md) · [字节跳动 3](../../slices/bytedance/intern/planning/shanghai.md) · [腾讯 3](../../slices/tencent/intern/planning/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/intern/planning/shanghai.md) · [MiniMax 1](../../slices/minimax/intern/planning/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -18,6 +18,7 @@
 | 米哈游 | 系统策划实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7884.md) |
 | 米哈游 | 游戏文案策划实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8235.md) |
 | 米哈游 | 战斗策划实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7882.md) |
+| MiniMax | 海外创意策划实习生 | 上海 | 2026-10-27 | [详情](../../jobs/minimax-7589115787321149732.md) |
 | 网易 | 【精英实习】文案策划实习生（时空中的绘旅人）- 上海 〔26/27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-75774.md) |
 | 网易 | 关卡策划实习生（七日世界） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78887.md) |
 | 网易 | 文案策划实习生（模拟经营类） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78075.md) |

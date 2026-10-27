@@ -1,11 +1,13 @@
-# 上海 · 实习 · 分析 · 全部公司（184 个岗位）（第 4/4 页）
+# 上海 · 实习 · 分析 · 全部公司（186 个岗位）（第 4/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 132](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/analysis/shanghai.md) · [腾讯 4](../../slices/tencent/intern/analysis/shanghai.md) · [美团 3](../../slices/meituan/intern/analysis/shanghai.md) · [网易 3](../../slices/netease/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md) · [小米 1](../../slices/xiaomi/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 132](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/analysis/shanghai.md) · [腾讯 4](../../slices/tencent/intern/analysis/shanghai.md) · [美团 3](../../slices/meituan/intern/analysis/shanghai.md) · [网易 3](../../slices/netease/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md) · [MiniMax 1](../../slices/minimax/intern/analysis/shanghai.md) · [蔚来 1](../../slices/nio/intern/analysis/shanghai.md) · [小米 1](../../slices/xiaomi/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI数据策略实习生 - 模型数据工程 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7671197964542789941.md) |
+| 字节跳动 | AI数据分析运营（生态方向）实习生 - TikTok 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7696404672672172341.md) |
 | 字节跳动 | AI数据服务平台数据实习生-国际化 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7400611583330896178.md) |
 | 字节跳动 | AI搜索数据科学实习生 - TikTok Shop 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698940583247612213.md) |
 | 字节跳动 | AI自动化实习生（数据分析方向）-TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667113882496141573.md) |
@@ -32,9 +34,11 @@
 | 米哈游 | 用户研究实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7812.md) |
 | 米哈游 | 游戏支付数据分析实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8594.md) |
 | 米哈游 | 增长洞察数据分析实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7491.md) |
+| MiniMax | 大模型数据实习生-声音 〔≥3个月，每周≥3天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/minimax-7683070096784918830.md) |
 | 网易 | 游戏测评实习生（行业研究） 〔26/27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79474.md) |
 | 网易 | 游戏用户研究实习生-哈利波特 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79376.md) |
 | 网易 | 游戏用户研究实习生（暗黑破坏神-不朽） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78969.md) |
+| 蔚来 | 实习-AI代码分析 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7633336911109196068.md) |
 | 腾讯 | 商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067393358393344.md) |
 | 腾讯 | 项目实习生-商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1225871633341097984.md) |
 | 腾讯 | 游戏用户研究 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1227032116983141376.md) |
@@ -44,9 +48,5 @@
 | 小红书 | 数据分析实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21873.md) |
 | 小红书 | 数据分析实习生【28届，面向转正】 〔28届 · ≥3个月，每周≥4天〕 | 上海/美国 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22540.md) |
 | 小红书 | 数据科学与分析实习生（社区流量） 〔≥6个月〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20098.md) |
-| 小红书 | 消费品行业策略实习生（2个团队） 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-19014.md) [2](../../jobs/xiaohongshu-20017.md) |
-| 小红书 | 小红书创新产品用户研究实习生 〔每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-18209.md) |
-| 小红书 | 行业策略实习生 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-13238.md) |
-| 小米 | 数据分析及AI产品实习生-2027届 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7698957299566168371.md) |
 
-[上一页](intern-analysis-p3.md) · [总目录](../../llms.txt)
+[上一页](intern-analysis-p3.md) · [下一页](intern-analysis-p5.md) · [总目录](../../llms.txt)

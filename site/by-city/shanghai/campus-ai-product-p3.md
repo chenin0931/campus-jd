@@ -1,11 +1,17 @@
-# 上海 · 校招 · AI产品 · 全部公司（103 个岗位）（第 3/3 页）
+# 上海 · 校招 · AI产品 · 全部公司（117 个岗位）（第 3/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 86](../../slices/bytedance/campus/ai-product/shanghai.md) · [蚂蚁集团 4](../../slices/antgroup/campus/ai-product/shanghai.md) · [得物 4](../../slices/dewu/campus/ai-product/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ai-product/shanghai.md) · [美团 2](../../slices/meituan/campus/ai-product/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/ai-product/shanghai.md) · [携程 1](../../slices/ctrip/campus/ai-product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/ai-product/shanghai.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 86](../../slices/bytedance/campus/ai-product/shanghai.md) · [小鹏汽车 5](../../slices/xpeng/campus/ai-product/shanghai.md) · [蚂蚁集团 4](../../slices/antgroup/campus/ai-product/shanghai.md) · [得物 4](../../slices/dewu/campus/ai-product/shanghai.md) · [商汤科技 3](../../slices/sensetime/campus/ai-product/shanghai.md) · [智元机器人 2](../../slices/agibot/campus/ai-product/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ai-product/shanghai.md) · [美团 2](../../slices/meituan/campus/ai-product/shanghai.md) · [蔚来 2](../../slices/nio/campus/ai-product/shanghai.md) · [阶跃星辰 2](../../slices/stepfun/campus/ai-product/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/ai-product/shanghai.md) · [携程 1](../../slices/ctrip/campus/ai-product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/ai-product/shanghai.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI产品经理（直播治理方向） - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688569734046714117.md) |
+| 字节跳动 | AI产品经理（治理策略方向） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7676433354120038661.md) |
+| 字节跳动 | AI产品经理（智能治理/智能服务方向） - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668185410490648837.md) |
+| 字节跳动 | AI产品经理（自助产品方向） - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668306502553995573.md) |
+| 字节跳动 | AI产品经理（AI-通用场景方向） - 集团信息系统 〔27届〕 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667880992837945653.md) |
+| 字节跳动 | AI产品经理（AIGC创意营销方向） - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669360990392502533.md) |
 | 字节跳动 | AI产品经理（AIGC社区互动产品方向） - 剪映CapCut 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667181638182684933.md) |
 | 字节跳动 | AI产品经理（AIGC治理方向） - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667853186406926597.md) |
 | 字节跳动 | AI产品经理（CRM方向） - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667523818756655413.md) |
@@ -23,7 +29,19 @@
 | 美团 | AI产品经理岗 | 北京/上海/成都/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697309845.md) |
 | 美团 | AI产品Builder | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4696304163.md) |
 | 米哈游 | 大模型产品经理（AI基建） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9234.md) |
+| 蔚来 | 校招-数字化产品经理（系统工具与AI方向） | 上海 | 2026-10-27 | [详情](../../jobs/nio-7686124291784378665.md) |
+| 蔚来 | 校招-AI产品经理（工业化&供应链领域） | 上海/合肥 | 2026-10-27 | [详情](../../jobs/nio-7673027263944673546.md) |
+| 商汤科技 | 【27届校招】AI 产品经理-大装置 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/sensetime-7659345581768935716.md) |
+| 商汤科技 | 【27届校招】AI产品经理 〔27届〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/sensetime-7659326668481235242.md) |
+| 商汤科技 | 【27届校招】AI大模型产品经理 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/sensetime-7659692882084956454.md) |
+| 阶跃星辰 | 27届-AI策略产品经理 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/stepfun-9d83bd6e-aaf2-41eb-a5a1-acdf21e1f691.md) |
+| 阶跃星辰 | 27届校招-语音大模型产品经理 〔27届〕 ⚠️链接待核 | 北京/上海 | 2026-10-27 | [详情](../../jobs/stepfun-a2eeb736-8112-4e68-9778-956a4f4c8c52.md) |
 | 腾讯 | AI产品经理 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126456553382912.md) |
 | 小红书 | 【2027校招】产品经理（AI Coding）-AI 应用 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22065.md) |
+| 小鹏汽车 | 【27届校招】AI产品经理（海外方向） 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xpeng-7661198578878449966.md) |
+| 小鹏汽车 | 【27届校招】AI产品经理（驾舱一体Agent方向） 〔27届〕 | 北京/上海/广州 | 2026-10-27 | [详情](../../jobs/xpeng-7658239728123201843.md) |
+| 小鹏汽车 | 【27届校招】AI产品经理（智驾VLA方向） 〔27届〕 | 上海/广州 | 2026-10-27 | [详情](../../jobs/xpeng-7658239732673071410.md) |
+| 小鹏汽车 | 【27届校招】AI产品经理（AI创新产品方向） 〔27届〕 | 北京/上海/广州 | 2026-10-27 | [详情](../../jobs/xpeng-7658239728123545907.md) |
+| 小鹏汽车 | 【27届校招】AI产品经理（Robotaxi方向） 〔27届〕 | 上海/广州 | 2026-10-27 | [详情](../../jobs/xpeng-7658239728122857779.md) |
 
 [上一页](campus-ai-product-p2.md) · [总目录](../../llms.txt)

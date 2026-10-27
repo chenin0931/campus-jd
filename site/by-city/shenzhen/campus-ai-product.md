@@ -1,11 +1,12 @@
-# 深圳 · 校招 · AI产品 · 全部公司（29 个岗位）
+# 深圳 · 校招 · AI产品 · 全部公司（33 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 23](../../slices/bytedance/campus/ai-product/shenzhen.md) · [美团 2](../../slices/meituan/campus/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/campus/ai-product/shenzhen.md) · [阿里巴巴 1](../../slices/alibaba/campus/ai-product/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 23](../../slices/bytedance/campus/ai-product/shenzhen.md) · [美团 2](../../slices/meituan/campus/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/campus/ai-product/shenzhen.md) · [小鹏汽车 2](../../slices/xpeng/campus/ai-product/shenzhen.md) · [智元机器人 1](../../slices/agibot/campus/ai-product/shenzhen.md) · [阿里巴巴 1](../../slices/alibaba/campus/ai-product/shenzhen.md) · [商汤科技 1](../../slices/sensetime/campus/ai-product/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 具身智能产品经理-酷拓子公司 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/agibot-7683803101066086662.md) |
 | 阿里巴巴 | AI产品经理 | 北京/广州/杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907700037.md) |
 | 字节跳动 | 大模型产品经理 - 火山引擎 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667887767667624197.md) |
 | 字节跳动 | 豆包AI大模型产品解决方案 - 火山方舟 〔27届〕 | 北京/上海/杭州/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667579728820259125.md) |
@@ -34,6 +35,9 @@
 | 美团 | AI产品Builder | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4696304163.md) |
 | OPPO | 互联网产品经理（AI方向） 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1825.md) |
 | OPPO | AI产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1839.md) |
+| 商汤科技 | 【27届校招】AI产品经理 〔27届〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/sensetime-7659326668481235242.md) |
 | 腾讯 | AI产品经理 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126456553382912.md) |
+| 小鹏汽车 | 【27届校招】具身智能数据平台产品经理 〔27届〕 | 深圳/广州 | 2026-10-27 | [详情](../../jobs/xpeng-7666022635733567798.md) |
+| 小鹏汽车 | 【27届校招】具身智能数据硬件产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/xpeng-7678640648783022390.md) |
 
 [总目录](../../llms.txt)

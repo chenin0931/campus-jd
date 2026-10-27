@@ -1,11 +1,14 @@
-# 北京 · 实习 · 分析 · 全部公司（233 个岗位）（第 1/5 页）
+# 北京 · 实习 · 分析 · 全部公司（246 个岗位）（第 1/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [360 3](../../slices/360/intern/analysis/beijing.md) · [MiniMax 3](../../slices/minimax/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/analysis/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/analysis/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/analysis/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/analysis/beijing.md) · [知乎 1](../../slices/zhihu/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 360 | 样本分析实习生（北京）-4955(J12019) ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-a5814627-8988-4f01-b13e-be7d26aa79b4.md) |
+| 360 | 业务分析实习生（北京）-5224(J12277) ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-96e789b0-b8f4-4fb6-ac4a-9e75e6af48af.md) |
+| 360 | 用户研究实习生（北京）-4520(J11987) 〔≥6个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-4b87e020-9575-4de9-a02e-0b0f887ccfa8.md) |
 | 百度 | 安全策略实习生（J83929） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-d180874e-9997-491b-ad07-7ece08663377.md) |
 | 百度 | 大模型数据实习生（创意写作方向）（J104314） 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-6e7b3ed8-70fa-4a38-af60-12788557c180.md) |
 | 百度 | 大模型应用策略实习生（J103129） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-7ef435eb-b1f2-4d34-991f-cd3fe424e6d2.md) |
@@ -42,11 +45,5 @@
 | 字节跳动 | 大模型数据（数学方向）实习生 - AI数据与安全 〔≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7657549823978146053.md) |
 | 字节跳动 | 大模型数据分析实习生 - 火山方舟 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7701201420539889925.md) |
 | 字节跳动 | 大模型数据挖掘实习生 - 模型数据工程 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7671205168105769269.md) |
-| 字节跳动 | 大数据分析实习生-音视频技术 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7611022627243673909.md) |
-| 字节跳动 | 东南亚电商运营数据科学实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677477289400404277.md) |
-| 字节跳动 | 东南亚直播策略实习生 - TikTok Shop 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7684109493437679925.md) |
-| 字节跳动 | 度量数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683783124081412357.md) |
-| 字节跳动 | 短剧内容策略实习生 - TikTok 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7649708671724112181.md) |
-| 字节跳动 | 泛商城推荐数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669795295006755125.md) |
 
 [下一页](intern-analysis-p2.md) · [总目录](../../llms.txt)

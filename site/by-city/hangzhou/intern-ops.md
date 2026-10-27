@@ -1,8 +1,8 @@
-# 杭州 · 实习 · 运营 · 全部公司（101 个岗位）（第 1/3 页）
+# 杭州 · 实习 · 运营 · 全部公司（102 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 55](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 18](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/intern/ops/hangzhou.md) · [京东 3](../../slices/jd/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [美团 1](../../slices/meituan/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 55](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 18](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/intern/ops/hangzhou.md) · [京东 4](../../slices/jd/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [美团 1](../../slices/meituan/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -45,6 +45,7 @@
 | 滴滴 | 能源事业群-产品与用户运营实习生6 ⚠️链接待核 | 杭州 | 2026-10-27 | [详情](../../jobs/didi-06e70911-cb20-4fe1-ba3b-429590ec2ab1.md) |
 | 滴滴 | 网约车区域-运力运营实习生 ⚠️链接待核 | 杭州 | 2026-10-27 | [详情](../../jobs/didi-1463d4d8-21ca-4e63-b87d-3448738eb79f.md) |
 | 滴滴 | 用户平台部-运营实习生 ⚠️链接待核 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/didi-c1c47f92-0a82-4ede-8f04-4798fd85c052.md) |
-| 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉/长沙/贵阳/沈阳/重庆/西安 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
+| 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉 等 17 城 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
+| 京东 | 店长储备 〔26/27届〕 | 上海/昆明/北京/天津/合肥/宿州/淮南/蚌埠/青岛/广州/深圳/南通 等 21 城 | 2026-10-27 | [详情](../../jobs/jd-6371.md) |
 
 [下一页](intern-ops-p2.md) · [总目录](../../llms.txt)

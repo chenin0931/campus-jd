@@ -1,11 +1,13 @@
-# 上海 · 校招 · AI产品 · 全部公司（103 个岗位）（第 1/3 页）
+# 上海 · 校招 · AI产品 · 全部公司（117 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 86](../../slices/bytedance/campus/ai-product/shanghai.md) · [蚂蚁集团 4](../../slices/antgroup/campus/ai-product/shanghai.md) · [得物 4](../../slices/dewu/campus/ai-product/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ai-product/shanghai.md) · [美团 2](../../slices/meituan/campus/ai-product/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/ai-product/shanghai.md) · [携程 1](../../slices/ctrip/campus/ai-product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/ai-product/shanghai.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 86](../../slices/bytedance/campus/ai-product/shanghai.md) · [小鹏汽车 5](../../slices/xpeng/campus/ai-product/shanghai.md) · [蚂蚁集团 4](../../slices/antgroup/campus/ai-product/shanghai.md) · [得物 4](../../slices/dewu/campus/ai-product/shanghai.md) · [商汤科技 3](../../slices/sensetime/campus/ai-product/shanghai.md) · [智元机器人 2](../../slices/agibot/campus/ai-product/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ai-product/shanghai.md) · [美团 2](../../slices/meituan/campus/ai-product/shanghai.md) · [蔚来 2](../../slices/nio/campus/ai-product/shanghai.md) · [阶跃星辰 2](../../slices/stepfun/campus/ai-product/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/ai-product/shanghai.md) · [携程 1](../../slices/ctrip/campus/ai-product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/ai-product/shanghai.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 具身数据产品经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7673479382657665334.md) |
+| 智元机器人 | AI产品经理助理 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7661949108362643775.md) |
 | 阿里巴巴 | AI Agent产品经理 | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907740089.md) |
 | 阿里巴巴 | AI产品经理 | 北京/广州/杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907700037.md) |
 | 蚂蚁集团 | 【Plan A】大模型动态评测与评测诊断方向（AGI蓝军）-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260806011286814.md) |
@@ -41,9 +43,5 @@
 | 字节跳动 | AI产品经理 - 剪映CapCut 〔27届〕 | 北京/深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667532105950054661.md) |
 | 字节跳动 | AI产品经理 - 开发者服务 〔27届〕 | 杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667874143609588021.md) |
 | 字节跳动 | AI产品经理 - 数据平台 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667083864120002869.md) |
-| 字节跳动 | AI产品经理 - 数据BP 〔27届〕 | 北京/杭州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668246456235739397.md) |
-| 字节跳动 | AI产品经理 - Aime 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668356727960242485.md) |
-| 字节跳动 | AI产品经理-「星璨全球」培养计划 - 国际化广告创意与品牌 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667802679964469557.md) |
-| 字节跳动 | AI产品经理（安全方向） - AI创新业务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670815374104283445.md) |
 
 [下一页](campus-ai-product-p2.md) · [总目录](../../llms.txt)

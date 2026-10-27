@@ -1,11 +1,18 @@
-# 上海 · 校招 · 产品 · 全部公司（115 个岗位）（第 3/3 页）
+# 上海 · 校招 · 产品 · 全部公司（137 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [蔚来 11](../../slices/nio/campus/product/shanghai.md) · [阶跃星辰 4](../../slices/stepfun/campus/product/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [商汤科技 2](../../slices/sensetime/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [Shopee 1](../../slices/shopee/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 用户增长产品经理（多端） - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667561625356323125.md) |
+| 字节跳动 | 用户增长产品经理（联合用户增长） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668321009259579701.md) |
+| 字节跳动 | 用户增长产品经理（SEA） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668648081264527621.md) |
+| 字节跳动 | 用户账户产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585566877436213.md) |
+| 字节跳动 | 增长策略产品 - 国际支付 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665585620055689525.md) |
+| 字节跳动 | 直播产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668331033272944949.md) |
+| 字节跳动 | 直播产品经理（商家供给与成长） - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7694222239787059461.md) |
 | 字节跳动 | CoreHR产品经理 - 集团信息系统 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668219372510955829.md) |
 | 携程 | 产品经理（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036633.md) |
 | 得物 | 【27届校招】补贴策略产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7680885671376718130.md) |
@@ -30,10 +37,17 @@
 | 滴滴 | 27届秋招-产品助理（国际化金融-巴西支付-英语/葡语） 〔27届〕 ⚠️链接待核 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/didi-a0e29044-eb0d-4ae8-aa60-0e754a8de68c.md) |
 | 京东 | 技术产品经理 〔27届〕 | 上海/北京/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-9085.md) |
 | 米哈游 | 数据产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9002.md) |
+| 蔚来 | 校招-产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027238186862886.md) |
+| 蔚来 | 校招-产品经理（营销服） | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027365040589065.md) |
+| 蔚来 | 校招-产品经理（APP） | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027376418392366.md) |
+| 蔚来 | 校招-全球战略与产品 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7677462132367493426.md) |
+| 蔚来 | 校招-数据产品经理 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027376418687278.md) |
+| 蔚来 | 校招-数字产品-导航体验经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673026973983508782.md) |
+| 蔚来 | 校招-数字产品-声音体验经理 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673026973984393518.md) |
+| 蔚来 | 校招-数字产品-NOMI 体验经理 | 上海/北京 | 2026-10-27 | [详情](../../jobs/nio-7673026973983213870.md) |
+| 蔚来 | 校招-整车产品-驾乘体验经理 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673026967621208358.md) |
+| 蔚来 | 校招-整车产品-座椅与附件体验经理 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673026967621798182.md) |
+| 蔚来 | 校招-整车产品-CMF体验经理 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673026967621503270.md) |
 | 拼多多 | 产品管培生（上海） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-52a3964f-10e0-4d53-b9fb-8a30aa6c4bdf.md) |
-| 腾讯 | 产品策划 | 深圳/北京/上海/广州/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707374754604032.md) |
-| 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284317600528245760.md) |
-| 腾讯 | CSIG技术产品商务培训生 | 青岛/深圳/北京/上海/广州/成都/武汉/杭州/南京/香港/西安/重庆/厦门 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182210.md) |
-| 小红书 | 【2027校招】小红书产品经理培训生（RPT）--企业智能产品 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22177.md) |
 
-[上一页](campus-product-p2.md) · [总目录](../../llms.txt)
+[上一页](campus-product-p2.md) · [下一页](campus-product-p4.md) · [总目录](../../llms.txt)

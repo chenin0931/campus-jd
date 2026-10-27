@@ -1,11 +1,13 @@
-# 上海 · 校招 · 市场 · 全部公司（41 个岗位）
+# 上海 · 校招 · 市场 · 全部公司（50 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 10](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 5](../../slices/bytedance/campus/marketing/shanghai.md) · [网易 4](../../slices/netease/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [拼多多 2](../../slices/pinduoduo/campus/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 10](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 5](../../slices/bytedance/campus/marketing/shanghai.md) · [网易 4](../../slices/netease/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [阶跃星辰 3](../../slices/stepfun/campus/marketing/shanghai.md) · [智元机器人 2](../../slices/agibot/campus/marketing/shanghai.md) · [蔚来 2](../../slices/nio/campus/marketing/shanghai.md) · [拼多多 2](../../slices/pinduoduo/campus/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [科大讯飞 1](../../slices/iflytek/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md) · [MiniMax 1](../../slices/minimax/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 产品营销经理-灵犀业务部 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662002600786594054.md) |
+| 智元机器人 | 内容公关 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7697152038936987946.md) |
 | 阿里巴巴 | 整合营销专员 | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199908200002.md) |
 | 蚂蚁集团 | WF Business 业务增长管培生 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/antgroup-260721011008742.md) |
 | 百度 | 上海-整合营销策略(J100678) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-cf735c1e-f162-4e98-b494-89771184a8fb.md) |
@@ -23,8 +25,9 @@
 | 字节跳动 | 热点与内容营销 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670912703905892661.md) |
 | 字节跳动 | 营销工具产品经理（AI方向） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675675169187219717.md) |
 | 得物 | 【27届校招】社区&增长法务BP 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670376394703046962.md) |
+| 科大讯飞 | 品牌经理-策略与运营（海外方向）(J14486) ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/iflytek-a0d15fb0-829d-46c2-9661-219578ed7ebb.md) |
 | 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9043.md) |
-| 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海/成都/长春/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/大连/南宁/西安/哈尔滨/昆明/长沙/湛江/重庆/东莞/南昌/中山/佛山/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
+| 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海 等 36 城 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | 米哈游 | 东南亚品牌策略岗 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9464.md) |
 | 米哈游 | 国际化市场公关 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9089.md) |
 | 米哈游 | 国际化市场内容 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9093.md) |
@@ -35,15 +38,16 @@
 | 米哈游 | 国际化市场品牌（韩）- 线下活动与周边方向 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9095.md) |
 | 米哈游 | 市场营销策划（统招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9191.md) |
 | 米哈游 | 视频编导 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9150.md) |
+| MiniMax | AI产品市场营销 | 上海 | 2026-10-27 | [详情](../../jobs/minimax-7637046296842504498.md) |
 | 网易 | 品牌管理培训生（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4745.md) [2](../../jobs/netease-4898.md) |
 | 网易 | 游戏视频编导（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4744.md) [2](../../jobs/netease-4899.md) |
+| 蔚来 | 校招-电力市场技术管培生 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027180082891018.md) |
+| 蔚来 | 校招-品牌管理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/nio-7673027188024035635.md) |
 | 拼多多 | 市场管培生（上海） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-ba49c098-6493-4b55-a4d5-3af01d362fc7.md) |
 | 拼多多 | 视频创意制作（上海） | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-1cb69201-116c-4eb6-bf17-fa644ded950f.md) |
+| 阶跃星辰 | 27届-电商营销 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/stepfun-8f4d792c-74c5-4e18-a737-530d0f04e586.md) |
+| 阶跃星辰 | 27届-品牌营销 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/stepfun-530ac2b6-8f6e-4c0f-b465-8ed30c0f3bd9.md) |
+| 阶跃星辰 | 27届-AI终端产品经理（GTM） 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/stepfun-01ee48e6-aac8-4b17-9749-29af5de17fcd.md) |
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1282707375417304064.md) |
-| 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1284207373170582528.md) |
-| 小红书 | 【2027校招】公共品牌与公众沟通校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22160.md) |
-| 小红书 | 【2027校招】公共事务校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22158.md) |
-| 小红书 | 【2027校招】Growth Builder-Creator & Community | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22274.md) |
-| 小红书 | 【2027校招】Growth Builder-Product & Experimentation | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22267.md) |
 
-[总目录](../../llms.txt)
+[下一页](campus-marketing-p2.md) · [总目录](../../llms.txt)

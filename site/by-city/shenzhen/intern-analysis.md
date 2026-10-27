@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 分析 · 全部公司（27 个岗位）
+# 深圳 · 实习 · 分析 · 全部公司（30 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 11](../../slices/bytedance/intern/analysis/shenzhen.md) · [腾讯 8](../../slices/tencent/intern/analysis/shenzhen.md) · [vivo 5](../../slices/vivo/intern/analysis/shenzhen.md) · [京东 1](../../slices/jd/intern/analysis/shenzhen.md) · [美团 1](../../slices/meituan/intern/analysis/shenzhen.md) · [OPPO 1](../../slices/oppo/intern/analysis/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 11](../../slices/bytedance/intern/analysis/shenzhen.md) · [腾讯 8](../../slices/tencent/intern/analysis/shenzhen.md) · [vivo 5](../../slices/vivo/intern/analysis/shenzhen.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/shenzhen.md) · [京东 1](../../slices/jd/intern/analysis/shenzhen.md) · [美团 1](../../slices/meituan/intern/analysis/shenzhen.md) · [OPPO 1](../../slices/oppo/intern/analysis/shenzhen.md) · [千寻智能 1](../../slices/spiritai/intern/analysis/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | 京东 | 商业分析 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-4946.md) |
 | 美团 | 【无人车北斗实习】世界模型实习生（感知数据生成方向） | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4499868041.md) |
 | OPPO | 用户研究经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1605.md) |
+| 千寻智能 | 【校招实习】商业分析师 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/spiritai-7650426822765513003.md) |
 | 腾讯 | 安全策略 | 深圳/北京/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102081.md) |
 | 腾讯 | 商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067393358393344.md) |
 | 腾讯 | 商业分析 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1227032278660950016.md) |
@@ -26,6 +27,8 @@
 | 腾讯 | 用户研究（2个团队） | 深圳/北京 | 2026-10-27 | [1](../../jobs/tencent-1177660287764272128.md) [2](../../jobs/tencent-1210646470286783490.md) |
 | 腾讯 | 游戏用户研究 | 深圳/成都 | 2026-10-27 | [详情](../../jobs/tencent-1257021174874167296.md) |
 | 腾讯 | 战略商业分析师 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1226875888789263361.md) |
+| 腾讯音乐 | 商业分析 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-11741.md) |
+| 腾讯音乐 | 业务安全策略 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/tme-14858.md) |
 | vivo | 大模型数据建设实习生 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-77a37968-5d3e-4c5b-8f7e-7e26a2c9a815.md) |
 | vivo | 人因用户研究经理-实习 〔≥6个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-259a3bfc-4ee3-4693-b050-13688f5236fc.md) |
 | vivo | 数据分析师-实习 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-4e76c50e-da15-48e7-b91e-646e1e53f617.md) |

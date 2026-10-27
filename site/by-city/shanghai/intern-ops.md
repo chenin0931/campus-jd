@@ -1,8 +1,8 @@
-# 上海 · 实习 · 运营 · 全部公司（518 个岗位）（第 1/13 页）
+# 上海 · 实习 · 运营 · 全部公司（541 个岗位）（第 1/14 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 290](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 103](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 45](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 17](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 290](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 103](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 45](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 17](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 10](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [MiniMax 5](../../slices/minimax/intern/ops/shanghai.md) · [爱奇艺 4](../../slices/iqiyi/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蔚来 3](../../slices/nio/intern/ops/shanghai.md) · [商汤科技 3](../../slices/sensetime/intern/ops/shanghai.md) · [光轮智能 2](../../slices/lightwheel/intern/ops/shanghai.md) · [特赞 2](../../slices/tezign/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/ops/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -45,8 +45,5 @@
 | 哔哩哔哩 | 猫耳FM内容运营实习生 〔≥3个月，每周≥5天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28477.md) |
 | 哔哩哔哩 | 明星运营实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30810.md) |
 | 哔哩哔哩 | 内容运营-资源管理（实习生） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30943.md) |
-| 哔哩哔哩 | 内容运营实习生（3个团队） 〔≥3个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [1](../../jobs/bilibili-30829.md) [2](../../jobs/bilibili-30307.md) [3](../../jobs/bilibili-28429.md) |
-| 哔哩哔哩 | 内容运营实习生-Vidols业务 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-26529.md) |
-| 哔哩哔哩 | 内容运营实习生（电商） 〔≥6个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-22265.md) |
 
 [下一页](intern-ops-p2.md) · [总目录](../../llms.txt)

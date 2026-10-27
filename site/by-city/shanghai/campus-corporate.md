@@ -1,11 +1,20 @@
-# 上海 · 校招 · 职能 · 全部公司（59 个岗位）（第 1/2 页）
+# 上海 · 校招 · 职能 · 全部公司（84 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 15](../../slices/bytedance/campus/corporate/shanghai.md) · [米哈游 9](../../slices/mihoyo/campus/corporate/shanghai.md) · [美团 7](../../slices/meituan/campus/corporate/shanghai.md) · [拼多多 4](../../slices/pinduoduo/campus/corporate/shanghai.md) · [得物 3](../../slices/dewu/campus/corporate/shanghai.md) · [京东 3](../../slices/jd/campus/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/campus/corporate/shanghai.md) · [小红书 3](../../slices/xiaohongshu/campus/corporate/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/corporate/shanghai.md) · [携程 2](../../slices/ctrip/campus/corporate/shanghai.md) · [滴滴 2](../../slices/didi/campus/corporate/shanghai.md) · [华为 2](../../slices/huawei/campus/corporate/shanghai.md) · [小米 2](../../slices/xiaomi/campus/corporate/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/shanghai.md) · [网易 1](../../slices/netease/campus/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 15](../../slices/bytedance/campus/corporate/shanghai.md) · [智元机器人 9](../../slices/agibot/campus/corporate/shanghai.md) · [米哈游 9](../../slices/mihoyo/campus/corporate/shanghai.md) · [美团 7](../../slices/meituan/campus/corporate/shanghai.md) · [蔚来 7](../../slices/nio/campus/corporate/shanghai.md) · [拼多多 4](../../slices/pinduoduo/campus/corporate/shanghai.md) · [得物 3](../../slices/dewu/campus/corporate/shanghai.md) · [京东 3](../../slices/jd/campus/corporate/shanghai.md) · [商汤科技 3](../../slices/sensetime/campus/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/campus/corporate/shanghai.md) · [小红书 3](../../slices/xiaohongshu/campus/corporate/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/corporate/shanghai.md) · [携程 2](../../slices/ctrip/campus/corporate/shanghai.md) · [滴滴 2](../../slices/didi/campus/corporate/shanghai.md) · [华为 2](../../slices/huawei/campus/corporate/shanghai.md) · [阶跃星辰 2](../../slices/stepfun/campus/corporate/shanghai.md) · [小米 2](../../slices/xiaomi/campus/corporate/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/shanghai.md) · [贝壳 1](../../slices/ke/campus/corporate/shanghai.md) · [MiniMax 1](../../slices/minimax/campus/corporate/shanghai.md) · [网易 1](../../slices/netease/campus/corporate/shanghai.md) · [Shopee 1](../../slices/shopee/campus/corporate/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/campus/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 【共创】招聘专员-智鼎子公司 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7690916335445920009.md) |
+| 智元机器人 | 董办助理 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662258779404388650.md) |
+| 智元机器人 | 法务助理 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662207553685850410.md) |
+| 智元机器人 | 内控内审专员 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662258368527436095.md) |
+| 智元机器人 | 投融资分析师- ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7699392934458132799.md) |
+| 智元机器人 | 业务中台助理-擎天租子公司 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7673052918846097670.md) |
+| 智元机器人 | 展厅策划专家（接待方向） ⚠️链接待核 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/agibot-7696734456086006043.md) |
+| 智元机器人 | 招聘运营 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7700863209935538473.md) |
+| 智元机器人 | 招聘专员 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7687587597858703642.md) |
 | 蚂蚁集团 | 智能体与大模型应用工程（金融研究方向） | 上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011000113.md) |
 | 哔哩哔哩 | 税务专员【2027届】 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29709.md) |
 | 哔哩哔哩 | PMO财务结算和分析管培生-游戏发行【2027届】 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30509.md) |
@@ -32,23 +41,7 @@
 | 华为 | 秘书 | 太原/东莞/西安/杭州/武汉/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38010.md) |
 | 华为 | 审计专员 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-40930.md) |
 | 京东 | 财务结算 〔27届〕 | 上海/北京/成都/广州/宿迁/郑州 | 2026-10-27 | [详情](../../jobs/jd-9309.md) |
-| 京东 | 人力资源（专业方向） 〔27届〕 | 上海/昆明/北京/成都/合肥/济南/太原/广州/南宁/南京/南通/宿迁/石家庄/郑州/杭州/海口/武汉/长沙/贵阳/沈阳/重庆/西安/哈尔滨 | 2026-10-27 | [详情](../../jobs/jd-9111.md) |
+| 京东 | 人力资源（专业方向） 〔27届〕 | 上海/昆明/北京/成都/合肥/济南/太原/广州/南宁/南京/南通/宿迁 等 23 城 | 2026-10-27 | [详情](../../jobs/jd-9111.md) |
 | 京东 | 招标采购 〔27届〕 | 上海/北京/成都/广州/深圳/苏州/武汉/英国-伦敦/西安 | 2026-10-27 | [详情](../../jobs/jd-9057.md) |
-| 美团 | 财务培训生(财务BP方向) | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4695102332.md) |
-| 美团 | 法务岗(诉讼方向) | 北京/重庆/上海/广州/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697314746.md) |
-| 美团 | 金融风控策略 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4696316198.md) |
-| 美团 | 行政专业 CoE 岗 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4697343507.md) |
-| 美团 | 招商采购岗 | 杭州/北京/上海/利雅得/成都/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4695162972.md) |
-| 美团 | AI招聘Builder（招聘） | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4695062216.md) |
-| 美团 | AI组织转型（组织发展） | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4694828828.md) |
-| 米哈游 | 财务（统招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9164.md) |
-| 米哈游 | 会务接待与讲解 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9141.md) |
-| 米哈游 | 内控 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9151.md) |
-| 米哈游 | 人力资源（统招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9221.md) |
-| 米哈游 | 涉外法务-业务项目支持方向（27届） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9575.md) |
-| 米哈游 | 行政综合COE 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9138.md) |
-| 米哈游 | 作曲助理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9193.md) |
-| 米哈游 | IP周边衍生品采购 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9162.md) |
-| 米哈游 | IT资产管理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9169.md) |
 
 [下一页](campus-corporate-p2.md) · [总目录](../../llms.txt)

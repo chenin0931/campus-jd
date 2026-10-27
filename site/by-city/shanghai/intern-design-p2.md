@@ -1,16 +1,24 @@
-# 上海 · 实习 · 设计 · 全部公司（112 个岗位）（第 2/3 页）
+# 上海 · 实习 · 设计 · 全部公司（122 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 29](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 20](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [腾讯 14](../../slices/tencent/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 29](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 20](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [腾讯 14](../../slices/tencent/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [爱奇艺 2](../../slices/iqiyi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [月之暗面 2](../../slices/moonshot/intern/design/shanghai.md) · [智元机器人 1](../../slices/agibot/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/design/shanghai.md) · [MiniMax 1](../../slices/minimax/intern/design/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/intern/design/shanghai.md) · [特赞 1](../../slices/tezign/intern/design/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI工程/设计实习生（内容设计与本地化方向）-TikTok 〔27届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7616313253196908805.md) |
+| 字节跳动 | AIGC美学设计实习生-抖音 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7543586065283156231.md) |
+| 字节跳动 | AIGC效果与创作设计实习生-效果与创作 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591392228130425093.md) |
+| 字节跳动 | IP创意设计实习生 - TikTok设计 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697092504548280581.md) |
+| 字节跳动 | UI设计实习生 - 抖音电商设计 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7662946006097021189.md) |
 | 携程 | 设计实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ037369.md) |
 | 滴滴 | （设计方向）司机&供给发展平台（设计方向）— 效率运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-bff5913c-8590-4f5e-9f35-7b241b4a2554.md) |
 | 华为 | ID与UX设计师 | 苏州/东莞/南京/西安/杭州/武汉/成都/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-30857.md) |
+| 爱奇艺 | 视觉设计实习生（台湾站） | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7474810588520237331.md) |
+| 爱奇艺 | 视觉设计实习生（桃豆世界） | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7599948542153967898.md) |
 | 京东 | 创意设计师 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-6742.md) |
 | 京东 | 视觉设计师 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-4958.md) |
+| 理想汽车 | 设计实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/lixiang-249632.md) |
 | 美团 | 实习生-营销设计师 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4830496551.md) |
 | 美团 | 体验设计实习生（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/meituan-4848768345.md) [2](../../jobs/meituan-4827646506.md) |
 | 美团 | UX设计实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4830883121.md) |
@@ -34,30 +42,14 @@
 | 米哈游 | Houdini特效实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7906.md) |
 | 米哈游 | UI动效实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7904.md) |
 | 米哈游 | UI蓝图实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9216.md) |
+| MiniMax | 智能交互体验设计师（AI产品方向）-实习 | 上海 | 2026-10-27 | [详情](../../jobs/minimax-7625999641696667914.md) |
+| 月之暗面 | 视觉设计实习生（AI Native 方向 / 活动视觉 & 品牌周边） ⚠️链接待核 | 上海/北京 | 2026-10-27 | [详情](../../jobs/moonshot-e1bf1d68-21e2-4f44-941f-d3c8bc7274ec.md) |
+| 月之暗面 | Kimi视觉设计实习生（AI Native 方向 / 活动视觉 & 品牌周边） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/moonshot-f9088589-0c05-4cc1-8c3e-46f140557939.md) |
 | 网易 | 场景原画实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-77331.md) |
 | 网易 | 动画实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/netease-76645.md) |
 | 网易 | 游戏体验设计实习生（我的世界） 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78509.md) |
 | 网易 | 游戏战斗策划（英雄*怪物设计方向） | 上海 | 2026-10-27 | [详情](../../jobs/netease-77176.md) |
 | 网易 | AI美术实习生 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78019.md) |
 | 网易 | GUI实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78882.md) |
-| 腾讯 | 2D场景设计 | 深圳/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1219751779685005312.md) |
-| 腾讯 | 2D角色设计 | 深圳/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1219751778799841280.md) |
-| 腾讯 | 2D角色设计 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696384415040512.md) |
-| 腾讯 | 3D场景设计 | 深圳/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1219751781299646464.md) |
-| 腾讯 | 3D角色设计 | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751780276402176.md) |
-| 腾讯 | 3D角色设计 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696437083144192.md) |
-| 腾讯 | 动画 | 深圳/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751782147061760.md) |
-| 腾讯 | 多媒体设计 | 深圳/北京/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751792028676096.md) |
-| 腾讯 | 交互设计 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1177660287764272129.md) |
-| 腾讯 | 特效 | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1224067382566449152.md) |
-| 腾讯 | 游戏动效设计(特效向) | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696291683401728.md) |
-| 腾讯 | 游戏动效设计(UI向) | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1224696282652836864.md) |
-| 腾讯 | 游戏宣发视觉设计 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1270791052483418112.md) |
-| 腾讯 | 游戏GUI视觉设计 | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751796143454208.md) |
-| 小红书 | 【Ace顶尖实习生】端到端的全双工自然语音交互 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19812.md) |
-| 小红书 | 【Ace顶尖实习生】基于Agent的交互式推荐系统 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19816.md) |
-| 小红书 | 插画实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-17827.md) |
-| 小红书 | 产品体验设计师（实习）· | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21089.md) |
-| 小红书 | 创新ui设计实习生（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-21149.md) [2](../../jobs/xiaohongshu-21153.md) |
 
 [上一页](intern-design.md) · [下一页](intern-design-p3.md) · [总目录](../../llms.txt)

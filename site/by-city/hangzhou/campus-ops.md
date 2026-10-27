@@ -1,8 +1,8 @@
-# 杭州 · 校招 · 运营 · 全部公司（63 个岗位）（第 1/2 页）
+# 杭州 · 校招 · 运营 · 全部公司（69 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 18](../../slices/alibaba/campus/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/campus/ops/hangzhou.md) · [网易 9](../../slices/netease/campus/ops/hangzhou.md) · [京东 7](../../slices/jd/campus/ops/hangzhou.md) · [滴滴 4](../../slices/didi/campus/ops/hangzhou.md) · [快手 4](../../slices/kuaishou/campus/ops/hangzhou.md) · [美团 3](../../slices/meituan/campus/ops/hangzhou.md) · [华为 1](../../slices/huawei/campus/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 18](../../slices/alibaba/campus/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/campus/ops/hangzhou.md) · [京东 9](../../slices/jd/campus/ops/hangzhou.md) · [网易 9](../../slices/netease/campus/ops/hangzhou.md) · [滴滴 4](../../slices/didi/campus/ops/hangzhou.md) · [快手 4](../../slices/kuaishou/campus/ops/hangzhou.md) · [美团 3](../../slices/meituan/campus/ops/hangzhou.md) · [华为 1](../../slices/huawei/campus/ops/hangzhou.md) · [理想汽车 1](../../slices/lixiang/campus/ops/hangzhou.md) · [蔚来 1](../../slices/nio/campus/ops/hangzhou.md) · [千寻智能 1](../../slices/spiritai/campus/ops/hangzhou.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@
 | 滴滴 | 27届秋招-产品用户运营分析师（国际化出行-西语/英语） 〔27届〕 ⚠️链接待核 | 杭州/北京 | 2026-10-27 | [详情](../../jobs/didi-0068bc02-c105-41e9-9974-9532c7778bdd.md) |
 | 滴滴 | 27届秋招-国际化运营分析师（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/didi-e7caa9d5-9e1d-41b4-8975-2a4b978e03a8.md) |
 | 华为 | 产品运营经理 | 东莞/南京/杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38425.md) |
-| 京东 | 采销（电商运营） 〔27届〕 | 上海/-香港/北京/成都/广州/深圳/乌鲁木齐/日本/南京/苏州/郑州/宁波/杭州/武汉/兰州/厦门/西安 | 2026-10-27 | [详情](../../jobs/jd-9222.md) |
-| 京东 | 店长储备 〔27届〕 | 上海/昆明/北京/长春/成都/天津/合肥/宿州/淮南/滁州/芜湖/蚌埠/阜阳/济南/青岛/太原/广州/深圳/南宁/南京/南通/宿迁/徐州/扬州/无锡/淮安/盐城/苏州/南昌/保定/廊坊/石家庄/郑州/宁波/杭州/武汉/长沙/福州/沈阳/重庆/西安 | 2026-10-27 | [详情](../../jobs/jd-9357.md) |
+| 京东 | 采销（电商运营） 〔27届〕 | 上海/-香港/北京/成都/广州/深圳/乌鲁木齐/日本/南京/苏州/郑州/宁波 等 17 城 | 2026-10-27 | [详情](../../jobs/jd-9222.md) |
+| 京东 | 店长储备 〔27届〕 | 上海/昆明/北京/长春/成都/天津/合肥/宿州/淮南/滁州/芜湖/蚌埠 等 41 城 | 2026-10-27 | [详情](../../jobs/jd-9357.md) |
 | 京东 | 家政运营 〔27届〕 | 上海/北京/长春/成都/济南/广州/深圳/南京/杭州/武汉/西安 | 2026-10-27 | [详情](../../jobs/jd-9355.md) |
 
 [下一页](campus-ops-p2.md) · [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 上海 · 实习 · 其他 · 全部公司（86 个岗位）（第 1/2 页）
+# 上海 · 实习 · 其他 · 全部公司（89 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 37](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 21](../../slices/bilibili/intern/other/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 5](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 37](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 21](../../slices/bilibili/intern/other/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 5](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/other/shanghai.md) · [MiniMax 1](../../slices/minimax/intern/other/shanghai.md) · [蔚来 1](../../slices/nio/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -48,6 +48,5 @@
 | 字节跳动 | 商品治理实习生 - TikTok Shop（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7700874973217311029.md) [2](../../jobs/bytedance-7695716354016119045.md) |
 | 字节跳动 | 生态服务中台实习生-飞书 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7640023516788803893.md) |
 | 字节跳动 | 小语种语言学（法语）实习生 - Data语音 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7666010278812698885.md) |
-| 字节跳动 | 校园猎聘实习生 - 管理研究院 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7362024469013350665.md) |
 
 [下一页](intern-other-p2.md) · [总目录](../../llms.txt)

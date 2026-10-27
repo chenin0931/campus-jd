@@ -1,11 +1,12 @@
-# 北京 · 实习 · 其他 · 全部公司（132 个岗位）（第 1/3 页）
+# 北京 · 实习 · 其他 · 全部公司（157 个岗位）（第 1/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 52](../../slices/bytedance/intern/other/beijing.md) · [网易 20](../../slices/netease/intern/other/beijing.md) · [百度 18](../../slices/baidu/intern/other/beijing.md) · [小米 18](../../slices/xiaomi/intern/other/beijing.md) · [滴滴 6](../../slices/didi/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [美团 4](../../slices/meituan/intern/other/beijing.md) · [京东 3](../../slices/jd/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [腾讯 2](../../slices/tencent/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 52](../../slices/bytedance/intern/other/beijing.md) · [网易 20](../../slices/netease/intern/other/beijing.md) · [百度 18](../../slices/baidu/intern/other/beijing.md) · [小米 18](../../slices/xiaomi/intern/other/beijing.md) · [爱奇艺 8](../../slices/iqiyi/intern/other/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/other/beijing.md) · [滴滴 6](../../slices/didi/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [京东 4](../../slices/jd/intern/other/beijing.md) · [美团 4](../../slices/meituan/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [腾讯 2](../../slices/tencent/intern/other/beijing.md) · [360 1](../../slices/360/intern/other/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [贝壳 1](../../slices/ke/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md) · [MiniMax 1](../../slices/minimax/intern/other/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/other/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/other/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/other/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/other/beijing.md) · [知乎 1](../../slices/zhihu/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 360 | 安全服务实习生（北京）-5167(J12201) ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-75810b79-8bf4-481f-885d-7c7e1dbd5c41.md) |
 | 百度 | 百度健康用研实习生（J106152） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-845dfab9-5533-4bcb-91e4-5f197de88e1b.md) |
 | 百度 | 产运实习生（J95390） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-6c1aed49-9d60-40a4-b4eb-9cf2f5ab4567.md) |
 | 百度 | 创作者实习（J106730） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-5448a053-31d5-4740-9fea-71d00afae518.md) |
@@ -40,11 +41,5 @@
 | 字节跳动 | 企业效能实习生-飞书 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7612492457599437109.md) |
 | 字节跳动 | 全球化语言翻译实习生-语言中心 〔≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7205180497750821180.md) |
 | 字节跳动 | 三维重建实习生 - PICO 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7672766422613264645.md) |
-| 字节跳动 | 商家赋能实习生-抖音生活服务 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7645137406270064949.md) |
-| 字节跳动 | 商家治理自动化（AI方向）实习生 - TikTok Shop 〔≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699723703618603269.md) |
-| 字节跳动 | 泰语商业支持实习生-飞书商业化 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7551007834772080914.md) |
-| 字节跳动 | 投稿玩法实习生 - 抖音生态 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7638527057308191029.md) |
-| 字节跳动 | 西班牙语翻译实习生-飞书商业化 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7602520315970701573.md) |
-| 字节跳动 | 行业治理实习生 - 抖音内容运营 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7673015490605205813.md) |
 
 [下一页](intern-other-p2.md) · [总目录](../../llms.txt)

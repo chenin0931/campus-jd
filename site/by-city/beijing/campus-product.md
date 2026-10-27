@@ -1,8 +1,8 @@
-# 北京 · 校招 · 产品 · 全部公司（190 个岗位）（第 1/4 页）
+# 北京 · 校招 · 产品 · 全部公司（207 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 101](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 101](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [联想 3](../../slices/lenovo/campus/product/beijing.md) · [商汤科技 3](../../slices/sensetime/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [原力灵机 1](../../slices/dexmal/campus/product/beijing.md) · [贝壳 1](../../slices/ke/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md) · [蔚来 1](../../slices/nio/campus/product/beijing.md) · [Shopee 1](../../slices/shopee/campus/product/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/product/beijing.md) · [阶跃星辰 1](../../slices/stepfun/campus/product/beijing.md) · [知乎 1](../../slices/zhihu/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -46,9 +46,5 @@
 | 字节跳动 | 分发策略产品经理 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669706686816569605.md) |
 | 字节跳动 | 风险情报分析产品经理 - 风控 〔27届〕 | 杭州/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669733095578716469.md) |
 | 字节跳动 | 官网平台产品经理 - 火山引擎 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667878962669537541.md) |
-| 字节跳动 | 广告策略产品经理 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668562361263343925.md) |
-| 字节跳动 | 广告策略产品经理 - 广告业务 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665590441060419845.md) |
-| 字节跳动 | 广告产品经理 - 广告度量信号与隐私保护 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668527854284343605.md) |
-| 字节跳动 | 广告产品经理 - 国际化电商广告（3个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7668151646639966517.md) [2](../../jobs/bytedance-7668160009704343861.md) [3](../../jobs/bytedance-7668152090767116597.md) |
 
 [下一页](campus-product-p2.md) · [总目录](../../llms.txt)

@@ -1,11 +1,12 @@
-# 杭州 · 实习 · 市场 · 全部公司（46 个岗位）
+# 杭州 · 实习 · 市场 · 全部公司（48 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 37](../../slices/netease/intern/marketing/hangzhou.md) · [字节跳动 4](../../slices/bytedance/intern/marketing/hangzhou.md) · [滴滴 3](../../slices/didi/intern/marketing/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/intern/marketing/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 37](../../slices/netease/intern/marketing/hangzhou.md) · [字节跳动 4](../../slices/bytedance/intern/marketing/hangzhou.md) · [滴滴 3](../../slices/didi/intern/marketing/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/intern/marketing/hangzhou.md) · [360 1](../../slices/360/intern/marketing/hangzhou.md) · [小鹏汽车 1](../../slices/xpeng/intern/marketing/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 360 | 市场营销实习生（杭州）-5361(J12418) 〔≥6个月〕 ⚠️链接待核 | 杭州 | 2026-10-27 | [详情](../../jobs/360-0eb10c3f-448d-4ac8-a55a-447b169f8c3c.md) |
 | 蚂蚁集团 | 蚂蚁国际-市场营销实习生 〔≥3个月，每周≥4天〕 | 上海/杭州/深圳 | 2026-10-27 | [详情](../../jobs/antgroup-25060505046633.md) |
 | 蚂蚁集团 | 品牌营销实习生 〔≥4个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260831011804210.md) |
 | 字节跳动 | 达人营销策略实习生 - 抖音电商运营 〔每周≥5天〕 | 杭州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698935678747265285.md) |
@@ -52,5 +53,6 @@
 | 网易 | 游戏营销实习生（社媒社区） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79299.md) |
 | 网易 | 游戏营销实习生（生态方向-射击类） 〔≥4个月，每周≥5天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79029.md) |
 | 网易 | AI社交产品市场推广实习-日语方向 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79208.md) |
+| 小鹏汽车 | 新媒体实习生（浙江大区） 〔27届〕 | 杭州/温州/宁波/嘉兴/湖州 | 2026-10-27 | [详情](../../jobs/xpeng-7483837065173272883.md) |
 
 [总目录](../../llms.txt)

@@ -1,11 +1,14 @@
-# 北京 · 实习 · 设计 · 全部公司（93 个岗位）（第 1/2 页）
+# 北京 · 实习 · 设计 · 全部公司（111 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 34](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [爱奇艺 5](../../slices/iqiyi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/design/beijing.md) · [360 2](../../slices/360/intern/design/beijing.md) · [理想汽车 2](../../slices/lixiang/intern/design/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/design/beijing.md) · [爱诗科技 1](../../slices/aisphere/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md) · [贝壳 1](../../slices/ke/intern/design/beijing.md) · [Manus 1](../../slices/manus/intern/design/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 360 | 交互设计师实习（北京）-5112(J12077) ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-25f6fcbf-bea8-45d3-8f00-5e5375613bd1.md) |
+| 360 | 视觉设计师实习（北京）-5107(J12066) ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-a82c9e1c-4097-4545-9677-5668318d2cef.md) |
+| 爱诗科技 | AI内容生成设计师-实习 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/aisphere-7641887296179243315.md) |
 | 百度 | 交互设计实习生（J106120） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-59a14345-809e-48b9-bedd-aae0464e4ce7.md) |
 | 百度 | 交互设计实习生（J77497） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-076e4cd6-d07f-40ac-882f-93dfddd84d91.md) |
 | 百度 | 昆仑芯-综合管理部_设计实习生(J10655)（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/baidu-773be443-240f-4382-b857-1751e0c9f6e7.md) [2](../../jobs/baidu-2aa5c288-26e5-4437-b5f7-f14d2a7b1120.md) |
@@ -41,12 +44,5 @@
 | 字节跳动 | 室内设计实习生 - Corporate Services（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7668297647706343685.md) [2](../../jobs/bytedance-7677499638644001077.md) |
 | 字节跳动 | 数据技术（GUI Agent方向）实习生 - AI数据与安全 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7649303455514085637.md) |
 | 字节跳动 | 体验设计实习生 - Seed | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677926264666163461.md) |
-| 字节跳动 | 用户体验分析实习生-抖音生活服务 〔27届 · ≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7593211387334691125.md) |
-| 字节跳动 | AI工程/设计（内容设计与本地化方向）实习生-TikTok 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7616313875478628661.md) |
-| 字节跳动 | AI平台设计实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7532416564194199826.md) |
-| 字节跳动 | AI视觉实习生-中国公共关系 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7633657098219817269.md) |
-| 字节跳动 | AIGC美学设计实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7543585756112406792.md) |
-| 字节跳动 | Seedance 2.5资产美术实习生-火山方舟 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7654142191791409461.md) |
-| 字节跳动 | UI设计实习生-AI创新业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7628814219996465413.md) |
 
 [下一页](intern-design-p2.md) · [总目录](../../llms.txt)

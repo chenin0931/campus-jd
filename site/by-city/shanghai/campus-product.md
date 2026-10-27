@@ -1,11 +1,14 @@
-# 上海 · 校招 · 产品 · 全部公司（115 个岗位）（第 1/3 页）
+# 上海 · 校招 · 产品 · 全部公司（137 个岗位）（第 1/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [蔚来 11](../../slices/nio/campus/product/shanghai.md) · [阶跃星辰 4](../../slices/stepfun/campus/product/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [商汤科技 2](../../slices/sensetime/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [Shopee 1](../../slices/shopee/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 具身产品经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662290681059051795.md) |
+| 智元机器人 | 具身生态产品经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7673472974649870635.md) |
+| 智元机器人 | 云服务产品经理 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662269174601632054.md) |
 | 百度 | 上海-策略产品经理(J100673) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-b1537e9d-99b2-4f5c-a546-559d5c5a8718.md) |
 | 百度 | 上海-商业产品经理(J100706) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-b7532741-3f9d-4ee6-9446-a76b5413eb17.md) |
 | 百度 | 上海-用户产品经理(J101084) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-950150b6-f8d8-454e-8cc8-88a2b046e96a.md) |
@@ -43,10 +46,5 @@
 | 字节跳动 | 交易产品 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665584035663661317.md) |
 | 字节跳动 | 交易产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7674635781763778821.md) |
 | 字节跳动 | 交易产品经理 - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667541143857416501.md) |
-| 字节跳动 | 交易应用产品经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665925299130190085.md) |
-| 字节跳动 | 交易用户产品经理 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668304557114804533.md) |
-| 字节跳动 | 巨量千川广告策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680458256896690485.md) |
-| 字节跳动 | 巨量千川客户策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668302051415361845.md) |
-| 字节跳动 | 巨量千川流量策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668303337959819573.md) |
 
 [下一页](campus-product-p2.md) · [总目录](../../llms.txt)

@@ -1,11 +1,15 @@
-# 北京 · 校招 · 职能 · 全部公司（110 个岗位）（第 1/3 页）
+# 北京 · 校招 · 职能 · 全部公司（138 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[快手 24](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/corporate/beijing.md) · [京东 14](../../slices/jd/campus/corporate/beijing.md) · [美团 14](../../slices/meituan/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[快手 24](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/corporate/beijing.md) · [京东 14](../../slices/jd/campus/corporate/beijing.md) · [美团 14](../../slices/meituan/campus/corporate/beijing.md) · [理想汽车 9](../../slices/lixiang/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [联想 7](../../slices/lenovo/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [360 3](../../slices/360/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [贝壳 2](../../slices/ke/campus/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/campus/corporate/beijing.md) · [Shopee 2](../../slices/shopee/campus/corporate/beijing.md) · [智元机器人 1](../../slices/agibot/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md) · [知乎 1](../../slices/zhihu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 360 | 27秋-采购专员（北京）-5427(J12492) 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-c2cc00e1-f785-490a-a5a9-f35193bd56f4.md) |
+| 360 | 27秋-法务专员-投资（北京）-5372(J12439) 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-147587c4-97d8-4662-9fc5-741399ce78ed.md) |
+| 360 | 27秋-法务专员（北京）-5363(J12444) ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/360-af919d4e-01e1-4f4d-8fd2-eb8670552ec2.md) |
+| 智元机器人 | 展厅策划专家（接待方向） ⚠️链接待核 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/agibot-7696734456086006043.md) |
 | 蚂蚁集团 | 金融分析师 | 北京 | 2026-10-27 | [详情](../../jobs/antgroup-260721011014085.md) |
 | 百度 | 北京-采购专员(J100746) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-feba13ab-0676-468a-8342-d483d232c6ac.md) |
 | 百度 | 北京-接待专员(J100803) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-dac1c43b-b010-494d-909a-21b42df17aac.md) |
@@ -43,16 +47,5 @@
 | 京东 | 会计 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9055.md) |
 | 京东 | 金融策略 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9131.md) |
 | 京东 | 金融风控 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9038.md) |
-| 京东 | 人力资源（专业方向） 〔27届〕 | 上海/昆明/北京/成都/合肥/济南/太原/广州/南宁/南京/南通/宿迁/石家庄/郑州/杭州/海口/武汉/长沙/贵阳/沈阳/重庆/西安/哈尔滨 | 2026-10-27 | [详情](../../jobs/jd-9111.md) |
-| 京东 | 审计 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9048.md) |
-| 京东 | 税务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9056.md) |
-| 京东 | 行政 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9046.md) |
-| 京东 | 招标采购 〔27届〕 | 上海/北京/成都/广州/深圳/苏州/武汉/英国-伦敦/西安 | 2026-10-27 | [详情](../../jobs/jd-9057.md) |
-| 京东 | 资金管理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9053.md) |
-| 快手 | 财务分析专员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9830.md) |
-| 快手 | 财务会计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9831.md) |
-| 快手 | 采购专员（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13216.md) [2](../../jobs/kuaishou-9832.md) |
-| 快手 | 法务专员-知识产权方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13942.md) |
-| 快手 | 合规治理专员-生活服务（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13340.md) [2](../../jobs/kuaishou-12646.md) |
 
 [下一页](campus-corporate-p2.md) · [总目录](../../llms.txt)

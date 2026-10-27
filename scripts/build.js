@@ -16,10 +16,10 @@ const today = process.env.BUILD_DATE || new Date(Date.now() + 8 * 3600e3).toISOS
 const issues = [];
 const linkStatus = fs.existsSync(path.join(DATA, 'link_status.json')) ? JSON.parse(fs.readFileSync(path.join(DATA, 'link_status.json'), 'utf8')) : {};
 
-function load(w) {
+function load(w, only) {
   if (!w) return [];
-  return fs.readdirSync(path.join(DATA, w)).filter(f => f.endsWith('.json')).sort().flatMap(f => {
-    const slug = f.slice(0, -5); let arr = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8'));
+  return fs.readdirSync(path.join(DATA, w)).filter(f => f.endsWith('.json') && (!only || f === only)).sort().flatMap(f => {
+    const slug = f.slice(0, -5).split('@')[0]; let arr = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8'));
     if (!Array.isArray(arr)) { issues.push(`${w}/${f} 不是数组，跳过`); return []; }
     { const n = arr.length; arr = require('./lib/common').dropSocial(arr); if (arr.length < n) issues.push(`${w}/${f} 丢弃非实习社招 ${n - arr.length} 条（§13）`); }
     arr = tagRegion(arr); // §11：标 region（国内/海外），不删
@@ -30,7 +30,7 @@ function load(w) {
       if (!CATS[j.category]) issues.push(`${w}/${f} 非法类别 ${j.category}`);
       const jt = TYPES[j.job_type] ? j.job_type : (/实习/.test(j.title) ? '实习' : '校招');
       const city = (Array.isArray(j.city) ? j.city : [j.city]).filter(Boolean).map(normCity);
-      return { ...j, id: `${slug}-${pid}`, company_slug: slug, company: j.company || COMPANY[slug] || slug, job_type: jt, city: [...new Set(city)],
+      return { ...j, dataset: j.dataset || '大厂', id: `${slug}-${pid}`, company_slug: slug, company: j.company || COMPANY[slug] || slug, job_type: jt, city: [...new Set(city)],
         business_unit: Array.isArray(j.business_unit) ? j.business_unit : (j.business_unit ? [j.business_unit] : []) };
     });
   });
@@ -38,7 +38,7 @@ function load(w) {
 // 去重（同 id 保留第一条）
 const dedup = l => { const m = new Map(); let d = 0; for (const j of l) m.has(j.id) ? d++ : m.set(j.id, j); return [m, d]; };
 // 手动来源（source=manual-browser，如拼多多）：周跑没有抓取器；当周没有新文件就沿用最近一周的文件，不判下架。
-const isManual = (w, f) => { try { const a = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8')); return Array.isArray(a) && a.some(j => j.source === 'manual-browser'); } catch { return false; } };
+const isManual = (w, f) => { try { const a = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8')); return Array.isArray(a) && a.some(j => j.source === 'manual-browser' || (j.dataset && j.dataset !== '大厂')); } catch { return false; } };
 const manual = {}; // slug -> { updated: YYYY-MM-DD, from_week, stale }
 function loadCarry(w) {
   if (!w) return [];
@@ -46,8 +46,7 @@ function loadCarry(w) {
   const extra = [];
   for (const f of new Set(weeks.filter(x => x < w).flatMap(x => fs.readdirSync(path.join(DATA, x)).filter(g => g.endsWith('.json') && isManual(x, g))))) {
     if (have.has(f)) continue; const src = weeks.filter(x => x < w && fs.existsSync(path.join(DATA, x, f))).at(-1);
-    const keep = fs.readdirSync(path.join(DATA, src)).filter(g => g === f);
-    extra.push(...load(src).filter(j => keep.includes(j.company_slug + '.json')).map(j => ({ ...j, carried_from: src })));
+    extra.push(...load(src, f).map(j => ({ ...j, carried_from: src })));
   }
   return [...own, ...extra];
 }
@@ -63,7 +62,7 @@ let st = fs.existsSync(STATE) ? JSON.parse(fs.readFileSync(STATE, 'utf8')) : {};
 if (!st.jobs) { const old = st.first_seen || {}; st = { jobs: {} };
   for (const j of [...prevMap.values(), ...curMap.values()]) if (old[j.apply_url]) st.jobs[j.id] = { first_seen: old[j.apply_url] }; }
 for (const [id, j] of curMap) { const s = st.jobs[id] ||= { first_seen: today }; s.last_seen = today; s.last_week = cur; s.status = 'active'; delete s.removed_at;
-  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? (manualFresh(linkStatus[id], today) ? 'ok' : 'unverified') : (linkStatus[id]?.status || 'unchecked'); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
+  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? (manualFresh(linkStatus[id], today) ? 'ok' : 'unverified') : (linkStatus[id]?.status || (j.link_check === '待核' ? 'unverified' : 'unchecked')); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
 const removed = [];
 for (const [id, s] of Object.entries(st.jobs)) if (!curMap.has(id) && s.status === 'active') { s.status = 'removed'; s.removed_at = today; if (prevMap.has(id)) removed.push({ ...prevMap.get(id), status: 'removed', first_seen: s.first_seen }); }
 st.updated_at = today; st.week = cur;
@@ -76,8 +75,8 @@ const tag = j => { const a = [j.grad_year ? j.grad_year.map(y => String(y).slice
 const flag = j => (j.region === '海外' ? ' 🌏海外' : '') + (j.is_new ? ' 🆕' : '') + (j.link_status === 'invalid' ? ' ❌疑似下架' : j.link_status === 'unverified' ? ' ⚠️链接待核' : '');
 const rel = (from, to) => path.relative(path.dirname(from), to).split(path.sep).join('/');
 // 同标题+同城市合并为一行（多个团队在招）
-function group(l) { const m = new Map();
-  for (const j of l) { const k = j.company_slug + '|' + j.title + '|' + [...j.city].sort().join('/'); (m.get(k) || m.set(k, []).get(k)).push(j); }
+function group(l) { const m = new Map(), seenId = new Set();
+  for (const j of l) { if (seenId.has(j.id)) continue; seenId.add(j.id); const k = j.company_slug + '|' + j.title + '|' + [...j.city].sort().join('/'); (m.get(k) || m.set(k, []).get(k)).push(j); }
   return [...m.values()].map(g => ({ ...g[0], ids: g.map(x => x.id), is_new: g.some(x => x.is_new), link_status: g.every(x => x.link_status === 'unverified') ? 'unverified' : g[0].link_status }));
 }
 const written = []; // {path, bytes, count}
@@ -88,7 +87,7 @@ function paged(base, title, note, rows, withCo, count) {
   const pages = []; let cur = [];
   const render = (rs, i, n, file) => [`# ${title}${n > 1 ? `（第 ${i}/${n} 页）` : ''}`, '', note, '', head,
     ...rs.map(g => { const links = g.ids.map((id, k) => `[${g.ids.length > 1 ? k + 1 : '详情'}](${rel(file, `jobs/${id}.md`)})`).join(' ');
-      return `| ${withCo ? esc(g.company) + ' | ' : ''}${esc(g.title)}${g.ids.length > 1 ? `（${g.ids.length}个团队）` : ''}${tag(g)}${flag(g)} | ${esc(g.city.join('/'))} | ${g.first_seen} | ${links} |`; }),
+      return `| ${withCo ? esc(g.company) + ' | ' : ''}${esc(g.title)}${g.ids.length > 1 ? `（${g.ids.length}个团队）` : ''}${tag(g)}${flag(g)} | ${esc(g.city.length > 12 ? g.city.slice(0, 12).join('/') + ` 等 ${g.city.length} 城` : g.city.join('/'))} | ${g.first_seen} | ${links} |`; }),
     '', '{{NAV}}', ''].join('\n');
   const fname = i => `${base}${i > 1 ? `-p${i}` : ''}.md`;
   for (const r of rows) { const t = [...cur, r]; if (cur.length && Buffer.byteLength(render(t, 99, 99, fname(99))) > MAX - 300) { pages.push(cur); cur = [r]; } else cur = t; }
@@ -108,6 +107,12 @@ const byTitle = (a, b) => b.first_seen.localeCompare(a.first_seen) || a.title.lo
 const index = { week: cur, previous_week: prev, generated_at: today, max_bytes: MAX, count: jobs.length, removed_count: removed.length, companies: {}, slices: [], by_city: [], by_region: [], region_counts: {}, changes: [], jobs: 0 };
 const companies = [...new Set(jobs.map(j => j.company_slug))].sort();
 const names = Object.fromEntries(jobs.map(j => [j.company_slug, j.company]));
+// 数据集（大厂/全网/初创）：公司按其岗位最多的数据集归类；index.datasets 给每个数据集的岗位数、公司数、「其他」占比
+const DS = ['大厂', '全网', '初创'], coDs = {};
+for (const co of new Set(jobs.map(j => j.company_slug))) { const n = {}; jobs.filter(j => j.company_slug === co).forEach(j => n[j.dataset] = (n[j.dataset] || 0) + 1); coDs[co] = DS.find(d => n[d] === Math.max(...Object.values(n))); }
+index.datasets = Object.fromEntries(DS.map(d => { const l = jobs.filter(j => j.dataset === d); return [d, { jobs: l.length, companies: Object.values(coDs).filter(x => x === d).length, other: l.filter(j => j.category === '其他').length, other_pct: l.length ? +(100 * l.filter(j => j.category === '其他').length / l.length).toFixed(1) : 0 }]; }));
+// 跨来源重复（同公司+标题+城市+链接 出现在不同数据集）→ 校验报错
+{ const m = new Map(); for (const j of jobs) { const k = [j.company_slug, j.title.trim(), [...j.city].sort().join('/'), j.apply_url].join('|'); const d = m.get(k); if (d && d !== j.dataset) issues.push(`跨来源重复：${k}`); else m.set(k, j.dataset); } }
 
 // slices/{company}/{campus|intern}/{category}/{city}.md
 for (const co of companies) {
@@ -197,7 +202,7 @@ const llms = [`# 大厂非技术岗 校招·实习 JD 库`, '',
   '## 枚举', `- category: ai-product=AI产品, product=产品, ops=运营, business=商务, marketing=市场, sales=销售, design=设计, corporate=职能, pm=项目管理, analysis=分析, planning=策划, supply=供应链, other=其他`, '- job_type: campus=校招, intern=实习', `- region: domestic=国内(${index.region_counts.domestic}), overseas=海外(${index.region_counts.overseas})`,
   `- city（前 20）: ${cityCounts.slice(0, 20).map(([k, n, c]) => `${k}=${n}(${c})`).join(', ')}`, '',
   `- by-year: ${years.map(y=>y.slice(2)).join(', ')}（有届别列表的届）`, '',
-  '## 公司（校招/实习 岗位数）', ...companies.map(co => `- ${co}=${names[co]}：校招 ${index.companies[co].campus}，实习 ${index.companies[co].intern}${manual[co] ? '（' + manualTag(co) + '）' : ''}`), ''].join('\n');
+  '## 公司（slug=名称 校招/实习；按数据集分组）', ...DS.flatMap(d => [`### ${d}（${index.datasets[d].companies} 家，${index.datasets[d].jobs} 岗）`, companies.filter(co => coDs[co] === d).map(co => `${co}=${names[co]} ${index.companies[co].campus}/${index.companies[co].intern}${manual[co] ? '（' + manualTag(co) + '）' : ''}`).join('，'), '']), ''].join('\n');
 out('llms.txt', llms, 0);
 index.files = written.length + 1;
 out('index.json', JSON.stringify(index), 0);

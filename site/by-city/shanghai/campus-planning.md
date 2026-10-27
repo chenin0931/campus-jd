@@ -1,11 +1,12 @@
-# 上海 · 校招 · 策划 · 全部公司（33 个岗位）
+# 上海 · 校招 · 策划 · 全部公司（34 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 16](../../slices/netease/campus/planning/shanghai.md) · [米哈游 8](../../slices/mihoyo/campus/planning/shanghai.md) · [字节跳动 4](../../slices/bytedance/campus/planning/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/planning/shanghai.md) · [腾讯 2](../../slices/tencent/campus/planning/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/planning/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 16](../../slices/netease/campus/planning/shanghai.md) · [米哈游 8](../../slices/mihoyo/campus/planning/shanghai.md) · [字节跳动 4](../../slices/bytedance/campus/planning/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/planning/shanghai.md) · [腾讯 2](../../slices/tencent/campus/planning/shanghai.md) · [智元机器人 1](../../slices/agibot/campus/planning/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/planning/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 创意策划-营销服体系 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7661937145099225371.md) |
 | 阿里巴巴 | 游戏策划（放置MMO） | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907660015.md) |
 | 阿里巴巴 | 游戏策划（卡牌） | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907680014.md) |
 | 哔哩哔哩 | 游戏战斗策划【2027届】 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29705.md) |

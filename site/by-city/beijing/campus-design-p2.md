@@ -1,11 +1,12 @@
-# 北京 · 校招 · 设计 · 全部公司（88 个岗位）（第 2/2 页）
+# 北京 · 校招 · 设计 · 全部公司（102 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 34](../../slices/bytedance/campus/design/beijing.md) · [快手 17](../../slices/kuaishou/campus/design/beijing.md) · [小米 15](../../slices/xiaomi/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [百度 2](../../slices/baidu/campus/design/beijing.md) · [腾讯 2](../../slices/tencent/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/campus/design/beijing.md) · [快手 17](../../slices/kuaishou/campus/design/beijing.md) · [小米 15](../../slices/xiaomi/campus/design/beijing.md) · [理想汽车 12](../../slices/lixiang/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [百度 2](../../slices/baidu/campus/design/beijing.md) · [联想 2](../../slices/lenovo/campus/design/beijing.md) · [腾讯 2](../../slices/tencent/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | UIUX设计师 - PICO 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675254604385192197.md) |
 | 华为 | ID与UX设计师 | 东莞/南京/西安/杭州/成都/武汉/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-36396.md) |
 | 京东 | 创意设计师 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-9061.md) |
 | 京东 | 交互设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9045.md) |
@@ -23,6 +24,18 @@
 | 快手 | UX设计师 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-9954.md) |
 | 快手 | UX设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13089.md) |
 | 快手 | UX设计师-企业产品方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-14006.md) |
+| 联想 | 工业设计 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lenovo-2369.md) |
+| 联想 | 交互设计 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lenovo-2370.md) |
+| 理想汽车 | 精致化设计师-北京 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-75367.md) |
+| 理想汽车 | 空间设计 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-99328.md) |
+| 理想汽车 | 视觉策略设计师 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-137512.md) |
+| 理想汽车 | 视频创意设计师-校招 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-24420.md) |
+| 理想汽车 | 体验设计师（3个团队） ⚠️链接待核 | 北京 | 2026-10-27 | [1](../../jobs/lixiang-152341.md) [2](../../jobs/lixiang-116031.md) [3](../../jobs/lixiang-16274.md) |
+| 理想汽车 | 图像创意设计师 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-10323.md) |
+| 理想汽车 | 文案创意设计师 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-199432.md) |
+| 理想汽车 | 智能产品设计师 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-03651.md) |
+| 理想汽车 | CMF设计师 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-235594.md) |
+| 理想汽车 | UX设计师 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/lixiang-173836.md) |
 | 美团 | 平面设计（酒店方向） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4696320076.md) |
 | 美团 | 设计规划岗（空间设计） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4721439045.md) |
 | 美团 | 体验设计师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697273246.md) |

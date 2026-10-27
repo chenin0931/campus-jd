@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 产品 · 全部公司（67 个岗位）（第 1/2 页）
+# 深圳 · 实习 · 产品 · 全部公司（75 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 34](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 8](../../slices/tencent/intern/product/shenzhen.md) · [vivo 5](../../slices/vivo/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/product/shenzhen.md) · [滴滴 3](../../slices/didi/intern/product/shenzhen.md) · [美团 3](../../slices/meituan/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [华为 1](../../slices/huawei/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 8](../../slices/tencent/intern/product/shenzhen.md) · [vivo 5](../../slices/vivo/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/product/shenzhen.md) · [腾讯音乐 4](../../slices/tme/intern/product/shenzhen.md) · [滴滴 3](../../slices/didi/intern/product/shenzhen.md) · [美团 3](../../slices/meituan/intern/product/shenzhen.md) · [自变量机器人 3](../../slices/x2robot/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [华为 1](../../slices/huawei/intern/product/shenzhen.md) · [商汤科技 1](../../slices/sensetime/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -46,6 +46,5 @@
 | 京东 | 物流产品服务 〔27届〕 | 北京/广州/深圳 | 2026-10-27 | [详情](../../jobs/jd-4920.md) |
 | 快手 | 【留用实习】策略产品经理 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-11300.md) |
 | 快手 | 【留用实习】用户产品经理 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-11583.md) |
-| 美团 | 【2027】Keeta-产品实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4691986310.md) |
 
 [下一页](intern-product-p2.md) · [总目录](../../llms.txt)

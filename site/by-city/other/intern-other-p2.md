@@ -1,0 +1,11 @@
+# 其他城市 · 实习 · 其他 · 全部公司（51 个岗位）（第 2/2 页）
+
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+按公司：[理想汽车 15](../../slices/lixiang/intern/other/other.md) · [腾讯 14](../../slices/tencent/intern/other/other.md) · [小米 8](../../slices/xiaomi/intern/other/other.md) · [蚂蚁集团 3](../../slices/antgroup/intern/other/other.md) · [携程 3](../../slices/ctrip/intern/other/other.md) · [京东 3](../../slices/jd/intern/other/other.md) · [滴滴 2](../../slices/didi/intern/other/other.md) · [飞象星球 1](../../slices/feixiang/intern/other/other.md) · [华为 1](../../slices/huawei/intern/other/other.md) · [腾讯音乐 1](../../slices/tme/intern/other/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+
+| 公司 | 岗位 | 城市 | 首次出现 | 详情 |
+|---|---|---|---|---|
+| 小米 | Tax Compliance & Accounting Intern, Vietnam 🌏海外 | 胡志明 | 2026-10-27 | [详情](../../jobs/xiaomi-7673427096538335542.md) |
+
+[上一页](intern-other.md) · [总目录](../../llms.txt)

@@ -1,13 +1,33 @@
-# 上海 · 实习 · 市场 · 全部公司（92 个岗位）（第 3/3 页）
+# 上海 · 实习 · 市场 · 全部公司（107 个岗位）（第 3/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/intern/marketing/shanghai.md) · [米哈游 13](../../slices/mihoyo/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/intern/marketing/shanghai.md) · [米哈游 13](../../slices/mihoyo/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [MiniMax 7](../../slices/minimax/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [小鹏汽车 3](../../slices/xpeng/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [商汤科技 2](../../slices/sensetime/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md) · [爱奇艺 1](../../slices/iqiyi/intern/marketing/shanghai.md) · [面壁智能 1](../../slices/modelbest/intern/marketing/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 面壁智能 | 技术传播实习生 〔≥6个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/modelbest-7689002578553866542.md) |
+| 月之暗面 | Kimi品牌设计实习生-上海 〔≥3个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/moonshot-b54071d5-6426-4cc2-8bb9-2b12b8e93788.md) |
+| 网易 | 本地化营销（西语）（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/netease-76972.md) [2](../../jobs/netease-78483.md) |
+| 网易 | 海外内容传播实习生 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79316.md) |
+| 网易 | 海外营销传播实习生-日本发行支持 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79321.md) |
+| 网易 | 品牌创意实习生（七日世界） | 上海 | 2026-10-27 | [详情](../../jobs/netease-79126.md) |
+| 网易 | 品牌素材创意实习生（AI美术方向） | 上海 | 2026-10-27 | [详情](../../jobs/netease-79123.md) |
+| 网易 | 全球网红营销实习生 | 上海 | 2026-10-27 | [详情](../../jobs/netease-60627.md) |
+| 网易 | 营销内容习生（内容生态方向） 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78298.md) |
+| 网易 | 游戏内容营销实习生（KOL/主播投放方向） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79375.md) |
+| 网易 | 游戏营销实习生（射击类） 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78896.md) |
+| 网易 | 游戏营销实习生（玩家生态方向） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78137.md) |
+| 网易 | 游戏营销实习生（自媒体方向-日语/英语） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78967.md) |
+| 商汤科技 | 品牌传播实习生 | 上海 | 2026-10-27 | [详情](../../jobs/sensetime-7681584057674959167.md) |
+| 商汤科技 | 品牌市场活动实习生 | 上海 | 2026-10-27 | [详情](../../jobs/sensetime-7699016796281014571.md) |
+| 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067387964684288.md) |
+| 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875613710029824.md) |
+| 小红书 | 公共事务实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21832.md) |
 | 小红书 | 广告业务支持实习生（2个团队） 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-22542.md) [2](../../jobs/xiaohongshu-21833.md) |
 | 小红书 | 品牌投放实习生（抖音短视频方向） 〔28/29届 · ≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22635.md) |
 | 小红书 | 杂志编辑部剪辑实习生（音视频剪辑） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-13651.md) |
+| 小鹏汽车 | 2026年校园大使（2个团队） | 广州/北京/上海/深圳/武汉 | 2026-10-27 | [1](../../jobs/xpeng-7640096033099712804.md) [2](../../jobs/xpeng-7516766215387531539.md) |
+| 小鹏汽车 | 新媒体实习生（上海大区） | 上海 | 2026-10-27 | [详情](../../jobs/xpeng-7533469094504515882.md) |
 
 [上一页](intern-marketing-p2.md) · [总目录](../../llms.txt)

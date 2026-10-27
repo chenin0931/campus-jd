@@ -1,8 +1,8 @@
-# 深圳 · 实习 · AI产品 · 全部公司（37 个岗位）
+# 深圳 · 实习 · AI产品 · 全部公司（41 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 24](../../slices/bytedance/intern/ai-product/shenzhen.md) · [百度 6](../../slices/baidu/intern/ai-product/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/intern/ai-product/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/ai-product/shenzhen.md) · [vivo 1](../../slices/vivo/intern/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 24](../../slices/bytedance/intern/ai-product/shenzhen.md) · [百度 6](../../slices/baidu/intern/ai-product/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/intern/ai-product/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/ai-product/shenzhen.md) · [流形空间 1](../../slices/manifold/intern/ai-product/shenzhen.md) · [面壁智能 1](../../slices/modelbest/intern/ai-product/shenzhen.md) · [商汤科技 1](../../slices/sensetime/intern/ai-product/shenzhen.md) · [vivo 1](../../slices/vivo/intern/ai-product/shenzhen.md) · [自变量机器人 1](../../slices/x2robot/intern/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -36,11 +36,15 @@
 | 字节跳动 | AI互动产品实习生（资产方向） - 抖音社交与互动 〔≥6个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7701251912223508741.md) |
 | 字节跳动 | AI平台产品实习生（商业安全方向） - 广告业务 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7683448753924163893.md) |
 | 字节跳动 | AIGC产品实习生（创作方向）-抖音 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7623733460372343045.md) |
+| 流形空间 | 实习AI产品经理 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/manifold-7686853085784443187.md) |
+| 面壁智能 | AI产品实习生-广州 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/modelbest-7699798664067205385.md) |
 | OPPO | 互联网产品经理（AI Coding方向） 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1725.md) |
 | OPPO | AI产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1606.md) |
+| 商汤科技 | 设计实习生（审美评测与数据建设方向） | 深圳/上海/北京 | 2026-10-27 | [详情](../../jobs/sensetime-7660829660679457033.md) |
 | 腾讯 | 视觉生成模型评测 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1269457251706814464.md) |
 | 腾讯 | AI产品经理 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1310631402664067072.md) |
 | 腾讯 | AI产品经理 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284862486247711744.md) |
 | vivo | AI产品规划经理（深圳）-实习 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-cf823947-e640-43f9-be9f-d00e63cd9b63.md) |
+| 自变量机器人 | 智算平台产品实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/x2robot-7676100737927317810.md) |
 
 [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 上海 · 实习 · 产品 · 全部公司（228 个岗位）（第 1/6 页）
+# 上海 · 实习 · 产品 · 全部公司（237 个岗位）（第 1/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 167](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [腾讯 5](../../slices/tencent/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [百度 3](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 167](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [腾讯 5](../../slices/tencent/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [百度 3](../../slices/baidu/intern/product/shanghai.md) · [爱奇艺 3](../../slices/iqiyi/intern/product/shanghai.md) · [商汤科技 2](../../slices/sensetime/intern/product/shanghai.md) · [特赞 2](../../slices/tezign/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [MiniMax 1](../../slices/minimax/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md) · [蔚来 1](../../slices/nio/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -43,7 +43,5 @@
 | 字节跳动 | 产品经理实习生 - 国际化广告业务 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591373199684061493.md) |
 | 字节跳动 | 产品经理实习生-国际化 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7519042269547841799.md) |
 | 字节跳动 | 产品经理实习生-国际支付（4个团队） 〔27届 · ≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7606283143117981957.md) [2](../../jobs/bytedance-7606280863462017285.md) [3](../../jobs/bytedance-7606268995093104901.md) [4](../../jobs/bytedance-7606263973436262661.md) |
-| 字节跳动 | 产品经理实习生（创作者方向）-国际化 〔≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7498265826508720392.md) |
-| 字节跳动 | 产品设计实习生 - 国际支付 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685659558149064965.md) |
 
 [下一页](intern-product-p2.md) · [总目录](../../llms.txt)

@@ -1,11 +1,15 @@
-# 上海 · 校招 · 设计 · 全部公司（102 个岗位）（第 1/2 页）
+# 上海 · 校招 · 设计 · 全部公司（116 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [字节跳动 23](../../slices/bytedance/campus/design/shanghai.md) · [网易 19](../../slices/netease/campus/design/shanghai.md) · [腾讯 10](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [字节跳动 23](../../slices/bytedance/campus/design/shanghai.md) · [网易 19](../../slices/netease/campus/design/shanghai.md) · [腾讯 10](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [智元机器人 4](../../slices/agibot/campus/design/shanghai.md) · [理想汽车 4](../../slices/lixiang/campus/design/shanghai.md) · [蔚来 4](../../slices/nio/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [MiniMax 1](../../slices/minimax/campus/design/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 智元机器人 | 电商视觉设计师-擎天租子公司 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7673050209807157550.md) |
+| 智元机器人 | 服装设计师 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7661986870742763782.md) |
+| 智元机器人 | 工业设计师 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7661986650445596970.md) |
+| 智元机器人 | 工业设计师-临界点子公司 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/agibot-7662270138897320233.md) |
 | 阿里巴巴 | 游戏场景原画（国风） | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907700017.md) |
 | 阿里巴巴 | 游戏角色原画（国风二次元） | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907620014.md) |
 | 阿里巴巴 | 游戏界面设计(GUI） | 广州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907700019.md) |
@@ -41,13 +45,5 @@
 | 携程 | 流程管理（用户体验方向）（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036686.md) |
 | 携程 | 视觉界面设计师（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036638.md) |
 | 得物 | 【27届校招】视觉设计师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7672359365978687785.md) |
-| 得物 | 【27届校招】体验设计师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7672259237868095780.md) |
-| 华为 | ID与UX设计师 | 东莞/南京/西安/杭州/成都/武汉/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-36396.md) |
-| 京东 | 创意设计师 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-9061.md) |
-| 京东 | 视觉设计师 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-9058.md) |
-| 美团 | 品牌/营销设计师 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4697314458.md) |
-| 美团 | 体验设计师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697273246.md) |
-| 米哈游 | 2D美术（AI向） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9117.md) |
-| 米哈游 | 场景模型师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9167.md) |
 
 [下一页](campus-design-p2.md) · [总目录](../../llms.txt)

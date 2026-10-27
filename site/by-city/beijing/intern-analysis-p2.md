@@ -1,11 +1,17 @@
-# 北京 · 实习 · 分析 · 全部公司（233 个岗位）（第 2/5 页）
+# 北京 · 实习 · 分析 · 全部公司（246 个岗位）（第 2/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [360 3](../../slices/360/intern/analysis/beijing.md) · [MiniMax 3](../../slices/minimax/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/analysis/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/analysis/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/analysis/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/analysis/beijing.md) · [知乎 1](../../slices/zhihu/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 大数据分析实习生-音视频技术 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7611022627243673909.md) |
+| 字节跳动 | 东南亚电商运营数据科学实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677477289400404277.md) |
+| 字节跳动 | 东南亚直播策略实习生 - TikTok Shop 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7684109493437679925.md) |
+| 字节跳动 | 度量数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683783124081412357.md) |
+| 字节跳动 | 短剧内容策略实习生 - TikTok 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7649708671724112181.md) |
+| 字节跳动 | 泛商城推荐数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669795295006755125.md) |
 | 字节跳动 | 管理咨询实习生-飞书 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7493413034084731144.md) |
 | 字节跳动 | 国际电商数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7679000408761567493.md) |
 | 字节跳动 | 国际化短视频商业分析实习生-国际化广告创意与品牌 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7520138223361313042.md) |
@@ -38,12 +44,5 @@
 | 字节跳动 | 商业分析实习生 - Pangle 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670038866590976261.md) |
 | 字节跳动 | 商业分析实习生-抖音生活服务 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7613744270163314949.md) |
 | 字节跳动 | 商业分析实习生-抖音项目管理 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7637456108026218805.md) |
-| 字节跳动 | 商业分析实习生-国际化广告创意与品牌 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7591366055924156725.md) |
-| 字节跳动 | 商业分析行业策略实习生-广告业务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7468552942427228423.md) |
-| 字节跳动 | 商业化数据科学实习生-国际化广告数据科学（4个团队） 〔≥3个月〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7538364392661485842.md) [2](../../jobs/bytedance-7569435078443977013.md) [3](../../jobs/bytedance-7567293392846473525.md) [4](../../jobs/bytedance-7570922773863762181.md) |
-| 字节跳动 | 商业化数据科学实习生-商业变现（5个团队） 〔≥4个月〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7540913303553509640.md) [2](../../jobs/bytedance-7524258028481874183.md) [3](../../jobs/bytedance-7539791352852433159.md) [4](../../jobs/bytedance-7524676016926148871.md) [5](../../jobs/bytedance-7548342557119498514.md) |
-| 字节跳动 | 生态治理策略实习生 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670375943256754485.md) |
-| 字节跳动 | 生态治理策略实习生-TikTok 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7597361055125555461.md) |
-| 字节跳动 | 数据策略分析实习生-飞书 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7591936451530115381.md) |
 
 [上一页](intern-analysis.md) · [下一页](intern-analysis-p3.md) · [总目录](../../llms.txt)

@@ -1,0 +1,12 @@
+# 生数科技 总览（在招 13：校招 0，实习 13）
+
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+没列出的 类型×类别 组合就是没有岗位，不要再猜路径。
+
+- 实习·AI产品（2）：[北京 2](../slices/shengshu/intern/ai-product/beijing.md)
+- 实习·运营（7）：[北京 7](../slices/shengshu/intern/ops/beijing.md)
+- 实习·市场（1）：[北京 1](../slices/shengshu/intern/marketing/beijing.md)
+- 实习·职能（3）：[北京 3](../slices/shengshu/intern/corporate/beijing.md)
+
+[总目录](../llms.txt)

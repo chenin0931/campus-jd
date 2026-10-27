@@ -1,11 +1,20 @@
-# 北京 · 校招 · 运营 · 全部公司（354 个岗位）（第 3/8 页）
+# 北京 · 校招 · 运营 · 全部公司（394 个岗位）（第 3/9 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 24](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [理想汽车 10](../../slices/lixiang/campus/ops/beijing.md) · [新浪/微博 7](../../slices/weibo/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [知乎 6](../../slices/zhihu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [贝壳 3](../../slices/ke/campus/ops/beijing.md) · [联想 3](../../slices/lenovo/campus/ops/beijing.md) · [360 2](../../slices/360/campus/ops/beijing.md) · [蔚来 2](../../slices/nio/campus/ops/beijing.md) · [腾讯音乐 2](../../slices/tme/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/ops/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 酒旅行业策略运营 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668183035990427909.md) |
+| 字节跳动 | 客户体验运营 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7663061734682052869.md) |
+| 字节跳动 | 客户运营（CST） - Global Business Solutions 〔27届〕 | 北京/广州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667461132043766069.md) |
+| 字节跳动 | 联网大模型数据运营 - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683465284410116405.md) |
+| 字节跳动 | 漫剧产品运营 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669684790506211589.md) |
+| 字节跳动 | 模型运营 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670453918902520069.md) |
+| 字节跳动 | 模型运营（电商机审方向） - 内容质量与数据服务平台 〔27届〕 | 成都/北京/西安 | 2026-10-27 | [详情](../../jobs/bytedance-7665248914409621765.md) |
+| 字节跳动 | 模型运营（生活服务方向） - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7663082289291790597.md) |
+| 字节跳动 | 模型运营（生态治理） - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669763702325299461.md) |
 | 字节跳动 | 模型运营（游戏与社交） - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675644624045869317.md) |
 | 字节跳动 | 内容安全策略运营（国内） - 剪映CapCut 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675252959013636357.md) |
 | 字节跳动 | 内容策略运营 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667935737146607877.md) |
@@ -34,19 +43,5 @@
 | 字节跳动 | 搜索安全策略运营 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669748788718504197.md) |
 | 字节跳动 | 素材策略运营 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669709449758345525.md) |
 | 字节跳动 | 体验策略运营 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668302708907100469.md) |
-| 字节跳动 | 体验运营 - 体验与服务（3个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7670130161032284469.md) [2](../../jobs/bytedance-7670123780908124421.md) [3](../../jobs/bytedance-7670129595102071045.md) |
-| 字节跳动 | 推荐产品运营 - TikTok Shop 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668544708158753077.md) |
-| 字节跳动 | 网文编辑 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669693016471226629.md) |
-| 字节跳动 | 物理安全运营管理 - Corporate Services 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669705526162852149.md) |
-| 字节跳动 | 项目运营 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668621579618027781.md) |
-| 字节跳动 | 行业产品运营 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665928898505853237.md) |
-| 字节跳动 | 行业运营（教育及平台服务） - 商业化 〔27届〕 | 北京/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7666349170153277749.md) |
-| 字节跳动 | 行业运营（生活居家） - 商业化 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7669692100606806277.md) |
-| 字节跳动 | 行政运营管理 - Corporate Services 〔27届〕 | 上海/北京/成都/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7668528911895955717.md) |
-| 字节跳动 | 医疗大模型数据运营 - 小荷健康 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665619699312445749.md) |
-| 字节跳动 | 用户体验运营 - 今日头条 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669687247249705221.md) |
-| 字节跳动 | 用户运营（粉丝运营） - 红果短剧 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669678684211169589.md) |
-| 字节跳动 | 用户运营经理 - 抖音UGC 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667946642422843701.md) |
-| 字节跳动 | 用户运营经理（校园方向） - 抖音UGC 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7694136306792548613.md) |
 
 [上一页](campus-ops-p2.md) · [下一页](campus-ops-p4.md) · [总目录](../../llms.txt)

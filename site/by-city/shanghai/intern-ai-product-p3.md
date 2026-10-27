@@ -1,11 +1,23 @@
-# 上海 · 实习 · AI产品 · 全部公司（118 个岗位）（第 3/3 页）
+# 上海 · 实习 · AI产品 · 全部公司（142 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 88](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/intern/ai-product/shanghai.md) · [美团 7](../../slices/meituan/intern/ai-product/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [米哈游 4](../../slices/mihoyo/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ai-product/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 88](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/intern/ai-product/shanghai.md) · [美团 7](../../slices/meituan/intern/ai-product/shanghai.md) · [蔚来 5](../../slices/nio/intern/ai-product/shanghai.md) · [阶跃星辰 5](../../slices/stepfun/intern/ai-product/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [米哈游 4](../../slices/mihoyo/intern/ai-product/shanghai.md) · [爱奇艺 3](../../slices/iqiyi/intern/ai-product/shanghai.md) · [MiniMax 3](../../slices/minimax/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [商汤科技 2](../../slices/sensetime/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md) · [360 1](../../slices/360/intern/ai-product/shanghai.md) · [智元机器人 1](../../slices/agibot/intern/ai-product/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ai-product/shanghai.md) · [非夕科技 1](../../slices/flexiv/intern/ai-product/shanghai.md) · [光轮智能 1](../../slices/lightwheel/intern/ai-product/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/ai-product/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ai-product/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI产品实习生（音视频方向） - 飞书&豆包办公任务 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7654853661933783301.md) |
+| 字节跳动 | AI产品实习生（音视频方向）-飞书 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7648929078736783621.md) |
+| 字节跳动 | AI产品实习生（用户产品方向）-TikTok直播 〔27届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7611390428725774597.md) |
+| 字节跳动 | AI产品体验与调研实习生-TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7662670891041802549.md) |
+| 字节跳动 | AI创作产品实习生 - TikTok 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7694933243351550261.md) |
+| 字节跳动 | AI大模型评测产品实习生 - 火山方舟 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7674950150314477877.md) |
+| 字节跳动 | AI短剧产品实习生 - 国际化短剧 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688612094849992965.md) |
+| 字节跳动 | AI技术产品实习生（AI数据应用方向） - 中国交易与广告 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683804060418361605.md) |
+| 字节跳动 | AI平台产品实习生（商业安全方向） - 广告业务 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7683448753924163893.md) |
+| 字节跳动 | AI数据策略产品实习生 - 国际化商业安全 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685318573782321413.md) |
+| 字节跳动 | AI搜索产品评测实习生-TikTok 〔≥6个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7526825039020574984.md) |
+| 字节跳动 | AI知识助手（海外）产品实习生-火山方舟 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7645238283556194613.md) |
 | 字节跳动 | AI中台产品实习生 - 抖音生活服务 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7637112157868345605.md) |
 | 字节跳动 | AIGC策略产品实习生 - 剪映CapCut | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7681571462048237877.md) |
 | 字节跳动 | AIGC策略产品实习生-广告业务 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7579929385488156981.md) |
@@ -17,6 +29,11 @@
 | 字节跳动 | AIGC商业产品实习生-国际化（3个团队） 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7525348347533068552.md) [2](../../jobs/bytedance-7497166212713351432.md) [3](../../jobs/bytedance-7523068361303935239.md) |
 | 字节跳动 | Aime产品实习生 - Aime 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7641979186526456069.md) |
 | 字节跳动 | Feed产品实习生（跨语言AI方向）-TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7612480968992065797.md) |
+| 非夕科技 | 具身智能产品实习生 〔≥4个月，每周≥5天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/flexiv-7600237312325060915.md) |
+| 爱奇艺 | 海外AI应用产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7603204249719802175.md) |
+| 爱奇艺 | AI产品经理实习生（视觉方向） | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7649592047167736070.md) |
+| 爱奇艺 | AI商业化产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/iqiyi-7683749666936506670.md) |
+| 光轮智能 | 具身智能产品实习生 〔≥4个月〕 ⚠️链接待核 | 上海/北京 | 2026-10-27 | [详情](../../jobs/lightwheel-7625110117608638746.md) |
 | 美团 | 【大模型北斗实习】统一化的检索生成框架探索与评测 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-3153873006.md) |
 | 美团 | 【大模型北斗实习】长周期人机协作能力探索和评测 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-3153985521.md) |
 | 美团 | 【LongCat实习】基座评测与认知分析-具身与开放物理世界探索 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4570930537.md) |
@@ -25,16 +42,5 @@
 | 美团 | 多模态大模型评测分析实习生 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-2997413577.md) |
 | 美团 | AI产品实习 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4790166200.md) |
 | 米哈游 | 国际化产品反馈与用户管理实习生（AI技术应用方向） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8397.md) |
-| 米哈游 | AI 产品实习生（发行方向） 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9702.md) |
-| 米哈游 | AI 创新产品实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8526.md) |
-| 米哈游 | AI产品·体验设计实习生 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9698.md) |
-| 腾讯 | AI产品经理 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1310631402664067072.md) |
-| 腾讯 | AI产品经理 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284862486247711744.md) |
-| 小红书 | 【Ace顶尖实习生】小红书AI × 社区 RPT产品培训生 〔27/28届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20413.md) |
-| 小红书 | 大模型多模态评测实习生 〔27/28届 · ≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19108.md) |
-| 小红书 | 智能体Agent Infra 产品经理实习生 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20205.md) |
-| 小红书 | AI 对话策略产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22508.md) |
-| 小红书 | ai治理产品实习生 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22452.md) |
-| 小米 | 产品经理实习生（智能网联方向）—上海 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7542338835427016813.md) |
 
-[上一页](intern-ai-product-p2.md) · [总目录](../../llms.txt)
+[上一页](intern-ai-product-p2.md) · [下一页](intern-ai-product-p4.md) · [总目录](../../llms.txt)

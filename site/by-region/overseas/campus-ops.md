@@ -1,4 +1,4 @@
-# 海外 · 校招 · 运营 · 全部公司（31 个岗位）
+# 海外 · 校招 · 运营 · 全部公司（37 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -36,5 +36,11 @@ region：海外=城市全部在港澳台以外的海外；国内=中国大陆+�
 | 小米 | GTM运营专员-外派 〔27届〕 🌏海外 | 开罗 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935284204374335.md) |
 | 小米 | Sales Operations Specialist-local 〔27届〕 🌏海外 | 迪拜/伊斯坦布尔 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935292522383625.md) |
 | 小米 | Service Operations Specialist-local 〔27届〕 🌏海外 | 雅加达 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931024012675366.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Parts Operation  Explorer 🌏海外 | 迪门 | 2026-10-27 | [详情](../../jobs/xpeng-7694273145070831910.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Sale Operation Fleet - France 🌏海外 | 巴黎 | 2026-10-27 | [详情](../../jobs/xpeng-7694269185307838771.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Sales of Operations Specialist 🌏海外 | 伦敦 | 2026-10-27 | [详情](../../jobs/xpeng-7694277796398549290.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Sales Operation Specialist 🌏海外 | 迪门 | 2026-10-27 | [详情](../../jobs/xpeng-7694272231489407258.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Sales Operation Specialist - Germany 🌏海外 | 慕尼黑 | 2026-10-27 | [详情](../../jobs/xpeng-7694278057876425006.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Sales Operations Explorer 🌏海外 | 巴勒鲁普 | 2026-10-27 | [详情](../../jobs/xpeng-7694268164050307355.md) |
 
 [总目录](../../llms.txt)

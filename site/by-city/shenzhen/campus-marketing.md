@@ -1,14 +1,14 @@
-# 深圳 · 校招 · 市场 · 全部公司（16 个岗位）
+# 深圳 · 校招 · 市场 · 全部公司（18 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[OPPO 7](../../slices/oppo/campus/marketing/shenzhen.md) · [腾讯 5](../../slices/tencent/campus/marketing/shenzhen.md) · [美团 2](../../slices/meituan/campus/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[OPPO 7](../../slices/oppo/campus/marketing/shenzhen.md) · [腾讯 5](../../slices/tencent/campus/marketing/shenzhen.md) · [美团 2](../../slices/meituan/campus/marketing/shenzhen.md) · [小鹏汽车 2](../../slices/xpeng/campus/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 蚂蚁集团 | WF Business 业务增长管培生 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/antgroup-260721011008742.md) |
 | 美团 | 市场营销岗 | 北京/利雅得/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697313567.md) |
-| 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海/成都/长春/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/大连/南宁/西安/哈尔滨/昆明/长沙/湛江/重庆/东莞/南昌/中山/佛山/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
+| 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海 等 36 城 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | OPPO | 产品营销经理（海外-小语种） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1816.md) |
 | OPPO | 媒介经理（海外-小语种） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1818.md) |
 | OPPO | 市场管理培训生（电商） 〔27届〕 | 深圳/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1826.md) |
@@ -22,5 +22,6 @@
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1282707375417304064.md) |
 | 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1284207373170582528.md) |
 | 小米 | GTM专员 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/xiaomi-7697203534919567657.md) |
+| 小鹏汽车 | 【27届校招】公共事务培训生（深圳）（2个团队） 〔27届〕 | 深圳 | 2026-10-27 | [1](../../jobs/xpeng-7698936001444710683.md) [2](../../jobs/xpeng-7696493669176871206.md) |
 
 [总目录](../../llms.txt)
