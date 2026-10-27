@@ -39,9 +39,15 @@ jobs:
             [ -f "$prev/$c.json" ] && cp "$prev/$c.json" "data/${{ steps.week.outputs.week }}/$c.json"
           done
           echo "FAILED=$failed" >> "$GITHUB_ENV"
-      - name: Check links（只查拼接未核实的站点）
-        run: node scripts/check_links.js --only kuaishou,meituan,xiaohongshu,baidu,jd,xiaomi
+      - name: Check links（优先官网按 id 查详情接口，其次格式/HTTP 校验）
+        run: node scripts/check_links.js
         continue-on-error: true
+      - name: Browser link check（可选兜底，只复查未被接口确认的链接）
+        continue-on-error: true
+        run: |
+          npm i --no-save playwright
+          npx playwright install --with-deps chromium
+          node scripts/lib/check_links_browser.js --status unverified,format_verified --write
       - name: Build（失败即停止：切片 >8KB、id 重复或计数不一致）
         run: node scripts/build.js
       - name: Package skill

@@ -1,6 +1,8 @@
-# 上海/嘉定区 · 实习 · 运营 · 全部公司（351 个岗位）（第 1/7 页）
+# 上海 · 实习 · 运营 · 全部公司（356 个岗位）（第 1/8 页）
 
-数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验，请到官网核实。截止日期以官网为准。
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+按公司：[字节跳动 288](../../slices/bytedance/intern/operations/shanghai.md) · [小红书 36](../../slices/xiaohongshu/intern/operations/shanghai.md) · [美团 11](../../slices/meituan/intern/operations/shanghai.md) · [京东 7](../../slices/jd/intern/operations/shanghai.md) · [腾讯 6](../../slices/tencent/intern/operations/shanghai.md) · [滴滴 5](../../slices/didi/intern/operations/shanghai.md) · [百度 2](../../slices/baidu/intern/operations/shanghai.md) · [快手 1](../../slices/kuaishou/intern/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -47,9 +49,5 @@
 | 字节跳动 | 东南亚达人策略运营实习生-TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7651555195876329781.md) |
 | 字节跳动 | 东南亚电商策略运营实习生 - TikTok Shop | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7698636987930446133.md) |
 | 字节跳动 | 东南亚电商策略运营实习生 - TikTok Shop（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7700805097347877125.md) [2](../../jobs/bytedance-7677499415334422837.md) |
-| 字节跳动 | 东南亚电商运营数据科学实习生 - TikTok Shop（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7678676463579793717.md) [2](../../jobs/bytedance-7678677319343442181.md) |
-| 字节跳动 | 东南亚电商中台运营实习生 - TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680439387092699397.md) |
-| 字节跳动 | 东南亚跨境策略运营实习生 - TikTok Shop（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7690467088117254405.md) [2](../../jobs/bytedance-7665330506424699141.md) |
-| 字节跳动 | 东南亚跨境大促活动运营实习生 - TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698587204972792069.md) |
 
 [下一页](intern-operations-p2.md) · [总目录](../../llms.txt)

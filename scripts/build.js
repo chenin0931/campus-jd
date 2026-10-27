@@ -49,7 +49,7 @@ const jobs = [...curMap.values()];
 
 // ---------- 渲染 ----------
 const esc = s => String(s ?? '').replace(/\|/g, '/').replace(/\s*\n\s*/g, ' ').trim();
-const flag = j => (j.is_new ? ' 🆕' : '') + (j.link_status === 'unverified' ? ' ⚠️链接待核' : '');
+const flag = j => (j.is_new ? ' 🆕' : '') + (j.link_status === 'invalid' ? ' ❌疑似下架' : j.link_status === 'unverified' ? ' ⚠️链接待核' : '');
 const rel = (from, to) => path.relative(path.dirname(from), to).split(path.sep).join('/');
 // 同标题+同城市合并为一行（多个团队在招）
 function group(l) { const m = new Map();
@@ -74,7 +74,7 @@ function paged(base, title, note, rows, withCo, count) {
     out(f, render(rs, i, pages.length, f).replace('{{NAV}}', nav), k === 0 ? count : 0); });
   return pages.map((_, k) => fname(k + 1));
 }
-const NOTE = `数据周 ${cur}，生成 ${today}（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验，请到官网核实。截止日期以官网为准。`;
+const NOTE = `数据周 ${cur}，生成 ${today}（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。`;
 
 // 历史 changes/ 保留（其余全部重建）
 const CH = path.join(SITE, 'changes'), oldChanges = fs.existsSync(CH) ? fs.readdirSync(CH).filter(f => !f.startsWith(cur)).map(f => [f, fs.readFileSync(path.join(CH, f), 'utf8')]) : [];
@@ -94,8 +94,8 @@ for (const co of companies) {
     const cities = {};
     for (const j of l) for (const cy of (j.city.length ? j.city : ['未知'])) (cities[citySlug(cy)] ||= { names: new Set(), l: [] }).l.push(j), cities[citySlug(cy)].names.add(cy);
     for (const [cyS, v] of Object.entries(cities)) {
-      const pages = paged(`slices/${co}/${ts}/${cs}/${cyS}`, `${names[co]} · ${jt} · ${c} · ${cyS === 'other' ? '其他城市：' + [...v.names].join('/') : [...v.names].join('/')}（${v.l.length} 个岗位）`, NOTE, group(v.l.sort(byTitle)), false, v.l.length);
-      index.slices.push({ company: co, job_type: ts, category: cs, city: cyS, city_name: cyS === 'other' ? '其他城市' : [...v.names].join('/'), count: v.l.length, pages });
+      const pages = paged(`slices/${co}/${ts}/${cs}/${cyS}`, `${names[co]} · ${jt} · ${c} · ${cyS === 'other' ? '其他城市：' + [...v.names].join('/') : cityName(cyS)}（${v.l.length} 个岗位）`, NOTE, group(v.l.sort(byTitle)), false, v.l.length);
+      index.slices.push({ company: co, job_type: ts, category: cs, city: cyS, city_name: cityName(cyS), count: v.l.length, pages });
     }
   }
 }
@@ -104,9 +104,13 @@ const cityAll = {};
 for (const j of jobs) for (const cy of (j.city.length ? j.city : ['未知'])) (cityAll[citySlug(cy)] ||= { names: new Set(), l: [] }).l.push(j), cityAll[citySlug(cy)].names.add(cy);
 for (const [cyS, v] of Object.entries(cityAll)) for (const [jt, ts] of Object.entries(TYPES)) for (const [c, cs] of Object.entries(CATS)) {
   const l = v.l.filter(j => j.job_type === jt && j.category === c); if (!l.length) continue;
-  const pages = paged(`by-city/${cyS}/${ts}-${cs}`, `${cyS === 'other' ? '其他城市' : [...v.names].join('/')} · ${jt} · ${c} · 全部公司（${l.length} 个岗位）`, NOTE,
+  const byCo = {}; for (const j of l) byCo[j.company_slug] = (byCo[j.company_slug] || 0) + 1;
+  const base = `by-city/${cyS}/${ts}-${cs}`;
+  const dist = '按公司：' + Object.entries(byCo).sort((a, b) => b[1] - a[1]).map(([co, n]) => `[${names[co]} ${n}](${rel(base + '.md', `slices/${co}/${ts}/${cs}/${cyS}.md`)})`).join(' · ')
+    + '。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。';
+  const pages = paged(base, `${cityName(cyS)} · ${jt} · ${c} · 全部公司（${l.length} 个岗位）`, NOTE + '\n\n' + dist,
     group(l.sort((a, b) => a.company_slug.localeCompare(b.company_slug) || byTitle(a, b))), true, l.length);
-  index.by_city.push({ city: cyS, city_name: cyS === 'other' ? '其他城市' : [...v.names].join('/'), job_type: ts, category: cs, count: l.length, pages });
+  index.by_city.push({ city: cyS, city_name: cityName(cyS), job_type: ts, category: cs, count: l.length, pages });
 }
 // changes/{week}.md
 { const nw = jobs.filter(j => j.is_new);
@@ -121,7 +125,7 @@ const detail = (j, s) => { const f = `jobs/${j.id}.md`; out(f, [`# ${j.title}`, 
   `- id: ${j.id}`, `- 公司: ${j.company}${j.business_unit.length ? `（${j.business_unit.join('、')}）` : ''}`, `- job_type: ${j.job_type}`, `- 类别: ${j.category}`,
   `- 城市: ${j.city.join('、') || '未知'}`, `- status: ${s.status}${s.status === 'removed' ? `（${s.removed_at} 起未在官网出现，勿投）` : ''}`,
   `- 首次出现: ${s.first_seen}　最近出现: ${s.last_seen || '-'}`, `- 截止: ${j.deadline || '以官网为准'}`,
-  `- 投递: ${j.apply_url}${(linkStatus[j.id]?.status) === 'unverified' ? '（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）' : ''}`, '',
+  `- 投递: ${j.apply_url}${(linkStatus[j.id]?.status) === 'invalid' ? '（❌疑似下架：官网详情接口查不到该岗位）' : (linkStatus[j.id]?.status) === 'unverified' ? '（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）' : ''}`, '',
   '## 岗位要求', '', String(j.requirements || '（官网未提供）').trim(), '', `[总目录](${rel(f, 'llms.txt')})`, ''].join('\n'), 1); };
 for (const j of jobs) detail(j, st.jobs[j.id]);
 for (const [id, s] of Object.entries(st.jobs)) if (s.status === 'removed') { const j = findOld(id); if (j) detail(j, s); }
@@ -132,7 +136,7 @@ const cnt = (co, ts, cs) => index.slices.filter(s => s.company === co && s.job_t
 const cityCounts = Object.entries(cityAll).map(([k, v]) => [k, cityName(k), v.l.length]).sort((a, b) => b[2] - a[2]);
 const llms = [`# 大厂 AI产品/产品/运营 校招·实习 JD 库`, '',
   `> 每周一由 GitHub Actions 预计算的静态切片。数据周 ${cur}，${today} 生成。在招 ${jobs.length}，本周新增 ${jobs.filter(j => j.is_new).length}，下架 ${removed.length}。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。`, '',
-  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '',
+  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。', '5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。', '',
   '## 路径模板', '- slices/{company}/{campus|intern}/{category}/{city}.md', '- by-city/{city}/{campus|intern}-{category}.md', `- changes/${cur}.md（本周新增/下架）`, '- jobs/{company}-{postId}.md', '- index.json（全部文件清单与计数）', '',
   '## 枚举', `- category: ai-product=AI产品, product=产品, operations=运营`, '- job_type: campus=校招, intern=实习',
   `- city: ${cityCounts.map(([k, n, c]) => `${k}=${n}(${c})`).join(', ')}`, '',

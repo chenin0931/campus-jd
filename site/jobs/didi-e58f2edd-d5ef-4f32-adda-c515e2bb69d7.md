@@ -1,0 +1,17 @@
+# 战略业务事业群-产品实习生
+
+- id: didi-e58f2edd-d5ef-4f32-adda-c515e2bb69d7
+- 公司: 滴滴
+- job_type: 实习
+- 类别: 产品
+- 城市: 北京
+- status: active
+- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 截止: 以官网为准
+- 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/e58f2edd-d5ef-4f32-adda-c515e2bb69d7
+
+## 岗位要求
+
+（官网未提供）
+
+[总目录](../llms.txt)

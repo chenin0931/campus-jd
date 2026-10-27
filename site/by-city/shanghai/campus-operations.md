@@ -1,6 +1,8 @@
-# 上海/嘉定区 · 校招 · 运营 · 全部公司（181 个岗位）（第 1/4 页）
+# 上海 · 校招 · 运营 · 全部公司（182 个岗位）（第 1/4 页）
 
-数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验，请到官网核实。截止日期以官网为准。
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -48,10 +50,5 @@
 | 字节跳动 | 家装C端产品运营 - 抖音生活服务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669645620761020725.md) |
 | 字节跳动 | 教育培训行业运营 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683433731350857989.md) |
 | 字节跳动 | 酒旅行业策略运营 - 抖音生活服务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668183035990427909.md) |
-| 字节跳动 | 酒水电商运营 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668190282817063173.md) |
-| 字节跳动 | 开放平台AI产品运营 - TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668482841099258117.md) |
-| 字节跳动 | 客户运营（CST） - Global Business Solutions | 北京/广州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667461132043766069.md) |
-| 字节跳动 | 美护亲子萌宠行业运营 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669760101607180597.md) |
-| 字节跳动 | 模型数据运营（研判） - TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683420356470720773.md) |
 
 [下一页](campus-operations-p2.md) · [总目录](../../llms.txt)

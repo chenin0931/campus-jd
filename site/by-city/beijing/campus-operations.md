@@ -1,6 +1,8 @@
-# 北京/房山区 · 校招 · 运营 · 全部公司（326 个岗位）（第 1/6 页）
+# 北京 · 校招 · 运营 · 全部公司（339 个岗位）（第 1/7 页）
 
-数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验，请到官网核实。截止日期以官网为准。
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+按公司：[字节跳动 170](../../slices/bytedance/campus/operations/beijing.md) · [小米 55](../../slices/xiaomi/campus/operations/beijing.md) · [快手 47](../../slices/kuaishou/campus/operations/beijing.md) · [京东 20](../../slices/jd/campus/operations/beijing.md) · [美团 17](../../slices/meituan/campus/operations/beijing.md) · [滴滴 13](../../slices/didi/campus/operations/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/beijing.md) · [百度 5](../../slices/baidu/campus/operations/beijing.md) · [腾讯 4](../../slices/tencent/campus/operations/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -47,10 +49,5 @@
 | 字节跳动 | 抖音热点策略运营经理（抖音AI产品人才校招） - 抖音内容运营 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667858736064874757.md) |
 | 字节跳动 | 抖音人审安全运营 - 抖音社区治理 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668252612536305925.md) |
 | 字节跳动 | 抖音生活记录垂类运营经理 - 抖音运营 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668288833993214261.md) |
-| 字节跳动 | 抖音星图达人运营经理 - 抖音品牌营销与星图达人 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668288079398258949.md) |
-| 字节跳动 | 抖音专业知识内容运营经理 - 抖音内容运营 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668288515520809269.md) |
-| 字节跳动 | 短剧内容运营 - 红果短剧 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7695605430324201781.md) |
-| 字节跳动 | 房产规划运营 - Corporate Services | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7687564828844427573.md) |
-| 字节跳动 | 风控策略运营（AI+财税方向） - 抖音生活服务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668339645436037429.md) |
 
 [下一页](campus-operations-p2.md) · [总目录](../../llms.txt)

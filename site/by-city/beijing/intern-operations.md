@@ -1,6 +1,8 @@
-# 北京/房山区 · 实习 · 运营 · 全部公司（465 个岗位）（第 1/9 页）
+# 北京 · 实习 · 运营 · 全部公司（495 个岗位）（第 1/10 页）
 
-数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验，请到官网核实。截止日期以官网为准。
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -51,10 +53,5 @@
 | 百度 | 运营实习生（J72203） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-c351df3e-6f13-49d5-9252-8adaeff4a7be.md) |
 | 百度 | 增长策略运营实习生（J106804） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-a7c5d9e8-bfda-478a-9185-ead2e2b925dd.md) |
 | 百度 | 增长策略运营实习生（J106805） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-011eed22-0897-48bf-bad8-f6c419e7f991.md) |
-| 百度 | Agent增长产品经理/运营（J102783） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-d96e2b19-ceca-4753-b93b-e5e78aeec686.md) |
-| 百度 | AI 产品运营实习生（J106558） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-d9b43fc1-391b-4325-80a0-2e87cf894cdd.md) |
-| 百度 | AI产品运营实习生（J95151） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-1f357c44-cd06-4b7b-ad09-12ef27583842.md) |
-| 百度 | AI海外内容运营实习生（J103474） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-11e8fdcb-1120-48d8-b32b-bf656a74c11f.md) |
-| 百度 | AIGC内容运营（J106812） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-b0581530-38bc-4018-9c5c-d58f9edd9f01.md) |
 
 [下一页](intern-operations-p2.md) · [总目录](../../llms.txt)

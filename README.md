@@ -4,7 +4,7 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 
 ## 总览
 <!-- overview:start -->
-数据周 **2026-W44**（2026-10-27 生成）· 在招 **2560** · 本周新增 **0** · 下架 **0**
+数据周 **2026-W44**（2026-10-27 生成）· 在招 **2709** · 本周新增 **0** · 下架 **0**
 
 | 公司 | 校招 | 实习 | 合计 |
 |---|---:|---:|---:|
@@ -12,9 +12,11 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 | 蚂蚁集团 | 5 | 3 | 8 |
 | 百度 | 19 | 173 | 192 |
 | 字节跳动 | 568 | 1199 | 1767 |
+| 滴滴 | 33 | 114 | 147 |
 | 京东 | 23 | 21 | 44 |
 | 快手 | 84 | 41 | 125 |
 | 美团 | 26 | 81 | 107 |
+| 网易 | 2 | 0 | 2 |
 | 腾讯 | 14 | 21 | 35 |
 | 小红书 | 9 | 83 | 92 |
 | 小米 | 157 | 0 | 157 |
@@ -51,12 +53,14 @@ slug：category `ai-product|product|operations`；城市为拼音（`beijing`、
 ```bash
 node scripts/fetchers/bytedance.js          # 单家抓取 → data/<本周>/bytedance.json（Node 18+，无依赖）
 for f in scripts/fetchers/*.js; do node $f; done
-node scripts/check_links.js --only kuaishou,meituan,xiaohongshu,baidu,jd,xiaomi
+node scripts/check_links.js                 # 链接校验：先用官网按 id 查详情接口（腾讯、字节、小米），没有接口的公司做格式/HTTP 校验
+node scripts/lib/check_links_browser.js --sample 5 --fake   # 可选：Playwright 浏览器兜底（npm i playwright；加 --write 写回）
 node scripts/build.js                       # 生成 site/，并校验：文件 ≤8KB、id 唯一、切片计数一致；不通过退出码 1
 ```
 - 新增公司：写 `scripts/fetchers/<slug>.js`（参考现有文件，调用 `run(slug, async () => jobs)`），在 `scripts/lib/site.js` 的 `COMPANY` 加中文名。build 会自动发现 `data/` 下的新文件。
 - fetcher 抓到 0 条或比旧文件少一半以上会拒绝覆盖（`--force` 跳过）。
 - `scripts/reference/*.py` 是最初的探索脚本，仅供参考。
-- `.github/workflows/weekly.yml`：fetch → check_links → build → 打包 skill → commit → tag `w<周>` → 发布 Pages（需要在仓库设置里把 Pages 来源设为 GitHub Actions）。
+- 详情接口插槽在 `scripts/check_links.js` 的 `DETAIL`：快手/京东/美团/小红书/阿里/蚂蚁/百度暂为 null，补一个 `async (postId, url) => boolean` 即可。
+- `.github/workflows/weekly.yml`：fetch → check_links →（可选）浏览器校验 → build → 打包 skill → commit → tag `w<周>` → 发布 Pages（需要在仓库设置里把 Pages 来源设为 GitHub Actions）。
 
 数据只取自各公司校招官网的公开接口，不抓需要登录的内容；一切以官网为准。

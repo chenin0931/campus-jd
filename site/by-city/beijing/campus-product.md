@@ -1,6 +1,8 @@
-# 北京/房山区 · 校招 · 产品 · 全部公司（184 个岗位）（第 1/4 页）
+# 北京 · 校招 · 产品 · 全部公司（188 个岗位）（第 1/4 页）
 
-数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验，请到官网核实。截止日期以官网为准。
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+按公司：[字节跳动 99](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -51,10 +53,5 @@
 | 字节跳动 | 广告产品经理 - 国际化电商广告（3个团队） | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7668151646639966517.md) [2](../../jobs/bytedance-7668160009704343861.md) [3](../../jobs/bytedance-7668152090767116597.md) |
 | 字节跳动 | 广告产品经理 - 国际化广告业务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667469321133017349.md) |
 | 字节跳动 | 广告产品经理 - 国际化内容与服务广告 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668229255391447301.md) |
-| 字节跳动 | 广告产品经理 - 国际化商业安全 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668228939256662277.md) |
-| 字节跳动 | 广告产品经理 - Global Ads Core | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668150074459703557.md) |
-| 字节跳动 | 广告产品经理 - Global Ads Core | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7668143580506474805.md) |
-| 字节跳动 | 广告产品经理 - Pangle | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667842428233763077.md) |
-| 字节跳动 | 广告平台产品经理 - 广告业务 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665590568794278197.md) |
 
 [下一页](campus-product-p2.md) · [总目录](../../llms.txt)
