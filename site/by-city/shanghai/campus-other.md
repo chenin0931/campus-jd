@@ -1,8 +1,8 @@
-# 上海 · 校招 · 其他 · 全部公司（26 个岗位）
+# 上海 · 校招 · 其他 · 全部公司（25 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 5](../../slices/mihoyo/campus/other/shanghai.md) · [腾讯 4](../../slices/tencent/campus/other/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/other/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/other/shanghai.md) · [字节跳动 2](../../slices/bytedance/campus/other/shanghai.md) · [得物 2](../../slices/dewu/campus/other/shanghai.md) · [网易 2](../../slices/netease/campus/other/shanghai.md) · [小米 2](../../slices/xiaomi/campus/other/shanghai.md) · [携程 1](../../slices/ctrip/campus/other/shanghai.md) · [京东 1](../../slices/jd/campus/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 4](../../slices/mihoyo/campus/other/shanghai.md) · [腾讯 4](../../slices/tencent/campus/other/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/other/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/other/shanghai.md) · [字节跳动 2](../../slices/bytedance/campus/other/shanghai.md) · [得物 2](../../slices/dewu/campus/other/shanghai.md) · [网易 2](../../slices/netease/campus/other/shanghai.md) · [小米 2](../../slices/xiaomi/campus/other/shanghai.md) · [携程 1](../../slices/ctrip/campus/other/shanghai.md) · [京东 1](../../slices/jd/campus/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -16,7 +16,6 @@
 | 得物 | 【27届校招】鉴别研究校招生 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670549919370840358.md) |
 | 京东 | 医技 〔27届〕 | 上海/北京/天津/太原 | 2026-10-27 | [详情](../../jobs/jd-9313.md) |
 | 米哈游 | 绑定师（Maya/Max） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9184.md) |
-| 米哈游 | 分镜师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9084.md) |
 | 米哈游 | 服务体验岗 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9220.md) |
 | 米哈游 | 视频编导 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9150.md) |
 | 米哈游 | 音乐制作 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9228.md) |

@@ -1,6 +1,7 @@
 // 分类回归测试：node scripts/test_classify.js（规则见 scripts/reference/CLASSIFIER.md）
 const { classify } = require('./lib/common');
 const cases = [
+  ['分镜师', '设计'], ['2027校招-乘用车系统实习生', null],
   ['优才-运控算法工程师-Genie业务部', null], ['运营专员-XX研究院', '运营'], ['产品经理-研发中心', '产品'],
   ['产品研发实习生', null], ['测试运营实习生', '运营'], ['游戏测试实习生', null], ['产品运营', '运营'],
   ['管培生', '其他'], ['商务管培生', '商务'], ['单车业务-数据运营实习生', '运营'], ['招聘实习生 - 产品研发', '职能'],
