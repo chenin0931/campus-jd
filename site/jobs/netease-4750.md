@@ -4,6 +4,7 @@
 - 公司: 网易（网易互娱）
 - job_type: 校招
 - 类别: 设计
+- region: 国内
 - 城市: 杭州、上海、广州
 - status: active
 - 届别 grad_year: 未注明

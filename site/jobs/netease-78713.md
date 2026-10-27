@@ -4,6 +4,7 @@
 - 公司: 网易（网易元气）
 - job_type: 实习
 - 类别: AI产品
+- region: 国内
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 2027、2028届

@@ -4,6 +4,7 @@
 - 公司: 网易（网易有道）
 - job_type: 实习
 - 类别: 销售
+- region: 国内
 - 城市: 成都
 - status: active
 - 届别 grad_year: 2025届

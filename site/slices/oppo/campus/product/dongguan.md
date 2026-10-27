@@ -4,6 +4,6 @@
 
 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|
-| Product Marketing Manager 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../../../jobs/oppo-1851.md) |
+| Product Marketing Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../../../jobs/oppo-1851.md) |
 
 [总目录](../../../../llms.txt)

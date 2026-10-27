@@ -4,6 +4,7 @@
 - 公司: 小红书
 - job_type: 实习
 - 类别: 设计
+- region: 国内
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2026、2027届

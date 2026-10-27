@@ -4,6 +4,7 @@
 - 公司: 网易（网易游戏（雷火））
 - job_type: 实习
 - 类别: 运营
+- region: 国内
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明

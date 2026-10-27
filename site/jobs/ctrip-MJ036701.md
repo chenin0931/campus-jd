@@ -4,6 +4,7 @@
 - 公司: 携程
 - job_type: 校招
 - 类别: 运营
+- region: 国内
 - 城市: 广州
 - status: active
 - 届别 grad_year: 2027届

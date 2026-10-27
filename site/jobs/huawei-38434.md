@@ -4,6 +4,7 @@
 - 公司: 华为
 - job_type: 校招
 - 类别: 商务
+- region: 国内
 - 城市: 长春、重庆、武汉、芜湖、北京、上海、广州、合肥、深圳
 - status: active
 - 届别 grad_year: 未注明

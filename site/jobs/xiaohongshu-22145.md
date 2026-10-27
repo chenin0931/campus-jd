@@ -4,6 +4,7 @@
 - 公司: 小红书
 - job_type: 校招
 - 类别: 职能
+- region: 国内
 - 城市: 北京、上海
 - status: active
 - 届别 grad_year: 2027、2028届

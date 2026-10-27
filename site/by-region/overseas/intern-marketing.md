@@ -1,0 +1,20 @@
+# 海外 · 实习 · 市场 · 全部公司（10 个岗位）
+
+数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+
+region：海外=城市全部在港澳台以外的海外；国内=中国大陆+港澳台（多城市含海外的算国内，详情页标出海外城市）。
+
+| 公司 | 岗位 | 城市 | 首次出现 | 详情 |
+|---|---|---|---|---|
+| 蚂蚁集团 | 商业营销实习生 〔≥6个月〕 🌏海外 | 新加坡 | 2026-10-27 | [详情](../../jobs/antgroup-26041509611475.md) |
+| 蚂蚁集团 | 市场营销内容与社交媒体实习生 〔≥6个月〕 🌏海外 | 新加坡 | 2026-10-27 | [详情](../../jobs/antgroup-26041509610060.md) |
+| 百度 | 海外广告投放实习生 / Growth & UA Intern（J104186） 🌏海外 | 新加坡共和国 | 2026-10-27 | [详情](../../jobs/baidu-b54162f5-6def-4d18-a373-731723669fb4.md) |
+| 腾讯 | Marketing Intern 108206 🌏海外 | US-California | 2026-10-27 | [详情](../../jobs/tencent-108206.md) |
+| 腾讯 | Marketing Intern（São Paulo, Brazil） 108211 🌏海外 | Brazil-São Paulo | 2026-10-27 | [详情](../../jobs/tencent-108211.md) |
+| 腾讯 | PR Intern - Communications 107147 🌏海外 | 东京 | 2026-10-27 | [详情](../../jobs/tencent-107147.md) |
+| 腾讯 | PR Intern 108151 🌏海外 | US-California | 2026-10-27 | [详情](../../jobs/tencent-108151.md) |
+| 腾讯 | PUBG Mobile Marketing Team Intern 107793 🌏海外 | United Kingdom-London | 2026-10-27 | [详情](../../jobs/tencent-107793.md) |
+| 小米 | Marketing Intern 〔≥3个月，每周≥3天〕 🌏海外 | 伊斯坦布尔 | 2026-10-27 | [详情](../../jobs/xiaomi-7574780930847918387.md) |
+| 小米 | Marketing Intern (Content Production Intern) 🌏海外 | 马尼拉 | 2026-10-27 | [详情](../../jobs/xiaomi-7602078397901424937.md) |
+
+[总目录](../../llms.txt)

@@ -4,6 +4,7 @@
 - 公司: 小红书
 - job_type: 校招
 - 类别: 运营
+- region: 国内
 - 城市: 上海、北京
 - status: active
 - 届别 grad_year: 未注明

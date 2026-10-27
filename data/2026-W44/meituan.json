@@ -41,6 +41,7 @@
     "job_type": "校招",
     "city": [
       "北京",
+      "科威特城",
       "上海",
       "深圳"
     ],
@@ -112,6 +113,81 @@
     "deadline": null,
     "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4799524538&highlightType=campus",
     "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4799524538&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
+    "title": "【国际化业务】招商采购岗",
+    "category": "职能",
+    "job_type": "校招",
+    "city": [
+      "利雅得"
+    ],
+    "requirements": "工作要求：\n1. 具有较强的学习能力，善于思考迭代；\n2. 具有较强的沟通、协同、推动影响力；\n3. 具有较强的逻辑思考能力，善于定位问题和结构化思考；\n4. 积极主动，有较强的自驱力，目标导向，诚信正直；\n5. 对AI辅助工具有一定了解，愿意借助智能化工具提升工作效率，具备数据分析意识；\n6.接受长期驻外工作，愿意前往沙特利雅得或中东其他国家长期发展，拥抱跨文化工作环境，英语可作为工作语言\n7.国内外院校本科及以上学历，毕业时间在 2025 年 6 月 1 日至 2027 年 10 月 31 日之间\n\n岗位亮点：\n1.出海最前线，参与Keemart全球化零售从 0 到 1 的开拓\n2.业务高速发展期，校招生专属的高速成长通道与广阔晋升空间",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4808461508&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4808461508&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
+    "title": "【国际化业务】商业分析师（BA/DS）/Business Analyst",
+    "category": "分析",
+    "job_type": "校招",
+    "city": [
+      "迪拜"
+    ],
+    "requirements": "工作要求 :\n1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳；\n2. 聪明严谨、积极有韧性，乐于面对挑战、具备优秀的分析能力；\n3. 具备充分的好奇心，有钻研的精神，喜欢从数据中发现问题、分析规律更佳；对商业运作模式和企业经营感兴趣；\n4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳；\n5. 了解大语言模型的基本能力，对AI赋能商业分析有探索兴趣，有使用AI工具辅助数据分析或报告撰写的经验者优先。\n6. 可将英语作为工作语言，能支持跨国家/地区的业务沟通。\n\n具备以下经验者优先：\n1. 有使用AI工具辅助商业研究的实践经验，如利用大模型进行行业报告生成、数据可视化、用户调研分析等；\n2. 了解Text-to-SQL、自然语言数据分析等AI+数据分析前沿方向；\n3. 了解主流 Agent 开发框架（如 LangChain、Dify 等），有将 Agent 应用于数据分析或商业研究场景的经验。\n\n【岗位亮点】\n1. 距离决策者最近的岗位，数据规律将有机会驱动业务核心决策；\n2. 多元化的业务场景，丰富的商业视角和实战土壤；\n3. 体系化的人才培养机制；\n4. 大模型与商业分析深度融合，可参与构建AI增强的智能分析平台。",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803890129&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803890129&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
+    "title": "【国际化业务】销售运营岗/Sales Operations Specialist",
+    "category": "运营",
+    "job_type": "校招",
+    "city": [
+      "科威特城"
+    ],
+    "requirements": "岗位要求：\n本科及以上学历，专业不限。\n以客户为中心，保持学习心态与好奇心，主动思考并解决问题。\n具备项目管理与执行能力，善于沟通表达，有同理心（校园活动、社团管理、实践项目经历是很好的加分项）。\n具备商家需求调研能力，能通过市场洞察识别达成业务目标的关键驱动因素与行动抓手。\n具备基础运营与数据分析能力，能通过数据发现业务问题，并将一线解决方案标准化、可视化、流程化。\n有使用 AI 工具辅助运营工作的经验，乐于探索 AI 在销售场景中的应用。\n可将英语作为工作语言，能支持跨国家/地区的业务沟通。",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803892030&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803892030&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
+    "title": "【国际化业务】大客户合作岗/Key Account Specialist",
+    "category": "商务",
+    "job_type": "校招",
+    "city": [
+      "迪拜"
+    ],
+    "requirements": "岗位要求：\n数据分析能力： 熟练使用各类分析工具/软件，能够开展多维度分析并做出有依据的业务判断（有实习或课程项目中的数据分析经验者优先）。\n市场洞察力： 对市场与行业信息保持敏感，能够捕捉发展趋势并形成策略思考。\n项目管理能力： 善于沟通表达，具备较强的协调推动能力、团队意识与组织能力（校园活动组织、社团管理、实践项目经历是很好的加分项）。\n英语能力： 可将英语作为工作语言，能支持跨国家/地区的业务沟通。\n\n岗位亮点：\n创业团队氛围： 处于业务快速成长期，有大量参与核心项目的机会，个人成长速度快。\n跨文化体验： 有机会接触不同国家、语言与文化，在国际化业务场景中拓宽视野。",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803837512&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803837512&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
+    "title": "【国际化业务】AI产品运营岗/AI Product Operations Specialist",
+    "category": "运营",
+    "job_type": "校招",
+    "city": [
+      "科威特城"
+    ],
+    "requirements": "工作要求:\n1. 本科及以上学历；\n2. 对用户侧信息有充分的敏感度，最懂他们的心；\n3. 喜欢O2O行业，善于思考富有创意；\n4. 强烈的目标导向和分解、落地的能力，强大的执行力确保目标达成；\n5. 良好的团队合作意识、能有效组织和协调跨职能、跨部门资源，解决问题，达成目标。\n6. 可将英语作为工作语言，能支持跨国家/地区的业务沟通。\n\n加分项：\n1. 熟练使用SQL、Python；\n2. 有互联网领域的体验研究项目经验，有较好的研究落地成果及相关业务效果数据优先。",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803800880&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4803800880&highlightType=campus",
     "fetched_at": "2026-10-27T18:25:38+08:00"
   },
   {
@@ -323,6 +399,7 @@
       "南京",
       "北京",
       "西安",
+      "利雅得",
       "成都",
       "广州",
       "哈尔滨",
@@ -346,6 +423,7 @@
       "北京",
       "石家庄",
       "上海",
+      "迪拜",
       "广州",
       "成都",
       "武汉",
@@ -428,7 +506,9 @@
     "job_type": "校招",
     "city": [
       "北京",
-      "上海"
+      "科威特城",
+      "上海",
+      "利雅得"
     ],
     "requirements": "工作要求 :\n1. 本科及以上学历，专业不限； \n2. 能够以客户为中心，保持学习并好奇，积极思考并解决问题；\n3. 具备项目推进管理能力，拥有良好的沟通能力和同理心，推动跨部门协作；\n4. 具备商家需求调研能力，通过市场洞察和深入业务一线，理清达成业务目标的关键因素和动作；\n5. 具备基础运营和数据分析能力，通过数据分析发现业务问题，将一线解决方法标准化、可视化、流程化；\n6. 专业能力加分项\n(1）供给策略运营：熟悉供应链运作模式，能够设计撰写产品需求MRD；\n(2）营销策略运营：具有良好的创造性思维、商业逻辑及市场营销理念，文案写作能力强；\n(3）销售数据分析：熟练应用数据处理分析软件；\n(4）销售效能优化：具备产品或产品运营实习经验，能够设计撰写产品需求MRD；\n(5）业务培训与沟通：擅长知识萃取与信息挖掘转化，具备新媒体内容制作能力。",
     "deadline": null,
@@ -575,6 +655,7 @@
     "job_type": "校招",
     "city": [
       "北京",
+      "利雅得",
       "深圳"
     ],
     "requirements": "1. 本科及以上学历，广告学、新闻学、传播学、中文、经济管理类、市场营销类相关专业；\n2. 思路清晰，对数据敏感，能通过数据发现和定位问题；\n3. 具有灵敏的用户洞察力，逻辑思考力强，了解经典品牌建设理论和传播规律，并有个人见解；\n4. 社会化营销策划能力强，较强的创意能力和文案写作能力；\n5. 有较强的沟通、合作能力，热爱思考，热爱创造，有良好的责任心，理解力强，沟通协调能力强。\n\n岗位亮点：\n1. 处于快速发展期，空间广阔； \n2. 团队氛围好，能充分发挥创造力； \n3. 互联网前线冲浪，保持敏锐和好奇； \n4. AI应用场景丰富。",
@@ -608,6 +689,7 @@
       "杭州",
       "北京",
       "上海",
+      "利雅得",
       "成都",
       "深圳",
       "武汉"
@@ -735,8 +817,11 @@
     "job_type": "校招",
     "city": [
       "北京",
+      "科威特城",
       "香港特别行政区",
-      "上海"
+      "上海",
+      "利雅得",
+      "迪拜"
     ],
     "requirements": "1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳；\n2. 聪明严谨、积极有韧性，乐于面对挑战、具备优秀的分析能力；\n3. 具备充分的好奇心，有钻研的精神，喜欢从数据中发现问题、分析规律更佳；对商业运作模式和企业经营感兴趣；\n4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳；\n5. 了解大语言模型的基本能力，对AI赋能商业分析有探索兴趣，有使用AI工具辅助数据分析或报告撰写的经验者优先。\n具备以下经验者优先：\n1. 有使用AI工具辅助商业研究的实践经验，如利用大模型进行行业报告生成、数据可视化、用户调研分析等；\n2. 了解Text-to-SQL、自然语言数据分析等AI+数据分析前沿方向；\n3. 了解主流 Agent 开发框架（如 LangChain、Dify 等），有将 Agent 应用于数据分析或商业研究场景的经验。\n【岗位亮点】\n1. 距离决策者最近的岗位，数据规律将有机会驱动业务核心决策；\n2. 多元化的业务场景，丰富的商业视角和实战土壤；\n3. 体系化的人才培养机制；\n4. 大模型与商业分析深度融合，可参与构建AI增强的智能分析平台。",
     "deadline": null,
@@ -1125,9 +1210,11 @@
     "city": [
       "杭州",
       "北京",
+      "科威特城",
       "香港特别行政区",
       "上海",
       "西安",
+      "利雅得",
       "广州",
       "哈尔滨",
       "武汉",
@@ -1184,6 +1271,22 @@
     "deadline": null,
     "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697326837&highlightType=campus",
     "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4697326837&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
+    "title": "Administrative Operations & Delivery (Overseas)",
+    "category": "运营",
+    "job_type": "校招",
+    "city": [
+      "圣保罗",
+      "利雅得"
+    ],
+    "requirements": "Job Requirements：\n1. Bachelor's degree or above, with overseas study/living experience, able to use English as the working language;\n2. Adaptable, highly independent and resilient under pressure, able to get things done in resource-limited settings;\n3. Reliable and grounded, skilled in cross-cultural communication, passionate about international business;\n4. AI Capability: Able to leverage AI tools to overcome language barriers and support administrative delivery.\nPreferred: Internship at Chinese companies, or international / cross-cultural project experience; knowledge of and interest in the Latin American (Brazil) / Middle Eastern (Saudi Arabia) market or overseas expansion.\nRole Highlights：\n1. A rare chance to gain international administrative experience, deeply involved in Meituan's overseas market-entry journey;\n2. Build an overseas office from 0 to 1, combining a strong sense of achievement with rapid growth;\n3. Develop cross-cultural collaboration and independent execut",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4696492258&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4696492258&highlightType=campus",
     "fetched_at": "2026-10-27T18:25:38+08:00"
   },
   {
@@ -2481,6 +2584,21 @@
   {
     "company": "美团",
     "business_unit": [],
+    "title": "Keeta巴林商业分析-项目实习生",
+    "category": "分析",
+    "job_type": "实习",
+    "city": [
+      "麦纳麦"
+    ],
+    "requirements": "1.有管理咨询、O2O、电商等相关行业商业分析实习经验；\n2.对数据敏感，能够熟练使用SQL，具备较强的数据分析能力；\n3.表达流畅，具备较好的沟通能力，善于学习，逻辑清晰；\n4.对AI感兴趣，有一定AI工具使用能力；\n5.要求能实习超过6个月，每周能出勤3-5天（周日至周四），实习地点麦纳麦。",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4728646500&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4728646500&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
     "title": "餐饮SaaS-营销产品实习生",
     "category": "市场",
     "job_type": "实习",
@@ -2931,6 +3049,21 @@
     "deadline": null,
     "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4494593401&highlightType=campus",
     "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4494593401&highlightType=campus",
+    "fetched_at": "2026-10-27T18:25:38+08:00"
+  },
+  {
+    "company": "美团",
+    "business_unit": [],
+    "title": "Strategy&Data Analysis Intern",
+    "category": "分析",
+    "job_type": "实习",
+    "city": [
+      "圣保罗"
+    ],
+    "requirements": "中文：\n学历要求：本科及以上在读，统计学、数学、计算机、信息管理、经济学等相关专业优先；\n技能要求：熟练使用SQL，能够自主编写复杂查询语句，完成数据提取与分析；掌握基本数据分析方法，具备基础的数据敏感度；\n语言要求：英语熟练，能够流畅阅读英文技术文档，具备基本的英文沟通能力；\n实习时间：每周可实习5天，实习周期不少于3个月，能长期稳定实习者优先；\n个人素养：工作认真负责、细心严谨，具备良好的逻辑思维能力和团队协作精神，积极主动，乐于学习新技能。\n\nEnglish：\nEducation Requirement: Undergraduate or above, major in Statistics, Mathematics, Computer Science, Information Management, Economics or related fields is preferred;\nSkill Requirement: Proficient in SQL, able to independently write complex query statements to complete data extraction and analysis; Master basic data analysis methods and have basic data sensitivity;\nLanguage Requirement: Proficient in English, able to read English technical documents fluently and have basic English communication skills;\nInternship Time: Able to intern 5 days a week, internship period of no less than 3 months, priority given to those who can intern stably for a long time;\nPersonal Qualities: Serious and responsible at work, careful and rigorous, with good logical thinking ability and team spirit, proactive and willing to learn new skills.",
+    "deadline": null,
+    "apply_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4268845648&highlightType=campus",
+    "source_url": "https://zhaopin.meituan.com/web/position/detail?jobUnionId=4268845648&highlightType=campus",
     "fetched_at": "2026-10-27T18:25:38+08:00"
   },
   {
@@ -3395,7 +3528,8 @@
     "category": "分析",
     "job_type": "实习",
     "city": [
-      "北京"
+      "北京",
+      "迪拜"
     ],
     "requirements": "1.大学本科或研究生在校生，商分、经济学、统计学等相关专业优先。\n2.有互联网、咨询公司实习经验优先；有商业分析、数据分析、数据基建实习经验优先。\n3.需要具备优秀的数据分析能力，掌握常用分析统计方法，熟练使用SQL语言进行数据提取并进行相应分析【必需】。\n4.逻辑清晰，擅长从复杂信息中提炼核心结论。",
     "deadline": null,

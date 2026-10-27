@@ -6,7 +6,7 @@
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| OPPO | Channel Manager 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../jobs/oppo-1848.md) |
+| OPPO | Channel Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1848.md) |
 | OPPO | Overseas Business Trainee 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../jobs/oppo-1892.md) |
 
 [总目录](../../llms.txt)

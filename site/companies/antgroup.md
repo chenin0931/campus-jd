@@ -1,4 +1,4 @@
-# 蚂蚁集团 总览（在招 44：校招 19，实习 25）
+# 蚂蚁集团 总览（在招 48：校招 19，实习 29）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -16,10 +16,10 @@
 - 实习·产品（1）：[香港 1](../slices/antgroup/intern/product/hongkong.md)
 - 实习·运营（6）：[杭州 4](../slices/antgroup/intern/ops/hangzhou.md) · [北京 1](../slices/antgroup/intern/ops/beijing.md) · [上海 1](../slices/antgroup/intern/ops/shanghai.md)
 - 实习·商务（2）：[香港 2](../slices/antgroup/intern/business/hongkong.md)
-- 实习·市场（3）：[杭州 2](../slices/antgroup/intern/marketing/hangzhou.md) · [上海 1](../slices/antgroup/intern/marketing/shanghai.md) · [深圳 1](../slices/antgroup/intern/marketing/shenzhen.md) · [香港 1](../slices/antgroup/intern/marketing/hongkong.md)
+- 实习·市场（5）：[杭州 2](../slices/antgroup/intern/marketing/hangzhou.md) · [新加坡 2](../slices/antgroup/intern/marketing/singapore.md) · [上海 1](../slices/antgroup/intern/marketing/shanghai.md) · [深圳 1](../slices/antgroup/intern/marketing/shenzhen.md) · 另 1 城（1 个）见 index.json slices
 - 实习·设计（2）：[上海 1](../slices/antgroup/intern/design/shanghai.md) · [香港 1](../slices/antgroup/intern/design/hongkong.md)
 - 实习·职能（1）：[香港 1](../slices/antgroup/intern/corporate/hongkong.md)
 - 实习·分析（2）：[杭州 1](../slices/antgroup/intern/analysis/hangzhou.md) · [上海 1](../slices/antgroup/intern/analysis/shanghai.md)
-- 实习·其他（1）：[杭州 1](../slices/antgroup/intern/other/hangzhou.md)
+- 实习·其他（3）：[其他城市 3](../slices/antgroup/intern/other/other.md) · [杭州 1](../slices/antgroup/intern/other/hangzhou.md)
 
 [总目录](../llms.txt)

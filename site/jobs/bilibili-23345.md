@@ -4,6 +4,7 @@
 - 公司: 哔哩哔哩
 - job_type: 实习
 - 类别: 职能
+- region: 国内
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2026届

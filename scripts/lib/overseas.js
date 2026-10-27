@@ -1,5 +1,5 @@
-// 海外岗后处理（POC 2026-10-27）：收中国大陆 + 港澳台；港澳台以外的海外城市去掉。
-// 城市全部为海外 → 删岗位；多城市 → 只去掉海外城市。见 scripts/reference/CLASSIFIER.md §11。
+// 海外岗检测（cheney 2026-10-27）：海外岗收，标 region=海外；不删岗位、不去城市。港澳台=国内。见 scripts/reference/CLASSIFIER.md §11。
+// stripOverseas 仅保留作工具函数，管线不再调用。
 // 判定用显式清单（不是"不认识就当海外"），避免误删国内小城市；新海外城市出现时补进 OVERSEAS。
 const OVERSEAS = new Set(('东京 日本 首尔 新加坡 新加坡共和国 吉隆坡 雅加达 曼谷 泰国 胡志明 河内 马尼拉 班加罗尔 Gurugram 拉合尔 卡拉奇 迪拜 利雅得 科威特城 麦纳麦 多哈 埃尔比勒 伊斯坦布尔 ' +
   '开罗 约翰内斯堡 罗安达 阿比让 卡萨布兰卡 拉各斯 内罗毕 莫斯科 阿拉木图 塔什干 伦敦 巴黎 布洛涅-比扬古 慕尼黑 杜塞尔多夫 法兰克福 柏林 阿姆斯特丹 米兰 马德里 巴塞罗那 布达佩斯 布加勒斯特 布拉格 布拉格直辖 华沙 贝尔格莱德 ' +
@@ -20,4 +20,7 @@ function stripOverseas(jobs) {
   }
   return { jobs: out, deleted, modified };
 }
-module.exports = { isOverseas, stripOverseas, OVERSEAS };
+// region：城市全部是海外 → '海外'；否则 '国内'（含多城市里有海外城市的，另记 overseas_cities）。返回新数组，不改入参
+function tagRegion(jobs) { return jobs.map(j => { const cs = Array.isArray(j.city) ? j.city : (j.city ? [j.city] : []), os = cs.filter(isOverseas);
+  const k = { ...j, region: os.length && os.length === cs.length ? '海外' : '国内' }; if (os.length && os.length < cs.length) k.overseas_cities = os; else delete k.overseas_cities; return k; }); }
+module.exports = { isOverseas, stripOverseas, tagRegion, OVERSEAS };

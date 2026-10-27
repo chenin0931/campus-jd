@@ -2,7 +2,7 @@
 const fs = require('fs'), path = require('path');
 
 // 分类：唯一实现，规则见 scripts/reference/CLASSIFIER.md（排除技术类，其余全收，9 类）
-// 城市/门店地名（产品专家→销售特例用），与 reference/classify.py 的 CN/LOC/NOTLOC 相同
+// 城市/门店地名（产品专家→销售特例用），原与已删除的 reference/classify.py 同步，现以本文件为准
 const LOC = new RegExp('北京|上海|天津|重庆|河北|山西|辽宁|吉林|黑龙江|江苏|浙江|安徽|福建|江西|山东|河南|湖北|湖南|广东|广西|海南|四川|贵州|云南|陕西|甘肃|青海|内蒙古|宁夏|新疆|西藏|香港|澳门|台湾|深圳|广州|杭州|南京|苏州|无锡|常州|南通|宁波|温州|绍兴|嘉兴|金华|台州|合肥|芜湖|福州|厦门|泉州|南昌|济南|青岛|烟台|潍坊|济宁|临沂|郑州|洛阳|武汉|长沙|成都|绵阳|南充|攀枝花|永川|贵阳|昆明|西安|兰州|西宁|银川|乌鲁木齐|呼和浩特|包头|沈阳|大连|营口|辽阳|丹东|鞍山|长春|哈尔滨|石家庄|唐山|保定|太原|南宁|柳州|桂林|海口|三亚|东莞|佛山|珠海|中山|惠州|汕头|徐州|扬州|盐城|泰州|镇江|湖州|淮安|连云港|宿迁|廊坊|邯郸|株洲|宜昌|襄阳|赣州|遵义|拉萨|[市省]$|战区|天街|万达|大道|广场');
 const NOTLOC = /部|中心|事业|业务|团队|研究院|实验室|BG|BU/i;
 // 全标题排除词：任何一段出现都排除（「优才-运控算法工程师-Genie业务部」）
@@ -39,7 +39,7 @@ const RULES = [
   ['策划', /策划/],
   ['运营', /交付|内容|排播|编辑|配音/],  // 最后兜一层：内容/编辑/配音/交付类归运营（内容设计/内容策划已在前面）
 ];
-// LOC/NOTLOC: 城市地名表与 classify.py 中 CN/LOC/NOTLOC 相同
+// LOC/NOTLOC: 城市地名表（原与已删除的 classify.py 同步，现以本文件为准）
 // 标题前缀清洗（原先散在各抓取器里）：去（J123）编号，去开头的城市段、届别/校招段（「北京-人力资源-…」「27届-」「2027校招-」「27届秋招-」）
 const PREFIX_SEG = new RegExp('^(?:(?:20)?\\d{2}(?:届|级)?(?:秋招|春招|校招|校园招聘|实习)?|(?:' + LOC.source.split('|[市省]$')[0] + ')(?:市)?)$');
 function cleanTitle(title) {
@@ -177,7 +177,7 @@ function writeJobs(slug, jobs, opts = {}) {
   jobs = jobs.filter(j => !jdTech(j.title, j.requirements));  // JD 第二道把关（§10）
   for (const j of jobs) if (!j.city || !j.city.length) j.city = cityFromText(j.requirements);
   for (const j of jobs) j.city = normCities(j.city);
-  { const r = require('./overseas').stripOverseas(jobs); jobs = r.jobs; if (r.deleted.length || r.modified.length) console.log(`${slug}: 海外岗后处理 删 ${r.deleted.length}、去海外城市 ${r.modified.length}（§11）`); }  // 公共后处理：海外岗（港澳台以外）删除/去城市
+  jobs = require('./overseas').tagRegion(jobs);  // 公共后处理：标 region 国内/海外（§11，不删）
   if (fs.existsSync(file) && !a.force) {
     const old = JSON.parse(fs.readFileSync(file, 'utf8')).length, min = +(process.env.MIN_RATIO || 0.5);
     if (jobs.length < old * min) throw new Error(`${slug}: 新 ${jobs.length} 条 < 旧 ${old} 条×${min}，疑似抓取异常，不覆盖（--force 强制）`);

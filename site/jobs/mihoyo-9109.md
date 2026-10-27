@@ -4,6 +4,7 @@
 - 公司: 米哈游
 - job_type: 校招
 - 类别: 运营
+- region: 国内
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2027届

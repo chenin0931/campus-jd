@@ -4,6 +4,7 @@
 - 公司: 华为
 - job_type: 校招
 - 类别: 运营
+- region: 国内
 - 城市: 东莞、南京、杭州、北京、上海、深圳
 - status: active
 - 届别 grad_year: 未注明

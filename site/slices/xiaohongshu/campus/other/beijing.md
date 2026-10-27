@@ -4,6 +4,6 @@
 
 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|
-| Trust & Safety Policy Intern | 北京/上海 | 2026-10-27 | [详情](../../../../jobs/xiaohongshu-21956.md) |
+| Trust & Safety Policy Intern | 北京/上海/新加坡 | 2026-10-27 | [详情](../../../../jobs/xiaohongshu-21956.md) |
 
 [总目录](../../../../llms.txt)

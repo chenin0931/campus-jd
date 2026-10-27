@@ -4,6 +4,7 @@
 - 公司: 华为
 - job_type: 校招
 - 类别: 设计
+- region: 国内
 - 城市: 东莞、南京、西安、杭州、成都、武汉、北京、上海、深圳
 - status: active
 - 届别 grad_year: 未注明

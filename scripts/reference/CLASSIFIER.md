@@ -48,7 +48,7 @@
 - 管培生没有单独的类别：标题头里有业务词的，按业务词归类（如「运营管培生」归运营，「商务管培生」归商务），只有「管培生」三个字的归其他。
 - job_type 不变：`校招` / `实习`。
 
-## 3.9 回归样例（scripts/reference/classify.py 里 TESTS，`python3 classify.py` 必须 all pass）
+## 3.9 回归样例（`scripts/test_classify.js`，`node scripts/test_classify.js` 必须全部通过）
 | 标题 | 结果 |
 |---|---|
 | 优才-运控算法工程师-Genie业务部 | 排除 |
@@ -92,7 +92,7 @@
 | 冻结前最后修正（第 8 轮抽检 2 错）：分镜 → 设计；乘用车系统 → 排除（AUTO_TECH）。**此后规则冻结，验收轮只记结果不改规则** | 见左 |
 
 ## 4. 参考实现
-Python 版（权威、带回归测试）：`scripts/reference/classify.py`，fsfetch.py / fsco.py / morelib.py(cls) / trio.py / bs.py / lenovo.py / jd.py 全部 import 它。下面 JS 需与之同步（lib/common.js 由全栈开发者维护）。
+唯一实现是 JS：`scripts/lib/common.js` 的 `classify()` / `classifyJob()`，回归测试 `scripts/test_classify.js`。Python 版 `scripts/reference/classify.py` 已于 2026-10-27 删除（抓取阶段不再分类，morelib.py 的 cls 只返回占位「待分类」，分类统一在 JS 后处理）。
 
 ### JS
 ```js
@@ -125,7 +125,7 @@ const RULES = [
   ['策划', /策划/],
   ['运营', /交付|内容|排播|编辑|配音/],  // 最后兜一层：内容/编辑/配音/交付类归运营（内容设计/内容策划已在前面）
 ];
-// LOC/NOTLOC: 城市地名表与 classify.py 中 CN/LOC/NOTLOC 相同
+// LOC/NOTLOC: 城市地名表（原与已删除的 classify.py 同步，现以本文件为准）
 function classify(title) {
   // 先去成对的【】[]，不成对的【】[]、全角空格当分隔符；长横线 — ― 、‒ 也切
   const segs = String(title).replace(/【[^】]*】|\[[^\]]*\]/g, '').replace(/[【】\[\]\u3000]/g, '-').split(/\s*[-－—–―‒]+\s*/).map(x => x.trim()).filter(Boolean);
@@ -213,13 +213,14 @@ AI产品=ai-product，供应链=supply，项目管理=pm，分析=analysis，策
 | 17 | JD 二次把关 | 标题无业务词且有 requirements：命中强技术信号（Golang/Java开发/C++开发/RTL/FPGA/CUDA/顶会论文/博士研究…）排除；Python、SQL 不算；requirements 为空只看标题；`entry_requirements` 永不参与 | 排除 | | 容器网络实习生（Golang） |
 | 18 | 课题制岗位 | requirements 含「课题背景/课题要求/课题挑战」→ 排除，不看标题 | 排除 | 腾讯青云计划是科研课题，标题里的"营销""设计""分析"是业务线 | 腾讯营销—广告推荐基础大模型 |
 
-## 11. 海外岗后处理（POC 2026-10-27）
+## 11. 海外岗：收，标海外（cheney 2026-10-27，取代当日早些时候的「不收海外」）
 
-- 口径：收中国大陆 + 港澳台；港澳台以外的海外城市不收。
-- 城市全部是海外 → 删岗位；挂多个城市 → 只去掉海外城市，国内和港澳台城市保留。
-- 判定用显式清单 `scripts/lib/overseas.js`（`OVERSEAS` 城市名 + 「国家-城市」前缀如 `US-California`、`Malaysia-Kuala Lumpur`）；含 中国/香港/澳门/台湾/台北/省/自治区 一律算国内。不认识的城市不当海外，出现新海外城市时补清单。
-- 实现：`writeJobs`（抓取写出时）和 `build.js` 读数据时（兜底手动来源）都调用 `stripOverseas`；`scripts/test_classify.js` 有用例。
-- 2026-W44 首次执行（基于 /workspace/overseas_jobs_list.md 224 条清单）：大厂+初创删 202 条、去海外城市 22 条。
+- 口径：海外岗收，不删岗位、不去城市；加字段 `region`，取值 `国内` / `海外`，港澳台 = 国内。
+- 城市全部是海外 → `region=海外`；多城市里有国内（含港澳台）也有海外 → `region=国内`，另记 `overseas_cities`（详情页标出）。无城市/不认识的城市 → 国内。
+- 判定用显式清单 `scripts/lib/overseas.js`（`OVERSEAS` 城市名 + 「国家-城市」前缀如 `US-California`、`Malaysia-Kuala Lumpur`）；含 中国/香港/澳门/台湾/台北/省/自治区 一律算国内。出现新海外城市时补清单。
+- 实现：`writeJobs` 和 `build.js` 读数据时都调用 `tagRegion`；站点列表行标 🌏海外，详情页有 `- region:`，按 region 筛选读 `by-region/{domestic|overseas}/{campus|intern}-{category}.md`，index.json 有 `region_counts` / `by_region`。`scripts/test_classify.js` 有用例。
+- 2026-W44：早先删掉的 202 条、去掉的 22 处海外城市已全部恢复并标 region（全网 5 家从 staging 原始抓取文件按 apply_url 合回）。腾讯吉隆坡 Workday「People Operations Associate」已下架，不恢复。
+- Meshy 抓取器去掉「仅中国大陆」限制，只保留 Intern；标题含 Intern 即算实习。
 
 ## 12. 岗位 id 唯一性
 

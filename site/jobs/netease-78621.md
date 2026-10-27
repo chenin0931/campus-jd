@@ -4,6 +4,7 @@
 - 公司: 网易（网易元气）
 - job_type: 实习
 - 类别: 其他
+- region: 国内
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2027、2028届

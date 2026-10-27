@@ -173,7 +173,12 @@
     "city": [
       "北京",
       "上海",
-      "中国香港"
+      "旧金山",
+      "东京",
+      "中国香港",
+      "新加坡",
+      "伦敦",
+      "柏林"
     ],
     "requirements": "Requirements：\n1.Education: Currently pursuing a Bachelor's or Master's degree; majors in Business, Marketing, Computer Science, or related fields preferred.\n2.Language Skills: Fluent in English (written and spoken) is required; proficiency in additional languages (e.g., Japanese, Korean, Spanish, ) is a strong plus.\n3.AI Tool Proficiency: Skilled in using AI tools (e.g., ChatGPT, Claude, Cursor, Midjourney, etc.) in daily workflows for research, content creation, data analysis, or automation. Experience with vibe coding or AI-assisted development is a strong plus.",
     "deadline": null,
@@ -441,6 +446,21 @@
     "source_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7389102118622169353/detail",
     "fetched_at": "2026-10-27T17:10:31+08:00",
     "job_type": "实习",
+    "link_status": "正常"
+  },
+  {
+    "company": "MiniMax",
+    "title": "Global Marketing",
+    "category": "市场",
+    "city": [
+      "旧金山"
+    ],
+    "requirements": "Requirements\n1. Market Expertise: Strong familiarity with Western (US/EU) and/or East Asian (Japan/Korea) markets, with deep knowledge of overseas social media platforms and communities. Prior experience in international GTM and/or Product Marketing strongly preferred.\n2. Language Proficiency: Exceptional written and verbal communication skills in English, with the ability to craft compelling narratives for diverse audiences.\n3. Strategic Thinking: Outstanding strategic planning capabilities and logical reasoning skills. Experience in 0-to-1 product launches highly preferred.\n4. AI Passion & Entrepreneurial Spirit: Active user of AI products with genuine enthusiasm for the AI industry. Entrepreneurial mindset and self-driven attitude preferred.",
+    "deadline": null,
+    "apply_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7684113173146798372/detail",
+    "source_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7684113173146798372/detail",
+    "fetched_at": "2026-10-27T17:10:31+08:00",
+    "job_type": "校招",
     "link_status": "正常"
   }
 ]

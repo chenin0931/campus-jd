@@ -4,6 +4,7 @@
 - 公司: 网易（其他）
 - job_type: 实习
 - 类别: 职能
+- region: 国内
 - 城市: 广州
 - status: active
 - 届别 grad_year: 2027、2028届

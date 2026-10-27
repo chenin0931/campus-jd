@@ -709,6 +709,21 @@
   {
     "company": "小红书",
     "business_unit": [],
+    "title": "【2027校招】产品经理（Trust&Safety）-rednote国际化",
+    "category": "产品",
+    "job_type": "校招",
+    "city": [
+      "新加坡"
+    ],
+    "requirements": "我们期待这样的你\n- 对平台治理、内容生态、社会议题有真实的好奇心，愿意面对\"没有标准答案\"的复杂问题，并从中找出可执行的解法。\n- 对 AI 等前沿技术有浓厚兴趣，理解 LLM / Agent 的能力与边界，渴望把技术变成真正跑起来的产品能力。\n- 兼具细腻的用户同理心与系统化思维——既能站在被处罚用户的视角思考体验，也能设计出支撑亿级规模的机制与流程。\n- 具备结构化表达与跨团队推动能力，能把复杂规则讲清楚，也能推动工程、算法、政策、运营达成一致。\n- 具备数据驱动思维，习惯用数据和实验验证判断，而非依赖直觉。\n- 拥有深度思考和持续进化的成长型思维，在面对挑战与模糊地带时展现出勇气与韧性。\n加分项\n- 计算机、人工智能、数据科学、人机交互、法学、社会学、传播学等相关背景。\n- 有内容平台、社区产品、风控、合规相关的实习或项目经历。\n- 具备良好的英文读写与沟通能力，能够阅读海外监管文件与平台政策原文（本岗位涉及全球市场业务）。\n- 有跨文化生活/学习经历，或对海外市场用户行为有真实观察。\n无论你的专业背景如何，无论你是否有过互联网产品的实战经验，只要你认同并践行这些特质，我们都诚挚欢迎你的加入，一起把平台治理这件\"难而正确\"的事做成。\n\n【What We’re Looking For】\nCuriosity about platform governance and online communities: A genuine interest in platform governance, online content ecosystems, and broader social issues. You are willing to tackle complex problems without predefined answers and find practical, actionable solutions.\nPassion for emerging technologies: A strong interest in AI and other cutting-edge technologies. You understand the capabilities and limitations of LLMs and AI agents, and are eager to turn technological advances into practical product capabilities.\nUser empathy and systems thinking: The ability to balance thoughtful user empathy with structured, systems-level thinking. You can put yourself in the shoes of users who have been penalized while designing mechanisms and workflows that can operate at a scale of hundreds of millions of users.\nStructured communication and cross-functional collaboration: Strong communication and stakeholder management skills. You can explain complex rules clearly and align engineering, algorithms, policy, and operations teams to move projects forward.\nData-driven mindset: You use data and experimentation to validate hypotheses and inform decisions rather than relying solely on intuition.\nDeep thinking and a growth mindset: You are committed to continuous learning and improvement, and demonstrate courage and resilience when navigating challenges, uncertainty, and ambiguous situations.\n【Nice to Have】\nAn academic background in Computer Science, Artificial Intelligence, Data Science, Human-Computer Interaction, Law, Sociology, Communications, or a related field.\nInternship or project experience in content platforms, community products, risk control, or compliance.\nStrong English reading, writing, and communication skills, with the ability to read and understand regulatory documents and platform policy materials in their original language. This role involves working with global markets.\nCross-cultural living or study experience, or first-hand observations of user behavior in international markets.\nRegardless of your academic background or whether you have prior hands-on experience in internet product development, we welcome you if you embody these qualities and are ready to put them into practice.\nJoin us in taking on one of the hardest yet most worthwhile challenges in technology: building a safer, fairer, and more trustworthy online community.",
+    "deadline": null,
+    "apply_url": "https://job.xiaohongshu.com/campus/position/21999",
+    "source_url": "https://job.xiaohongshu.com/campus/position/21999",
+    "fetched_at": "2026-10-27T18:19:00+08:00"
+  },
+  {
+    "company": "小红书",
+    "business_unit": [],
     "title": "创新ui设计实习生",
     "category": "设计",
     "job_type": "实习",
@@ -1184,7 +1199,8 @@
     "category": "分析",
     "job_type": "实习",
     "city": [
-      "上海"
+      "上海",
+      "美国"
     ],
     "requirements": "- 统计学、数学、数据科学等相关专业本科及以上在读，数理统计基础扎实\n- 熟悉 SQL，能独立完成数据查询和处理\n- 主动性强、思维敏捷、学习能力好，能吃苦耐劳、踏实投入，愿意承担有挑战性的工作\n- 沟通表达能力强，能清晰阐述分析思路和结论；有项目管理或跨团队协作经验者优先\n- 每周可实习 4 天以上，持续 3 个月以上\n\n加分项\n- 有数据可视化经验（如 Tableau、ECharts 等）\n- 有内容平台数据分析经验\n- 有相关大厂增长业务实习经验者",
     "deadline": null,
@@ -2098,7 +2114,8 @@
     "job_type": "校招",
     "city": [
       "北京",
-      "上海"
+      "上海",
+      "新加坡"
     ],
     "requirements": "Job Requirements:\nCurrently enrolled in an undergraduate or graduate program in the humanities, Law, Business Administration, Public Policy, Information Systems, or a related field. \nStrong program management and analytical judgment skills.\nFluent in English and Mandarin as a working language.\nPossess cross-cultural communication skills and understand user behavior and cultural differences across regions.\nAble to adapt to a fast-paced, multi-timezone collaborative work environment.\n\nBonus Points:\nExperience with content policy on global internet platforms (e.g., YouTube, Meta, TikTok, Twitter/X, etc.).\nFamiliarity with international platform governance and data privacy regulations (e.g., GDPR, DSA, COPPA, etc.).",
     "deadline": null,

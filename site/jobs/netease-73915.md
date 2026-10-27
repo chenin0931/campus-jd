@@ -4,6 +4,7 @@
 - 公司: 网易（网易职能）
 - job_type: 实习
 - 类别: 分析
+- region: 国内
 - 城市: 安顺
 - status: active
 - 届别 grad_year: 2027届

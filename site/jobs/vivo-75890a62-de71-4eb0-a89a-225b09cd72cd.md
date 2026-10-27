@@ -4,6 +4,7 @@
 - 公司: vivo
 - job_type: 校招
 - 类别: 设计
+- region: 国内
 - 城市: 东莞
 - status: active
 - 届别 grad_year: 2027届
