@@ -1,14 +1,11 @@
-# 北京 · 实习 · 产品 · 全部公司（303 个岗位）（第 4/7 页）
+# 北京 · 实习 · 产品 · 全部公司（263 个岗位）（第 4/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [滴滴 34](../../slices/didi/intern/product/beijing.md) · [美团 22](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 146](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [美团 22](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 流量策略产品经理实习生-Pangle 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7591420326136187189.md) |
-| 字节跳动 | 流量策略产品经理实习生-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7611855816731724037.md) |
-| 字节跳动 | 模型策略产品实习生-广告业务 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7644514167491676421.md) |
 | 字节跳动 | 模型训练产品实习生-AI数据与安全（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7598219830978005253.md) [2](../../jobs/bytedance-7524639056538913042.md) |
 | 字节跳动 | 内容策略产品实习生-今日头条 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7650002231509731637.md) |
 | 字节跳动 | 内容理解平台产品实习生 - 红果短剧 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699447634931255557.md) |
@@ -46,5 +43,9 @@
 | 字节跳动 | 投放策略产品实习生 - 抖音 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7673816932219062581.md) |
 | 字节跳动 | 推荐策略产品实习生-TikTok直播 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7613708737415416069.md) |
 | 字节跳动 | 推荐中台产品实习生-抖音/直播/电商/剪映 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7446961489946429704.md) |
+| 字节跳动 | 推荐中台产品实习生-Data-抖音/直播/电商/剪映（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7595436785866623285.md) [2](../../jobs/bytedance-7498564389981964562.md) |
+| 字节跳动 | 文创产品品质管理实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7657523459210168581.md) |
+| 字节跳动 | 行业治理策略产品实习生 - TikTok 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683431514168805685.md) |
+| 字节跳动 | 行业治理策略产品实习生-TikTok 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7616646831405189429.md) |
 
 [上一页](intern-product-p3.md) · [下一页](intern-product-p5.md) · [总目录](../../llms.txt)

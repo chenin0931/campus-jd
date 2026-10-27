@@ -1,13 +1,11 @@
-# 北京 · 实习 · 运营 · 全部公司（553 个岗位）（第 5/12 页）
+# 北京 · 实习 · 运营 · 全部公司（465 个岗位）（第 5/11 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 模型运营实习生 - 内容质量与数据服务平台（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7628864025048451381.md) [2](../../jobs/bytedance-7699058606196934917.md) |
-| 字节跳动 | 模型运营实习生 - TikTok（2个团队） 〔≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7684115702908078389.md) [2](../../jobs/bytedance-7684118919408158981.md) |
 | 字节跳动 | 模型运营实习生-TikTok安全产品 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7624098487618406709.md) |
 | 字节跳动 | 模型综合评估运营实习生-大模型数据服务中心 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7616344859521091845.md) |
 | 字节跳动 | 内容安全运营实习生-TikTok 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7625920825854298373.md) |
@@ -46,5 +44,8 @@
 | 字节跳动 | 日语搜索运营实习生-国际化内容社区 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7602512852025166133.md) |
 | 字节跳动 | 商家产品运营实习生-抖音生活服务 〔27届 · ≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7641068320796952885.md) |
 | 字节跳动 | 商家运营实习生 - 抖音电商 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7697087389856221445.md) |
+| 字节跳动 | 商家运营实习生 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7639223482800769285.md) |
+| 字节跳动 | 商家增长运营实习生（AI相关）-抖音生活服务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7595564914178394373.md) |
+| 字节跳动 | 商品产品运营（类目/品牌）实习生 - 抖音电商 〔≥6个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697104479686019381.md) |
 
 [上一页](intern-operations-p4.md) · [下一页](intern-operations-p6.md) · [总目录](../../llms.txt)

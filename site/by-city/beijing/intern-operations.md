@@ -1,8 +1,8 @@
-# 北京 · 实习 · 运营 · 全部公司（553 个岗位）（第 1/12 页）
+# 北京 · 实习 · 运营 · 全部公司（465 个岗位）（第 1/11 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [网易 58](../../slices/netease/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [滴滴 30](../../slices/didi/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 309](../../slices/bytedance/intern/operations/beijing.md) · [百度 56](../../slices/baidu/intern/operations/beijing.md) · [美团 32](../../slices/meituan/intern/operations/beijing.md) · [快手 27](../../slices/kuaishou/intern/operations/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/operations/beijing.md) · [京东 17](../../slices/jd/intern/operations/beijing.md) · [腾讯 6](../../slices/tencent/intern/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@
 | 百度 | 游戏垂类运营（J106085） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-81a98b57-1c6a-4fb5-a6b0-158990f2a555.md) |
 | 百度 | 娱乐热点运营实习生（J71210） 〔每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-b0897802-9ce3-452f-a459-fdcf9121c53d.md) |
 | 百度 | 运营分析师（J106244） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-068d61d1-7843-406a-8bdc-17a39bb3f3f6.md) |
+| 百度 | 运营实习生（J57795） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-0a97d07e-3485-4bc8-a9f6-4cc76807702a.md) |
 
 [下一页](intern-operations-p2.md) · [总目录](../../llms.txt)

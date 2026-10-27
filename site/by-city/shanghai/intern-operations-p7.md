@@ -1,14 +1,11 @@
-# 上海 · 实习 · 运营 · 全部公司（363 个岗位）（第 7/9 页）
+# 上海 · 实习 · 运营 · 全部公司（351 个岗位）（第 7/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 288](../../slices/bytedance/intern/operations/shanghai.md) · [小红书 36](../../slices/xiaohongshu/intern/operations/shanghai.md) · [美团 11](../../slices/meituan/intern/operations/shanghai.md) · [京东 7](../../slices/jd/intern/operations/shanghai.md) · [网易 7](../../slices/netease/intern/operations/shanghai.md) · [腾讯 6](../../slices/tencent/intern/operations/shanghai.md) · [滴滴 5](../../slices/didi/intern/operations/shanghai.md) · [百度 2](../../slices/baidu/intern/operations/shanghai.md) · [快手 1](../../slices/kuaishou/intern/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 288](../../slices/bytedance/intern/operations/shanghai.md) · [小红书 36](../../slices/xiaohongshu/intern/operations/shanghai.md) · [美团 11](../../slices/meituan/intern/operations/shanghai.md) · [京东 7](../../slices/jd/intern/operations/shanghai.md) · [腾讯 6](../../slices/tencent/intern/operations/shanghai.md) · [百度 2](../../slices/baidu/intern/operations/shanghai.md) · [快手 1](../../slices/kuaishou/intern/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | AI数据标注运营（生态治理方向）实习生-TikTok 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7637724712975501573.md) |
-| 字节跳动 | AI数据标注运营（项目管理生态治理方向）实习生 - TikTok 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680863091638389045.md) |
-| 字节跳动 | AI数据策略运营（国际化商业化广告方向）实习生 - 国际化商业安全 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7599567618412415237.md) |
 | 字节跳动 | AI数据产品运营（数据分析方向）实习生 - TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7579520082284579077.md) |
 | 字节跳动 | AI数据产品运营（质量管控方向）实习生 - TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7579520509315975477.md) |
 | 字节跳动 | AI数据产品运营实习生 - TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683801098658580789.md) |
@@ -36,15 +33,21 @@
 | 字节跳动 | UK内容运营实习生 - TikTok Shop 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688361012332153141.md) |
 | 字节跳动 | UK商城供给孵化运营实习生 - TikTok Shop 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7676425531558889733.md) |
 | 字节跳动 | US POP电商运营（中台）实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7694495873870989573.md) |
-| 滴滴 | 国际事业群IBG-产品与用户运营实习生（二） | 上海 | 2026-10-27 | [详情](../../jobs/didi-4fa60176-1703-4af6-8998-d974961aaf37.md) |
-| 滴滴 | 国际事业群IBG（33）（西班牙语方向）产品与用户运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/didi-9637a9ae-0d3a-4530-a985-34ad67c180c5.md) |
-| 滴滴 | IBG Fintech-用户运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/didi-8366c91a-f7b0-464e-8f60-95365f1b66f0.md) |
-| 滴滴 | IBG Food-策略运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/didi-c12daf89-a2ba-4ae7-bb7a-8a16352bb76e.md) |
-| 滴滴 | IBG Food-产品与用户运营实习生（沪杭） | 上海 | 2026-10-27 | [详情](../../jobs/didi-9d79ae95-5ec0-4fc2-850d-2131b44fd417.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/南昌/宁波/广州/建邺区/成都/杭州/武汉/沈阳/深圳/苏州/西安/贵阳/郑州/重庆/长沙 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/天津/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-4914.md) |
 | 京东 | 门店运营 〔26届〕 | 上海/北京/南京 | 2026-10-27 | [详情](../../jobs/jd-6630.md) |
 | 京东 | 平台运营 〔27届〕 | 上海/北京/宿迁/深圳 | 2026-10-27 | [详情](../../jobs/jd-4922.md) |
 | 京东 | 商家运营 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-4930.md) |
+| 京东 | 销售运营 〔27届〕 | 上海/乌鲁木齐/北京/合肥/哈尔滨/崂山区/广州/成都/昆明/武汉/沈阳/济南/深圳/西安/贵阳/郑州/重庆/长春 | 2026-10-27 | [详情](../../jobs/jd-6740.md) |
+| 京东 | 用户运营 〔27届〕 | 上海/北京/沈阳 | 2026-10-27 | [详情](../../jobs/jd-4924.md) |
+| 快手 | 【留用实习】商业化销售运营专员 | 上海/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11494.md) |
+| 美团 | 办公AI产品运营 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4840943163.md) |
+| 美团 | 产品运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4192004081.md) |
+| 美团 | 大模型社区技术内容运营（Technical Writer） | 上海 | 2026-10-27 | [详情](../../jobs/meituan-3802835253.md) |
+| 美团 | 大模型数据运营实习生 〔26/27届〕 | 北京/上海/成都 | 2026-10-27 | [详情](../../jobs/meituan-3779779839.md) |
+| 美团 | 口腔行业运营实习生 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-3729719250.md) |
+| 美团 | 乐生活用户增长运营实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4833515019.md) |
+| 美团 | 商家及供给策略运营实习 | 北京/上海/广州/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4847444064.md) |
+| 美团 | 商家体验运营实习生 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4839165773.md) |
 
 [上一页](intern-operations-p6.md) · [下一页](intern-operations-p8.md) · [总目录](../../llms.txt)

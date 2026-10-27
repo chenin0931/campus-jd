@@ -1,8 +1,8 @@
-# 上海 · 实习 · 产品 · 全部公司（151 个岗位）（第 1/4 页）
+# 上海 · 实习 · 产品 · 全部公司（144 个岗位）（第 1/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 122](../../slices/bytedance/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 122](../../slices/bytedance/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -46,5 +46,6 @@
 | 字节跳动 | 创作者产品战略分析实习生-国际化广告创意与品牌 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7654428956606679301.md) |
 | 字节跳动 | 达人产品实习生-抖音运营 〔27届 · ≥5个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7624015659337681205.md) |
 | 字节跳动 | 达人营销流量策略产品实习生-国际化 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7582874606076168501.md) |
+| 字节跳动 | 电商搜索用户产品实习生-抖音搜索 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7522694485680228615.md) |
 
 [下一页](intern-product-p2.md) · [总目录](../../llms.txt)

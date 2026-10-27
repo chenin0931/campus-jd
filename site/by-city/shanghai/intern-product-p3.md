@@ -1,12 +1,11 @@
-# 上海 · 实习 · 产品 · 全部公司（151 个岗位）（第 3/4 页）
+# 上海 · 实习 · 产品 · 全部公司（144 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 122](../../slices/bytedance/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 122](../../slices/bytedance/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 商业产品实习生（行业产品）-广告业务（2个团队） 〔27届〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7591390835369396485.md) [2](../../jobs/bytedance-7628548251319798021.md) |
 | 字节跳动 | 商业创意机构平台产品经理实习生-国际化 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7517198452322502919.md) |
 | 字节跳动 | 商业化产品经理实习生-国际商业化产品与技术 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7519386440826865927.md) |
 | 字节跳动 | 商业化产品实习生 - 销售运营管理平台 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698257207726983429.md) |
@@ -41,12 +40,14 @@
 | 字节跳动 | Seedance2.5产品实习生 - 火山方舟 〔≥3个月，每周≥4天〕 | 上海/杭州/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683463058253334837.md) |
 | 字节跳动 | Seller Assistant商家产品实习生 - TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685712716758665477.md) |
 | 字节跳动 | UG产品设计实习生 - TikTok设计 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7633279375207958837.md) |
-| 滴滴 | 国际事业群IBG-产品实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/didi-e8089c6f-fb6b-4ad2-89fb-314308d85670.md) |
-| 滴滴 | 国际事业群IBG-产品实习生（上海百川） | 上海 | 2026-10-27 | [详情](../../jobs/didi-36ec491a-a47b-48db-9f5e-03071db3a724.md) |
-| 滴滴 | 国际事业群IBG（12）-产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/didi-0614d0c2-70a9-49a3-b12f-0030577a2a5b.md) |
-| 滴滴 | 国际事业群IBG（38）产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/didi-c8aa9882-8401-4b5c-aa90-bb09dc5db68e.md) |
-| 滴滴 | 国际事业群IBG（7）-西班牙语产品实习生 | 上海 | 2026-10-27 | [详情](../../jobs/didi-4bba4690-b612-4976-9179-2eed769c71d4.md) |
-| 滴滴 | IBG Food-数据产品实习生（8） | 上海 | 2026-10-27 | [详情](../../jobs/didi-316768d4-a4ac-40a8-9eb0-8bfe7ad65b06.md) |
 | 京东 | 技术产品经理 〔27届〕 | 上海/北京/宿迁/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-4910.md) |
+| 快手 | 【留用实习】平台产品经理-智能平台 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-11474.md) |
+| 美团 | 【实习】境外酒店直连产品实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-3258846670.md) |
+| 美团 | 餐饮SaaS产品项目实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4407242449.md) |
+| 美团 | 产品经理实习生（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/meituan-4588857676.md) [2](../../jobs/meituan-4588887634.md) |
+| 美团 | 营销产品经理实习生 〔≥6个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-3148133809.md) |
+| 腾讯 | 产品策划 | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1188988696721092608.md) |
+| 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1224696104600437761.md) |
+| 腾讯 | 技术产品经理 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696103971292160.md) |
 
 [上一页](intern-product-p2.md) · [下一页](intern-product-p4.md) · [总目录](../../llms.txt)

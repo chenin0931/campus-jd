@@ -1,31 +1,11 @@
-# 北京 · 校招 · 运营 · 全部公司（339 个岗位）（第 7/7 页）
+# 北京 · 校招 · 运营 · 全部公司（326 个岗位）（第 7/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 170](../../slices/bytedance/campus/operations/beijing.md) · [小米 55](../../slices/xiaomi/campus/operations/beijing.md) · [快手 47](../../slices/kuaishou/campus/operations/beijing.md) · [京东 20](../../slices/jd/campus/operations/beijing.md) · [美团 17](../../slices/meituan/campus/operations/beijing.md) · [滴滴 13](../../slices/didi/campus/operations/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/beijing.md) · [百度 5](../../slices/baidu/campus/operations/beijing.md) · [腾讯 4](../../slices/tencent/campus/operations/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 170](../../slices/bytedance/campus/operations/beijing.md) · [小米 55](../../slices/xiaomi/campus/operations/beijing.md) · [快手 47](../../slices/kuaishou/campus/operations/beijing.md) · [京东 20](../../slices/jd/campus/operations/beijing.md) · [美团 17](../../slices/meituan/campus/operations/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/beijing.md) · [百度 5](../../slices/baidu/campus/operations/beijing.md) · [腾讯 4](../../slices/tencent/campus/operations/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 小米 | 策略运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671293483919853850.md) |
-| 小米 | 产品运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670884337122576650.md) |
-| 小米 | 产品运营经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670930784789989675.md) |
-| 小米 | 大模型产品运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7697203277666765099.md) |
-| 小米 | 电商运营专员-俄语 〔27届〕 | 武汉/北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885702062606655.md) |
-| 小米 | 服务运营-俄语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7697205078940109082.md) |
-| 小米 | 服务运营专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885431017572646.md) |
-| 小米 | 服务运营专员-汽车 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931060612679977.md) |
-| 小米 | 供应链运营管理专员-成本方向 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7680376718741915958.md) |
-| 小米 | 供应链运营管理专员-运营管理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7680375700994869558.md) |
-| 小米 | 供应链运营专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671293431725852947.md) |
-| 小米 | 广告投放及运营（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7670884904113195274.md) [2](../../jobs/xiaomi-7670882170541492531.md) |
-| 小米 | 国际社媒运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670882755622422835.md) |
-| 小米 | 国际销管运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7699102936504650025.md) |
-| 小米 | 海外商业化运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671293278901668132.md) |
-| 小米 | 海外整车物流运营专员-汽车 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670930725599791403.md) |
-| 小米 | 活动运营（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7670884403308808494.md) [2](../../jobs/xiaomi-7670882330474645787.md) |
-| 小米 | 交付运营专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885064838187274.md) |
-| 小米 | 交付运营专员-俄语 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885821927573814.md) |
-| 小米 | 交付运营专员-汽车 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670930864515860799.md) |
 | 小米 | 内容运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923706315934003.md) |
 | 小米 | 培训运营主管 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670884708876601650.md) |
 | 小米 | 区域客服运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885566489659674.md) |

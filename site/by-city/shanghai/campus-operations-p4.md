@@ -1,13 +1,11 @@
-# 上海 · 校招 · 运营 · 全部公司（182 个岗位）（第 4/5 页）
+# 上海 · 校招 · 运营 · 全部公司（181 个岗位）（第 4/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [滴滴 1](../../slices/didi/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 146](../../slices/bytedance/campus/operations/shanghai.md) · [京东 11](../../slices/jd/campus/operations/shanghai.md) · [美团 7](../../slices/meituan/campus/operations/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/operations/shanghai.md) · [快手 4](../../slices/kuaishou/campus/operations/shanghai.md) · [腾讯 3](../../slices/tencent/campus/operations/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/operations/shanghai.md) · [百度 1](../../slices/baidu/campus/operations/shanghai.md) · [小米 1](../../slices/xiaomi/campus/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | AI产品运营 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668567025011181877.md) |
-| 字节跳动 | AI产品运营 - TikTok Shop 〔27届〕 | 上海/珠海 | 2026-10-27 | [详情](../../jobs/bytedance-7668337442179336453.md) |
 | 字节跳动 | AI产品运营（商家经营方向） - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669484903284951349.md) |
 | 字节跳动 | AI服务策略运营 - 抖音生活服务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668212572303444229.md) |
 | 字节跳动 | AI模型数据运营 - TikTok 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7681583171540011317.md) |
@@ -23,7 +21,6 @@
 | 字节跳动 | AI数据质量运营 - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7677965728884427061.md) |
 | 字节跳动 | AIGC策略运营（抖音AI产品人才校招） - 抖音 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667863278595361029.md) |
 | 字节跳动 | KA营销活动运营 - 抖音生活服务 〔27届〕 | 上海/杭州/北京/成都 | 2026-10-27 | [详情](../../jobs/bytedance-7668630764718000389.md) |
-| 滴滴 | 27届秋招-用户增长运营分析师（国际化外卖） 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/didi-ab4a1333-a550-401d-a8e8-f45a5bb089bc.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/兰州/北京/南京/厦门/头屯河区/宁波/广州/建邺区/成都/房山区/日本/杭州/武汉/深圳/苏州/西安/郑州/香港 | 2026-10-27 | [详情](../../jobs/jd-9222.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/天津/宿迁/成都/深圳 | 2026-10-27 | [详情](../../jobs/jd-9119.md) |
 | 京东 | 服务运营 〔27届〕 | 上海/北京/广州/建邺区/德州/成都/武汉/沈阳/西安/重庆 | 2026-10-27 | [详情](../../jobs/jd-9127.md) |
@@ -50,5 +47,9 @@
 | 小红书 | 【2027校招】安全运营校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22159.md) |
 | 小红书 | 【2027校招】规则运营 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22073.md) |
 | 小红书 | 【2027校招】体验运营 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22525.md) |
+| 小红书 | 【2027校招】AI治理运营 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22523.md) |
+| 小红书 | 【2027校招】rednote策略运营 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22504.md) |
+| 小红书 | 【2027校招】rednote全球内容运营/Global Content Operations | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22000.md) |
+| 小米 | 远程诊断产品运营-汽车 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7670918797348178222.md) |
 
-[上一页](campus-operations-p3.md) · [下一页](campus-operations-p5.md) · [总目录](../../llms.txt)
+[上一页](campus-operations-p3.md) · [总目录](../../llms.txt)

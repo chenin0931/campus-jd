@@ -1,12 +1,11 @@
-# 北京 · 实习 · 产品 · 全部公司（303 个岗位）（第 2/7 页）
+# 北京 · 实习 · 产品 · 全部公司（263 个岗位）（第 2/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [滴滴 34](../../slices/didi/intern/product/beijing.md) · [美团 22](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 146](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [美团 22](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 百度 | 搜索影视垂类产品实习生（J106733） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-d3405d64-3bc3-4e9c-9c55-998b6c87562c.md) |
 | 百度 | 搜推策略产品实习生（J105399） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-35de6ca5-cec1-4bc7-ba7d-ae6f4691dadd.md) |
 | 百度 | 推荐策略产品实习生（J106820） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-75407f24-4ba6-4f69-92de-7e8d89314514.md) |
 | 百度 | 推荐产品实习生（J106280） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-31515862-8488-40f4-ae4d-c0e356d74dda.md) |
@@ -45,5 +44,7 @@
 | 字节跳动 | 产品实习生-国际化内容与服务广告 〔27届 · ≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7591509446544771381.md) |
 | 字节跳动 | 产品实习生-国际化商业安全（3个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7591695452587411717.md) [2](../../jobs/bytedance-7592855055473281285.md) [3](../../jobs/bytedance-7540875956181829895.md) |
 | 字节跳动 | 产品实习生-国际化中小企业客户产品 〔27届 · ≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7591509696784124213.md) |
+| 字节跳动 | 产品实习生-国际支付（2个团队） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7576230864771172613.md) [2](../../jobs/bytedance-7576231268545448197.md) |
+| 字节跳动 | 产品实习生-今日头条 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7546508890360613128.md) |
 
 [上一页](intern-product.md) · [下一页](intern-product-p3.md) · [总目录](../../llms.txt)

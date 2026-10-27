@@ -1,8 +1,8 @@
-# 上海 · 实习 · 运营 · 全部公司（363 个岗位）（第 1/9 页）
+# 上海 · 实习 · 运营 · 全部公司（351 个岗位）（第 1/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 288](../../slices/bytedance/intern/operations/shanghai.md) · [小红书 36](../../slices/xiaohongshu/intern/operations/shanghai.md) · [美团 11](../../slices/meituan/intern/operations/shanghai.md) · [京东 7](../../slices/jd/intern/operations/shanghai.md) · [网易 7](../../slices/netease/intern/operations/shanghai.md) · [腾讯 6](../../slices/tencent/intern/operations/shanghai.md) · [滴滴 5](../../slices/didi/intern/operations/shanghai.md) · [百度 2](../../slices/baidu/intern/operations/shanghai.md) · [快手 1](../../slices/kuaishou/intern/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 288](../../slices/bytedance/intern/operations/shanghai.md) · [小红书 36](../../slices/xiaohongshu/intern/operations/shanghai.md) · [美团 11](../../slices/meituan/intern/operations/shanghai.md) · [京东 7](../../slices/jd/intern/operations/shanghai.md) · [腾讯 6](../../slices/tencent/intern/operations/shanghai.md) · [百度 2](../../slices/baidu/intern/operations/shanghai.md) · [快手 1](../../slices/kuaishou/intern/operations/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
