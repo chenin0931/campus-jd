@@ -1,0 +1,1002 @@
+[
+ {
+  "seq": 1,
+  "title": "数据管理专员",
+  "my_category": "分析",
+  "confidence": "high",
+  "rule_cited": "§3 8.2",
+  "reason": "标题头「数据」→分析",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 2,
+  "title": "电商运营实习生（J85727）",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 3,
+  "title": "产品运营实习生-AI方向（北京）-5292(J12358)",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营先于AI产品",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 4,
+  "title": "产品专家实习生-赤峰红山火花北路零售中心（呼和浩特战区）",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§3 0.5",
+  "reason": "产品专家+零售中心",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 5,
+  "title": "行业商家运营",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 6,
+  "title": "校招正式-乐道顾问（25/26可投）-秦皇岛",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§3 6",
+  "reason": "顾问",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 7,
+  "title": "AI智能硬件产品运营-海外市场",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1/§8 HW_BIZ",
+  "reason": "运营先于产品；硬件有业务词不排除",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 8,
+  "title": "获客运营实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 9,
+  "title": "食杂零售管培生",
+  "my_category": "其他",
+  "confidence": "low",
+  "rule_cited": "§3 9 管培生",
+  "reason": "「零售」不在销售词表（仅「新零售」），无业务词归其他；实际偏零售运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 10,
+  "title": "销售运营实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1/边界#2",
+  "reason": "运营优先级1，销售优先只先于渠道/商业化/商务",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 11,
+  "title": "用户运营实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 12,
+  "title": "投融资实习生（具身智能）",
+  "my_category": "职能",
+  "confidence": "low",
+  "rule_cited": "§7 职能",
+  "reason": "§7投融资→职能，与§3.9回归样例「投融资→商务」冲突，按较新的§7",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 13,
+  "title": "视频编导实习生",
+  "my_category": "其他",
+  "confidence": "low",
+  "rule_cited": "§3 9",
+  "reason": "「编导」无词表命中；JD是宣发视频策划，人工看像市场",
+  "no_desc": false,
+  "not_covered": true
+ },
+ {
+  "seq": 14,
+  "title": "校招-乐道顾问-南浔",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§3 6",
+  "reason": "顾问",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 15,
+  "title": "项目管理-非技术方向",
+  "my_category": "项目管理",
+  "confidence": "high",
+  "rule_cited": "§3 1.7",
+  "reason": "项目管理",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 16,
+  "title": "战略运营和分析实习生-商业化战略与运营",
+  "my_category": "运营",
+  "confidence": "low",
+  "rule_cited": "§3 1/§7",
+  "reason": "岗位段含运营；只有「分析」两字，不触发§7分析优先（需数据分析/商分等）",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 17,
+  "title": "审计",
+  "my_category": "职能",
+  "confidence": "high",
+  "rule_cited": "§3 8",
+  "reason": "审计",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 18,
+  "title": "校招-蔚来顾问-吉安",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§3 6",
+  "reason": "顾问",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 19,
+  "title": "【27届校招】前瞻设计(广州)",
+  "my_category": "设计",
+  "confidence": "high",
+  "rule_cited": "§3 7",
+  "reason": "设计",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 20,
+  "title": "【精英实习】文案策划实习生（时空中的绘旅人）- 广州",
+  "my_category": "策划",
+  "confidence": "high",
+  "rule_cited": "§3 8.3",
+  "reason": "文案策划",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 21,
+  "title": "游戏动效设计(特效向)",
+  "my_category": "设计",
+  "confidence": "high",
+  "rule_cited": "§3 7",
+  "reason": "动效设计/特效",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 22,
+  "title": "设计实习生",
+  "my_category": "设计",
+  "confidence": "high",
+  "rule_cited": "§3 7",
+  "reason": "设计",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 23,
+  "title": "广告业务支持实习生",
+  "my_category": "市场",
+  "confidence": "high",
+  "rule_cited": "§3 5",
+  "reason": "广告",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 24,
+  "title": "【留用实习】广告流量运营",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 25,
+  "title": "具身生态发展经理-觅蜂子公司",
+  "my_category": "其他",
+  "confidence": "low",
+  "rule_cited": "§3 9",
+  "reason": "「生态发展」不是「业务发展」，无词命中；实际偏生态/市场",
+  "no_desc": false,
+  "not_covered": true
+ },
+ {
+  "seq": 26,
+  "title": "杭州城市群-市场营销实习生",
+  "my_category": "市场",
+  "confidence": "high",
+  "rule_cited": "§3 5",
+  "reason": "市场营销开头",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 27,
+  "title": "商业分析师实习生",
+  "my_category": "分析",
+  "confidence": "high",
+  "rule_cited": "边界#1",
+  "reason": "商业分析",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 28,
+  "title": "版权商务运营",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营先于商务",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 29,
+  "title": "人力资源（专业方向）",
+  "my_category": "职能",
+  "confidence": "high",
+  "rule_cited": "§3 8",
+  "reason": "人力资源",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 30,
+  "title": "【27届校招】出海体验策略运营-得物国际",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 31,
+  "title": "互联网产品经理（游戏方向）",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品经理，无AI词",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 32,
+  "title": "商业分析",
+  "my_category": "分析",
+  "confidence": "high",
+  "rule_cited": "边界#1",
+  "reason": "商业分析",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 33,
+  "title": "【27届校招】供应链-服务提升",
+  "my_category": "供应链",
+  "confidence": "high",
+  "rule_cited": "§1/§3 3.8",
+  "reason": "无岗位词段取首段「供应链」",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 34,
+  "title": "北京-云和大模型大客户销售(J100781)",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§7 cleanTitle/§3 6",
+  "reason": "去城市段后大客户销售",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 35,
+  "title": "娱乐商业运营",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 36,
+  "title": "CSM实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3.9 CSM",
+  "reason": "CSM→运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 37,
+  "title": "学习规划师-西安",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§3 6",
+  "reason": "规划师",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 38,
+  "title": "合同商务经理",
+  "my_category": "商务",
+  "confidence": "high",
+  "rule_cited": "§3 4",
+  "reason": "商务",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 39,
+  "title": "校招-工程基建项目管理",
+  "my_category": "项目管理",
+  "confidence": "high",
+  "rule_cited": "§3 1.7",
+  "reason": "项目管理；单独「工程」不触发",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 40,
+  "title": "HRBP实习生-2027届",
+  "my_category": "职能",
+  "confidence": "high",
+  "rule_cited": "§3 8",
+  "reason": "HRBP",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 41,
+  "title": "旅游业务培训生（业务拓展）（2027届秋招）- 深圳",
+  "my_category": "商务",
+  "confidence": "high",
+  "rule_cited": "§3.9",
+  "reason": "业务拓展→商务",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 42,
+  "title": "校招人才策略实习生-人力与管理部",
+  "my_category": "分析",
+  "confidence": "low",
+  "rule_cited": "§3 8.2",
+  "reason": "标题头「策略」→分析；部门是人力，人工看像职能（招聘策略）",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 43,
+  "title": "27届-AI终端商业化策略",
+  "my_category": "商务",
+  "confidence": "low",
+  "rule_cited": "§3 4",
+  "reason": "商业化→商务；JD是定价/商业模式研究，人工看像分析",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 44,
+  "title": "校招-业务运营管理",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 45,
+  "title": "平面设计实习生",
+  "my_category": "设计",
+  "confidence": "high",
+  "rule_cited": "§3 7",
+  "reason": "设计",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 46,
+  "title": "安全策略交付实习生（北京 有转正机会）",
+  "my_category": "分析",
+  "confidence": "low",
+  "rule_cited": "§3 8.2",
+  "reason": "「策略」在分析层先于末位「交付」→运营；实际是内容安全运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 47,
+  "title": "数据产品经理【2027届秋招】(J72383)",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "边界#1",
+  "reason": "数据产品经理不触发分析优先",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 48,
+  "title": "功能产品经理实习生（J105253）",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 49,
+  "title": "销售管理实习生",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§3 6",
+  "reason": "销售",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 50,
+  "title": "试验室实习生",
+  "my_category": "其他",
+  "confidence": "low",
+  "rule_cited": "§3 9",
+  "reason": "「试验室」无业务词、无技术词；实际可能偏工程试验",
+  "no_desc": false,
+  "not_covered": true
+ },
+ {
+  "seq": 51,
+  "title": "用户研究专员（OS产品）-实习",
+  "my_category": "分析",
+  "confidence": "high",
+  "rule_cited": "§3 用户研究",
+  "reason": "用户研究先于产品",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 52,
+  "title": "平台治理部-产品与用户运营实习生(2)",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营；无描述",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 53,
+  "title": "电商运营专员-法语",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 54,
+  "title": "游戏达人运营实习生（港澳台方向）",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 55,
+  "title": "创作者运营 - 抖音生活服务",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 56,
+  "title": "雇主品牌设计实习生",
+  "my_category": "职能",
+  "confidence": "low",
+  "rule_cited": "§3 3.5",
+  "reason": "「雇主品牌」先于市场/设计归职能（非「设计师」）；无描述，人工看像设计",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 57,
+  "title": "供应链经营分析实习生",
+  "my_category": "供应链",
+  "confidence": "high",
+  "rule_cited": "§7 分析优先例外",
+  "reason": "供应链经营分析→供应链",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 58,
+  "title": "安全协作实习生",
+  "my_category": "其他",
+  "confidence": "low",
+  "rule_cited": "§3 9",
+  "reason": "「协作」不是「合作」，无词命中",
+  "no_desc": false,
+  "not_covered": true
+ },
+ {
+  "seq": 59,
+  "title": "Marketing Intern 108206",
+  "my_category": "市场",
+  "confidence": "high",
+  "rule_cited": "§2.5",
+  "reason": "Marketing；海外岗(US)",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 60,
+  "title": "2027校招-管培生",
+  "my_category": "其他",
+  "confidence": "high",
+  "rule_cited": "§3 9",
+  "reason": "只有管培生",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 61,
+  "title": "销售运营实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 62,
+  "title": "市场营销策划(J13451)",
+  "my_category": "市场",
+  "confidence": "high",
+  "rule_cited": "§3 5",
+  "reason": "市场营销开头",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 63,
+  "title": "合规运营管培生（上海）",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营管培生",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 64,
+  "title": "产品管培生（广东省）",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品管培生",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 65,
+  "title": "（27届秋招）支付产品经理 - 深圳",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品经理",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 66,
+  "title": "AI产品与运营经理",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营先于AI产品",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 67,
+  "title": "交易体验设计实习生",
+  "my_category": "设计",
+  "confidence": "high",
+  "rule_cited": "§3 7",
+  "reason": "设计",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 68,
+  "title": "大模型产品实习生-B端业务",
+  "my_category": "AI产品",
+  "confidence": "high",
+  "rule_cited": "§3 2",
+  "reason": "大模型+产品",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 69,
+  "title": "AIGC设计实习生",
+  "my_category": "设计",
+  "confidence": "high",
+  "rule_cited": "§3 7",
+  "reason": "设计（AIGC无产品词）",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 70,
+  "title": "培训运营主管-外派",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营；描述过短",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 71,
+  "title": "产品经理 - 国际支付",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品经理",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 72,
+  "title": "商家发品增长产品实习生 - TikTok Shop",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品先于增长",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 73,
+  "title": "音乐内容拓展实习生",
+  "my_category": "商务",
+  "confidence": "low",
+  "rule_cited": "§3.9 拓展",
+  "reason": "「拓展」商务先于末位「内容」→运营；实际是音乐内容/版权拓展",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 74,
+  "title": "增长策略运营实习生（J106804）",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 75,
+  "title": "用户研究（27届）",
+  "my_category": "分析",
+  "confidence": "high",
+  "rule_cited": "§3 用户研究",
+  "reason": "用户研究",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 76,
+  "title": "中南大区-城市经营实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3.9 城市经营",
+  "reason": "城市经营→运营；无描述",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 77,
+  "title": "采销（电商运营）",
+  "my_category": "运营",
+  "confidence": "low",
+  "rule_cited": "§3 1",
+  "reason": "岗位段含「运营」(括号内)先于采销→商务",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 78,
+  "title": "人力资源实习生",
+  "my_category": "职能",
+  "confidence": "high",
+  "rule_cited": "§3 8",
+  "reason": "人力资源",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 79,
+  "title": "2027校招-产品市场研究岗",
+  "my_category": "市场",
+  "confidence": "low",
+  "rule_cited": "§2/§3.9 产品市场",
+  "reason": "「产品市场」→市场；岗位名「研究岗」不以研究结尾，不按课题式排除",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 80,
+  "title": "零件计划",
+  "my_category": "供应链",
+  "confidence": "high",
+  "rule_cited": "§3 3.8",
+  "reason": "零件计划；有业务词不走JD把关",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 81,
+  "title": "【2027 届校招】商业分析师",
+  "my_category": "分析",
+  "confidence": "high",
+  "rule_cited": "边界#1",
+  "reason": "商业分析",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 82,
+  "title": "商品策略运营",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 83,
+  "title": "产品实习生",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "标题无AI词，JD不参与",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 84,
+  "title": "校招-品牌管理",
+  "my_category": "市场",
+  "confidence": "high",
+  "rule_cited": "§3 5",
+  "reason": "品牌",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 85,
+  "title": "运营策划实习生（王牌竞速）",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 8.3",
+  "reason": "运营策划先命中运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 86,
+  "title": "财务实习生-2027届",
+  "my_category": "职能",
+  "confidence": "high",
+  "rule_cited": "§3 8",
+  "reason": "财务",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 87,
+  "title": "科技项目申报与管理实习生",
+  "my_category": "项目管理",
+  "confidence": "high",
+  "rule_cited": "§3 8.1",
+  "reason": "项目",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 88,
+  "title": "校园业务组-策略运营实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营；无描述",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 89,
+  "title": "地图事业部（6）-产品实习生",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品；无描述",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 90,
+  "title": "演出票务平台运营",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 91,
+  "title": "【27届校招】系统设计培训生",
+  "my_category": "设计",
+  "confidence": "low",
+  "rule_cited": "§3 7",
+  "reason": "标题只有「设计」，无排除词；JD是电驱/电力电子工科岗，人工看是技术岗，口径未覆盖",
+  "no_desc": false,
+  "not_covered": true
+ },
+ {
+  "seq": 92,
+  "title": "电商运营专员-日语",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 93,
+  "title": "产品策划",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§3 3",
+  "reason": "产品先于策划",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 94,
+  "title": "海外运营实习生",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 95,
+  "title": "新零售实习生（福建小区）",
+  "my_category": "销售",
+  "confidence": "high",
+  "rule_cited": "§3.9 新零售",
+  "reason": "新零售→销售",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 96,
+  "title": "财务（统招）",
+  "my_category": "职能",
+  "confidence": "high",
+  "rule_cited": "§3 8",
+  "reason": "财务",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 97,
+  "title": "市场营销岗",
+  "my_category": "市场",
+  "confidence": "high",
+  "rule_cited": "§3 5",
+  "reason": "市场营销",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 98,
+  "title": "标注实习生-国际化内容安全平台",
+  "my_category": "AI产品",
+  "confidence": "high",
+  "rule_cited": "§3 3.9",
+  "reason": "标注",
+  "no_desc": false,
+  "not_covered": false
+ },
+ {
+  "seq": 99,
+  "title": "网约车平台公司-安全运营实习生（一）",
+  "my_category": "运营",
+  "confidence": "high",
+  "rule_cited": "§3 1",
+  "reason": "运营；无描述",
+  "no_desc": true,
+  "not_covered": false
+ },
+ {
+  "seq": 100,
+  "title": "硬件产品经理",
+  "my_category": "产品",
+  "confidence": "high",
+  "rule_cited": "§8 HW_BIZ",
+  "reason": "硬件产品经理保留→产品",
+  "no_desc": false,
+  "not_covered": false
+ }
+]
