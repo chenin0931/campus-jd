@@ -1,8 +1,5 @@
 {
  "first_seen": {
-  "https://example.com/alibaba/job/1": "2026-10-27",
-  "https://example.com/alibaba/job/2": "2026-10-27",
-  "https://example.com/alibaba/job/3": "2026-10-27",
   "https://jobs.bytedance.com/campus/position/7667488256230557957/detail": "2026-10-27",
   "https://jobs.bytedance.com/campus/position/7667186781842344197/detail": "2026-10-27",
   "https://jobs.bytedance.com/campus/position/7677440843802380549/detail": "2026-10-27",
@@ -1791,9 +1788,6 @@
   "https://jobs.bytedance.com/campus/position/7683837163159587125/detail": "2026-10-27",
   "https://jobs.bytedance.com/campus/position/7700910005920712965/detail": "2026-10-27",
   "https://jobs.bytedance.com/campus/position/7673465153480034613/detail": "2026-10-27",
-  "https://example.com/tencent/job/1": "2026-10-27",
-  "https://example.com/tencent/job/2": "2026-10-27",
-  "https://example.com/tencent/job/3": "2026-10-27",
   "https://campus-talent.alibaba.com/campus/position/199908580004": "2026-10-27",
   "https://campus-talent.alibaba.com/campus/position/199907680002": "2026-10-27",
   "https://campus-talent.alibaba.com/campus/position/199907700014": "2026-10-27",

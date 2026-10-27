@@ -2,7 +2,7 @@
  "week": "2026-W44",
  "previous_week": null,
  "generated_at": "2026-10-27",
- "count": 1837,
+ "count": 1835,
  "removed_count": 0,
  "jobs": [
   {
@@ -31312,23 +31312,6 @@
   },
   {
    "company": "腾讯",
-   "title": "腾讯云—下一代AI原生的云产品全链路交互研究",
-   "category": "AI产品",
-   "city": [
-    "深圳总部"
-   ],
-   "requirements": "",
-   "deadline": null,
-   "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139114",
-   "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139114",
-   "fetched_at": "2026-10-27T13:54:39+08:00",
-   "job_type": "实习",
-   "company_slug": "tencent",
-   "first_seen": "2026-10-27",
-   "is_new": true
-  },
-  {
-   "company": "腾讯",
    "title": "投资运营分析师",
    "category": "运营",
    "city": [
@@ -31540,23 +31523,6 @@
    "deadline": null,
    "apply_url": "https://join.qq.com/post_detail.html?postid=1227032278660950017",
    "source_url": "https://join.qq.com/post_detail.html?postid=1227032278660950017",
-   "fetched_at": "2026-10-27T13:54:39+08:00",
-   "job_type": "实习",
-   "company_slug": "tencent",
-   "first_seen": "2026-10-27",
-   "is_new": true
-  },
-  {
-   "company": "腾讯",
-   "title": "游戏市场运营智能模型研究",
-   "category": "运营",
-   "city": [
-    "上海"
-   ],
-   "requirements": "",
-   "deadline": null,
-   "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139168",
-   "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139168",
    "fetched_at": "2026-10-27T13:54:39+08:00",
    "job_type": "实习",
    "company_slug": "tencent",
