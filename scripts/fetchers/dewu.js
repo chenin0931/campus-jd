@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // 得物 campus.dewu.com（飞书招聘 SaaS，website-path 578078，与小米/字节的 'campus' 不同）。参考 reference/fsco.py；批次名回填 project
-const { classifyMore, nowIso, request, cookiesOf, run } = require('../lib/common');
+const { classify, nowIso, request, cookiesOf, run } = require('../lib/common');
 const BASE = 'https://campus.dewu.com', WP = '578078';
 const H = { 'Content-Type': 'application/json', 'portal-channel': 'saas-career', 'website-path': WP, Referer: `${BASE}/${WP}/position/list` };
 run('dewu', async () => {
@@ -11,7 +11,7 @@ run('dewu', async () => {
     L.push(...(d.job_post_list || [])); if (!d.job_post_list?.length || off + 100 >= (d.count || 0)) break;
   }
   const now = nowIso();
-  return L.flatMap(j => { const c = classifyMore(j.title); if (!c) return []; const rt = j.recruit_type || {};
+  return L.flatMap(j => { const c = classify(j.title); if (!c) return []; const rt = j.recruit_type || {};
     if (rt.parent?.name === '社招') return [];
     const url = `${BASE}/${WP}/position/${j.id}/detail`;
     const city = (j.city_list || []).map(x => x.name); if (!city.length && j.city_info) city.push(j.city_info.name);

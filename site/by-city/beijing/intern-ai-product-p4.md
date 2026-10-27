@@ -1,13 +1,14 @@
-# 北京 · 实习 · AI产品 · 全部公司（175 个岗位）（第 4/4 页）
+# 北京 · 实习 · AI产品 · 全部公司（177 个岗位）（第 4/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 125](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 30](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [美团 8](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 126](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 30](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 字节跳动 | AI产品实习生（To C）-财经业务 〔27届 · 每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7596994630080989493.md) |
 | 字节跳动 | AI创作产品实习生-AI创新业务 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7646638500473637173.md) |
+| 字节跳动 | AI大模型产品（内容安全方向）实习生 - TikTok 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7701219801246878005.md) |
 | 字节跳动 | AI大模型产品实习生-飞书 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7600295644015921461.md) |
 | 字节跳动 | AI大模型评测产品实习生 - 火山方舟 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7674950150314477877.md) |
 | 字节跳动 | AI多模态音视频产品实习生-音视频技术 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7596985918906665269.md) |
@@ -37,6 +38,7 @@
 | 美团 | Agent 产品 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4727031737.md) |
 | 美团 | AI 产品创意传播/增长实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3840031805.md) |
 | 美团 | AI 产品经理（CatPaw 智能体平台方向） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4731354212.md) |
+| 美团 | AI 产品设计师-实习 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4783317158.md) |
 | 美团 | AI产品经理 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4687739175.md) |
 | 美团 | AI产品实习生 | 北京/广州 | 2026-10-27 | [详情](../../jobs/meituan-3532538442.md) |
 | 美团 | AI方向产品实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3118455121.md) |
@@ -50,6 +52,5 @@
 | 小红书 | 智能体Agent Infra 产品经理实习生 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20205.md) |
 | 小红书 | Agent 应用产品（实习） | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22656.md) |
 | 小红书 | AI 数据产品实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22830.md) |
-| 小红书 | AI策略产品经理（大模型/Agent方向）实习（2个团队） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaohongshu-19686.md) [2](../../jobs/xiaohongshu-21729.md) |
 
-[上一页](intern-ai-product-p3.md) · [总目录](../../llms.txt)
+[上一页](intern-ai-product-p3.md) · [下一页](intern-ai-product-p5.md) · [总目录](../../llms.txt)

@@ -8,7 +8,7 @@ const SITES = {
   campus: { slug: 'alibaba', company: '阿里巴巴', base: 'https://campus-talent.alibaba.com', entry: '/campus/position', detail: id => `/campus/position/${id}` },
   // 例：taotian: { slug: 'taotian', company: '淘天集团', base: 'https://talent.taotian.com', entry: '...', detail: id => `...` },
 };
-const KEYWORDS = ['产品', '运营', 'AI', '策划'];
+const KEYWORDS = [''];  // 不带关键词，拉全量后本地 classify（排除法）
 
 function fetcherFor(s) {
   return async () => {

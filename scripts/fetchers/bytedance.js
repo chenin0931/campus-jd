@@ -4,7 +4,7 @@
 const { classify, nowIso, request, cookiesOf, run } = require('../lib/common');
 const BASE = 'https://jobs.bytedance.com';
 const H = { 'Content-Type': 'application/json', 'portal-channel': 'campus', 'website-path': 'campus', Referer: `${BASE}/campus/position` };
-const KEYWORDS = ['AI产品', '大模型产品', 'Agent产品', 'AIGC产品', '产品经理', '运营'];
+const KEYWORDS = [''];  // 不带关键词，拉全量后本地 classify（排除法）
 
 run('bytedance', async () => {
   const r = await request(`${BASE}/api/v1/csrf/token`, { method: 'POST', headers: H, body: { portal_entrance: 1 }, raw: true });

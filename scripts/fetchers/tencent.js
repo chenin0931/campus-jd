@@ -3,7 +3,7 @@
 const { classify, nowIso, request, run } = require('../lib/common');
 const BASE = 'https://join.qq.com';
 const H = { 'Content-Type': 'application/json' };
-const KEYWORDS = ['产品', '运营', 'AI', '策划'];
+const KEYWORDS = [''];  // 不带关键词，拉全量后本地 classify（排除法）
 
 run('tencent', async () => {
   const now = nowIso(), seen = new Map();

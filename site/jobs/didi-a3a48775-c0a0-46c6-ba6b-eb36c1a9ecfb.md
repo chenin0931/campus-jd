@@ -1,0 +1,19 @@
+# 司机&供给发展平台-运营实习生
+
+- id: didi-a3a48775-c0a0-46c6-ba6b-eb36c1a9ecfb
+- 公司: 滴滴
+- job_type: 实习
+- 类别: 运营
+- 城市: 太原
+- status: active
+- 届别 grad_year: 未注明
+- 实习时长 intern_duration: 未注明
+- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 截止: 以官网为准
+- 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/a3a48775-c0a0-46c6-ba6b-eb36c1a9ecfb（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+
+## 岗位要求
+
+（官网未提供）
+
+[总目录](../llms.txt)

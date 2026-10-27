@@ -1,21 +1,24 @@
-# 上海 · 校招 · 产品 · 全部公司（114 个岗位）（第 1/3 页）
+# 上海 · 校招 · 产品 · 全部公司（122 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 81](../../slices/bytedance/campus/product/shanghai.md) · [得物 19](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 87](../../slices/bytedance/campus/product/shanghai.md) · [得物 19](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 蚂蚁集团 | 产品体验设计师（UI设计） | 上海 | 2026-10-27 | [详情](../../jobs/antgroup-260721010995323.md) |
 | 百度 | 上海-策略产品经理(J100673) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-b1537e9d-99b2-4f5c-a546-559d5c5a8718.md) |
 | 百度 | 上海-商业产品经理(J100706) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-b7532741-3f9d-4ee6-9446-a76b5413eb17.md) |
 | 百度 | 上海-用户产品经理(J101084) | 上海 | 2026-10-27 | [详情](../../jobs/baidu-950150b6-f8d8-454e-8cc8-88a2b046e96a.md) |
 | 哔哩哔哩 | 增长策略产品经理【2027届】 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30712.md) |
+| 哔哩哔哩 | Product -Overseas 海外产品【2027届】 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29714.md) |
 | 字节跳动 | 榜单产品经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668575132492417333.md) |
 | 字节跳动 | 策略产品经理 - 抖音生活服务 〔27届〕 | 北京/上海/成都 | 2026-10-27 | [详情](../../jobs/bytedance-7668576797001664821.md) |
 | 字节跳动 | 产品经理 - 业务中台 〔27届〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667380186237716741.md) |
 | 字节跳动 | 产品经理（财务系统） - 集团信息系统 〔27届〕 | 杭州/北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680197931140024629.md) |
 | 字节跳动 | 产品经理（音乐） - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7674865705004976437.md) |
 | 字节跳动 | 产品经理（People） - 集团信息系统 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680202730417867061.md) |
+| 字节跳动 | 产品设计师 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665688715490003205.md) |
 | 字节跳动 | 产品设计师 - 火山引擎 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667495664276801797.md) |
 | 字节跳动 | 产品设计师 - TikTok设计 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667487162455214341.md) |
 | 字节跳动 | 产品营销经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7681185345474218245.md) |
@@ -23,8 +26,10 @@
 | 字节跳动 | 达人产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668329930204039477.md) |
 | 字节跳动 | 导购产品经理 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667421333009156405.md) |
 | 字节跳动 | 电商产品经理 - TikTok Shop 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668543383427336453.md) |
+| 字节跳动 | 电商内容生态策略产品 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670896774942869765.md) |
 | 字节跳动 | 电商直播用户产品经理 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668302708726679861.md) |
 | 字节跳动 | 抖音音乐产品设计师 - 抖音运营 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7674927852634605877.md) |
+| 字节跳动 | 风控策略产品经理（账号/增长/营收方向） - TikTok研发 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678639283918670133.md) |
 | 字节跳动 | 官网平台产品经理 - 火山引擎 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667879481506253061.md) |
 | 字节跳动 | 管会分析产品经理 - 集团信息系统 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667886398892050741.md) |
 | 字节跳动 | 广告策略产品经理 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668562361263343925.md) |
@@ -43,11 +48,5 @@
 | 字节跳动 | 激励增长产品经理 - TikTok 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668658032092236085.md) |
 | 字节跳动 | 交易产品 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665584035663661317.md) |
 | 字节跳动 | 交易产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7674635781763778821.md) |
-| 字节跳动 | 交易产品经理 - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667541143857416501.md) |
-| 字节跳动 | 交易应用产品经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665925299130190085.md) |
-| 字节跳动 | 交易用户产品经理 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668304557114804533.md) |
-| 字节跳动 | 巨量千川广告策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680458256896690485.md) |
-| 字节跳动 | 巨量千川客户策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668302051415361845.md) |
-| 字节跳动 | 巨量千川流量策略产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668303337959819573.md) |
 
 [下一页](campus-product-p2.md) · [总目录](../../llms.txt)

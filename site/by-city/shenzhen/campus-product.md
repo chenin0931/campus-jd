@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 产品 · 全部公司（41 个岗位）
+# 深圳 · 校招 · 产品 · 全部公司（45 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 19](../../slices/bytedance/campus/product/shenzhen.md) · [OPPO 7](../../slices/oppo/campus/product/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/product/shenzhen.md) · [百度 2](../../slices/baidu/campus/product/shenzhen.md) · [滴滴 2](../../slices/didi/campus/product/shenzhen.md) · [京东 2](../../slices/jd/campus/product/shenzhen.md) · [美团 2](../../slices/meituan/campus/product/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/product/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 22](../../slices/bytedance/campus/product/shenzhen.md) · [OPPO 8](../../slices/oppo/campus/product/shenzhen.md) · [腾讯 4](../../slices/tencent/campus/product/shenzhen.md) · [百度 2](../../slices/baidu/campus/product/shenzhen.md) · [滴滴 2](../../slices/didi/campus/product/shenzhen.md) · [京东 2](../../slices/jd/campus/product/shenzhen.md) · [美团 2](../../slices/meituan/campus/product/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/product/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | 字节跳动 | 策略产品经理 - 红果短剧 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7669676815537572101.md) |
 | 字节跳动 | 产品经理 - 业务中台 〔27届〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667380186237716741.md) |
 | 字节跳动 | 产品经理（商户服务方向） - 国际支付 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585850893715717.md) |
+| 字节跳动 | 产品设计师 - 番茄小说 〔27届〕 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669674816799230261.md) |
 | 字节跳动 | 创意产品经理-「星璨全球」培养计划 - 国际化广告创意与品牌 〔27届〕 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667835102218684725.md) |
 | 字节跳动 | 电商物流CBT产品经理 - TikTok Shop 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7669264532452346165.md) |
 | 字节跳动 | 官网平台产品经理 - 火山引擎 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667879940926720309.md) |
@@ -24,6 +25,7 @@
 | 字节跳动 | 商户钱包产品 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585091687860533.md) |
 | 字节跳动 | 商业化产品经理 - 今日头条 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7669673936569878837.md) |
 | 字节跳动 | 收银产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665587359479499061.md) |
+| 字节跳动 | 信贷产品经理 - 国际支付（2个团队） 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [1](../../jobs/bytedance-7701246291185682693.md) [2](../../jobs/bytedance-7701243488148424965.md) |
 | 字节跳动 | 用户产品经理 - 番茄小说 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7669675127367895301.md) |
 | 字节跳动 | 用户产品经理 - 今日头条 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7669672681320712453.md) |
 | 字节跳动 | 用户钱包产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585547041802549.md) |
@@ -42,6 +44,7 @@
 | OPPO | 健康产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1813.md) |
 | OPPO | 软件产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1835.md) |
 | OPPO | 营销策划经理（软件产品方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1840.md) |
+| OPPO | UI视觉设计师（软件产品方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1832.md) |
 | 腾讯 | 产品策划 | 深圳/北京/上海/广州/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707374754604032.md) |
 | 腾讯 | 产品体验设计 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126425985295360.md) |
 | 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284317600528245760.md) |

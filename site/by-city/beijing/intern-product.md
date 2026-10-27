@@ -1,8 +1,8 @@
-# 北京 · 实习 · 产品 · 全部公司（303 个岗位）（第 1/7 页）
+# 北京 · 实习 · 产品 · 全部公司（400 个岗位）（第 1/9 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 146](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [滴滴 34](../../slices/didi/intern/product/beijing.md) · [美团 22](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 211](../../slices/bytedance/intern/product/beijing.md) · [百度 65](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -20,6 +20,8 @@
 | 百度 | 产品经理实习生（商业变现方向）（J106640） 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-4d069d00-aa1f-43ba-9504-3ba811954620.md) |
 | 百度 | 产品经理实习生（J105983） 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-f80447ec-e117-4f64-ac87-5738d8d04211.md) |
 | 百度 | 产品经理实习生（J106008） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-2a30a008-be18-46bc-b6d5-9dedac0bfa25.md) |
+| 百度 | 产品力评估研究实习生（J106650） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-a3dbce47-5f4f-4cd9-8199-4fa90c05eecb.md) |
+| 百度 | 产品设计实习生（J85017） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-5b15712e-383b-4f4f-b291-d50ee4e613c1.md) |
 | 百度 | 产品实习生（J104545） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-b2bb488a-53f3-4379-88bb-42edadb9709c.md) |
 | 百度 | 产品实习生（J106187） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-cee7b5be-8c75-42d7-80ef-1912b88d8adb.md) |
 | 百度 | 产品实习生（J106734） 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-d294b3a4-0cdf-4891-8056-18cde88afc0f.md) |
@@ -45,6 +47,5 @@
 | 百度 | 搜索产品经理实习生（影视方向）（J106455） 〔≥5个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-5bc3e4f7-188d-4d1d-8d8f-956db910b2ca.md) |
 | 百度 | 搜索产品经理实习生（J106456） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-173b3284-3635-479c-b4c2-d2dc2d984dd6.md) |
 | 百度 | 搜索产品实习生（富媒体方向）（J84140） 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-e7bedc7b-f00e-486b-9ec3-f7da1fa1011e.md) |
-| 百度 | 搜索产品实习生（活动方向）（J98187）（2个团队） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/baidu-c9a68717-0f82-4aed-ad51-611120e0272f.md) [2](../../jobs/baidu-cd94ba0c-2419-4cb8-b796-3a07df50595e.md) |
 
 [下一页](intern-product-p2.md) · [总目录](../../llms.txt)

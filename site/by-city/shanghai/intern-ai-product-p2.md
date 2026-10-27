@@ -2,11 +2,10 @@
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 83](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 6](../../slices/bilibili/intern/ai-product/shanghai.md) · [小红书 4](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [米哈游 3](../../slices/mihoyo/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [美团 2](../../slices/meituan/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/intern/ai-product/shanghai.md) · [哔哩哔哩 6](../../slices/bilibili/intern/ai-product/shanghai.md) · [米哈游 4](../../slices/mihoyo/intern/ai-product/shanghai.md) · [小红书 4](../../slices/xiaohongshu/intern/ai-product/shanghai.md) · [百度 2](../../slices/baidu/intern/ai-product/shanghai.md) · [美团 2](../../slices/meituan/intern/ai-product/shanghai.md) · [腾讯 2](../../slices/tencent/intern/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | AI产品实习生 - TikTok Shop | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7631503751354779909.md) |
 | 字节跳动 | AI产品实习生 - TikTok直播 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688613641994766645.md) |
 | 字节跳动 | AI产品实习生-抖音生活服务 〔27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7637370586979584261.md) |
 | 字节跳动 | AI产品实习生-飞书 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7603227201404291381.md) |
@@ -46,5 +45,6 @@
 | 字节跳动 | AIGC产品实习生-国际化广告创意与品牌 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7564664315979090229.md) |
 | 字节跳动 | AIGC产品实习生（IAA方向） - 广告业务 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7674944037608409349.md) |
 | 字节跳动 | AIGC创意产品实习生 - 广告业务（2个团队） 〔≥6个月，每周≥5天〕 | 北京/上海 | 2026-10-27 | [1](../../jobs/bytedance-7688577144895064325.md) [2](../../jobs/bytedance-7677469600480790789.md) |
+| 字节跳动 | AIGC商业产品经理实习生-国际化（2个团队） 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7498320552189380882.md) [2](../../jobs/bytedance-7516809943816325384.md) |
 
 [上一页](intern-ai-product.md) · [下一页](intern-ai-product-p3.md) · [总目录](../../llms.txt)
