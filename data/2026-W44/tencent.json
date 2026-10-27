@@ -1,0 +1,45 @@
+[
+  {
+    "company": "tencent",
+    "title": "【示例】AI产品策划-混元",
+    "category": "AI产品",
+    "city": [
+      "深圳"
+    ],
+    "requirements": "示例：对大模型产品有判断力",
+    "deadline": "2026-11-02",
+    "apply_url": "https://example.com/tencent/job/1",
+    "source_url": "https://example.com/tencent/campus",
+    "fetched_at": "2026-10-27T10:00:00+08:00",
+    "example": true
+  },
+  {
+    "company": "tencent",
+    "title": "【示例】产品策划-微信",
+    "category": "产品",
+    "city": [
+      "广州",
+      "深圳"
+    ],
+    "requirements": "示例：逻辑清晰，沟通能力强",
+    "deadline": "2026-11-30",
+    "apply_url": "https://example.com/tencent/job/2",
+    "source_url": "https://example.com/tencent/campus",
+    "fetched_at": "2026-10-27T10:00:00+08:00",
+    "example": true
+  },
+  {
+    "company": "tencent",
+    "title": "【示例】用户运营-腾讯元宝",
+    "category": "运营",
+    "city": [
+      "深圳"
+    ],
+    "requirements": "示例：用户增长与活动策划经验",
+    "deadline": "2026-11-15",
+    "apply_url": "https://example.com/tencent/job/3",
+    "source_url": "https://example.com/tencent/campus",
+    "fetched_at": "2026-10-27T10:00:00+08:00",
+    "example": true
+  }
+]

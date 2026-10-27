@@ -1,0 +1,45 @@
+[
+  {
+    "company": "alibaba",
+    "title": "【示例】AI产品经理-通义",
+    "category": "AI产品",
+    "city": [
+      "杭州",
+      "北京"
+    ],
+    "requirements": "示例：理解RAG/Agent，有项目经历",
+    "deadline": "2026-11-10",
+    "apply_url": "https://example.com/alibaba/job/1",
+    "source_url": "https://example.com/alibaba/campus",
+    "fetched_at": "2026-10-27T10:00:00+08:00",
+    "example": true
+  },
+  {
+    "company": "alibaba",
+    "title": "【示例】产品经理-淘宝",
+    "category": "产品",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "示例：电商产品理解",
+    "deadline": null,
+    "apply_url": "https://example.com/alibaba/job/2",
+    "source_url": "https://example.com/alibaba/campus",
+    "fetched_at": "2026-10-27T10:00:00+08:00",
+    "example": true
+  },
+  {
+    "company": "alibaba",
+    "title": "【示例】AI运营-钉钉",
+    "category": "运营",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "示例：AI工具推广与场景运营",
+    "deadline": "2026-10-30",
+    "apply_url": "https://example.com/alibaba/job/3",
+    "source_url": "https://example.com/alibaba/campus",
+    "fetched_at": "2026-10-27T10:00:00+08:00",
+    "example": true
+  }
+]

@@ -1,0 +1,146 @@
+{
+  "week": "2026-W44",
+  "previous_week": null,
+  "generated_at": "2026-10-27",
+  "count": 9,
+  "jobs": [
+    {
+      "company": "alibaba",
+      "title": "【示例】AI运营-钉钉",
+      "category": "运营",
+      "city": [
+        "杭州"
+      ],
+      "requirements": "示例：AI工具推广与场景运营",
+      "deadline": "2026-10-30",
+      "apply_url": "https://example.com/alibaba/job/3",
+      "source_url": "https://example.com/alibaba/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "bytedance",
+      "title": "【示例】AI产品经理-大模型应用",
+      "category": "AI产品",
+      "city": [
+        "北京",
+        "上海"
+      ],
+      "requirements": "示例：熟悉大模型能力边界，有Agent产品体验",
+      "deadline": "2026-10-31",
+      "apply_url": "https://example.com/bytedance/job/1",
+      "source_url": "https://example.com/bytedance/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "tencent",
+      "title": "【示例】AI产品策划-混元",
+      "category": "AI产品",
+      "city": [
+        "深圳"
+      ],
+      "requirements": "示例：对大模型产品有判断力",
+      "deadline": "2026-11-02",
+      "apply_url": "https://example.com/tencent/job/1",
+      "source_url": "https://example.com/tencent/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "alibaba",
+      "title": "【示例】AI产品经理-通义",
+      "category": "AI产品",
+      "city": [
+        "杭州",
+        "北京"
+      ],
+      "requirements": "示例：理解RAG/Agent，有项目经历",
+      "deadline": "2026-11-10",
+      "apply_url": "https://example.com/alibaba/job/1",
+      "source_url": "https://example.com/alibaba/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "tencent",
+      "title": "【示例】用户运营-腾讯元宝",
+      "category": "运营",
+      "city": [
+        "深圳"
+      ],
+      "requirements": "示例：用户增长与活动策划经验",
+      "deadline": "2026-11-15",
+      "apply_url": "https://example.com/tencent/job/3",
+      "source_url": "https://example.com/tencent/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "bytedance",
+      "title": "【示例】产品经理-抖音电商",
+      "category": "产品",
+      "city": [
+        "杭州"
+      ],
+      "requirements": "示例：数据分析能力，用户洞察",
+      "deadline": "2026-11-20",
+      "apply_url": "https://example.com/bytedance/job/2",
+      "source_url": "https://example.com/bytedance/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "tencent",
+      "title": "【示例】产品策划-微信",
+      "category": "产品",
+      "city": [
+        "广州",
+        "深圳"
+      ],
+      "requirements": "示例：逻辑清晰，沟通能力强",
+      "deadline": "2026-11-30",
+      "apply_url": "https://example.com/tencent/job/2",
+      "source_url": "https://example.com/tencent/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "alibaba",
+      "title": "【示例】产品经理-淘宝",
+      "category": "产品",
+      "city": [
+        "杭州"
+      ],
+      "requirements": "示例：电商产品理解",
+      "deadline": null,
+      "apply_url": "https://example.com/alibaba/job/2",
+      "source_url": "https://example.com/alibaba/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    },
+    {
+      "company": "bytedance",
+      "title": "【示例】内容运营-AI创作工具",
+      "category": "运营",
+      "city": [
+        "北京"
+      ],
+      "requirements": "示例：熟悉AIGC社区，内容策划",
+      "deadline": null,
+      "apply_url": "https://example.com/bytedance/job/3",
+      "source_url": "https://example.com/bytedance/campus",
+      "fetched_at": "2026-10-27T10:00:00+08:00",
+      "example": true,
+      "is_new": true
+    }
+  ]
+}

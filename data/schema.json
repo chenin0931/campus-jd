@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "campus-jd company file",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "company",
+      "title",
+      "category",
+      "city",
+      "requirements",
+      "deadline",
+      "apply_url",
+      "source_url",
+      "fetched_at"
+    ],
+    "properties": {
+      "company": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "title": {
+        "type": "string"
+      },
+      "category": {
+        "enum": [
+          "AI产品",
+          "产品",
+          "运营"
+        ]
+      },
+      "city": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "requirements": {
+        "type": "string"
+      },
+      "deadline": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "apply_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "source_url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "fetched_at": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "example": {
+        "type": "boolean"
+      }
+    }
+  }
+}
