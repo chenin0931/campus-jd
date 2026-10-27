@@ -1,11 +1,12 @@
-# 杭州 · 校招 · 设计 · 全部公司（56 个岗位）
+# 杭州 · 校招 · 设计 · 全部公司（58 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 33](../../slices/netease/campus/design/hangzhou.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/hangzhou.md) · [腾讯 8](../../slices/tencent/campus/design/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/campus/design/hangzhou.md) · [快手 2](../../slices/kuaishou/campus/design/hangzhou.md) · [华为 1](../../slices/huawei/campus/design/hangzhou.md) · [vivo 1](../../slices/vivo/campus/design/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 33](../../slices/netease/campus/design/hangzhou.md) · [阿里巴巴 10](../../slices/alibaba/campus/design/hangzhou.md) · [腾讯 7](../../slices/tencent/campus/design/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/campus/design/hangzhou.md) · [字节跳动 2](../../slices/bytedance/campus/design/hangzhou.md) · [快手 2](../../slices/kuaishou/campus/design/hangzhou.md) · [华为 1](../../slices/huawei/campus/design/hangzhou.md) · [vivo 1](../../slices/vivo/campus/design/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 阿里巴巴 | 产品体验设计师 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907640037.md) |
 | 阿里巴巴 | 全模态实时双工视听交互-阿里星 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199910080010.md) |
 | 阿里巴巴 | 稳定高效的分布式推理服务运行时系统设计-阿里星 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199908360011.md) |
 | 阿里巴巴 | 智能体化多模态生成模型研究：从系统设计到实践应用-阿里星/C-Star | 北京/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907740030.md) |
@@ -17,6 +18,8 @@
 | 阿里巴巴 | MaaS 的高效资源调度与系统设计-阿里星 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907780031.md) |
 | 蚂蚁集团 | 【蚂蚁星】实时音视频交互大模型-蚂蚁健康-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-26042409775606.md) |
 | 蚂蚁集团 | 体验设计师 | 杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011001602.md) |
+| 字节跳动 | 产品设计师 - 火山引擎 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667495664276801797.md) |
+| 字节跳动 | AI产品设计师 - 飞书设计 〔27届〕 | 深圳/北京/杭州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668225112781474053.md) |
 | 华为 | ID与UX设计师 | 东莞/南京/西安/杭州/成都/武汉/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-36396.md) |
 | 快手 | 游戏3D角色设计师（2个团队） | 杭州 | 2026-10-27 | [1](../../jobs/kuaishou-13105.md) [2](../../jobs/kuaishou-10022.md) |
 | 网易 | 游戏设计师（系统策划）（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4720.md) [2](../../jobs/netease-4873.md) |
@@ -41,7 +44,6 @@
 | 腾讯 | 3D场景设计 | 深圳/上海/广州/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707392714613761.md) |
 | 腾讯 | 3D角色设计 | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707425254024192.md) |
 | 腾讯 | 动画 | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707425254024193.md) |
-| 腾讯 | 技术美术（AI方向） | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1283878428566955009.md) |
 | 腾讯 | 视频多模态训练数据引擎设计与优化 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1279259082272121862.md) |
 | 腾讯 | 游戏动效设计(特效向) | 深圳/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1283878477271213057.md) |
 | vivo | 交互设计师-27届秋招 〔27届〕 | 东莞/杭州/南京 | 2026-10-27 | [详情](../../jobs/vivo-fa864e61-ee1c-46f9-9a39-27979e4f5a7c.md) |

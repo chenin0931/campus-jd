@@ -3,7 +3,7 @@
 - id: tencent-108129
 - 公司: 腾讯（CSIG）
 - job_type: 校招
-- 类别: 其他
+- 类别: 销售
 - 城市: S.Korea-Seoul
 - status: active
 - 届别 grad_year: 未注明

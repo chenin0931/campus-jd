@@ -1,15 +1,18 @@
-# 上海 · 校招 · AI产品 · 全部公司（109 个岗位）（第 1/3 页）
+# 上海 · 校招 · AI产品 · 全部公司（103 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 94](../../slices/bytedance/campus/ai-product/shanghai.md) · [得物 4](../../slices/dewu/campus/ai-product/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ai-product/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/campus/ai-product/shanghai.md) · [美团 2](../../slices/meituan/campus/ai-product/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/ai-product/shanghai.md) · [携程 1](../../slices/ctrip/campus/ai-product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/ai-product/shanghai.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 86](../../slices/bytedance/campus/ai-product/shanghai.md) · [蚂蚁集团 4](../../slices/antgroup/campus/ai-product/shanghai.md) · [得物 4](../../slices/dewu/campus/ai-product/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ai-product/shanghai.md) · [美团 2](../../slices/meituan/campus/ai-product/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/ai-product/shanghai.md) · [携程 1](../../slices/ctrip/campus/ai-product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/ai-product/shanghai.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 阿里巴巴 | AI Agent产品经理 | 上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907740089.md) |
 | 阿里巴巴 | AI产品经理 | 北京/广州/杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907700037.md) |
+| 蚂蚁集团 | 【Plan A】大模型动态评测与评测诊断方向（AGI蓝军）-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260806011286814.md) |
+| 蚂蚁集团 | 大模型医学评测 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011015453.md) |
 | 蚂蚁集团 | 蚂蚁集团-医学专项-AI 健康产品评测专家 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-261020012500379.md) |
 | 蚂蚁集团 | AI产品经理 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011010330.md) |
+| 哔哩哔哩 | 视频生成评测专家【2027届】 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29906.md) |
 | 字节跳动 | 垂类Agent产品经理 - TikTok 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7691185619025103157.md) |
 | 字节跳动 | 达人产品经理（AI方向） - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7684119291016743221.md) |
 | 字节跳动 | 大模型产品经理 - 火山引擎 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667887767667624197.md) |
@@ -23,13 +26,11 @@
 | 字节跳动 | 商业化产品经理（抖音AI产品人才校招） - 抖音音乐 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667767484251670789.md) |
 | 字节跳动 | 投放策略产品经理（抖音AI产品人才校招） - 抖音 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667800162559641909.md) |
 | 字节跳动 | 音乐合作平台产品经理（抖音AI产品人才校招） - 抖音音乐 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673761412287646005.md) |
-| 字节跳动 | 营销工具产品经理（AI方向） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675675169187219717.md) |
 | 字节跳动 | 用户体验判责策略产品经理（AI Agent方向） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668368427569481989.md) |
 | 字节跳动 | 增长策略产品经理（抖音AI产品人才校招） - 抖音增长 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667800960324618501.md) |
 | 字节跳动 | 智能营销与增长产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668648008907360517.md) |
 | 字节跳动 | Agent产品经理 - AI算力基础设施 〔27届〕 | 北京/杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667890686731405573.md) |
 | 字节跳动 | AI Agent产品经理 - 巨量AI工作台 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699119731313821957.md) |
-| 字节跳动 | AI产品交互设计师 - 集团信息系统（2个团队） 〔27届〕 | 广州/北京/上海 | 2026-10-27 | [1](../../jobs/bytedance-7682755032220289333.md) [2](../../jobs/bytedance-7680204909073189173.md) |
 | 字节跳动 | AI产品经理 - 抖音电商（4个团队） 〔27届〕 | 上海/北京 | 2026-10-27 | [1](../../jobs/bytedance-7667519570013915445.md) [2](../../jobs/bytedance-7667887015312345397.md) [3](../../jobs/bytedance-7677588589015615749.md) [4](../../jobs/bytedance-7667590063169341701.md) |
 | 字节跳动 | AI产品经理 - 抖音生活服务（2个团队） 〔27届〕 | 上海/北京 | 2026-10-27 | [1](../../jobs/bytedance-7668609729397049653.md) [2](../../jobs/bytedance-7670005064061012229.md) |
 | 字节跳动 | AI产品经理 - 飞书&豆包办公任务 〔27届〕 | 上海/杭州/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670111236810656005.md) |

@@ -1,8 +1,8 @@
-# 北京 · 校招 · 项目管理 · 全部公司（19 个岗位）
+# 北京 · 校招 · 项目管理 · 全部公司（20 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[小米 8](../../slices/xiaomi/campus/pm/beijing.md) · [字节跳动 3](../../slices/bytedance/campus/pm/beijing.md) · [京东 3](../../slices/jd/campus/pm/beijing.md) · [百度 2](../../slices/baidu/campus/pm/beijing.md) · [快手 1](../../slices/kuaishou/campus/pm/beijing.md) · [腾讯 1](../../slices/tencent/campus/pm/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/pm/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小米 9](../../slices/xiaomi/campus/pm/beijing.md) · [字节跳动 3](../../slices/bytedance/campus/pm/beijing.md) · [京东 3](../../slices/jd/campus/pm/beijing.md) · [百度 2](../../slices/baidu/campus/pm/beijing.md) · [快手 1](../../slices/kuaishou/campus/pm/beijing.md) · [腾讯 1](../../slices/tencent/campus/pm/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/pm/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | 小红书 | 【2027校招】PMO | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22031.md) |
 | 小米 | 包材项目经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885531078002954.md) |
 | 小米 | 本地化项目经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671292970372778303.md) |
+| 小米 | 合规认证项目经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885568703760678.md) |
 | 小米 | 软件项目经理-汽车 〔27届〕 | 北京/南京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931328757680447.md) |
 | 小米 | 相机项目经理 〔27届〕 | 北京/南京/深圳 | 2026-10-27 | [详情](../../jobs/xiaomi-7671295356038580522.md) |
 | 小米 | 项目经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670884217367021850.md) |

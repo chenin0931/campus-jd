@@ -1,8 +1,8 @@
-# 北京 · 实习 · 市场 · 全部公司（93 个岗位）（第 1/3 页）
+# 北京 · 实习 · 市场 · 全部公司（103 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 47](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 16](../../slices/didi/intern/marketing/beijing.md) · [百度 6](../../slices/baidu/intern/marketing/beijing.md) · [网易 5](../../slices/netease/intern/marketing/beijing.md) · [腾讯 5](../../slices/tencent/intern/marketing/beijing.md) · [美团 4](../../slices/meituan/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [小米 3](../../slices/xiaomi/intern/marketing/beijing.md) · [京东 2](../../slices/jd/intern/marketing/beijing.md) · [小红书 2](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 45](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 15](../../slices/didi/intern/marketing/beijing.md) · [网易 12](../../slices/netease/intern/marketing/beijing.md) · [百度 7](../../slices/baidu/intern/marketing/beijing.md) · [美团 6](../../slices/meituan/intern/marketing/beijing.md) · [小米 6](../../slices/xiaomi/intern/marketing/beijing.md) · [腾讯 5](../../slices/tencent/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [京东 2](../../slices/jd/intern/marketing/beijing.md) · [小红书 2](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@
 | 百度 | 用户增长策略实习生（J90564） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-82e5fc4e-38e7-4eec-9f7b-f12f5fce7bde.md) |
 | 百度 | 用户增长实习生（J106231） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-e6550399-4c1b-4abd-8b73-19d9a4c50817.md) |
 | 百度 | ACG市场部实习生（J100967） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-2aed5046-52fc-43bb-8e54-8772f1cdb256.md) |
-| 字节跳动 | 创意设计（广告业务方向）实习生 - 广告业务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7639962613175454005.md) |
+| 百度 | GTM实习生(J18370) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-7f026f7d-f144-4fc2-8595-0475b6a4d15d.md) |
 | 字节跳动 | 达人营销实习生-番茄小说 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7543508719981168914.md) |
 | 字节跳动 | 达人营销实习生-剪映CapCut 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7621870280403077381.md) |
 | 字节跳动 | 豆包增长营销实习生 - AI创新业务 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699042961107388725.md) |
@@ -24,7 +24,6 @@
 | 字节跳动 | 海外广告投放实习生 - TikTok Shop 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683145704072038661.md) |
 | 字节跳动 | 海外市场营销实习生 - 剪映CapCut 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7579151346537007365.md) |
 | 字节跳动 | 剪映市场实习生 - 剪映CapCut 〔≥3个月，每周≥4天〕 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7689014591235623173.md) |
-| 字节跳动 | 品牌创意设计实习生 - Seed | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7638932470247655733.md) |
 | 字节跳动 | 品牌营销实习生 - 飞书商业化 〔≥6个月，每周≥5天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699775185122052357.md) |
 | 字节跳动 | 品牌营销实习生-飞书 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7434379521644284223.md) |
 | 字节跳动 | 市场实习生-抖音 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7535063400006142215.md) |
@@ -40,13 +39,14 @@
 | 字节跳动 | 数据科学实习生（增长）-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7604792919741008133.md) |
 | 字节跳动 | 搜索广告推荐架构系统实习生-Data-抖音/直播/电商/剪映 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7611417277229058309.md) |
 | 字节跳动 | 投放增长实习生-TikTok 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7660012825197726005.md) |
-| 字节跳动 | 消费综合行业市场实习生 - 飞书商业化 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7681152957988702469.md) |
-| 字节跳动 | 行业内容营销实习生 - 飞书商业化 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7678604586857122101.md) |
 | 字节跳动 | 行业增长策略实习生-飞书 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7376523269853743370.md) |
+| 字节跳动 | 营销产品实习生-财经业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7596953786521848069.md) |
 | 字节跳动 | 营销实习生-抖音运营 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7637441198371146037.md) |
 | 字节跳动 | 营销数据科学实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7680812639971002677.md) |
 | 字节跳动 | 用户增长策略实习生-财经业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7598544528874522933.md) |
 | 字节跳动 | 用户增长数据分析实习生-TikTok产品 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7602848498828986677.md) |
 | 字节跳动 | 娱乐营销实习生 - 抖音生活服务 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7576503942101289269.md) |
+| 字节跳动 | 增长策略分析实习生-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7602952383157750069.md) |
+| 字节跳动 | 增长策略实习生-飞书 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7493235849631566098.md) |
 
 [下一页](intern-marketing-p2.md) · [总目录](../../llms.txt)

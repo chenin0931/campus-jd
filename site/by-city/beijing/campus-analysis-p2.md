@@ -1,14 +1,11 @@
-# 北京 · 校招 · 分析 · 全部公司（104 个岗位）（第 2/3 页）
+# 北京 · 校招 · 分析 · 全部公司（99 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 58](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [阿里巴巴 6](../../slices/alibaba/campus/analysis/beijing.md) · [京东 6](../../slices/jd/campus/analysis/beijing.md) · [蚂蚁集团 4](../../slices/antgroup/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [滴滴 3](../../slices/didi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [腾讯 2](../../slices/tencent/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [小米 2](../../slices/xiaomi/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 56](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [阿里巴巴 5](../../slices/alibaba/campus/analysis/beijing.md) · [京东 5](../../slices/jd/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/campus/analysis/beijing.md) · [小米 3](../../slices/xiaomi/campus/analysis/beijing.md) · [滴滴 2](../../slices/didi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [腾讯 2](../../slices/tencent/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 数据分析师 - 抖音音乐 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7682681391491025205.md) |
-| 字节跳动 | 数据分析师 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669707798918007045.md) |
-| 字节跳动 | 数据分析师 - 今日头条 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669712338309089589.md) |
 | 字节跳动 | 数据分析师（AI分析工具建设） - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668257548126406917.md) |
 | 字节跳动 | 数据科学 - 抖音 〔27届〕 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665195003154925829.md) |
 | 字节跳动 | 数据科学 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668232018053155125.md) |
@@ -25,7 +22,6 @@
 | 字节跳动 | 数据科学家 - 抖音体验 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7666007957710522629.md) |
 | 字节跳动 | 文化策略与机制 - 人力与管理部 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7700962728300693765.md) |
 | 字节跳动 | 行业分析 - 人力与管理部 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7674928224138873141.md) |
-| 字节跳动 | 用户体验分析 - 抖音生活服务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668208458525264181.md) |
 | 字节跳动 | 用户研究分析师 - 经营办公室（用户研究） 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667609460127516933.md) |
 | 字节跳动 | 语音大模型数据（采集方向） - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7685748676148381957.md) |
 | 字节跳动 | 直播数据科学 - 音视频技术 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7664634148015573301.md) |
@@ -34,12 +30,10 @@
 | 字节跳动 | Agent数据策略 - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683449009184786741.md) |
 | 字节跳动 | AI数据策略（猫箱） - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683446683749386501.md) |
 | 字节跳动 | AI数据科学 - TikTok Shop 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667047148285937973.md) |
-| 滴滴 | 27届秋招-风险策略分析师（国际化金融-信贷） 〔27届〕 ⚠️链接待核 | 上海/北京 | 2026-10-27 | [详情](../../jobs/didi-b6102ba2-7a1c-43ff-85f5-2c48ade1a336.md) |
 | 滴滴 | 27届秋招-商业分析师（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-ff34e12a-9271-4ada-89d4-00810f6de214.md) |
 | 滴滴 | 27届秋招-数据分析师 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-b63a0b67-25ea-4fe8-85af-710b9bb2f950.md) |
 | 京东 | 服务咨询（体检方向） | 北京 | 2026-10-27 | [详情](../../jobs/jd-9410.md) |
 | 京东 | 服务咨询（听力师方向） | 北京 | 2026-10-27 | [详情](../../jobs/jd-9412.md) |
-| 京东 | 金融策略 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9131.md) |
 | 京东 | 商业分析 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-9071.md) |
 | 京东 | 数据分析 〔27届〕 | 上海/北京/合肥/济南/太原/广州/南宁/乌鲁木齐/南京/南通/宿迁/南昌/石家庄/杭州/长沙/厦门/贵阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9081.md) |
 | 京东 | 用户研究 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9062.md) |
@@ -51,5 +45,12 @@
 | 快手 | 商业分析师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9821.md) |
 | 快手 | 数据分析师（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13294.md) [2](../../jobs/kuaishou-9822.md) |
 | 快手 | 数据分析师-风控治理方向 | 杭州/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13207.md) |
+| 快手 | 数据科学家（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13295.md) [2](../../jobs/kuaishou-10991.md) |
+| 快手 | 体验优化分析师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13888.md) |
+| 快手 | 治理策略分析师（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13343.md) [2](../../jobs/kuaishou-12461.md) |
+| 美团 | 商业分析师（BA/DS） | 北京/科威特城/香港/上海/利雅得/迪拜 | 2026-10-27 | [详情](../../jobs/meituan-4697298860.md) |
+| 美团 | 智能商业分析师（BA/DS） | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4694982338.md) |
+| 网易 | 安全策略交付专员（北京）-网易智企 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4837.md) |
+| 腾讯 | 安全策略 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1284528300198503424.md) |
 
 [上一页](campus-analysis.md) · [下一页](campus-analysis-p3.md) · [总目录](../../llms.txt)

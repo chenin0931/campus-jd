@@ -1,19 +1,20 @@
-# 杭州 · 校招 · 职能 · 全部公司（9 个岗位）
+# 杭州 · 校招 · 职能 · 全部公司（10 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 2](../../slices/alibaba/campus/corporate/hangzhou.md) · [字节跳动 2](../../slices/bytedance/campus/corporate/hangzhou.md) · [网易 2](../../slices/netease/campus/corporate/hangzhou.md) · [华为 1](../../slices/huawei/campus/corporate/hangzhou.md) · [京东 1](../../slices/jd/campus/corporate/hangzhou.md) · [美团 1](../../slices/meituan/campus/corporate/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 2](../../slices/alibaba/campus/corporate/hangzhou.md) · [滴滴 2](../../slices/didi/campus/corporate/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/hangzhou.md) · [字节跳动 1](../../slices/bytedance/campus/corporate/hangzhou.md) · [华为 1](../../slices/huawei/campus/corporate/hangzhou.md) · [京东 1](../../slices/jd/campus/corporate/hangzhou.md) · [美团 1](../../slices/meituan/campus/corporate/hangzhou.md) · [网易 1](../../slices/netease/campus/corporate/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 阿里巴巴 | 风险合规专员 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907640096.md) |
 | 阿里巴巴 | 人力资源专员 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907820082.md) |
+| 蚂蚁集团 | 智能体与大模型应用工程（金融研究方向） | 上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011000113.md) |
 | 字节跳动 | 拉美物流采购专员 - TikTok Shop 〔27届〕 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7668648723850316037.md) |
-| 字节跳动 | 市场/销售类组织招聘 - 人力与管理部 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667389415075055877.md) |
+| 滴滴 | 27届秋招-风险策略分析师（国际化金融-支付） 〔27届〕 ⚠️链接待核 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/didi-7e1539c3-e46d-46d5-b05e-0a712f095a89.md) |
+| 滴滴 | 27届秋招-数据分析师（国际化金融） 〔27届〕 ⚠️链接待核 | 杭州/上海 | 2026-10-27 | [详情](../../jobs/didi-b1122e51-227a-429e-a54d-6acd2f337e3e.md) |
 | 华为 | 秘书 | 太原/东莞/西安/杭州/武汉/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38010.md) |
 | 京东 | 人力资源（专业方向） 〔27届〕 | 上海/昆明/北京/成都/合肥/济南/太原/广州/南宁/南京/南通/宿迁/石家庄/郑州/杭州/海口/武汉/长沙/贵阳/沈阳/重庆/西安/哈尔滨 | 2026-10-27 | [详情](../../jobs/jd-9111.md) |
 | 美团 | 招商采购岗 | 杭州/北京/上海/利雅得/成都/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4695162972.md) |
 | 网易 | 采购管培生 | 杭州/广州 | 2026-10-27 | [详情](../../jobs/netease-4766.md) |
-| 网易 | 星火计划 2027届人力资源培训生 〔27届〕 | 杭州/上海/广州 | 2026-10-27 | [详情](../../jobs/netease-4788.md) |
 
 [总目录](../../llms.txt)

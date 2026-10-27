@@ -3,7 +3,7 @@
 - id: tencent-108259
 - 公司: 腾讯（IEG）
 - job_type: 实习
-- 类别: 其他
+- 类别: 产品
 - 城市: Netherlands-Amsterdam
 - status: active
 - 届别 grad_year: 未注明

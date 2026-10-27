@@ -1,17 +1,11 @@
-# 上海 · 校招 · 产品 · 全部公司（122 个岗位）（第 3/3 页）
+# 上海 · 校招 · 产品 · 全部公司（115 个岗位）（第 3/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 87](../../slices/bytedance/campus/product/shanghai.md) · [得物 19](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 用户增长产品经理（联合用户增长） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668321009259579701.md) |
-| 字节跳动 | 用户增长产品经理（SEA） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668648081264527621.md) |
-| 字节跳动 | 用户账户产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7665585566877436213.md) |
-| 字节跳动 | 增长策略产品 - 国际支付 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665585620055689525.md) |
-| 字节跳动 | 直播产品经理 - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668331033272944949.md) |
-| 字节跳动 | 直播产品经理（商家供给与成长） - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7694222239787059461.md) |
 | 字节跳动 | CoreHR产品经理 - 集团信息系统 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668219372510955829.md) |
 | 携程 | 产品经理（2027届秋招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036633.md) |
 | 得物 | 【27届校招】补贴策略产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7680885671376718130.md) |
@@ -21,7 +15,6 @@
 | 得物 | 【27届校招】广告流量产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7671100456819427620.md) |
 | 得物 | 【27届校招】广告投放产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670389443903326510.md) |
 | 得物 | 【27届校招】价格力产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7671159837166504238.md) |
-| 得物 | 【27届校招】客服&体验产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7685986718365419812.md) |
 | 得物 | 【27届校招】流量策略产品经理 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670397694233332018.md) |
 | 得物 | 【27届校招】商家策略产品经理-得物国际 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7677512811879614739.md) |
 | 得物 | 【27届校招】商家工具产品经理-得物国际 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7677507816106084635.md) |

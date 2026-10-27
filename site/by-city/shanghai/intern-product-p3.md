@@ -1,14 +1,11 @@
-# 上海 · 实习 · 产品 · 全部公司（239 个岗位）（第 3/6 页）
+# 上海 · 实习 · 产品 · 全部公司（228 个岗位）（第 3/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 177](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 169](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 东南亚营销产品实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7694193756984625413.md) |
-| 字节跳动 | 短剧/漫剧行业商业产品实习生-广告业务 〔≥5个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7559833699594160402.md) |
-| 字节跳动 | 短剧产品实习生 - TikTok 〔≥6个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7634129983086676277.md) |
 | 字节跳动 | 反作弊产品实习生-风控 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7592519302153177349.md) |
 | 字节跳动 | 广告策略产品实习生 - 广告业务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7676290873403623733.md) |
 | 字节跳动 | 广告策略产品实习生-广告业务（3个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7655251229102049541.md) [2](../../jobs/bytedance-7646993611674044725.md) [3](../../jobs/bytedance-7591402836862748933.md) |
@@ -20,7 +17,6 @@
 | 字节跳动 | 国际化产品实习生-番茄小说 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7594356866569160965.md) |
 | 字节跳动 | 国际化短视频商业化产品实习生（品牌创新样式方向）-国际化广告创意与品牌 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7564657769619360053.md) |
 | 字节跳动 | 国际消费金融产品实习生 - 国际支付 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7690479944192297221.md) |
-| 字节跳动 | 海外增长产品实习生 - 飞书商业化 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7641119986882349365.md) |
 | 字节跳动 | 激励增长产品实习生 - TikTok用户增长 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7696091336395983157.md) |
 | 字节跳动 | 技术产品实习生-抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7544962846703864072.md) |
 | 字节跳动 | 技术平台产品实习生-中国交易与广告 〔27届 · ≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591390405382097157.md) |
@@ -44,5 +40,9 @@
 | 字节跳动 | 品牌广告产品实习生-国际化广告创意与品牌 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591364030622402821.md) |
 | 字节跳动 | 平台产品实习生 - TikTok 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7658191727861811509.md) |
 | 字节跳动 | 平台产品实习生-TikTok直播 〔27届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7614784165129652533.md) |
+| 字节跳动 | 企业全球钱包产品实习生-国际支付 〔27届 · ≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7606174402031814965.md) |
+| 字节跳动 | 清算产品经理实习生-国际支付 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7606256694435367221.md) |
+| 字节跳动 | 渠道产品实习生-国际支付 〔27届 · ≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7606628996687841541.md) |
+| 字节跳动 | 全球产品战略实习生-Global Business Solutions | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7551314184257669384.md) |
 
 [上一页](intern-product-p2.md) · [下一页](intern-product-p4.md) · [总目录](../../llms.txt)

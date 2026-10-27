@@ -3,7 +3,7 @@
 - id: netease-77642
 - 公司: 网易（网易职能）
 - job_type: 实习
-- 类别: 其他
+- 类别: 职能
 - 城市: 成都
 - status: active
 - 届别 grad_year: 未注明

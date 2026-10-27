@@ -1,16 +1,21 @@
-# 上海 · 实习 · 运营 · 全部公司（510 个岗位）（第 3/12 页）
+# 上海 · 实习 · 运营 · 全部公司（529 个岗位）（第 3/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 295](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 100](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 15](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 7](../../slices/jd/intern/ops/shanghai.md) · [网易 7](../../slices/netease/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [腾讯 6](../../slices/tencent/intern/ops/shanghai.md) · [百度 2](../../slices/baidu/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 301](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [网易 10](../../slices/netease/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 哔哩哔哩 | SSC员工服务与运营（实习） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30850.md) |
+| 哔哩哔哩 | TV端电影电视剧内容运营实习生 〔27/28届 · ≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30134.md) |
+| 哔哩哔哩 | updream内容运营实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30124.md) |
+| 字节跳动 | 【实习】大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-番茄（北京/上海/杭州/深圳） 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628622476223187205.md) |
+| 字节跳动 | 【实习】大模型驱动的内容生产与分发：IP跨体裁生成与LLM推荐-今日头条（北京/上海/杭州） 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7628623902357014789.md) |
+| 字节跳动 | 安全产品运营实习生-TikTok 安全产品 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7618061905297361157.md) |
 | 字节跳动 | 巴西标品行业运营实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7696782191108278581.md) |
 | 字节跳动 | 巴西商家运营实习生-TikTok Shop 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7659078288090417461.md) |
 | 字节跳动 | 榜单运营实习生 - 抖音生活服务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7621018446758725893.md) |
 | 字节跳动 | 本地创意行业策略运营实习生-抖音生活服务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7615264807541393717.md) |
-| 字节跳动 | 策略运营实习生 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675312353537231157.md) |
 | 字节跳动 | 策略运营实习生 - 国际化商业安全 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7664868416964774149.md) |
 | 字节跳动 | 策略运营实习生 - TikTok 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7641939128833542405.md) |
 | 字节跳动 | 策略运营实习生 - TikTok Shop（5个团队） 〔≥6个月〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7617723344058927413.md) [2](../../jobs/bytedance-7678967047988758837.md) [3](../../jobs/bytedance-7680490856960903477.md) [4](../../jobs/bytedance-7665262305533266229.md) [5](../../jobs/bytedance-7695662999553526069.md) |
@@ -33,16 +38,11 @@
 | 字节跳动 | 达人营销产品运营实习生-国际化 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7517879576338123015.md) |
 | 字节跳动 | 达人营销产品运营实习生（服务商方向）-国际化 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7566922404153690421.md) |
 | 字节跳动 | 达人营销产品运营实习生（MCN方向）-国际化 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7542768615830309127.md) |
+| 字节跳动 | 达人运营实习生 - TikTok Shop 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7701277488085797173.md) |
 | 字节跳动 | 达人治理运营实习生-TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7559786614194768136.md) |
 | 字节跳动 | 大众消费食品生鲜运营实习生 - 抖音电商运营 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698272137612118277.md) |
 | 字节跳动 | 贷后AI运营（马来语）实习生-国际支付（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7644781345340786949.md) [2](../../jobs/bytedance-7639219301090871557.md) |
 | 字节跳动 | 贷后AI运营（泰语）实习生-国际支付 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7644114916102326533.md) |
 | 字节跳动 | 贷后AI运营实习生 - 国际支付 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680906709036075317.md) |
-| 字节跳动 | 电商内容运营实习生 - TikTok Shop 〔每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7695639547786545461.md) |
-| 字节跳动 | 电商运营实习生 - TikTok Shop（3个团队） 〔≥3个月〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7675337320409450805.md) [2](../../jobs/bytedance-7678371003115866373.md) [3](../../jobs/bytedance-7564738089709652277.md) |
-| 字节跳动 | 电商运营AI产品实习生（业务场景方向） - TikTok Shop | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7686369683588630789.md) |
-| 字节跳动 | 电商直播策略运营实习生 - TikTok Shop 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7695683273868626181.md) |
-| 字节跳动 | 东南亚策略运营实习生 - TikTok Shop 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697099844515023157.md) |
-| 字节跳动 | 东南亚达人策略运营实习生-TikTok Shop 〔每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7651555195876329781.md) |
 
 [上一页](intern-ops-p2.md) · [下一页](intern-ops-p4.md) · [总目录](../../llms.txt)

@@ -3,7 +3,7 @@
 - id: mihoyo-8409
 - 公司: 米哈游
 - job_type: 实习
-- 类别: 其他
+- 类别: 运营
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2028、2029届

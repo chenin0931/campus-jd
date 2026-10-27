@@ -3,7 +3,7 @@
 - id: netease-79489
 - 公司: 网易（网易游戏（互娱））
 - job_type: 实习
-- 类别: 分析
+- 类别: AI产品
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明

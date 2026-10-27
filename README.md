@@ -1,33 +1,33 @@
-# 大厂非技术岗（产品/运营/商务/市场/销售/设计/职能/项目管理/分析/策划）校招·实习 JD 库（每周更新）
+# 大厂非技术岗（产品/运营/商务/市场/销售/设计/职能/项目管理/分析/策划/供应链）校招·实习 JD 库（每周更新）
 
 GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在服务端算好按**公司 × 校招/实习 × 类别 × 城市**切分的小文件（每个 ≤8KB），发布到 GitHub Pages。学生的 AI 助手（WorkBuddy 等）装上 skill 后，只需 fetch 两三个小文件就能回答“上海有哪些 AI 产品实习”。
 
 ## 总览
 <!-- overview:start -->
-数据周 **2026-W44**（2026-10-27 生成）· 在招 **7386** · 本周新增 **0** · 下架 **0**
+数据周 **2026-W44**（2026-10-27 生成）· 在招 **7356** · 本周新增 **0** · 下架 **0**
 
 | 公司 | 校招 | 实习 | 合计 |
 |---|---:|---:|---:|
-| 阿里巴巴 | 124 | 0 | 124 |
-| 蚂蚁集团 | 20 | 29 | 49 |
-| 百度 | 61 | 309 | 370 |
-| 哔哩哔哩 | 34 | 243 | 277 |
-| 字节跳动 | 858 | 2223 | 3081 |
+| 阿里巴巴 | 121 | 0 | 121 |
+| 蚂蚁集团 | 20 | 30 | 50 |
+| 百度 | 61 | 307 | 368 |
+| 哔哩哔哩 | 35 | 242 | 277 |
+| 字节跳动 | 861 | 2219 | 3080 |
 | 携程 | 37 | 22 | 59 |
 | 得物 | 133 | 5 | 138 |
-| 滴滴 | 43 | 473 | 516 |
+| 滴滴 | 43 | 455 | 498 |
 | 华为 | 21 | 11 | 32 |
-| 京东 | 83 | 69 | 152 |
-| 快手 | 170 | 77 | 247 |
-| 美团 | 71 | 198 | 269 |
-| 米哈游 | 75 | 87 | 162 |
-| 网易 | 87 | 526 | 613 |
+| 京东 | 80 | 70 | 150 |
+| 快手 | 169 | 76 | 245 |
+| 美团 | 73 | 201 | 274 |
+| 米哈游 | 74 | 85 | 159 |
+| 网易 | 87 | 530 | 617 |
 | OPPO | 45 | 31 | 76 |
-| 拼多多 | 23 | 2 | 25 |
-| 腾讯 | 98 | 218 | 316 |
+| 拼多多 | 24 | 2 | 26 |
+| 腾讯 | 96 | 223 | 319 |
 | vivo | 10 | 27 | 37 |
-| 小红书 | 36 | 183 | 219 |
-| 小米 | 319 | 305 | 624 |
+| 小红书 | 34 | 184 | 218 |
+| 小米 | 318 | 294 | 612 |
 <!-- overview:end -->
 
 ## 使用教程（学生）
@@ -56,7 +56,7 @@ site/jobs/{company}-{postId}.md   岗位详情（job_type、status、要求、�
 site/companies/{company}.md 公司总览；site/by-year/{yy}/ 按届别
 skill/SKILL.md + campus-jd-skill.zip   给 agent 的 skill（<BASE_URL> 占位，主 Pages，备 jsDelivr）
 ```
-slug：category `ai-product|product|ops|business|marketing|sales|design|corporate|pm|analysis|planning|other`（排除法：技术岗以外全收，规则见 scripts/reference/CLASSIFIER.md）；城市为拼音（`beijing`、`shanghai`…，未登记城市归 `other`）。
+slug：category `ai-product|product|ops|business|marketing|sales|design|corporate|pm|analysis|planning|supply|other`（排除法：技术岗以外全收，规则见 scripts/reference/CLASSIFIER.md）；城市为拼音（`beijing`、`shanghai`…，未登记城市归 `other`）。
 
 ## 维护者
 ```bash

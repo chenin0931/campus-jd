@@ -15,7 +15,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199910080010",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199910080010",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -32,7 +32,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199910080009",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199910080009",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -49,7 +49,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820076",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820076",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -66,7 +66,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199910100002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199910100002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -83,7 +83,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199909820003",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199909820003",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -100,7 +100,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199909900004",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199909900004",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -118,7 +118,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780022",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780022",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -136,7 +136,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740022",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907740022",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -153,7 +153,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640029",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640029",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -170,7 +170,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908580004",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908580004",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -187,7 +187,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199909220002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199909220002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -206,7 +206,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -223,25 +223,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199909260001",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199909260001",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "淘宝闪购"
-    ],
-    "title": "时空互联网商业AI内核范式的研究和应用-阿里星",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "杭州",
-      "上海"
-    ],
-    "requirements": "1. 教育背景：计算机科学、人工智能、运筹学、数据科学等相关专业，博士研究生及以上学历，熟悉推荐系统、运筹等基础理论。\n2. 扎实的技术能力：精通Pytorch框架，熟练掌握 Transformer、扩散模型、对比学习等生成式模型技术；在大模型（LLM）、推荐系统、生成式 AI 等相关领域，有参与/主导过项目者优先。\n3. 出色的科研能力：参与或主导过有代表性的技术开源/科研项目工作，或发表过发表过大模型相关领域高质量、有影响力的论文，如：KDD、ACL、CIKM、NIPS等顶级会议相关论文，RecSys Challenge、Kaggle等竞赛并获奖。\n4. 快速学习与创新能力：对技术有强烈好奇心，能快速跟踪国际前沿研究，主动掌握新工具与新范式，具备创新突破和不断具备在模糊中找路径的韧性以及独立思考与解决复杂问题的能力。\n5. 团队协作与推动能力： 能够清晰表达技术思路，良好的沟通能力与团队协作精神，推动跨部门合作及目标落地。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720079",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907720079",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -258,7 +240,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680022",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680022",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -276,7 +258,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780031",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780031",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -294,7 +276,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740037",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907740037",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -313,25 +295,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740030",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907740030",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "阿里巴巴控股集团"
-    ],
-    "title": "代码场景的Agentic RL与数据合成-阿里星",
-    "category": "分析",
-    "job_type": "校招",
-    "city": [
-      "北京",
-      "杭州"
-    ],
-    "requirements": "1. 计算机、信息科学、数学或相关专业博士学历，深入理解LLM/MLLM/RL/Agent领域，熟悉DPO/PPO/GRPO等RL前沿算法；\n2. 有大规模数据合成、Coding Agent训练、大规模RL训练等项目经验者优先；\n3. 有较强的自驱力、学习力、创新力、沟通能力和抗压能力，能够跟上正在快速变化的AI时代；\n4. 加分项：在ICLR、ICML、CVPR、ICCV、ACL、NeurIPS等顶会上发表过高质量论文，有高质量github开源项目者优先；\n5. 加分项：具有业界AI/Agent团队的相关实习和工作经验。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640077",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907640077",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -349,7 +313,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720114",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907720114",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -367,7 +331,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740115",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907740115",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -384,7 +348,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907920007",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907920007",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -401,7 +365,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720121",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907720121",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -418,7 +382,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780008",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780008",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -435,7 +399,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640018",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640018",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -452,7 +416,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740020",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907740020",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -469,7 +433,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820054",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820054",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -486,7 +450,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820053",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820053",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -503,7 +467,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780072",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780072",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -520,7 +484,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820070",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820070",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -537,7 +501,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780071",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780071",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -554,7 +518,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680011",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680011",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -562,7 +526,7 @@
       "灵犀互娱"
     ],
     "title": "游戏美术项目管理",
-    "category": "设计",
+    "category": "项目管理",
     "job_type": "校招",
     "city": [
       "广州"
@@ -571,7 +535,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740085",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907740085",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -588,7 +552,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800015",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907800015",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -605,24 +569,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800016",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907800016",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "灵犀互娱"
-    ],
-    "title": "游戏技术美术",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "广州"
-    ],
-    "requirements": "1、热爱游戏，计算机.美术.游戏相关专业；\n2、至少熟悉一款商业引擎，UE4或UNITY，至少熟悉一门编程语言；\n4、至少熟悉一款DCC工具使用，至少熟悉任意单一环节的生产流程；\n5、对 AIGC 领域有强烈的好奇心和热情，日常有关注或使用过主流的 AI 图像生成工具;\n5、优秀的学习能力以及团队协作沟通能力；\n6.对图形图像实时渲染领域有较高的兴趣；\n7、投递时请提供简历+作品。\n作品形式：图片、视频、技术实现文档、工具脚本、博客链接均可。\n简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等）；有游戏相关作品/项目经历请附上；为了更全面的展现你自己，你还可以在简历中附上你认为自己最有意思的爱好、特长、经历，或是对未来有意思的畅想，没有限制，此项非必填。加入我们，一起打开有意思的未来！",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700015",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907700015",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -639,7 +586,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680014",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680014",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -656,7 +603,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907660015",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907660015",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -673,7 +620,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700014",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700014",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -690,7 +637,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700020",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700020",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -707,7 +654,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820082",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820082",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -724,7 +671,24 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720090",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907720090",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
+  },
+  {
+    "company": "阿里巴巴",
+    "business_unit": [
+      "千问办公"
+    ],
+    "title": "项目管理",
+    "category": "项目管理",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 本科及以上学历，英语或第二外语流利优先；\n2. 具备良好的职业素养，工作主动、认真负责、细心严谨，具备自我激励、团队精神、有较强的吃苦耐劳和抗压能力； \n3. 具备出色的项目合作意识和沟通协调能力，复杂问题的解构能力，快速学习能力，开放性思维，极强自我驱动力；\n4. 有良好的情商和沟通组织协调能力能快速找到关键问题和决定要素。",
+    "deadline": null,
+    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740092",
+    "source_url": "https://campus-talent.alibaba.com/campus/position/199907740092",
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -743,24 +707,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780074",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780074",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "千问办公"
-    ],
-    "title": "项目管理",
-    "category": "项目管理",
-    "job_type": "校招",
-    "city": [
-      "杭州"
-    ],
-    "requirements": "1. 本科及以上学历，英语或第二外语流利优先；\n2. 具备良好的职业素养，工作主动、认真负责、细心严谨，具备自我激励、团队精神、有较强的吃苦耐劳和抗压能力； \n3. 具备出色的项目合作意识和沟通协调能力，复杂问题的解构能力，快速学习能力，开放性思维，极强自我驱动力；\n4. 有良好的情商和沟通组织协调能力能快速找到关键问题和决定要素。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740092",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907740092",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -777,7 +724,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640094",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640094",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -794,7 +741,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640096",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640096",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -811,7 +758,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740089",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907740089",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -828,24 +775,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720093",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907720093",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "虎鲸文娱集团"
-    ],
-    "title": "游戏技术美术设计师",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1.本科以上，美术、动画、计算机、软件工程、图形学等相关专业；\n2.具备Shader编程基础（HLSL/GLSL）；\n3.了解计算机图形学基础知识，了解渲染管线原理。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640093",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907640093",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -862,7 +792,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907660023",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907660023",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -879,7 +809,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680031",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680031",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -897,7 +827,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700027",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700027",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -916,7 +846,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907660025",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907660025",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -934,7 +864,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620026",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907620026",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -951,7 +881,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620023",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907620023",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -968,7 +898,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700031",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700031",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -985,7 +915,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700033",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700033",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1007,7 +937,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700039",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700039",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1029,7 +959,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700034",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700034",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1059,7 +989,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700037",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700037",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1084,7 +1014,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780089",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780089",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1102,7 +1032,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720098",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907720098",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1119,7 +1049,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908480006",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908480006",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1136,7 +1066,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908380006",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908380006",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1153,7 +1083,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908380005",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908380005",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1170,7 +1100,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908160003",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908160003",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1187,7 +1117,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908000006",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908000006",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1204,7 +1134,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680019",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680019",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1221,7 +1151,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680018",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680018",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1238,7 +1168,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680017",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680017",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1255,24 +1185,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680015",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680015",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "灵犀互娱"
-    ],
-    "title": "游戏场景原画（国风）",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合；\n2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想；\n3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历；\n4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700017",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907700017",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1291,7 +1204,41 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680021",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680021",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
+  },
+  {
+    "company": "阿里巴巴",
+    "business_unit": [
+      "灵犀互娱"
+    ],
+    "title": "游戏场景原画（国风）",
+    "category": "设计",
+    "job_type": "校招",
+    "city": [
+      "上海"
+    ],
+    "requirements": "1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合；\n2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想；\n3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历；\n4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
+    "deadline": null,
+    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700017",
+    "source_url": "https://campus-talent.alibaba.com/campus/position/199907700017",
+    "fetched_at": "2026-10-27T18:19:01+08:00"
+  },
+  {
+    "company": "阿里巴巴",
+    "business_unit": [
+      "灵犀互娱"
+    ],
+    "title": "游戏场景原画（写实）",
+    "category": "设计",
+    "job_type": "校招",
+    "city": [
+      "广州"
+    ],
+    "requirements": "1、希望热爱三国题材，对历史建筑感兴趣 or 喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； \n2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯，具备良好的空间构图和氛围营造能力； \n3、简历请附作品，相关作品附件（PDF 格式）或者网页链接，请勿放网盘链接，作品需包含场景原画相关创作。",
+    "deadline": null,
+    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620015",
+    "source_url": "https://campus-talent.alibaba.com/campus/position/199907620015",
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1309,24 +1256,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907660017",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907660017",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "灵犀互娱"
-    ],
-    "title": "游戏场景原画（写实）",
-    "category": "设计",
-    "job_type": "校招",
-    "city": [
-      "广州"
-    ],
-    "requirements": "1、希望热爱三国题材，对历史建筑感兴趣 or 喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； \n2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯，具备良好的空间构图和氛围营造能力； \n3、简历请附作品，相关作品附件（PDF 格式）或者网页链接，请勿放网盘链接，作品需包含场景原画相关创作。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620015",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907620015",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1343,7 +1273,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680020",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680020",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1360,7 +1290,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800018",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907800018",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1377,7 +1307,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620014",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907620014",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1394,7 +1324,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907660016",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907660016",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1413,7 +1343,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700018",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700018",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1422,7 +1352,7 @@
       "灵犀互娱"
     ],
     "title": "游戏特效",
-    "category": "其他",
+    "category": "设计",
     "job_type": "校招",
     "city": [
       "北京",
@@ -1433,7 +1363,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700021",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700021",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1450,7 +1380,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800019",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907800019",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1467,7 +1397,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800020",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907800020",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1485,7 +1415,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700019",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700019",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1502,7 +1432,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620016",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907620016",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1528,7 +1458,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800043",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907800043",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1545,7 +1475,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907920006",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907920006",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1562,7 +1492,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908020002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908020002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1580,7 +1510,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907860005",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907860005",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1597,7 +1527,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907980005",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907980005",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1615,7 +1545,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908200001",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908200001",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1633,7 +1563,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908120002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908120002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1650,7 +1580,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908160002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908160002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1667,7 +1597,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908480003",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908480003",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1675,7 +1605,7 @@
       "阿里健康"
     ],
     "title": "质量管理（医药背景）",
-    "category": "其他",
+    "category": "供应链",
     "job_type": "校招",
     "city": [
       "杭州"
@@ -1684,7 +1614,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908380008",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908380008",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1701,7 +1631,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720076",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907720076",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1721,7 +1651,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908320015",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908320015",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1729,7 +1659,7 @@
       "阿里巴巴控股集团"
     ],
     "title": "AI Coding 数据分析与评测-阿里星",
-    "category": "分析",
+    "category": "AI产品",
     "job_type": "校招",
     "city": [
       "杭州"
@@ -1738,7 +1668,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908300007",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908300007",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1756,7 +1686,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908360011",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908360011",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1773,7 +1703,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908200002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908200002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1790,7 +1720,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908340008",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908340008",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1808,7 +1738,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640112",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640112",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1826,7 +1756,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640074",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640074",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1843,7 +1773,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908160001",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908160001",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1860,7 +1790,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907900008",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907900008",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1880,7 +1810,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199908000004",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199908000004",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1897,7 +1827,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907920004",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907920004",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1914,7 +1844,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907960002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907960002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1931,7 +1861,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907920003",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907920003",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1948,7 +1878,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907920002",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907920002",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1965,7 +1895,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820114",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820114",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -1984,7 +1914,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820112",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820112",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2002,7 +1932,25 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700050",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700050",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
+  },
+  {
+    "company": "阿里巴巴",
+    "business_unit": [
+      "阿里云"
+    ],
+    "title": "云安全大模型智能体对抗评测与能力边界定义-阿里星/A Star",
+    "category": "AI产品",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "杭州"
+    ],
+    "requirements": "1、扎实的机器学习/深度学习基础，熟悉大模型评测方法（LLM-as-a-Judge、红队测试、对抗评测等）；\n2、深入理解 Claude、OpenAI 等顶尖实验室的模型评测技术体系，具备改进与创新能力；\n3、对安全攻防有强烈兴趣，具备构造 Corner Case 和对抗样本的偏执热情，擅长逼出 AI 能力边界；\n4、优秀的算法工程能力，能够将评测理念转化为可落地的系统架构；\n5、有 CCF-A/NeurIPS/ICML/Security 等顶会论文，或 DEF CON/GEEKPWN/强网杯等竞赛经验者优先。",
+    "deadline": null,
+    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640113",
+    "source_url": "https://campus-talent.alibaba.com/campus/position/199907640113",
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2020,7 +1968,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680060",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680060",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2039,7 +1987,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700044",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907700044",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2057,41 +2005,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820108",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907820108",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "阿里云"
-    ],
-    "title": "具身智能的高效训练、数据闭环与云上部署关键技术-阿里星/A Star",
-    "category": "分析",
-    "job_type": "校招",
-    "city": [
-      "杭州"
-    ],
-    "requirements": "1. 计算机、人工智能、机器人、自动驾驶、机器学习、系统、高性能计算等相关方向硕士或博士优先。\n2. 熟悉具身智能、机器人学习、VLA/VLM、World Model、强化学习、模仿学习、多模态大模型中的一个或多个方向。\n3. 熟悉 PyTorch、分布式训练、多机多卡训练、数据加载、模型训练调优等基础能力，有大模型或多模态模型训练经验优先。\n4. 具备较强系统工程能力，了解 GPU/异构硬件性能分析、算子优化、通信优化、显存优化、数据管线优化者优先。\n5. 有 CoRL、RSS、ICRA、IROS、NeurIPS、ICLR、MLSys、CVPR 等顶级会议论文、开源项目、机器人/自动驾驶/具身智能项目经验者优先。\n6. 具备较强的问题抽象能力和工程落地能力，能够从真实客户场景中提炼通用技术问题，并推动形成可复用方案。\n7. 对具身智能和 AI 基础设施有长期热情，愿意在前沿模型、训练系统、云上平台和客户场景交叉方向持续深耕。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640110",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907640110",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "阿里云"
-    ],
-    "title": "面向异构计算的多模态数据处理性能优化技术-阿里星/A Star",
-    "category": "分析",
-    "job_type": "校招",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1. 具备扎实的计算机基础和分布式系统研发经验，并对操作系统原理，计算机网络等系统领域知识有较好的理解和项目应用经验。\n2. 熟悉主流面向对象编程语言，具备优秀的系统 Debug/Profiling 能力。\n3. 工程实践方面，能够熟练使用Python，并熟悉PyData技术栈，具备较好的使用Python进行数据处理的经验。\n4. 熟悉Kubernetes和Ray平台并具备Ray 组件开发经验，或具备Daft/Ray Data/Modin等分布式DataFrame框架使用经验的候选人优先。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780101",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907780101",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2109,7 +2023,41 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720109",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907720109",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
+  },
+  {
+    "company": "阿里巴巴",
+    "business_unit": [
+      "阿里云"
+    ],
+    "title": "具身智能的高效训练、数据闭环与云上部署关键技术-阿里星/A Star",
+    "category": "分析",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 计算机、人工智能、机器人、自动驾驶、机器学习、系统、高性能计算等相关方向硕士或博士优先。\n2. 熟悉具身智能、机器人学习、VLA/VLM、World Model、强化学习、模仿学习、多模态大模型中的一个或多个方向。\n3. 熟悉 PyTorch、分布式训练、多机多卡训练、数据加载、模型训练调优等基础能力，有大模型或多模态模型训练经验优先。\n4. 具备较强系统工程能力，了解 GPU/异构硬件性能分析、算子优化、通信优化、显存优化、数据管线优化者优先。\n5. 有 CoRL、RSS、ICRA、IROS、NeurIPS、ICLR、MLSys、CVPR 等顶级会议论文、开源项目、机器人/自动驾驶/具身智能项目经验者优先。\n6. 具备较强的问题抽象能力和工程落地能力，能够从真实客户场景中提炼通用技术问题，并推动形成可复用方案。\n7. 对具身智能和 AI 基础设施有长期热情，愿意在前沿模型、训练系统、云上平台和客户场景交叉方向持续深耕。",
+    "deadline": null,
+    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640110",
+    "source_url": "https://campus-talent.alibaba.com/campus/position/199907640110",
+    "fetched_at": "2026-10-27T18:19:01+08:00"
+  },
+  {
+    "company": "阿里巴巴",
+    "business_unit": [
+      "阿里云"
+    ],
+    "title": "面向异构计算的多模态数据处理性能优化技术-阿里星/A Star",
+    "category": "分析",
+    "job_type": "校招",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 具备扎实的计算机基础和分布式系统研发经验，并对操作系统原理，计算机网络等系统领域知识有较好的理解和项目应用经验。\n2. 熟悉主流面向对象编程语言，具备优秀的系统 Debug/Profiling 能力。\n3. 工程实践方面，能够熟练使用Python，并熟悉PyData技术栈，具备较好的使用Python进行数据处理的经验。\n4. 熟悉Kubernetes和Ray平台并具备Ray 组件开发经验，或具备Daft/Ray Data/Modin等分布式DataFrame框架使用经验的候选人优先。",
+    "deadline": null,
+    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780101",
+    "source_url": "https://campus-talent.alibaba.com/campus/position/199907780101",
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2128,7 +2076,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800034",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907800034",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2145,7 +2093,7 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680042",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680042",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2162,7 +2110,24 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780044",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907780044",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
+  },
+  {
+    "company": "阿里巴巴",
+    "business_unit": [
+      "淘天集团"
+    ],
+    "title": "产品体验设计师",
+    "category": "设计",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "学历&专业要求：\n1、本科及以上学历；\n2、设计学科，同时跨学科交叉背景优先，如： 人机交互（HCI）、体验设计、视觉设计、计算机科学等；\n3、因自身兴趣，并长期专研和磨砺设计产出，尤其是界面视觉风格定义，无学科背景要求。\n\n能力要求：\n1、出众、独特的审美能力，具备构建精致有序、易于理解的设计界面能力，图形认知判断且准确；\n2、理解商业运行逻辑和用户使用产品的常识。理解商业、用户、成本的关系。遵循产品统一体验；\n3、具备主动沟通协作的意识和勇气，判断统一体验条件下的协同必要性，借助AI工具的目标协同；\n4、有务实本真的求变意识，同一设计能持续创新。追踪AI前沿演进趋势，探索AI产品设计新范式；\n5、具备基于任务目标构想一切画面内容和关系的能力，并能用语言精确表达，具备文字撰写能力；\n6、热爱设计、追求品质，对细节与整体体验有极度完美的追求，具备解决常人认为是限制的能力。\n\n技能要求：\n1、AI设计工具的应用：AI工具在日常工作和设计产出的使用，具备高品质可落地的生成结果；\n2、对AI底层模型能力有认知，能基于模型能力设计对应的产品体验方案。",
+    "deadline": null,
+    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640037",
+    "source_url": "https://campus-talent.alibaba.com/campus/position/199907640037",
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {
     "company": "阿里巴巴",
@@ -2179,23 +2144,6 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640035",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907640035",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "淘天集团"
-    ],
-    "title": "产品体验设计师",
-    "category": "产品",
-    "job_type": "校招",
-    "city": [
-      "杭州"
-    ],
-    "requirements": "学历&专业要求：\n1、本科及以上学历；\n2、设计学科，同时跨学科交叉背景优先，如： 人机交互（HCI）、体验设计、视觉设计、计算机科学等；\n3、因自身兴趣，并长期专研和磨砺设计产出，尤其是界面视觉风格定义，无学科背景要求。\n\n能力要求：\n1、出众、独特的审美能力，具备构建精致有序、易于理解的设计界面能力，图形认知判断且准确；\n2、理解商业运行逻辑和用户使用产品的常识。理解商业、用户、成本的关系。遵循产品统一体验；\n3、具备主动沟通协作的意识和勇气，判断统一体验条件下的协同必要性，借助AI工具的目标协同；\n4、有务实本真的求变意识，同一设计能持续创新。追踪AI前沿演进趋势，探索AI产品设计新范式；\n5、具备基于任务目标构想一切画面内容和关系的能力，并能用语言精确表达，具备文字撰写能力；\n6、热爱设计、追求品质，对细节与整体体验有极度完美的追求，具备解决常人认为是限制的能力。\n\n技能要求：\n1、AI设计工具的应用：AI工具在日常工作和设计产出的使用，具备高品质可落地的生成结果；\n2、对AI底层模型能力有认知，能基于模型能力设计对应的产品体验方案。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640037",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907640037",
-    "fetched_at": "2026-10-27T16:48:30+08:00"
+    "fetched_at": "2026-10-27T18:19:01+08:00"
   }
 ]

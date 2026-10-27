@@ -6,11 +6,11 @@
 
 - 校招·产品（1）：[其他城市 1](../slices/huawei/campus/product/other.md)
 - 校招·运营（1）：[东莞 1](../slices/huawei/campus/ops/dongguan.md) · [南京 1](../slices/huawei/campus/ops/nanjing.md) · [杭州 1](../slices/huawei/campus/ops/hangzhou.md) · [北京 1](../slices/huawei/campus/ops/beijing.md) · 另 2 城（2 个）见 index.json slices
-- 校招·商务（6）：[其他城市 7](../slices/huawei/campus/business/other.md) · [重庆 1](../slices/huawei/campus/business/chongqing.md) · [武汉 1](../slices/huawei/campus/business/wuhan.md) · [北京 1](../slices/huawei/campus/business/beijing.md) · 另 4 城（4 个）见 index.json slices
+- 校招·商务（7）：[其他城市 7](../slices/huawei/campus/business/other.md) · [北京 2](../slices/huawei/campus/business/beijing.md) · [上海 2](../slices/huawei/campus/business/shanghai.md) · [深圳 2](../slices/huawei/campus/business/shenzhen.md) · 另 6 城（6 个）见 index.json slices
 - 校招·销售（2）：[其他城市 2](../slices/huawei/campus/sales/other.md)
 - 校招·设计（1）：[东莞 1](../slices/huawei/campus/design/dongguan.md) · [南京 1](../slices/huawei/campus/design/nanjing.md) · [西安 1](../slices/huawei/campus/design/xian.md) · [杭州 1](../slices/huawei/campus/design/hangzhou.md) · 另 5 城（5 个）见 index.json slices
 - 校招·职能（7）：[深圳 5](../slices/huawei/campus/corporate/shenzhen.md) · [其他城市 3](../slices/huawei/campus/corporate/other.md) · [北京 2](../slices/huawei/campus/corporate/beijing.md) · [上海 2](../slices/huawei/campus/corporate/shanghai.md) · 另 4 城（4 个）见 index.json slices
-- 校招·其他（3）：[其他城市 2](../slices/huawei/campus/other/other.md) · [南京 1](../slices/huawei/campus/other/nanjing.md) · [杭州 1](../slices/huawei/campus/other/hangzhou.md) · [北京 1](../slices/huawei/campus/other/beijing.md) · 另 2 城（2 个）见 index.json slices
+- 校招·其他（2）：[其他城市 2](../slices/huawei/campus/other/other.md)
 - 实习·产品（1）：[深圳 1](../slices/huawei/intern/product/shenzhen.md)
 - 实习·商务（3）：[其他城市 8](../slices/huawei/intern/business/other.md) · [深圳 3](../slices/huawei/intern/business/shenzhen.md) · [苏州 1](../slices/huawei/intern/business/suzhou.md) · [沈阳 1](../slices/huawei/intern/business/shenyang.md) · 另 19 城（19 个）见 index.json slices
 - 实习·销售（2）：[其他城市 8](../slices/huawei/intern/sales/other.md) · [深圳 2](../slices/huawei/intern/sales/shenzhen.md) · [苏州 1](../slices/huawei/intern/sales/suzhou.md) · [沈阳 1](../slices/huawei/intern/sales/shenyang.md) · 另 19 城（19 个）见 index.json slices

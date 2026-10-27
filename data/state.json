@@ -286,7 +286,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7676455716664674613": {
    "first_seen": "2026-10-27",
@@ -3037,7 +3038,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7697184525931628853": {
    "first_seen": "2026-10-27",
@@ -7666,7 +7668,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7582504435174689029": {
    "first_seen": "2026-10-27",
@@ -8050,7 +8053,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7667550930741135669": {
    "first_seen": "2026-10-27",
@@ -8548,7 +8552,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7638832465754278197": {
    "first_seen": "2026-10-27",
@@ -9382,7 +9387,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7696111841688308021": {
    "first_seen": "2026-10-27",
@@ -10685,7 +10691,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7576935440696232197": {
    "first_seen": "2026-10-27",
@@ -14714,7 +14721,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-4c2bbe30-7450-4e0e-b594-47c0be4de4c6": {
    "first_seen": "2026-10-27",
@@ -16940,7 +16948,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-5f9f75a6-6b4a-48fd-a032-f3de3bc12073": {
    "first_seen": "2026-10-27",
@@ -17000,13 +17009,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-c68dfd44-279c-4baa-86c7-69e8ead65c6f": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-92da2549-44ec-498a-94cc-a926c8c49898": {
    "first_seen": "2026-10-27",
@@ -17216,7 +17227,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-9b5bb5d5-ad87-4485-ba80-1ddf40139a7f": {
    "first_seen": "2026-10-27",
@@ -17468,7 +17480,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-9d79ae95-5ec0-4fc2-850d-2131b44fd417": {
    "first_seen": "2026-10-27",
@@ -20796,7 +20809,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907680022": {
    "first_seen": "2026-10-27",
@@ -20854,7 +20868,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907640076": {
    "first_seen": "2026-10-27",
@@ -20995,7 +21010,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907680014": {
    "first_seen": "2026-10-27",
@@ -21049,7 +21065,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907660023": {
    "first_seen": "2026-10-27",
@@ -21415,8 +21432,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "alibaba-199907780106": {
    "first_seen": "2026-10-27",
@@ -21617,7 +21633,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-260813011416487": {
    "first_seen": "2026-10-27",
@@ -21630,8 +21647,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "antgroup-260903011881929": {
    "first_seen": "2026-10-27",
@@ -21651,7 +21667,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-260721011006030": {
    "first_seen": "2026-10-27",
@@ -21678,8 +21695,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "antgroup-261023012552903": {
    "first_seen": "2026-10-27",
@@ -21776,7 +21792,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-25060505046633": {
    "first_seen": "2026-10-27",
@@ -21832,15 +21849,13 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "antgroup-260911012023291": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "antgroup-26042809821761": {
    "first_seen": "2026-10-27",
@@ -21918,8 +21933,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "antgroup-25062305325247": {
    "first_seen": "2026-10-27",
@@ -21980,13 +21994,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-260610010408584": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-260821011610107": {
    "first_seen": "2026-10-27",
@@ -22032,8 +22048,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "antgroup-260721011006033": {
    "first_seen": "2026-10-27",
@@ -22688,7 +22703,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-0e973f11-f634-4708-baab-0961fba32666": {
    "first_seen": "2026-10-27",
@@ -22761,7 +22777,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-4cf35064-751d-45ff-86bc-75418ebc2690": {
    "first_seen": "2026-10-27",
@@ -22827,7 +22844,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-d437ac1d-7038-4f9f-87ca-1ebc793bebce": {
    "first_seen": "2026-10-27",
@@ -22911,8 +22929,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "baidu-4c39f292-2a4b-4114-80b5-bc5bf260bb1f": {
    "first_seen": "2026-10-27",
@@ -23229,8 +23246,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "baidu-6c1aed49-9d60-40a4-b4eb-9cf2f5ab4567": {
    "first_seen": "2026-10-27",
@@ -23532,8 +23548,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bilibili-30672": {
    "first_seen": "2026-10-27",
@@ -23750,8 +23765,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bilibili-29891": {
    "first_seen": "2026-10-27",
@@ -23877,13 +23891,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-29318": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-29222": {
    "first_seen": "2026-10-27",
@@ -23907,8 +23923,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bilibili-29066": {
    "first_seen": "2026-10-27",
@@ -24064,7 +24079,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-27236": {
    "first_seen": "2026-10-27",
@@ -24142,14 +24158,14 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7595141804321556789": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7594490638033340725": {
    "first_seen": "2026-10-27",
@@ -24186,7 +24202,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7700870351404943669": {
    "first_seen": "2026-10-27",
@@ -24234,8 +24251,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7699803973236705541": {
    "first_seen": "2026-10-27",
@@ -24259,8 +24275,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7697144182280096053": {
    "first_seen": "2026-10-27",
@@ -24327,8 +24342,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7670143360515262773": {
    "first_seen": "2026-10-27",
@@ -24359,13 +24373,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7220727572139690295": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7699775185122052357": {
    "first_seen": "2026-10-27",
@@ -24438,8 +24454,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7652275704996940037": {
    "first_seen": "2026-10-27",
@@ -24523,8 +24538,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7624373918984964357": {
    "first_seen": "2026-10-27",
@@ -24548,8 +24562,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7683791252630325557": {
    "first_seen": "2026-10-27",
@@ -24561,7 +24574,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7699367036212365573": {
    "first_seen": "2026-10-27",
@@ -24785,8 +24799,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7672254239335237893": {
    "first_seen": "2026-10-27",
@@ -24888,7 +24901,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7582203201799473413": {
    "first_seen": "2026-10-27",
@@ -25076,7 +25090,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7579151346537007365": {
    "first_seen": "2026-10-27",
@@ -25184,8 +25199,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7654466849254590773": {
    "first_seen": "2026-10-27",
@@ -25264,14 +25278,14 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7594458094315800837": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7592615398794135861": {
    "first_seen": "2026-10-27",
@@ -25477,7 +25491,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7651530006565308725": {
    "first_seen": "2026-10-27",
@@ -25496,8 +25511,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7677509004738693381": {
    "first_seen": "2026-10-27",
@@ -25539,8 +25553,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7667481788043593989": {
    "first_seen": "2026-10-27",
@@ -25820,7 +25833,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7667154812605499653": {
    "first_seen": "2026-10-27",
@@ -25953,8 +25967,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7677501330656299269": {
    "first_seen": "2026-10-27",
@@ -26045,7 +26058,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7629573146500942133": {
    "first_seen": "2026-10-27",
@@ -26102,7 +26116,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7688364218754386181": {
    "first_seen": "2026-10-27",
@@ -26408,8 +26423,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7626689373107816757": {
    "first_seen": "2026-10-27",
@@ -26459,7 +26473,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7623005075464161589": {
    "first_seen": "2026-10-27",
@@ -26472,7 +26487,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7688246124075944197": {
    "first_seen": "2026-10-27",
@@ -26521,8 +26537,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7677847856178841909": {
    "first_seen": "2026-10-27",
@@ -26559,8 +26574,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7673774412449450293": {
    "first_seen": "2026-10-27",
@@ -26671,7 +26685,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7553219262887872775": {
    "first_seen": "2026-10-27",
@@ -26695,7 +26710,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7668297647706343685": {
    "first_seen": "2026-10-27",
@@ -26873,8 +26889,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7628632010605906181": {
    "first_seen": "2026-10-27",
@@ -27059,7 +27074,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7686362407325468981": {
    "first_seen": "2026-10-27",
@@ -27192,8 +27208,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7668294219304470837": {
    "first_seen": "2026-10-27",
@@ -27229,8 +27244,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7675000277574912261": {
    "first_seen": "2026-10-27",
@@ -27279,7 +27293,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7651879359309007109": {
    "first_seen": "2026-10-27",
@@ -27336,7 +27351,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7255235413768931643": {
    "first_seen": "2026-10-27",
@@ -27529,8 +27545,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7591393686834350341": {
    "first_seen": "2026-10-27",
@@ -27666,7 +27681,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7667929586126162229": {
    "first_seen": "2026-10-27",
@@ -27862,8 +27878,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7687815326490773765": {
    "first_seen": "2026-10-27",
@@ -28168,22 +28183,19 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7654808687708440837": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7532024443712571666": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7680936166642682117": {
    "first_seen": "2026-10-27",
@@ -28809,7 +28821,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7629681326408927541": {
    "first_seen": "2026-10-27",
@@ -28961,8 +28974,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7216534167425009979": {
    "first_seen": "2026-10-27",
@@ -29092,8 +29104,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7628631273873557765": {
    "first_seen": "2026-10-27",
@@ -29360,14 +29371,14 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7651865391881144581": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7667382356454525237": {
    "first_seen": "2026-10-27",
@@ -29386,8 +29397,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7655166990222821637": {
    "first_seen": "2026-10-27",
@@ -29399,7 +29409,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7678215066682591493": {
    "first_seen": "2026-10-27",
@@ -29429,13 +29440,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7651863676051458309": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7668616924345977093": {
    "first_seen": "2026-10-27",
@@ -29569,8 +29582,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7246297928229603644": {
    "first_seen": "2026-10-27",
@@ -29594,8 +29606,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7629667719009995013": {
    "first_seen": "2026-10-27",
@@ -29614,7 +29625,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7630869633486358789": {
    "first_seen": "2026-10-27",
@@ -29663,7 +29675,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7657821420158224645": {
    "first_seen": "2026-10-27",
@@ -29675,8 +29688,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7540962652428716296": {
    "first_seen": "2026-10-27",
@@ -29816,7 +29828,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7622212859902626053": {
    "first_seen": "2026-10-27",
@@ -29905,8 +29918,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7602953883749927173": {
    "first_seen": "2026-10-27",
@@ -29985,8 +29997,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7620786224986900789": {
    "first_seen": "2026-10-27",
@@ -29998,8 +30009,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7593189440778438917": {
    "first_seen": "2026-10-27",
@@ -30076,8 +30086,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7657854886883461381": {
    "first_seen": "2026-10-27",
@@ -30120,7 +30129,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7527145882468485394": {
    "first_seen": "2026-10-27",
@@ -30138,7 +30148,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7667089186404583685": {
    "first_seen": "2026-10-27",
@@ -30309,8 +30320,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7596943166667426053": {
    "first_seen": "2026-10-27",
@@ -30523,8 +30533,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7524677400698816775": {
    "first_seen": "2026-10-27",
@@ -30568,7 +30577,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7665220878238894389": {
    "first_seen": "2026-10-27",
@@ -30598,7 +30608,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7569432889886361909": {
    "first_seen": "2026-10-27",
@@ -30634,8 +30645,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7325027700371589385": {
    "first_seen": "2026-10-27",
@@ -30678,7 +30688,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7628830278848612661": {
    "first_seen": "2026-10-27",
@@ -30793,7 +30804,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7599557895419644213": {
    "first_seen": "2026-10-27",
@@ -30861,8 +30873,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7221159713273645371": {
    "first_seen": "2026-10-27",
@@ -30874,7 +30885,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7506422383516731666": {
    "first_seen": "2026-10-27",
@@ -31184,7 +31196,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7478250407183419656": {
    "first_seen": "2026-10-27",
@@ -31367,7 +31380,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7629686699551426869": {
    "first_seen": "2026-10-27",
@@ -31974,8 +31988,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7596997866292300037": {
    "first_seen": "2026-10-27",
@@ -32036,8 +32049,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7591366055924156725": {
    "first_seen": "2026-10-27",
@@ -32827,7 +32839,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7595443427998566661": {
    "first_seen": "2026-10-27",
@@ -32852,7 +32865,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7552811307892754706": {
    "first_seen": "2026-10-27",
@@ -32889,8 +32903,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7618410949370824965": {
    "first_seen": "2026-10-27",
@@ -33338,7 +33351,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7595103503539276085": {
    "first_seen": "2026-10-27",
@@ -33474,8 +33488,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7699489335049832709": {
    "first_seen": "2026-10-27",
@@ -33566,8 +33579,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7698637227026909493": {
    "first_seen": "2026-10-27",
@@ -33609,8 +33621,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7696838258965104949": {
    "first_seen": "2026-10-27",
@@ -33775,8 +33786,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7628613214695393589": {
    "first_seen": "2026-10-27",
@@ -33803,8 +33813,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7626221213832317237": {
    "first_seen": "2026-10-27",
@@ -33835,15 +33844,13 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7623007919524792629": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "bytedance-7623006301030844725": {
    "first_seen": "2026-10-27",
@@ -33950,19 +33957,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7595142351465728261": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7595102512913058053": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7594839145312176437": {
    "first_seen": "2026-10-27",
@@ -34015,7 +34025,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7594457079472113925": {
    "first_seen": "2026-10-27",
@@ -34047,13 +34058,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7594433304360716597": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7594065989748312325": {
    "first_seen": "2026-10-27",
@@ -34117,7 +34130,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7552800778092906759": {
    "first_seen": "2026-10-27",
@@ -34858,7 +34872,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-578ed1b8-b98b-404b-bf99-e1085d796be1": {
    "first_seen": "2026-10-27",
@@ -34894,7 +34909,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-672e43b0-1c31-41dd-b6e2-0c66ebfb60c8": {
    "first_seen": "2026-10-27",
@@ -34936,13 +34952,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-818920b9-89d6-4f3e-ac20-4b5caa13f23e": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-efa5ff5e-84d3-4767-9849-64e0ddb94560": {
    "first_seen": "2026-10-27",
@@ -34996,7 +35014,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-8888cb92-4bd3-4f6c-9f92-be3ed66b2096": {
    "first_seen": "2026-10-27",
@@ -35140,7 +35159,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-e3bce2e8-2074-4681-a1ee-be2933577280": {
    "first_seen": "2026-10-27",
@@ -35170,7 +35190,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-80832f3e-339b-4620-9dba-ba20fae6501a": {
    "first_seen": "2026-10-27",
@@ -35224,7 +35245,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-c593686d-c812-4085-a6ab-3a2c72bb9502": {
    "first_seen": "2026-10-27",
@@ -35254,7 +35276,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-afa02ff7-21b6-4cab-96af-267625740e13": {
    "first_seen": "2026-10-27",
@@ -35393,7 +35416,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-2d5a86c5-e8d0-492e-b4e4-2054ead6d437": {
    "first_seen": "2026-10-27",
@@ -35466,7 +35490,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-9f4d844c-473a-4fb9-b2c5-220e909151d9": {
    "first_seen": "2026-10-27",
@@ -35490,7 +35515,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-b69fb924-f959-443c-867c-6e1e3cdb3959": {
    "first_seen": "2026-10-27",
@@ -35514,7 +35540,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-7f5b0206-7a5d-4566-ba8c-8344a2ff5c44": {
    "first_seen": "2026-10-27",
@@ -35544,7 +35571,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-5f9f83ca-b13f-4063-a283-d64941beba50": {
    "first_seen": "2026-10-27",
@@ -35646,7 +35674,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-6b2db75b-d4cd-4e41-9737-c3e995d70146": {
    "first_seen": "2026-10-27",
@@ -35832,7 +35861,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-7dda2c50-2ea5-4795-9481-4e1c2609e3e0": {
    "first_seen": "2026-10-27",
@@ -36860,7 +36890,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-beb15d40-5e81-4007-b4fd-feaaae196e3f": {
    "first_seen": "2026-10-27",
@@ -37065,19 +37096,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "jd-9253": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "jd-9271": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "jd-9313": {
    "first_seen": "2026-10-27",
@@ -37708,8 +37742,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "jd-6673": {
    "first_seen": "2026-10-27",
@@ -38129,7 +38162,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "kuaishou-13888": {
    "first_seen": "2026-10-27",
@@ -38442,7 +38476,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "kuaishou-9951": {
    "first_seen": "2026-10-27",
@@ -38598,8 +38633,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-4694853346": {
    "first_seen": "2026-10-27",
@@ -38737,8 +38771,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-4697314746": {
    "first_seen": "2026-10-27",
@@ -38975,7 +39008,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4836504048": {
    "first_seen": "2026-10-27",
@@ -39023,7 +39057,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-3536120742": {
    "first_seen": "2026-10-27",
@@ -39246,8 +39281,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-4570930537": {
    "first_seen": "2026-10-27",
@@ -39410,8 +39444,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-4347049935": {
    "first_seen": "2026-10-27",
@@ -39484,8 +39517,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-4171649174": {
    "first_seen": "2026-10-27",
@@ -39521,8 +39553,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-3525122286": {
    "first_seen": "2026-10-27",
@@ -39564,7 +39595,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-3159876283": {
    "first_seen": "2026-10-27",
@@ -39589,8 +39621,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-3155412531": {
    "first_seen": "2026-10-27",
@@ -39609,8 +39640,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "meituan-3153953328": {
    "first_seen": "2026-10-27",
@@ -39761,13 +39791,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "mihoyo-8943": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "mihoyo-9098": {
    "first_seen": "2026-10-27",
@@ -40481,7 +40513,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "mihoyo-9276": {
    "first_seen": "2026-10-27",
@@ -41437,7 +41470,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-78075": {
    "first_seen": "2026-10-27",
@@ -41449,7 +41483,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-78298": {
    "first_seen": "2026-10-27",
@@ -41509,7 +41544,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-76972": {
    "first_seen": "2026-10-27",
@@ -41737,7 +41773,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-78863": {
    "first_seen": "2026-10-27",
@@ -41863,29 +41900,25 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "netease-79295": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "netease-79298": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "netease-79299": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "netease-79302": {
    "first_seen": "2026-10-27",
@@ -42311,7 +42344,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-59502": {
    "first_seen": "2026-10-27",
@@ -42329,7 +42363,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-78915": {
    "first_seen": "2026-10-27",
@@ -42792,8 +42827,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "netease-34439": {
    "first_seen": "2026-10-27",
@@ -43233,8 +43267,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "netease-68498": {
    "first_seen": "2026-10-27",
@@ -43780,7 +43813,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1283878428566955008": {
    "first_seen": "2026-10-27",
@@ -43792,7 +43826,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1283878464457614336": {
    "first_seen": "2026-10-27",
@@ -43846,8 +43881,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1284317763288245248": {
    "first_seen": "2026-10-27",
@@ -43985,8 +44019,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1153452731391100928": {
    "first_seen": "2026-10-27",
@@ -44118,7 +44151,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1219751795182958592": {
    "first_seen": "2026-10-27",
@@ -44286,8 +44320,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1227032116983141376": {
    "first_seen": "2026-10-27",
@@ -44550,7 +44583,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1277774706287944722": {
    "first_seen": "2026-10-27",
@@ -44563,7 +44597,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1279259043688719360": {
    "first_seen": "2026-10-27",
@@ -44746,15 +44781,13 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074687944717": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074687944723": {
    "first_seen": "2026-10-27",
@@ -44989,29 +45022,25 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074687944851": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074687944853": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074687944854": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074687944855": {
    "first_seen": "2026-10-27",
@@ -45116,7 +45145,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1231829074692139095": {
    "first_seen": "2026-10-27",
@@ -45173,8 +45203,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074692139132": {
    "first_seen": "2026-10-27",
@@ -45286,8 +45315,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1231829074692139161": {
    "first_seen": "2026-10-27",
@@ -45406,7 +45434,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1293194428185772033": {
    "first_seen": "2026-10-27",
@@ -45491,7 +45520,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1224696253330685952": {
    "first_seen": "2026-10-27",
@@ -45617,15 +45647,13 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1241478075938909184": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "tencent-1257021174874167296": {
    "first_seen": "2026-10-27",
@@ -46517,13 +46545,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaohongshu-22773": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaohongshu-21149": {
    "first_seen": "2026-10-27",
@@ -46948,8 +46978,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "xiaohongshu-17146": {
    "first_seen": "2026-10-27",
@@ -47029,8 +47058,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "xiaohongshu-18199": {
    "first_seen": "2026-10-27",
@@ -47275,7 +47303,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaohongshu-19293": {
    "first_seen": "2026-10-27",
@@ -47523,8 +47552,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "xiaomi-7671129801244231982": {
    "first_seen": "2026-10-27",
@@ -47968,7 +47996,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670919803401619758": {
    "first_seen": "2026-10-27",
@@ -48214,7 +48243,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670885141824178458": {
    "first_seen": "2026-10-27",
@@ -48502,7 +48532,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-106178": {
    "first_seen": "2026-10-27",
@@ -48688,7 +48719,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107947": {
    "first_seen": "2026-10-27",
@@ -49174,7 +49206,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7690763724156700938": {
    "first_seen": "2026-10-27",
@@ -49204,7 +49237,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7688167747691448619": {
    "first_seen": "2026-10-27",
@@ -49306,7 +49340,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7685730747726416178": {
    "first_seen": "2026-10-27",
@@ -49366,7 +49401,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7683793700866427172": {
    "first_seen": "2026-10-27",
@@ -49510,7 +49546,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7680166139326531876": {
    "first_seen": "2026-10-27",
@@ -49570,7 +49607,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7675314796111219007": {
    "first_seen": "2026-10-27",
@@ -49600,7 +49638,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7673336644220815643": {
    "first_seen": "2026-10-27",
@@ -49768,7 +49807,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7660413095655606579": {
    "first_seen": "2026-10-27",
@@ -50230,7 +50270,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7579585592686676265": {
    "first_seen": "2026-10-27",
@@ -50284,7 +50325,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7563853216476432686": {
    "first_seen": "2026-10-27",
@@ -50314,7 +50356,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7559027586925185323": {
    "first_seen": "2026-10-27",
@@ -50653,6 +50696,84 @@
    "status": "active"
   },
   "xiaomi-7314116714156392557": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "didi-d8dfe47d-b4d4-49a2-b167-e34849e2e6d8": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "didi-c8c8f6fc-6ce9-44b0-8cbd-5140ad57fae4": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "didi-f8cc5ce7-db88-452d-8cb3-6aff2e483231": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "bytedance-7701277488085797173": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "bytedance-7701274683276691717": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "didi-3ecacb32-c7c8-454f-aad6-093302fa2e98": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "netease-79569": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "netease-79568": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "netease-79567": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "netease-79566": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "bytedance-7701286697141799221": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "bytedance-7701285444265445637": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "pinduoduo-campus": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",

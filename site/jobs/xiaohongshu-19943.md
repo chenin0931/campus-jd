@@ -3,7 +3,7 @@
 - id: xiaohongshu-19943
 - 公司: 小红书
 - job_type: 实习
-- 类别: 其他
+- 类别: 供应链
 - 城市: 北京、上海、深圳
 - status: active
 - 届别 grad_year: 未注明

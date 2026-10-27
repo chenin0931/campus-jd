@@ -1,11 +1,14 @@
-# 深圳 · 实习 · 运营 · 全部公司（125 个岗位）（第 2/3 页）
+# 深圳 · 实习 · 运营 · 全部公司（137 个岗位）（第 2/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 74](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 12](../../slices/tencent/intern/ops/shenzhen.md) · [百度 10](../../slices/baidu/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [京东 6](../../slices/jd/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 75](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 19](../../slices/tencent/intern/ops/shenzhen.md) · [百度 11](../../slices/baidu/intern/ops/shenzhen.md) · [京东 9](../../slices/jd/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 美国FBT商家运营实习生 - TikTok Shop（2个团队） 〔≥6个月〕 | 深圳 | 2026-10-27 | [1](../../jobs/bytedance-7685235832097720581.md) [2](../../jobs/bytedance-7696063590940625205.md) |
+| 字节跳动 | 美国FBT商家运营实习生-TikTok Shop 〔≥6个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7642307639204104501.md) |
+| 字节跳动 | 美区POP商家运营实习生（汽摩工具组） - TikTok Shop 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7687483885236046085.md) |
 | 字节跳动 | 模板运营实习生 - 剪映CapCut 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7695695647873370421.md) |
 | 字节跳动 | 模型效果评测运营实习生 - 剪映CapCut | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7696094661811210501.md) |
 | 字节跳动 | 墨西哥电商行业运营实习生-TikTok Shop | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7657914312396196101.md) |
@@ -43,8 +46,5 @@
 | 字节跳动 | 作者运营实习生（醒图）-剪映CapCut 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7615102750667409669.md) |
 | 字节跳动 | Agent策略运营实习生 - 剪映CapCut 〔每周≥5天〕 | 北京/深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7696093358692092165.md) |
 | 字节跳动 | Agent策略运营实习生 - 剪映CapCut 〔≥3个月，每周≥5天〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7682700563160615173.md) |
-| 字节跳动 | Agent效果运营实习生 - 抖音社交与互动 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7676042214067865861.md) |
-| 字节跳动 | AI内容策划运营实习生 - 剪映CapCut 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7662961277809887493.md) |
-| 字节跳动 | AI内容运营实习生-剪映CapCut 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7584007313582360885.md) |
 
 [上一页](intern-ops.md) · [下一页](intern-ops-p3.md) · [总目录](../../llms.txt)

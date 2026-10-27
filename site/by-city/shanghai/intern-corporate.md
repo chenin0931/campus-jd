@@ -1,8 +1,8 @@
-# 上海 · 实习 · 职能 · 全部公司（142 个岗位）（第 1/3 页）
+# 上海 · 实习 · 职能 · 全部公司（154 个岗位）（第 1/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 77](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 19](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 17](../../slices/bilibili/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [滴滴 2](../../slices/didi/intern/corporate/shanghai.md) · [网易 2](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 2](../../slices/tencent/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 77](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 2](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 2](../../slices/tencent/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | 哔哩哔哩 | 招聘实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29020.md) |
 | 哔哩哔哩 | 招聘实习生（游戏方向） 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29766.md) |
 | 哔哩哔哩 | 招聘实习生（游戏自研方向） 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29924.md) |
+| 哔哩哔哩 | 资产管理实习生 〔≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-26353.md) |
 | 哔哩哔哩 | B站HR实习生（招聘方向） 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30871.md) |
 | 哔哩哔哩 | HR实习生-技术招聘方向 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29891.md) |
 | 哔哩哔哩 | HR实习生（社招方向） 〔≥6个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29811.md) |
@@ -32,9 +33,9 @@
 | 字节跳动 | 国际电商采购实习生 - TikTok Shop 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7677433299497830709.md) |
 | 字节跳动 | 海外校园招聘实习生 - 招聘中心 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7527145882468485394.md) |
 | 字节跳动 | 合规策略实习生-国际支付 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7606623735366224181.md) |
-| 字节跳动 | 合规项目管理实习生-TikTok Shop 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7655247251267586357.md) |
+| 字节跳动 | 金融经营分析实习生-国际支付 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7655166990222821637.md) |
 | 字节跳动 | 内控数据实习生-内控 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7592911154697619717.md) |
-| 字节跳动 | 物流风控数据分析实习生 - TikTok Shop 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7661942395831830789.md) |
+| 字节跳动 | 校招实习生-中国招聘中心 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7485624426744252679.md) |
 | 字节跳动 | 信贷风控策略实习生-国际支付（2个团队） 〔27届〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7610684314860013829.md) [2](../../jobs/bytedance-7621417006218299701.md) |
 | 字节跳动 | 招聘（国际化方向）实习生-飞书 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7649648584650737925.md) |
 | 字节跳动 | 招聘实习生 - 集团职能 〔≥3个月，每周≥4天〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7449224456953022727.md) |

@@ -3,7 +3,7 @@
 - id: huawei-38429
 - 公司: 华为
 - job_type: 校招
-- 类别: 其他
+- 类别: 商务
 - 城市: 南京、杭州、北京、上海、深圳
 - status: active
 - 届别 grad_year: 未注明

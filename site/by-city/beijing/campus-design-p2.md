@@ -1,13 +1,36 @@
-# 北京 · 校招 · 设计 · 全部公司（76 个岗位）（第 2/2 页）
+# 北京 · 校招 · 设计 · 全部公司（92 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[快手 18](../../slices/kuaishou/campus/design/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/design/beijing.md) · [小米 16](../../slices/xiaomi/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [腾讯 5](../../slices/tencent/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/beijing.md) · [百度 1](../../slices/baidu/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 35](../../slices/bytedance/campus/design/beijing.md) · [快手 17](../../slices/kuaishou/campus/design/beijing.md) · [小米 15](../../slices/xiaomi/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [腾讯 4](../../slices/tencent/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [百度 2](../../slices/baidu/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI产品设计师（AI workflow方向） - TikTok设计 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667491816040778037.md) |
+| 字节跳动 | AI效果设计师 - 剪映CapCut 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667158400338528565.md) |
+| 字节跳动 | HCI人机交互设计师 - PICO 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670920557747898677.md) |
+| 字节跳动 | UIUX设计师 - PICO 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675254604385192197.md) |
+| 华为 | ID与UX设计师 | 东莞/南京/西安/杭州/成都/武汉/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-36396.md) |
+| 京东 | 创意设计师 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-9061.md) |
+| 京东 | 交互设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9045.md) |
+| 京东 | 视觉设计师 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-9058.md) |
+| 快手 | 3D特效设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9951.md) |
+| 快手 | 插画设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9955.md) |
+| 快手 | 创意设计师（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13058.md) [2](../../jobs/kuaishou-9956.md) |
+| 快手 | 海外视觉设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9958.md) |
+| 快手 | 海外体验设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9957.md) |
+| 快手 | 交互设计师（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13127.md) [2](../../jobs/kuaishou-9959.md) |
+| 快手 | 礼物特效设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13345.md) |
+| 快手 | 美化设计师 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-9960.md) |
+| 快手 | 视觉设计师（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13068.md) [2](../../jobs/kuaishou-9961.md) |
+| 快手 | UI设计师（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13055.md) [2](../../jobs/kuaishou-9953.md) |
+| 快手 | UX设计师 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-9954.md) |
+| 快手 | UX设计师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13089.md) |
+| 快手 | UX设计师-企业产品方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-14006.md) |
+| 美团 | 平面设计（酒店方向） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4696320076.md) |
+| 美团 | 设计规划岗（空间设计） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4721439045.md) |
+| 美团 | 体验设计师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697273246.md) |
 | 腾讯 | 多媒体设计 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1283878464457614336.md) |
-| 腾讯 | 混元基座模型-模型结构设计 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1277774706287944714.md) |
 | 腾讯 | 面向交互式长视频生成的多模态世界模型 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1279259052844884998.md) |
 | 腾讯 | 视觉设计 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1282707393989682176.md) |
 | 腾讯 | 视频多模态训练数据引擎设计与优化 | 深圳/北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1279259082272121862.md) |
@@ -15,7 +38,6 @@
 | 小红书 | 【2027校招】AI视觉效果设计师（发布创意方向） | 北京/深圳 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22180.md) |
 | 小米 | 包装设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670890691862300938.md) |
 | 小米 | 国际视觉设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670882725168335155.md) |
-| 小米 | 技术美术设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885169322707254.md) |
 | 小米 | 交互设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885425268410687.md) |
 | 小米 | 平面设计师-汽车 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670918704973334822.md) |
 | 小米 | 视觉设计师 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923684555016458.md) |

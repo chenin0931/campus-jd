@@ -1,8 +1,8 @@
-# 上海 · 实习 · 产品 · 全部公司（239 个岗位）（第 2/6 页）
+# 上海 · 实习 · 产品 · 全部公司（228 个岗位）（第 2/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 177](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 5](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 169](../../slices/bytedance/intern/product/shanghai.md) · [哔哩哔哩 29](../../slices/bilibili/intern/product/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/product/shanghai.md) · [滴滴 6](../../slices/didi/intern/product/shanghai.md) · [美团 4](../../slices/meituan/intern/product/shanghai.md) · [腾讯 4](../../slices/tencent/intern/product/shanghai.md) · [百度 2](../../slices/baidu/intern/product/shanghai.md) · [携程 1](../../slices/ctrip/intern/product/shanghai.md) · [京东 1](../../slices/jd/intern/product/shanghai.md) · [快手 1](../../slices/kuaishou/intern/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/product/shanghai.md) · [网易 1](../../slices/netease/intern/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -26,8 +26,6 @@
 | 字节跳动 | 产品实习生（收银产品） - 国际支付 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7683070926031964469.md) |
 | 字节跳动 | 产品实习生（用户钱包） - 国际支付 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7683430026171779381.md) |
 | 字节跳动 | 产品实习生（支付解决方案） - 国际支付 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7672662989224544565.md) |
-| 字节跳动 | 产品营销实习生-飞书 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7475625924534520082.md) |
-| 字节跳动 | 产品营销实习生-飞书商业化（2个团队） 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7485296242769299730.md) [2](../../jobs/bytedance-7483114204313389319.md) |
 | 字节跳动 | 产品战略合作伙伴实习生-国际化产品 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7574629035352148277.md) |
 | 字节跳动 | 产品战略实习生-TikTok 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7216534167425009979.md) |
 | 字节跳动 | 创意产品实习生-国际化广告创意与品牌 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591364338756159749.md) |
@@ -44,7 +42,9 @@
 | 字节跳动 | 电商用户产品实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697216139231774981.md) |
 | 字节跳动 | 电商直播间用户产品实习生 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7688547060120308021.md) |
 | 字节跳动 | 电商C端订单产品实习生 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7684215632569059637.md) |
-| 字节跳动 | 东南亚产品营销实习生 - TikTok Shop 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7694540758238136629.md) |
 | 字节跳动 | 东南亚电商用户增长产品实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697207430053382453.md) |
+| 字节跳动 | 东南亚营销产品实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7694193756984625413.md) |
+| 字节跳动 | 短剧/漫剧行业商业产品实习生-广告业务 〔≥5个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7559833699594160402.md) |
+| 字节跳动 | 短剧产品实习生 - TikTok 〔≥6个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7634129983086676277.md) |
 
 [上一页](intern-product.md) · [下一页](intern-product-p3.md) · [总目录](../../llms.txt)

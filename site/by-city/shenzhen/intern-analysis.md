@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 分析 · 全部公司（26 个岗位）
+# 深圳 · 实习 · 分析 · 全部公司（28 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 12](../../slices/bytedance/intern/analysis/shenzhen.md) · [腾讯 8](../../slices/tencent/intern/analysis/shenzhen.md) · [vivo 3](../../slices/vivo/intern/analysis/shenzhen.md) · [京东 1](../../slices/jd/intern/analysis/shenzhen.md) · [美团 1](../../slices/meituan/intern/analysis/shenzhen.md) · [OPPO 1](../../slices/oppo/intern/analysis/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 12](../../slices/bytedance/intern/analysis/shenzhen.md) · [腾讯 8](../../slices/tencent/intern/analysis/shenzhen.md) · [vivo 5](../../slices/vivo/intern/analysis/shenzhen.md) · [京东 1](../../slices/jd/intern/analysis/shenzhen.md) · [美团 1](../../slices/meituan/intern/analysis/shenzhen.md) · [OPPO 1](../../slices/oppo/intern/analysis/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -30,5 +30,7 @@
 | vivo | 大模型数据建设实习生 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-77a37968-5d3e-4c5b-8f7e-7e26a2c9a815.md) |
 | vivo | 人因用户研究经理-实习 〔≥6个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-259a3bfc-4ee3-4693-b050-13688f5236fc.md) |
 | vivo | 数据分析师-实习 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-4e76c50e-da15-48e7-b91e-646e1e53f617.md) |
+| vivo | 用户研究专员（OS产品）-实习 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-f17389d0-b8e0-4cec-93ca-b58a339a6757.md) |
+| vivo | AI产品用户研究经理-实习 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-ee6fb4af-d2e4-4ba3-9953-1fab6aaf2016.md) |
 
 [总目录](../../llms.txt)

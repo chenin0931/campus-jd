@@ -3,7 +3,7 @@
 - id: ctrip-MJ036691
 - 公司: 携程
 - job_type: 校招
-- 类别: 其他
+- 类别: 商务
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2027届

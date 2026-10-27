@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 运营 · 全部公司（125 个岗位）（第 1/3 页）
+# 深圳 · 实习 · 运营 · 全部公司（137 个岗位）（第 1/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 74](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 12](../../slices/tencent/intern/ops/shenzhen.md) · [百度 10](../../slices/baidu/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [京东 6](../../slices/jd/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 75](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 19](../../slices/tencent/intern/ops/shenzhen.md) · [百度 11](../../slices/baidu/intern/ops/shenzhen.md) · [京东 9](../../slices/jd/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | 百度 | 日语商业化运营实习生（J106849） 〔≥4个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-8769c2af-c985-4bc0-b602-a70c7de02dfc.md) |
 | 百度 | 日语商业化运营实习生（J81353） 〔≥5个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-a21243d4-3cfb-4160-ba2c-9988c39fb89c.md) |
 | 百度 | 商务运营实习生（J104739） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-3b408c0d-5a08-4c68-96ec-0b6c88042565.md) |
+| 百度 | 私有化项目售后服务实习生（AI 方向）（J106614） 〔≥3个月，每周≥5天〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/baidu-97b3c24b-d850-4762-bb73-5feba5bd3abb.md) |
 | 百度 | c端产品变现运营-日语（J100108） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-e9bcf805-17e8-4ff6-87cb-8f56765d6b94.md) |
 | 哔哩哔哩 | 俄语出海运营实习生 〔≥3个月〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bilibili-25839.md) |
 | 哔哩哔哩 | 法语出海运营实习生 〔≥3个月〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/bilibili-25837.md) |
@@ -30,6 +31,7 @@
 | 字节跳动 | 产品运营（开播供给方向）实习生 - 抖音直播 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7675678294877456693.md) |
 | 字节跳动 | 产品运营实习生-Pangle 〔≥6个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7579835370569828661.md) |
 | 字节跳动 | 创意产品运营实习生-国际化广告创意与品牌 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7591366024098646277.md) |
+| 字节跳动 | 达人运营实习生 - TikTok Shop 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7701274683276691717.md) |
 | 字节跳动 | 东南亚跨境联盟机构运营实习生 - TikTok Shop 〔≥4个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7687559765428209925.md) |
 | 字节跳动 | 菲律宾运营实习生-TikTok Shop 〔≥6个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7631881770984425733.md) |
 | 字节跳动 | 广告产品运营实习生-Pangle（2个团队） 〔27届〕 | 深圳 | 2026-10-27 | [1](../../jobs/bytedance-7610991464701708597.md) [2](../../jobs/bytedance-7649974126987184437.md) |
@@ -44,8 +46,5 @@
 | 字节跳动 | 拉美商家运营实习生 - TikTok Shop 〔每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667118756782426421.md) |
 | 字节跳动 | 拉美行业策略运营实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7670520869705648389.md) |
 | 字节跳动 | 拉美AI运营实习生 - 剪映CapCut 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7680409281651296517.md) |
-| 字节跳动 | 美国FBT商家运营实习生 - TikTok Shop（2个团队） 〔≥6个月〕 | 深圳 | 2026-10-27 | [1](../../jobs/bytedance-7685235832097720581.md) [2](../../jobs/bytedance-7696063590940625205.md) |
-| 字节跳动 | 美国FBT商家运营实习生-TikTok Shop 〔≥6个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7642307639204104501.md) |
-| 字节跳动 | 美区POP商家运营实习生（汽摩工具组） - TikTok Shop 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7687483885236046085.md) |
 
 [下一页](intern-ops-p2.md) · [总目录](../../llms.txt)

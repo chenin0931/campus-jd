@@ -4,7 +4,7 @@
 - 公司: 滴滴
 - job_type: 实习
 - 类别: 职能
-- 城市: 未知
+- 城市: 城市见官网
 - status: active
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明

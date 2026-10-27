@@ -1,14 +1,11 @@
-# 北京 · 实习 · 产品 · 全部公司（438 个岗位）（第 9/10 页）
+# 北京 · 实习 · 产品 · 全部公司（434 个岗位）（第 9/10 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 213](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 212](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 快手 | 【留用实习】用户产品经理-音乐方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12544.md) |
-| 美团 | 【2027】Keeta-产品实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4691986310.md) |
-| 美团 | 餐饮搜索广告策略产品经理 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4215253408.md) |
 | 美团 | 餐饮SaaS产品项目实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3772211058.md) |
 | 美团 | 产品设计实习-美团无人机 〔28/29届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4855937167.md) |
 | 美团 | 产品实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/meituan-4164588581.md) [2](../../jobs/meituan-3197882635.md) |
@@ -27,7 +24,6 @@
 | 美团 | 团购频道产品实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3575843390.md) |
 | 美团 | 推荐策略产品实习生（交易方向） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3662722414.md) |
 | 美团 | 无人机业务部—出海数据产品实习生 〔27/28届 · ≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4855944244.md) |
-| 美团 | 营销产品经理实习生 〔≥6个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-3148133809.md) |
 | 美团 | 用户产品经理实习生（美团到店餐饮方向） 〔28/29届 · ≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4683631200.md) |
 | 美团 | 自动驾驶产品实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4468835980.md) |
 | 美团 | 自动驾驶软件-产品实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4686144199.md) |
@@ -57,5 +53,9 @@
 | 小米 | 产品经理-实习 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7605898417445341503.md) |
 | 小米 | 产品经理-实习-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7661885577650948379.md) |
 | 小米 | 产品经理-硬件方向-实习-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7655223179933845802.md) |
+| 小米 | 产品经理实习 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7663315300850911526.md) |
+| 小米 | 产品经理实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7670443782232803610.md) [2](../../jobs/xiaomi-7667402665236973875.md) |
+| 小米 | 产品经理实习生-2027届 〔27/28届 · ≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7694244084009421092.md) |
+| 小米 | 产品实习生 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7615143239251413298.md) |
 
 [上一页](intern-product-p8.md) · [下一页](intern-product-p10.md) · [总目录](../../llms.txt)

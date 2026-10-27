@@ -3,7 +3,7 @@
 - id: vivo-ee6fb4af-d2e4-4ba3-9953-1fab6aaf2016
 - 公司: vivo
 - job_type: 实习
-- 类别: AI产品
+- 类别: 分析
 - 城市: 深圳
 - status: active
 - 届别 grad_year: 未注明

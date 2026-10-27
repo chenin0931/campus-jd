@@ -3,7 +3,7 @@
 - id: tencent-108278
 - 公司: 腾讯（S3）
 - job_type: 实习
-- 类别: 其他
+- 类别: 职能
 - 城市: 东京
 - status: active
 - 届别 grad_year: 未注明

@@ -3,7 +3,7 @@
 - id: baidu-46bd7fb9-60cd-4418-bce8-eecd0e350607
 - 公司: 百度
 - job_type: 实习
-- 类别: 其他
+- 类别: 销售
 - 城市: 上海
 - status: active
 - 届别 grad_year: 未注明

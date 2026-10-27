@@ -1,11 +1,14 @@
-# 北京 · 实习 · 职能 · 全部公司（243 个岗位）（第 4/5 页）
+# 北京 · 实习 · 职能 · 全部公司（249 个岗位）（第 4/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 83](../../slices/bytedance/intern/corporate/beijing.md) · [小米 48](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 35](../../slices/didi/intern/corporate/beijing.md) · [美团 20](../../slices/meituan/intern/corporate/beijing.md) · [百度 17](../../slices/baidu/intern/corporate/beijing.md) · [京东 14](../../slices/jd/intern/corporate/beijing.md) · [小红书 8](../../slices/xiaohongshu/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [网易 7](../../slices/netease/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 87](../../slices/bytedance/intern/corporate/beijing.md) · [小米 49](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 14](../../slices/baidu/intern/corporate/beijing.md) · [京东 14](../../slices/jd/intern/corporate/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [网易 7](../../slices/netease/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 京东 | 合规 〔27届〕 | 北京/天津 | 2026-10-27 | [详情](../../jobs/jd-4970.md) |
+| 京东 | 会计 〔27届〕 | 北京/南京 | 2026-10-27 | [详情](../../jobs/jd-4976.md) |
+| 京东 | 金融风控 〔27届〕 | 北京/天津/青岛 | 2026-10-27 | [详情](../../jobs/jd-5895.md) |
 | 京东 | 人力资源（专业方向） 〔27届〕 | 上海/北京/济南/广州/深圳/宿迁/苏州/石家庄/郑州/海口/武汉/长沙/兰州/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-4964.md) |
 | 京东 | 审计 〔27届〕 | 北京/天津 | 2026-10-27 | [详情](../../jobs/jd-4978.md) |
 | 京东 | 税务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-4980.md) |
@@ -31,30 +34,28 @@
 | 美团 | 招聘HR实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3040997352.md) |
 | 美团 | 招聘HR实习生-AI方向 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4784179517.md) |
 | 美团 | 职能岗位招聘 实习生 〔27/28届 · ≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4831007861.md) |
+| 美团 | 组织文化实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4850400897.md) |
 | 美团 | HR Intern-海外招聘实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3716562469.md) |
 | 美团 | HR实习生-招聘方向 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4494593401.md) |
 | 美团 | HR实习生（招聘方向） 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4803876118.md) |
 | 美团 | HR招聘实习生 〔≥3个月，每周≥5天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-2927053230.md) |
 | 美团 | HR招聘实习生-研发方向 〔26/27届 · ≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4062439004.md) |
-| 网易 | 财经tube视频剪辑实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78915.md) |
 | 网易 | 法务实习生（北京） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77286.md) |
 | 网易 | 网易财经智库剪辑实习生（2个团队） 〔≥3个月〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-78332.md) [2](../../jobs/netease-78202.md) |
 | 网易 | 招聘实习生（2个团队） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-79541.md) [2](../../jobs/netease-74025.md) |
 | 网易 | HR实习生（社招） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78441.md) |
+| 网易 | IT资产管理实习生（北京） 〔28届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-70268.md) |
 | 腾讯 | 法务 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1226957104464930816.md) |
 | 腾讯 | 秘书 | 深圳/北京/成都 | 2026-10-27 | [详情](../../jobs/tencent-1165235557480470528.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938819.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1237031398674822144.md) |
+| 小红书 | 人才发展实习生 〔27/28届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-17429.md) |
+| 小红书 | 小红书人才发展实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22763.md) |
 | 小红书 | 小红书HR实习生 〔27/28届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21081.md) |
 | 小红书 | hr实习生 〔28/29届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19293.md) |
 | 小红书 | HR实习生 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22826.md) |
 | 小红书 | HR实习生 有转正机会 电商方向 〔≥3个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20506.md) |
 | 小红书 | HR实习生-招聘方向 〔27/28届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21035.md) |
 | 小红书 | HR实习生（招聘方向）（2个团队） 〔27/28届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaohongshu-17695.md) [2](../../jobs/xiaohongshu-20451.md) |
-| 小红书 | hr招聘实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19057.md) |
-| 小米 | 海外业务招聘实习生 〔27/28届 · ≥5个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7615529265581410598.md) |
-| 小米 | 27届招聘实习生-国际职能平台 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7469690121537847405.md) |
-| 小米 | 部门助理-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7696706768126707978.md) |
-| 小米 | 部门助理实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7618546845396011273.md) |
 
 [上一页](intern-corporate-p3.md) · [下一页](intern-corporate-p5.md) · [总目录](../../llms.txt)

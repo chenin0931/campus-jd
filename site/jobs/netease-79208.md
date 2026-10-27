@@ -3,7 +3,7 @@
 - id: netease-79208
 - 公司: 网易（网易元气）
 - job_type: 实习
-- 类别: AI产品
+- 类别: 市场
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明

@@ -1,8 +1,8 @@
-# 广州 · 校招 · 市场 · 全部公司（11 个岗位）
+# 广州 · 校招 · 市场 · 全部公司（12 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 3](../../slices/alibaba/campus/marketing/guangzhou.md) · [网易 2](../../slices/netease/campus/marketing/guangzhou.md) · [腾讯 2](../../slices/tencent/campus/marketing/guangzhou.md) · [百度 1](../../slices/baidu/campus/marketing/guangzhou.md) · [字节跳动 1](../../slices/bytedance/campus/marketing/guangzhou.md) · [京东 1](../../slices/jd/campus/marketing/guangzhou.md) · [美团 1](../../slices/meituan/campus/marketing/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 3](../../slices/alibaba/campus/marketing/guangzhou.md) · [美团 2](../../slices/meituan/campus/marketing/guangzhou.md) · [网易 2](../../slices/netease/campus/marketing/guangzhou.md) · [腾讯 2](../../slices/tencent/campus/marketing/guangzhou.md) · [百度 1](../../slices/baidu/campus/marketing/guangzhou.md) · [字节跳动 1](../../slices/bytedance/campus/marketing/guangzhou.md) · [京东 1](../../slices/jd/campus/marketing/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | 字节跳动 | 大客户销售（品牌零售） - 抖音生活服务 〔27届〕 | 上海/广州/杭州/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7666765403700250933.md) |
 | 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9043.md) |
 | 美团 | 公共事务岗 | 北京/济南/西安/广州 | 2026-10-27 | [详情](../../jobs/meituan-4697287258.md) |
+| 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海/成都/长春/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/大连/南宁/西安/哈尔滨/昆明/长沙/湛江/重庆/东莞/南昌/中山/佛山/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | 网易 | 品牌管理培训生（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4745.md) [2](../../jobs/netease-4898.md) |
 | 腾讯 | 公共事务 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1284512614101361665.md) |
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1282707375417304064.md) |

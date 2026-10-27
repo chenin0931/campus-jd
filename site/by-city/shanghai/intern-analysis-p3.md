@@ -1,15 +1,11 @@
-# 上海 · 实习 · 分析 · 全部公司（169 个岗位）（第 3/4 页）
+# 上海 · 实习 · 分析 · 全部公司（156 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 110](../../slices/bytedance/intern/analysis/shanghai.md) · [滴滴 19](../../slices/didi/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [小红书 8](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [美团 5](../../slices/meituan/intern/analysis/shanghai.md) · [米哈游 5](../../slices/mihoyo/intern/analysis/shanghai.md) · [网易 3](../../slices/netease/intern/analysis/shanghai.md) · [腾讯 3](../../slices/tencent/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 106](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 5](../../slices/mihoyo/intern/analysis/shanghai.md) · [美团 4](../../slices/meituan/intern/analysis/shanghai.md) · [网易 4](../../slices/netease/intern/analysis/shanghai.md) · [腾讯 3](../../slices/tencent/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 数据科学实习生-抖音 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7594466668265900341.md) |
-| 字节跳动 | 数据科学实习生-抖音电商（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7660773953178978613.md) [2](../../jobs/bytedance-7651530006565308725.md) |
-| 字节跳动 | 数据科学实习生-抖音生活服务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7455515396880861448.md) |
-| 字节跳动 | 数据科学实习生-TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7594697078116468997.md) |
 | 字节跳动 | 数据科学实习生-TikTok Shop 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7633644981286488325.md) |
 | 字节跳动 | 数据科学实习生（全托管） - TikTok Shop | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7687887313223698693.md) |
 | 字节跳动 | 搜推数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7699424945468344581.md) |
@@ -31,18 +27,24 @@
 | 字节跳动 | US大促数据科学实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697084377641027845.md) |
 | 字节跳动 | VN活动策略实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665220878238894389.md) |
 | 携程 | 数据仓库实习生（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/ctrip-MJ037434.md) [2](../../jobs/ctrip-MJ037437.md) |
-| 滴滴 | （1）国际事业群IBG-金融策略模型实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-f260a68f-d5f9-4a6a-bf54-6cef8521aa96.md) |
-| 滴滴 | （1）Credit Risk-金融/金融策略模型实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-7dda2c50-2ea5-4795-9481-4e1c2609e3e0.md) |
-| 滴滴 | 风险管理-金融策略模型实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-f46970ff-bd57-46b8-9cc5-0eca9f1663b0.md) |
 | 滴滴 | 国际事业群IBG 商业分析实习生（1） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-2250a9b3-6ab9-4acd-89b4-b20fe7b0270d.md) |
-| 滴滴 | 国际事业群IBG-金融策略模型实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-5a4e5246-e5bf-48e7-aee9-975590269b0a.md) |
-| 滴滴 | 国际事业群IBG-金融策略模型实习生（1） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-d66e6ce5-f866-4fc8-a645-4a47fb1663dd.md) |
-| 滴滴 | 国际事业群IBG-金融策略模型实习生（3） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-69029a85-7d3b-4e73-b688-49c8519db9ea.md) |
 | 滴滴 | 国际事业群IBG-商业分析实习生（2个团队） ⚠️链接待核 | 上海 | 2026-10-27 | [1](../../jobs/didi-64eb2a38-cd04-4e32-b960-a5cdfda1c36e.md) [2](../../jobs/didi-615ae52e-9788-4f43-85d5-1a724b518259.md) |
 | 滴滴 | 国际事业群IBG-商业分析实习生(5) ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-62751b16-44f4-43e6-ad29-541799437675.md) |
-| 滴滴 | 战略业务事业群-金融策略模型实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-b70de9a4-4645-4e53-9c18-5ce3bbfb4552.md) |
 | 滴滴 | Business Analysis & DS（4）-商业分析实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-fd9b15ae-5365-4e4b-aa3c-1fb40fd912a0.md) |
-| 滴滴 | IBG Fintech-金融策略模型实习生（2个团队） ⚠️链接待核 | 上海 | 2026-10-27 | [1](../../jobs/didi-2ac6d9c9-d137-49a0-aa10-58a19c7734a3.md) [2](../../jobs/didi-281ad597-2e9b-45fa-9023-35a582371006.md) |
-| 滴滴 | IBG Fintech-金融策略模型实习生（3） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-10137ab8-36f7-4226-90ae-94fb51a7ac85.md) |
+| 滴滴 | IBG Food-商业分析实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-a05c8c2d-8755-42db-9726-633162ff2e59.md) |
+| 滴滴 | IBG Food-商业分析实习生（2） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-a6ebe88d-c049-4f8e-8b9d-ebcd6c51d36c.md) |
+| 滴滴 | IBG Food-数据分析实习生（7） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-2424031b-251f-49ce-834a-4fea68bd7e21.md) |
+| 滴滴 | Intl Data Science（8）-数据分析实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-70a65181-4688-4e89-87cc-8a1fd14ab624.md) |
+| 京东 | 商业分析 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-4946.md) |
+| 美团 | 【大模型北斗实习】大语言模型预训练结构和策略 | 北京/香港/上海 | 2026-10-27 | [详情](../../jobs/meituan-3153872809.md) |
+| 美团 | 大模型数据实习生 〔≥3个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-3619721723.md) |
+| 美团 | 基座大模型研究分析实习生 | 上海/北京 | 2026-10-27 | [详情](../../jobs/meituan-2995805692.md) |
+| 美团 | 实习-金服支付-商业分析师-北京 〔≥5个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-2973819681.md) |
+| 米哈游 | 国际化发行数据分析实习生 〔28/29届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7862.md) |
+| 米哈游 | 数据分析实习生 - 崩坏：星穹铁道+崩坏：因缘精灵 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8769.md) |
+| 米哈游 | 投放数据分析实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9327.md) |
+| 米哈游 | 用户研究实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7812.md) |
+| 米哈游 | 游戏支付数据分析实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8594.md) |
+| 网易 | 游戏测评实习生（行业研究） 〔26/27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79474.md) |
 
 [上一页](intern-analysis-p2.md) · [下一页](intern-analysis-p4.md) · [总目录](../../llms.txt)

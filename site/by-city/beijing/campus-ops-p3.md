@@ -1,11 +1,16 @@
-# 北京 · 校招 · 运营 · 全部公司（346 个岗位）（第 3/7 页）
+# 北京 · 校招 · 运营 · 全部公司（356 个岗位）（第 3/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 170](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 50](../../slices/kuaishou/campus/ops/beijing.md) · [京东 19](../../slices/jd/campus/ops/beijing.md) · [美团 17](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 4](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 50](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 19](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 内容安全策略运营（国内） - 剪映CapCut 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675252959013636357.md) |
+| 字节跳动 | 内容策略运营 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667935737146607877.md) |
+| 字节跳动 | 内容策略运营 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669688561774037253.md) |
+| 字节跳动 | 内容策略运营 - 今日头条 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669693827432974597.md) |
+| 字节跳动 | 内容运营 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667935633642080565.md) |
 | 字节跳动 | 内容运营（热点策划方向） - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673822066950539525.md) |
 | 字节跳动 | 汽车业务策略运营 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668535341618284805.md) |
 | 字节跳动 | 区域商家运营 - 抖音生活服务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677903925353957637.md) |
@@ -30,6 +35,7 @@
 | 字节跳动 | 体验策略运营 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668302708907100469.md) |
 | 字节跳动 | 体验运营 - 体验与服务（3个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7670130161032284469.md) [2](../../jobs/bytedance-7670123780908124421.md) [3](../../jobs/bytedance-7670129595102071045.md) |
 | 字节跳动 | 推荐产品运营 - TikTok Shop 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668544708158753077.md) |
+| 字节跳动 | 网文编辑 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669693016471226629.md) |
 | 字节跳动 | 物理安全运营管理 - Corporate Services 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669705526162852149.md) |
 | 字节跳动 | 项目运营 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668621579618027781.md) |
 | 字节跳动 | 行业产品运营 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665928898505853237.md) |
@@ -42,10 +48,5 @@
 | 字节跳动 | 用户运营经理 - 抖音UGC 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667946642422843701.md) |
 | 字节跳动 | 用户运营经理（校园方向） - 抖音UGC 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7694136306792548613.md) |
 | 字节跳动 | 语音大模型数据运营 - AI数据与安全 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683402900953188661.md) |
-| 字节跳动 | 云安全解决方案产品运营 - 安全与风控 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669621629605398837.md) |
-| 字节跳动 | 云基础资源运营 - 火山引擎 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667125843387156789.md) |
-| 字节跳动 | 增长策略运营（抖音AI产品人才校招） - 抖音音乐 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7690781100918884613.md) |
-| 字节跳动 | 增长策略运营（抖音AI产品人才校招） - 抖音增长 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683835406620625205.md) |
-| 字节跳动 | 账号运营（虚拟演员角色） - 红果短剧 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670414313836906805.md) |
 
 [上一页](campus-ops-p2.md) · [下一页](campus-ops-p4.md) · [总目录](../../llms.txt)

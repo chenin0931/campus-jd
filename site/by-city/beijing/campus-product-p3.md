@@ -1,19 +1,11 @@
-# 北京 · 校招 · 产品 · 全部公司（201 个岗位）（第 3/5 页）
+# 北京 · 校招 · 产品 · 全部公司（190 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 109](../../slices/bytedance/campus/product/beijing.md) · [小米 42](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 6](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 101](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 信贷产品经理 - 国际支付（2个团队） 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | [1](../../jobs/bytedance-7701246291185682693.md) [2](../../jobs/bytedance-7701243488148424965.md) |
-| 字节跳动 | 行业产品经理（B侧） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670894377506883845.md) |
-| 字节跳动 | 行业产品经理（C侧） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7682625038218692917.md) |
-| 字节跳动 | 用户产品经理 - 抖音生活服务（2个团队） 〔27届〕 | 上海/北京 | 2026-10-27 | [1](../../jobs/bytedance-7668569718668757253.md) [2](../../jobs/bytedance-7668583584987252997.md) |
-| 字节跳动 | 用户产品经理 - 西瓜视频 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669694035128371461.md) |
-| 字节跳动 | 用户产品经理（欧美商城） - TikTok Shop 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669622639389165829.md) |
-| 字节跳动 | 用户营销产品经理 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668300977340238085.md) |
-| 字节跳动 | 用户增长补贴策略产品 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669681498493159733.md) |
 | 字节跳动 | 用户增长产品经理 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668193431349692725.md) |
 | 字节跳动 | 用户增长产品经理 - TikTok Shop 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668327844800088373.md) |
 | 字节跳动 | 用户增长产品经理（联合用户增长） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668321009259579701.md) |
@@ -51,5 +43,16 @@
 | 快手 | 平台产品经理-客服平台（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13317.md) [2](../../jobs/kuaishou-9731.md) |
 | 快手 | 平台产品经理-企业效能（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13286.md) [2](../../jobs/kuaishou-9721.md) |
 | 快手 | 平台产品经理-商业产品（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13257.md) [2](../../jobs/kuaishou-9722.md) |
+| 快手 | 平台产品经理-商业化基建 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9723.md) |
+| 快手 | 平台产品经理-增长平台（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13287.md) [2](../../jobs/kuaishou-9728.md) |
+| 快手 | 平台产品经理-直播方向（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13289.md) [2](../../jobs/kuaishou-9730.md) |
+| 快手 | 平台产品经理-AI平台 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9713.md) |
+| 快手 | 数据产品经理（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13325.md) [2](../../jobs/kuaishou-9733.md) |
+| 快手 | 用户产品经理 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-13299.md) |
+| 快手 | 用户产品经理 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9734.md) |
+| 美团 | 产品经理岗 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697314739.md) |
+| 腾讯 | 产品策划 | 深圳/北京/上海/广州/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1282707374754604032.md) |
+| 腾讯 | 产品体验设计 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126425985295360.md) |
+| 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | [详情](../../jobs/tencent-1284317600528245760.md) |
 
 [上一页](campus-product-p2.md) · [下一页](campus-product-p4.md) · [总目录](../../llms.txt)

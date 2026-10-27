@@ -1,16 +1,20 @@
-# 北京 · 实习 · AI产品 · 全部公司（189 个岗位）（第 1/5 页）
+# 北京 · 实习 · AI产品 · 全部公司（215 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 127](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 31](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 143](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 32](../../slices/baidu/intern/ai-product/beijing.md) · [美团 15](../../slices/meituan/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 蚂蚁集团 | 大模型评测研究实习生 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-25071405708425.md) |
+| 蚂蚁集团 | 智能体评测工程实习生 | 北京 | 2026-10-27 | [详情](../../jobs/antgroup-260911012023291.md) |
+| 蚂蚁集团 | 智能体评测理论实习生 | 北京 | 2026-10-27 | [详情](../../jobs/antgroup-260914012045227.md) |
 | 百度 | 百度伐谋-Agent产品经理实习生（J104293） 〔28/29届 · ≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-4c2bbe30-7450-4e0e-b594-47c0be4de4c6.md) |
 | 百度 | 百度健康AI产品实习生（J103771） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-bca8d1e2-c2db-4698-9255-cddb04d2087e.md) |
 | 百度 | 百度健康AI产品实习生（J106396） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-a5d745dd-b2e4-4eff-b10d-23d6e94d302d.md) |
 | 百度 | 百度AI搜索产品实习生（J105254） 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-9a661ecb-9f44-438b-9049-615c58316675.md) |
 | 百度 | 大模型平台产品实习生（J100514） 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-0a86720f-d92d-4981-8c8e-a21b24ae13fd.md) |
+| 百度 | 大模型评测实习生（J94494） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-eb731a6f-40f7-4ca0-b14e-3ad7011a31a7.md) |
 | 百度 | 大模型推理产品经理（J100511） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-4a1a40ba-31e6-4eaf-8b2f-543e25ba529a.md) |
 | 百度 | 地图Agent产品经理实习生（J106365） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-89f8eb57-6af4-4f90-8116-6b772170fae1.md) |
 | 百度 | 星海计划-AI产品实习生（J98460） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-2979e889-b8b8-4cac-9f6f-d6aef591a6ba.md) |
@@ -43,9 +47,5 @@
 | 字节跳动 | 大模型安全产品实习生 - 火山方舟 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7675353973675460869.md) |
 | 字节跳动 | 大模型策略产品（评测方向）实习生 - 豆包 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670015754113206581.md) |
 | 字节跳动 | 大模型策略产品（写作）实习生-豆包 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7638926249863203125.md) |
-| 字节跳动 | 大模型策略产品实习生 - 豆包 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7620699612697397509.md) |
-| 字节跳动 | 大模型策略产品实习生-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7612481443608709381.md) |
-| 字节跳动 | 大模型策略产品实习生（办公方向）-豆包 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7644470105535580421.md) |
-| 字节跳动 | 大模型策略产品实习生（写作办公）-豆包 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7620698617706285317.md) |
 
 [下一页](intern-ai-product-p2.md) · [总目录](../../llms.txt)

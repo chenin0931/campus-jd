@@ -1,11 +1,12 @@
-# 北京 · 实习 · 运营 · 全部公司（701 个岗位）（第 1/16 页）
+# 北京 · 实习 · 运营 · 全部公司（726 个岗位）（第 1/17 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 110](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 61](../../slices/baidu/intern/ops/beijing.md) · [美团 42](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 322](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 72](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [京东 20](../../slices/jd/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [腾讯 11](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 蚂蚁集团 | 蚂蚁密算-政策运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/antgroup-261013012398653.md) |
 | 百度 | 百度贴吧-内容运营实习生（视频制作方向）（J106877） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-f727f1fe-d4d3-4294-82f9-c3f6dd26038d.md) |
 | 百度 | 百家号作者运营实习生（J73224） 〔≥1个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-8cf0a847-c454-47b7-a36d-e2b83bbef2c9.md) |
 | 百度 | 百家号作者运营实习生（J77522） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-50f177cc-59f7-4888-819a-47847f2ee973.md) |
@@ -30,6 +31,7 @@
 | 百度 | 活动运营实习生（J95250） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-fad166db-3580-4545-a346-0dadc83de3b3.md) |
 | 百度 | 开发者社区运营（J84920） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-0139b6b3-3a1d-4ce6-9ee5-9e61e4741b62.md) |
 | 百度 | 漫剧运营实习生（J106539） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-0805b659-6e6f-4f8e-8bde-5221c10e3c83.md) |
+| 百度 | 内容电商业务实习生（J81938） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-f7cb2f8b-ebf8-472c-9895-19309903ebfc.md) |
 | 百度 | 内容生态策略运营（J106862） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-4c64b0c5-47bd-407d-9eb8-4d64e6a264a9.md) |
 | 百度 | 品牌运营实习生（J106147） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-96788144-97db-49bf-a141-4bab1d69da14.md) |
 | 百度 | 平台产品设计与运营实习生（J106535） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-319522c9-8a02-4c2b-95b3-dff67bdc81e5.md) |
@@ -45,8 +47,5 @@
 | 百度 | 投放运营（实习生）（J106736） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-60830021-453d-453e-b06d-babac0e92670.md) |
 | 百度 | 投放运营（实习生）（J106852） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-f2d1809f-68aa-425d-a293-71345d5f17c9.md) |
 | 百度 | 网盟产品运营实习生（J78749） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-fa7b0fd1-b2b9-4e13-a701-484eb6e5a0ff.md) |
-| 百度 | 文心APP运营实习生（J106335） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-384a9735-8234-4d39-8d6b-d90f747ade65.md) |
-| 百度 | 问诊医生运营实习生（J105492） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-8a784a55-1639-441c-893b-76786822574f.md) |
-| 百度 | 新媒体内容运营实习生（J81930） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-2f878e52-5c81-4a26-8beb-894d794cb321.md) |
 
 [下一页](intern-ops-p2.md) · [总目录](../../llms.txt)

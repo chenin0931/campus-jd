@@ -1,18 +1,16 @@
-# 杭州 · 校招 · 产品 · 全部公司（22 个岗位）
+# 杭州 · 校招 · 产品 · 全部公司（20 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 6](../../slices/netease/campus/product/hangzhou.md) · [字节跳动 5](../../slices/bytedance/campus/product/hangzhou.md) · [阿里巴巴 3](../../slices/alibaba/campus/product/hangzhou.md) · [快手 3](../../slices/kuaishou/campus/product/hangzhou.md) · [腾讯 3](../../slices/tencent/campus/product/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/campus/product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 6](../../slices/netease/campus/product/hangzhou.md) · [字节跳动 4](../../slices/bytedance/campus/product/hangzhou.md) · [快手 3](../../slices/kuaishou/campus/product/hangzhou.md) · [腾讯 3](../../slices/tencent/campus/product/hangzhou.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/campus/product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 阿里巴巴 | 产品经理 | 北京/广州/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907700039.md) |
-| 阿里巴巴 | 产品体验设计师 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907640037.md) |
 | 阿里巴巴 | 国际化产品经理 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680042.md) |
 | 蚂蚁集团 | 策略产品经理 | 杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260918012129072.md) |
 | 蚂蚁集团 | 产品经理-信贷 | 杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721010986436.md) |
 | 字节跳动 | 产品经理（财务系统） - 集团信息系统 〔27届〕 | 杭州/北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680197931140024629.md) |
-| 字节跳动 | 产品设计师 - 火山引擎 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667495664276801797.md) |
 | 字节跳动 | 风险情报分析产品经理 - 风控 〔27届〕 | 杭州/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669733095578716469.md) |
 | 字节跳动 | 业财受理与成本产品经理 - 集团信息系统 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667884670696868149.md) |
 | 字节跳动 | 云存储产品经理 - AI算力基础设施 〔27届〕 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7664887854501398837.md) |

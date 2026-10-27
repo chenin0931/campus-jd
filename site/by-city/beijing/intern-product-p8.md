@@ -1,17 +1,15 @@
-# 北京 · 实习 · 产品 · 全部公司（438 个岗位）（第 8/10 页）
+# 北京 · 实习 · 产品 · 全部公司（434 个岗位）（第 8/10 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 213](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 212](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 滴滴 | 模型应用-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-02872ddf-6f1e-4ece-8dfb-72041e7f5b43.md) |
 | 滴滴 | 平台产品-产品实习生（为明） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-9b773d07-dbfb-4683-b21e-72cfe92d2a70.md) |
 | 滴滴 | 平台产品（1）-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-9b5bb5d5-ad87-4485-ba80-1ddf40139a7f.md) |
 | 滴滴 | 设计部/产品&设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-b4f156b3-b758-44fb-8b69-cfc50098b01b.md) |
 | 滴滴 | 网约车平台安全（1）产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-dd7e5b16-1c04-4b59-9670-9c419700aca1.md) |
-| 滴滴 | 网约车平台公司-产品&设计/产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-d325d5c3-e124-4f02-bde6-e10e691886d7.md) |
 | 滴滴 | 网约车平台公司-产品实习生（新橙海） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-a154bddd-aba2-495e-b9c8-bdb58788e37d.md) |
 | 滴滴 | 网约车平台公司/产品实习生（2个团队） ⚠️链接待核 | 北京 | 2026-10-27 | [1](../../jobs/didi-dc5833f8-9c84-421c-a2d3-82cd75e36e2f.md) [2](../../jobs/didi-23f86e74-9407-4a18-9a0c-4d740e3fe838.md) |
 | 滴滴 | 网约车平台公司/产品实习生（新） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-d13980c4-65df-4389-8bdc-599b34a83a7a.md) |
@@ -50,5 +48,8 @@
 | 快手 | 【留用实习】平台产品经理-AI平台 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11453.md) |
 | 快手 | 【留用实习】数据产品经理 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11508.md) |
 | 快手 | 【留用实习】用户产品经理 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-11583.md) |
+| 快手 | 【留用实习】用户产品经理-音乐方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12544.md) |
+| 美团 | 【2027】Keeta-产品实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4691986310.md) |
+| 美团 | 餐饮搜索广告策略产品经理 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4215253408.md) |
 
 [上一页](intern-product-p7.md) · [下一页](intern-product-p9.md) · [总目录](../../llms.txt)

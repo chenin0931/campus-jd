@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 销售 · 全部公司（16 个岗位）
+# 深圳 · 校招 · 销售 · 全部公司（18 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 11](../../slices/bytedance/campus/sales/shenzhen.md) · [百度 2](../../slices/baidu/campus/sales/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shenzhen.md) · [京东 1](../../slices/jd/campus/sales/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/sales/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 11](../../slices/bytedance/campus/sales/shenzhen.md) · [百度 2](../../slices/baidu/campus/sales/shenzhen.md) · [腾讯 2](../../slices/tencent/campus/sales/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shenzhen.md) · [京东 1](../../slices/jd/campus/sales/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/sales/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -21,6 +21,8 @@
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 北京/上海/成都/武汉/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667154545639246085.md) |
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667544823326509365.md) |
 | 京东 | 大客户销售 〔27届〕 | 上海/昆明/北京/长春/成都/广州/深圳/南昌/杭州/武汉/大连/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9079.md) |
+| 腾讯 | 解决方案-技术咨询方向 | 深圳/北京/上海/广州/西安/重庆 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182209.md) |
+| 腾讯 | 解决方案-行业咨询方向 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182208.md) |
 | 小米 | 电商销售主管 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/xiaomi-7697203808912558379.md) |
 
 [总目录](../../llms.txt)

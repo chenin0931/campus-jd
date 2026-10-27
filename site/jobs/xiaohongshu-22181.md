@@ -3,7 +3,7 @@
 - id: xiaohongshu-22181
 - 公司: 小红书
 - job_type: 校招
-- 类别: AI产品
+- 类别: 设计
 - 城市: 上海
 - status: active
 - 届别 grad_year: 未注明

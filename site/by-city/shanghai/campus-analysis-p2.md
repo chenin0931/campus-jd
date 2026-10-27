@@ -1,15 +1,13 @@
-# 上海 · 校招 · 分析 · 全部公司（60 个岗位）（第 2/2 页）
+# 上海 · 校招 · 分析 · 全部公司（58 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 37](../../slices/bytedance/campus/analysis/shanghai.md) · [滴滴 6](../../slices/didi/campus/analysis/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/analysis/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/campus/analysis/shanghai.md) · [携程 2](../../slices/ctrip/campus/analysis/shanghai.md) · [京东 2](../../slices/jd/campus/analysis/shanghai.md) · [美团 2](../../slices/meituan/campus/analysis/shanghai.md) · [米哈游 2](../../slices/mihoyo/campus/analysis/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/analysis/shanghai.md) · [腾讯 1](../../slices/tencent/campus/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 37](../../slices/bytedance/campus/analysis/shanghai.md) · [阿里巴巴 3](../../slices/alibaba/campus/analysis/shanghai.md) · [携程 3](../../slices/ctrip/campus/analysis/shanghai.md) · [滴滴 3](../../slices/didi/campus/analysis/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/campus/analysis/shanghai.md) · [京东 2](../../slices/jd/campus/analysis/shanghai.md) · [美团 2](../../slices/meituan/campus/analysis/shanghai.md) · [米哈游 2](../../slices/mihoyo/campus/analysis/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/analysis/shanghai.md) · [腾讯 1](../../slices/tencent/campus/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 滴滴 | 27届秋招-风险策略分析师（国际化金融-信贷） 〔27届〕 ⚠️链接待核 | 上海/北京 | 2026-10-27 | [详情](../../jobs/didi-b6102ba2-7a1c-43ff-85f5-2c48ade1a336.md) |
-| 滴滴 | 27届秋招-风险策略分析师（国际化金融-支付） 〔27届〕 ⚠️链接待核 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/didi-7e1539c3-e46d-46d5-b05e-0a712f095a89.md) |
+| 携程 | Eagle Program – Business Analyst (2027 Graduates) 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036639.md) |
 | 滴滴 | 27届秋招-商业分析师（国际化外卖-Grocery） 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-efe360e1-a1f2-4a98-a10c-626ab8826c5b.md) |
-| 滴滴 | 27届秋招-数据分析师（国际化金融） 〔27届〕 ⚠️链接待核 | 杭州/上海 | 2026-10-27 | [详情](../../jobs/didi-b1122e51-227a-429e-a54d-6acd2f337e3e.md) |
 | 滴滴 | 27届秋招-Business Analyst（国际化Intl DS） 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-880f264c-bfd5-4b6d-ae4b-fa9054c92e5f.md) |
 | 滴滴 | 27届秋招-Data Analyst（国际化Intl DS） 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-5b938011-04a2-44b9-b83b-5b609d821658.md) |
 | 京东 | 商业分析 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-9071.md) |

@@ -3,7 +3,7 @@
 - id: baidu-fbf35cc4-f196-4f4c-9ba1-9fca982e5269
 - 公司: 百度
 - job_type: 校招
-- 类别: 产品
+- 类别: 设计
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

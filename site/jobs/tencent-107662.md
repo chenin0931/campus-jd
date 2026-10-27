@@ -3,7 +3,7 @@
 - id: tencent-107662
 - 公司: 腾讯（CSIG）
 - job_type: 实习
-- 类别: 其他
+- 类别: 销售
 - 城市: United Kingdom-London
 - status: active
 - 届别 grad_year: 未注明

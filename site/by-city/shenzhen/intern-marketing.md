@@ -1,15 +1,15 @@
-# 深圳 · 实习 · 市场 · 全部公司（25 个岗位）
+# 深圳 · 实习 · 市场 · 全部公司（24 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 11](../../slices/tencent/intern/marketing/shenzhen.md) · [字节跳动 7](../../slices/bytedance/intern/marketing/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/marketing/shenzhen.md) · [百度 1](../../slices/baidu/intern/marketing/shenzhen.md) · [京东 1](../../slices/jd/intern/marketing/shenzhen.md) · [美团 1](../../slices/meituan/intern/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 11](../../slices/tencent/intern/marketing/shenzhen.md) · [字节跳动 6](../../slices/bytedance/intern/marketing/shenzhen.md) · [OPPO 3](../../slices/oppo/intern/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shenzhen.md) · [百度 1](../../slices/baidu/intern/marketing/shenzhen.md) · [京东 1](../../slices/jd/intern/marketing/shenzhen.md) · [美团 1](../../slices/meituan/intern/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 蚂蚁集团 | 蚂蚁国际-市场营销实习生 〔≥3个月，每周≥4天〕 | 上海/杭州/深圳 | 2026-10-27 | [详情](../../jobs/antgroup-25060505046633.md) |
 | 百度 | 广告策略实习生（J106714） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-a4cff361-e180-44ae-873c-8e743d71a705.md) |
 | 字节跳动 | 海外达人营销实习生 - 剪映CapCut | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7647383092026083637.md) |
 | 字节跳动 | 剪映市场实习生 - 剪映CapCut 〔≥3个月，每周≥4天〕 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7689014591235623173.md) |
-| 字节跳动 | 美国平台物流商家增长实习生 - TikTok Shop 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7677799494008457525.md) |
 | 字节跳动 | 品牌活动实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7624099117158467845.md) |
 | 字节跳动 | 营销商品策略实习生 - TikTok Shop 〔≥6个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7694932039569656117.md) |
 | 字节跳动 | 游戏品牌营销实习生 - ONE Studio 〔≥6个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7629643559650068741.md) |
@@ -19,7 +19,6 @@
 | OPPO | 媒介经理（海外） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1663.md) |
 | OPPO | 营销策划经理 （非理工科类_手机方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1687.md) |
 | OPPO | 营销策划经理（理工科类_手机方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1686.md) |
-| OPPO | 营销视觉设计师 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1657.md) |
 | 腾讯 | 公关 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1224788538126854144.md) |
 | 腾讯 | 市场研究 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1224696587981619200.md) |
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067387964684288.md) |

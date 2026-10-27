@@ -28,7 +28,7 @@ run('antgroup', async () => {
       const id = String(j.id); if (seen.has(id)) continue;
       const { head, bu } = parse(j.name);
       if (!classify(j.name)) continue;  // 排除按全标题（CLASSIFIER §2）
-      const category = classify(head) || classify(j.name);
+      const category = classify(j.name) || classify(head);
       const url = `https://talent.antgroup.com/campus-position?positionId=${id}&locale=zh-CN`;
       const intern = j.batchType === 'intern' || j.batchType === 'internship' || /实习/.test(j.batchName || '') || /实习/.test(j.name);
       seen.set(id, { company: '蚂蚁集团', business_unit: bu, title: j.name, category, job_type: intern ? '实习' : '校招', city: j.workLocations || [],

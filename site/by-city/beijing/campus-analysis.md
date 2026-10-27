@@ -1,12 +1,11 @@
-# 北京 · 校招 · 分析 · 全部公司（104 个岗位）（第 1/3 页）
+# 北京 · 校招 · 分析 · 全部公司（99 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 58](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [阿里巴巴 6](../../slices/alibaba/campus/analysis/beijing.md) · [京东 6](../../slices/jd/campus/analysis/beijing.md) · [蚂蚁集团 4](../../slices/antgroup/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [滴滴 3](../../slices/didi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [腾讯 2](../../slices/tencent/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [小米 2](../../slices/xiaomi/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 56](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [阿里巴巴 5](../../slices/alibaba/campus/analysis/beijing.md) · [京东 5](../../slices/jd/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/campus/analysis/beijing.md) · [小米 3](../../slices/xiaomi/campus/analysis/beijing.md) · [滴滴 2](../../slices/didi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [腾讯 2](../../slices/tencent/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 阿里巴巴 | 代码场景的Agentic RL与数据合成-阿里星 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907640077.md) |
 | 阿里巴巴 | 面向异构计算的多模态数据处理性能优化技术-阿里星/A Star | 北京 | 2026-10-27 | [详情](../../jobs/alibaba-199907780101.md) |
 | 阿里巴巴 | 数据科学家 | 北京/广州/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907800043.md) |
 | 阿里巴巴 | 下一代大模型智能体框架与数据技术-阿里星 | 北京/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907700044.md) |
@@ -14,7 +13,6 @@
 | 阿里巴巴 | Data+AI融合：下一代多模态数据库/下一代AI数据湖-阿里星/A Star | 北京/杭州/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907820112.md) |
 | 蚂蚁集团 | 【蚂蚁星】全模态大模型数据-蚂蚁健康-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-26042409788457.md) |
 | 蚂蚁集团 | 大模型数据构建与优化 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721010984490.md) |
-| 蚂蚁集团 | 金融分析师 | 北京 | 2026-10-27 | [详情](../../jobs/antgroup-260721011014085.md) |
 | 蚂蚁集团 | AI数据与检索基础设施工程 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721010984483.md) |
 | 百度 | 北京-大模型AI数据训练师(J100672) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-720ab09c-f78c-4dda-80fa-10afd09b8094.md) |
 | 百度 | 北京-经营分析(J100725) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-c5291eee-adee-48f6-be2d-6c88f190eb35.md) |
@@ -37,7 +35,6 @@
 | 字节跳动 | 服务策略 - 体验与服务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670124452865378565.md) |
 | 字节跳动 | 货架供给策略 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7676398396087159045.md) |
 | 字节跳动 | 基于多模态大模型的视频分析/理解/画质评估及增强与视频智能编码/表达-音视频技术（北京） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7628573665035389189.md) |
-| 字节跳动 | 基于主动进化技术的AI coding数据合成方案探索-AI数据与安全（北京/深圳） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7628850831602305285.md) |
 | 字节跳动 | 经营策略分析师 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668302484166871349.md) |
 | 字节跳动 | 经营分析 - 剪映CapCut 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667481788043593989.md) |
 | 字节跳动 | 欺诈/安全策略分析师 - 财经业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670065395530008885.md) |
@@ -47,5 +44,8 @@
 | 字节跳动 | 生态策略 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667934860749654325.md) |
 | 字节跳动 | 数据分析 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677527047489472821.md) |
 | 字节跳动 | 数据分析师 - 抖音效果与创作 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667929586126162229.md) |
+| 字节跳动 | 数据分析师 - 抖音音乐 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7682681391491025205.md) |
+| 字节跳动 | 数据分析师 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669707798918007045.md) |
+| 字节跳动 | 数据分析师 - 今日头条 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669712338309089589.md) |
 
 [下一页](campus-analysis-p2.md) · [总目录](../../llms.txt)

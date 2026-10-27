@@ -3,7 +3,7 @@
 - id: baidu-dac1c43b-b010-494d-909a-21b42df17aac
 - 公司: 百度
 - job_type: 校招
-- 类别: 其他
+- 类别: 职能
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

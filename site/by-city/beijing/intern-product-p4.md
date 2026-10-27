@@ -1,12 +1,11 @@
-# 北京 · 实习 · 产品 · 全部公司（438 个岗位）（第 4/10 页）
+# 北京 · 实习 · 产品 · 全部公司（434 个岗位）（第 4/10 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 213](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 212](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 广告策略产品实习生 - 广告业务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7676290873403623733.md) |
 | 字节跳动 | 广告策略产品实习生-广告业务（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7646992764920760581.md) [2](../../jobs/bytedance-7591388543520737589.md) |
 | 字节跳动 | 广告策略产品实习生（文娱行业）-广告业务 〔27届 · ≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7615539534780844341.md) |
 | 字节跳动 | 广告产品实习生 - 抖音生活服务 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7672337680158230789.md) |

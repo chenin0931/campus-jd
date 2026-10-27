@@ -1,8 +1,8 @@
-# 北京 · 校招 · 商务 · 全部公司（64 个岗位）（第 1/2 页）
+# 北京 · 校招 · 商务 · 全部公司（62 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 22](../../slices/bytedance/campus/business/beijing.md) · [小米 13](../../slices/xiaomi/campus/business/beijing.md) · [快手 7](../../slices/kuaishou/campus/business/beijing.md) · [美团 6](../../slices/meituan/campus/business/beijing.md) · [京东 5](../../slices/jd/campus/business/beijing.md) · [百度 4](../../slices/baidu/campus/business/beijing.md) · [腾讯 3](../../slices/tencent/campus/business/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/business/beijing.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/beijing.md) · [华为 1](../../slices/huawei/campus/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 21](../../slices/bytedance/campus/business/beijing.md) · [小米 11](../../slices/xiaomi/campus/business/beijing.md) · [快手 7](../../slices/kuaishou/campus/business/beijing.md) · [京东 5](../../slices/jd/campus/business/beijing.md) · [百度 4](../../slices/baidu/campus/business/beijing.md) · [美团 4](../../slices/meituan/campus/business/beijing.md) · [腾讯 3](../../slices/tencent/campus/business/beijing.md) · [华为 2](../../slices/huawei/campus/business/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/business/beijing.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/beijing.md) · [携程 1](../../slices/ctrip/campus/business/beijing.md) · [网易 1](../../slices/netease/campus/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -17,7 +17,6 @@
 | 字节跳动 | 大模型应用（商业化基模&Agent方向） - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669691358501865733.md) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7670755833004804405.md) [2](../../jobs/bytedance-7670755843042642181.md) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670756030309435701.md) |
-| 字节跳动 | 供应链商务管理专员 - AI算力基础设施 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670180490167109941.md) |
 | 字节跳动 | 国际网络商务 - AI算力基础设施 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677875670571288837.md) |
 | 字节跳动 | 技术战略 - 人力与管理部 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667510780866070789.md) |
 | 字节跳动 | 渠道销售（创意经营） - 商业化 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669688971358357813.md) |
@@ -31,8 +30,10 @@
 | 字节跳动 | 战略分析师 - Global Business Solutions 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670465951632312629.md) |
 | 字节跳动 | 战略经营分析师 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668298437905434933.md) |
 | 字节跳动 | IDC网络商务拓展 - AI算力基础设施 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7673074052210690357.md) |
+| 携程 | 旅游业务培训生（业务拓展）（2027届秋招）- 北京 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036691.md) |
+| 华为 | 生态拓展经理 | 南京/杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38429.md) |
 | 华为 | 智能汽车解决方案BD | 长春/重庆/武汉/芜湖/北京/上海/广州/合肥/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38434.md) |
-| 京东 | 供应链规划 〔27届〕 | 上海/北京/合肥/济南/海口/厦门/西安 | 2026-10-27 | [详情](../../jobs/jd-9120.md) |
+| 京东 | 采销（线下业态） 〔27届〕 | 上海/北京/成都/天津/广州/南京/武汉/西安 | 2026-10-27 | [详情](../../jobs/jd-9276.md) |
 | 京东 | 渠道销售 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9130.md) |
 | 京东 | 商务拓展 〔27届〕 | 北京/成都/济南/广州/南昌/郑州/海口/厦门/重庆 | 2026-10-27 | [详情](../../jobs/jd-9065.md) |
 | 京东 | 商务拓展（金融） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9039.md) |
@@ -46,10 +47,10 @@
 | 快手 | HR-组织战略分析师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-10771.md) |
 | 美团 | 城市大客户商务合作专员 | 合肥/杭州/南京/北京/苏州/天津/上海/西安/成都/昆明/长沙/重庆/济南/南昌/广州/郑州/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697264948.md) |
 | 美团 | 大客户合作岗 〔27届〕 | 杭州/北京/石家庄/上海/迪拜/广州/成都/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697233231.md) |
-| 美团 | 供应链管理岗 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4694853346.md) |
 | 美团 | 渠道管理 | 南京/北京/西安/利雅得/成都/广州/哈尔滨/武汉/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4694732393.md) |
-| 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海/成都/长春/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/大连/南宁/西安/哈尔滨/昆明/长沙/湛江/重庆/东莞/南昌/中山/佛山/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | 美团 | 战略与投资分析师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4694877891.md) |
+| 网易 | 内容拓展专员（云上） | 北京 | 2026-10-27 | [详情](../../jobs/netease-4807.md) |
 | 腾讯 | 商务拓展 | 深圳/北京/广州/香港 | 2026-10-27 | [详情](../../jobs/tencent-1282707380882482176.md) |
+| 腾讯 | 投资分析 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1277366755316311040.md) |
 
 [下一页](campus-business-p2.md) · [总目录](../../llms.txt)

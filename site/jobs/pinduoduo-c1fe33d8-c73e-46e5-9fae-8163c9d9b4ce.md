@@ -3,7 +3,7 @@
 - id: pinduoduo-c1fe33d8-c73e-46e5-9fae-8163c9d9b4ce
 - 公司: 拼多多
 - job_type: 实习
-- 类别: 其他
+- 类别: 市场
 - 城市: 不限（官网写「不限」）
 - 来源: 手动更新 · 最后更新 2026-10-27
 - status: active

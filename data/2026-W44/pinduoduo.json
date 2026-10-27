@@ -21,7 +21,7 @@
     "title": "商务管培生（香港）",
     "category": "商务",
     "city": [
-      "中国香港"
+      "香港"
     ],
     "requirements": "1) 本科及以上学历，专业不限；持有香港居民身份证，能以粤语作为日常工作语言；2) 掌握基础数据处理技能，具备良好的逻辑思维与沟通协调能力，有团队合作意识，亲和力佳，善于耐心沟通；3) 自驱力强，目标感与责任心突出，具备较强的运营意识与用户同理心。",
     "deadline": null,
@@ -54,7 +54,7 @@
   {
     "company": "拼多多",
     "title": "仓配物流管培生（区域业务）",
-    "category": "其他",
+    "category": "供应链",
     "city": [
       "全国多地"
     ],
@@ -72,7 +72,7 @@
   {
     "company": "拼多多",
     "title": "质控管培生（区域业务）",
-    "category": "其他",
+    "category": "供应链",
     "city": [
       "全国多地"
     ],
@@ -125,7 +125,7 @@
   {
     "company": "拼多多",
     "title": "仓储管理管培生（广东）",
-    "category": "其他",
+    "category": "供应链",
     "city": [
       "广东省"
     ],
@@ -142,7 +142,7 @@
   {
     "company": "拼多多",
     "title": "质检管培生（广东）",
-    "category": "其他",
+    "category": "供应链",
     "city": [
       "广东省"
     ],
@@ -401,7 +401,7 @@
     "title": "HR实习生",
     "category": "职能",
     "city": [
-      "上海市"
+      "上海"
     ],
     "requirements": "1) 本科及以上学历的在校生；2) 熟练使用办公软件，具有较好的数据分析能力；3) 具有良好的沟通能力，抗压力、自驱力强，良好的执行力；4) 能够全勤实习至少3个月、尽快入职者优先。",
     "deadline": null,
@@ -416,7 +416,7 @@
   {
     "company": "拼多多",
     "title": "校园大使（2027届校招）",
-    "category": "其他",
+    "category": "市场",
     "city": [
       "不限"
     ],
@@ -430,5 +430,73 @@
     "link_status": "链接待核",
     "city_note": "官网写「不限」",
     "project": "实习生招聘"
+  },
+  {
+    "company": "拼多多",
+    "title": "消费者服务运营管培生（上海）",
+    "category": "运营",
+    "city": [
+      "上海"
+    ],
+    "requirements": null,
+    "deadline": null,
+    "apply_url": "https://careers.pddglobalhr.com/campus/grad",
+    "source_url": "https://careers.pddglobalhr.com/campus/grad",
+    "fetched_at": "2026-10-27T18:26:54+08:00",
+    "job_type": "校招",
+    "source": "manual-browser",
+    "link_status": "链接待核",
+    "project": "应届生招聘"
+  },
+  {
+    "company": "拼多多",
+    "title": "设计管培生（上海）",
+    "category": "设计",
+    "city": [
+      "上海"
+    ],
+    "requirements": null,
+    "deadline": null,
+    "apply_url": "https://careers.pddglobalhr.com/campus/grad",
+    "source_url": "https://careers.pddglobalhr.com/campus/grad",
+    "fetched_at": "2026-10-27T18:26:54+08:00",
+    "job_type": "校招",
+    "source": "manual-browser",
+    "link_status": "链接待核",
+    "project": "应届生招聘"
+  },
+  {
+    "company": "拼多多",
+    "title": "视频创意制作（上海）",
+    "category": "市场",
+    "city": [
+      "上海"
+    ],
+    "requirements": null,
+    "deadline": null,
+    "apply_url": "https://careers.pddglobalhr.com/campus/grad",
+    "source_url": "https://careers.pddglobalhr.com/campus/grad",
+    "fetched_at": "2026-10-27T18:26:54+08:00",
+    "job_type": "校招",
+    "source": "manual-browser",
+    "link_status": "链接待核",
+    "project": "应届生招聘"
+  },
+  {
+    "company": "拼多多",
+    "title": "法务助理（上海）",
+    "category": "职能",
+    "city": [
+      "上海"
+    ],
+    "requirements": null,
+    "deadline": null,
+    "apply_url": "https://careers.pddglobalhr.com/campus/grad",
+    "source_url": "https://careers.pddglobalhr.com/campus/grad",
+    "fetched_at": "2026-10-27T18:26:54+08:00",
+    "job_type": "校招",
+    "source": "manual-browser",
+    "link_status": "链接待核",
+    "project": "应届生招聘"
   }
 ]

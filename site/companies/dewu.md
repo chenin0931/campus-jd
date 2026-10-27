@@ -5,16 +5,16 @@
 没列出的 类型×类别 组合就是没有岗位，不要再猜路径。
 
 - 校招·AI产品（4）：[上海 4](../slices/dewu/campus/ai-product/shanghai.md)
-- 校招·产品（19）：[上海 19](../slices/dewu/campus/product/shanghai.md)
-- 校招·运营（81）：[上海 76](../slices/dewu/campus/ops/shanghai.md) · [广州 2](../slices/dewu/campus/ops/guangzhou.md) · [成都 1](../slices/dewu/campus/ops/chengdu.md) · [其他城市 1](../slices/dewu/campus/ops/other.md) · 另 1 城（1 个）见 index.json slices
-- 校招·商务（18）：[上海 14](../slices/dewu/campus/business/shanghai.md) · [其他城市 4](../slices/dewu/campus/business/other.md) · [广州 3](../slices/dewu/campus/business/guangzhou.md) · [武汉 2](../slices/dewu/campus/business/wuhan.md) · 另 2 城（2 个）见 index.json slices
+- 校招·产品（18）：[上海 18](../slices/dewu/campus/product/shanghai.md)
+- 校招·运营（83）：[上海 78](../slices/dewu/campus/ops/shanghai.md) · [其他城市 4](../slices/dewu/campus/ops/other.md) · [广州 3](../slices/dewu/campus/ops/guangzhou.md) · [成都 2](../slices/dewu/campus/ops/chengdu.md) · 另 2 城（3 个）见 index.json slices
 - 校招·市场（1）：[上海 1](../slices/dewu/campus/marketing/shanghai.md)
 - 校招·销售（1）：[上海 1](../slices/dewu/campus/sales/shanghai.md)
 - 校招·设计（2）：[上海 2](../slices/dewu/campus/design/shanghai.md)
 - 校招·职能（4）：[上海 4](../slices/dewu/campus/corporate/shanghai.md)
 - 校招·项目管理（1）：[上海 1](../slices/dewu/campus/pm/shanghai.md)
+- 校招·供应链（17）：[上海 13](../slices/dewu/campus/supply/shanghai.md) · [广州 2](../slices/dewu/campus/supply/guangzhou.md) · [武汉 1](../slices/dewu/campus/supply/wuhan.md) · [其他城市 1](../slices/dewu/campus/supply/other.md)
 - 校招·其他（2）：[上海 2](../slices/dewu/campus/other/shanghai.md)
-- 实习·商务（1）：[上海 1](../slices/dewu/intern/business/shanghai.md)
+- 实习·供应链（1）：[上海 1](../slices/dewu/intern/supply/shanghai.md)
 - 实习·其他（4）：[上海 4](../slices/dewu/intern/other/shanghai.md)
 
 [总目录](../llms.txt)

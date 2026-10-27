@@ -1,9 +1,10 @@
-# 腾讯 · 实习 · 设计 · 其他城市：United Kingdom-London（1 个岗位）
+# 腾讯 · 实习 · 设计 · 其他城市：United Kingdom-London（2 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|
+| AI-Native Game Design Intern 108252 | United Kingdom-London | 2026-10-27 | [详情](../../../../jobs/tencent-108252.md) |
 | Game UI & Tools Intern (AI Focus) 108251 | United Kingdom-London | 2026-10-27 | [详情](../../../../jobs/tencent-108251.md) |
 
 [总目录](../../../../llms.txt)

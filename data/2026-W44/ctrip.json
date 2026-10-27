@@ -10,13 +10,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036717",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036717",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "Eagle Program – Business Analyst (2027 Graduates)",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -24,7 +24,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036639",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036639",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -38,7 +38,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ037349",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ037349",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -52,7 +52,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ037323",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ037323",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -66,13 +66,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036670",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036670",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "客服管理（2027届秋招） - 南通",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "南通"
     ],
@@ -80,13 +80,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ037031",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ037031",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "流程管理（用户体验方向）（2027届秋招）",
-    "category": "其他",
+    "category": "设计",
     "city": [
       "上海"
     ],
@@ -94,7 +94,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036686",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036686",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -108,7 +108,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036681",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036681",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -122,19 +122,21 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036914",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036914",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "AI 产品经理 - 伦敦（2027届秋招）",
     "category": "AI产品",
-    "city": [],
+    "city": [
+      "城市见官网"
+    ],
     "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n工作地点：英国伦敦\n\n\n\n\n你将会负责：\n\n1. 产品全生命周期管理：参与 AI 产品（如智能推荐、线路规划、旅行Agent 等）的需求调研、方案设计、PRD 撰写与落地交付的完整环节；\n\n2. 用户洞察与需求转化：结合用户访谈、数据分析和场景研究等方式，挖掘用户需求，形成可落地的产品方案；\n\n3. 技术协同与体验设计：与算法、研发、设计等团队协作，将大模型、Agent、RAG、工具调用等AI能力转化为真实可用的产品体验；\n\n4. 数据驱动与迭代优化：定义并追踪产品核心指标，结合数据分析、用户反馈和实验验证，持续优化产品体验与业务效果；\n\n5. 前沿探索与创新落地：关注 AI 产品行业前沿动态，探索 AI时代的新型交互与产品形态，并通过Demo等方式快速验证想法。\n\n\n\n\n我们期望你：\n\n1. 专业不限，计算机科学、人工智能等相关专业优先；\n\n2. 对 AI 技术和 AI 产品有浓厚兴趣，主动使用、研究或拆解过各类 AI 产品，能够快速学习新工具、新模型和新范式;\n\n3. 了解大模型、多模态、Agent、Skill、上下文与记忆管理等基本概念，能够理解 AI 能力边界，并将技术能力转化为用户体验；\n\n4. 具备良好的逻辑思考、沟通协作和快速学习能力，愿意探索未知领域，并推动想法落地。\n\n\n\n\n加分项：\n\n1. 有 AI 产品、智能助手、对话式产品相关的实习或项目经历，或参与过 AI Native 功能从 0 到 1 的落地实践；\n\n2. 有 Prompt Engineering、AI Coding、原型设计等快速验证产品想法的能力。\n",
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036832",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036832",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -148,105 +150,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036723",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036723",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "携程",
-    "title": "全球人力资源管培生（2027届秋招）",
-    "category": "职能",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\nWhat You Will Gain:\n\n1.Rotation in different HR functions across all HR’s Three Pillars:\n\n-Rotate through COE (Center of Expertise), SSC (Shared Service Center), Business Unit HR teams, and overseas HR teams.\n\n-Master end-to-end HR processes and understand the three-pillar operational model.\n\n-Receive customized development guidance from dual mentors: a Group COE expert and a Regional HR Director.\n\n\n\n\n2.On-the-Ground projects at overseas offices:\n\n-Collaborate with cross-functional HR teams in overseas offices to tackle real-world HR challenges under \nTrip.com\n globalization progress.\n\n-Gain front-line experience solving business-critical HR pain points.\n\n\n\n\nWhat We Expect From You:\n\n1.Education &amp; Skills:\n\n-Bachelor’s degree or higher (all majors welcome).\n\n-Overseas study or multinational internship experience preferred.\n\n-Fluent in English (written and spoken); additional language skills are a plus.\n\n\n\n\n2.Mindset &amp; Abilities:\n\n-Open-minded, empathetic, and adept at cross-cultural communication.\n\n-Self-driven, responsible, and results-oriented with a problem-solving mindset.\n\n-Thrives in challenges and embraces growth through adversity.\n\n\n\n\n3.Professional Competencies:\n\n-Structured and critical thinking.\n\n-Data analysis proficiency (familiarity with AI tools preferred).\n\n-Strong learning agility and innovation capabilities.\n\n\n\n\n\n\n\n你将会收获：\n\n集团HR三支柱深度轮岗：\n\n在COE（专家中心）、SSC（共享服务中心）、事业部HR团队以及海外驻地HR团队轮岗，系统掌握人力资源全流程，理解三支柱运作机制。配备双导师（总部COE专家+区域HR总监）提供定制化发展建议。\n\n海外当地实战项目：\n\n协同HR各条线，派驻海外办公室，深入一线了解并攻克全球化进程中人力资源相关的业务痛点。\n\n \n\n我们期望你：\n\n本科及以上学历，不限专业，有海外留学或跨国公司实习经历；能够使用英语进行无障碍沟通；有其他小语种技能者优先考虑。\n\n具备开放的心态，有同理心和跨文化沟通能力，自驱力强，有责任心和推动解决问题的能力，愿意迎难而上，以结果为导向，在挑战中不断成长。\n\n拥有结构化思维和批判性思维；具备AI Mindset及能力，主动拥抱 AI-First 的工作方式，具备极强的技术敏感度与探索欲；学习创新能力突出。\n",
-    "deadline": null,
-    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036687",
-    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036687",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "携程",
-    "title": "客服管理（2027届秋招）",
-    "category": "其他",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 根据客服工作目标，制定工作计划并组织实施、监督落实情况，带领客服团队完成或超越目标；\n\n2. 辅导并提升员工素养和服务技能，提升团队人员向心力、执行力、归属感；\n\n3. 识别用户需求与流程和系统的不匹配处，积极与相关方反馈 ；\n\n4. 针对团队中的投诉与纠纷进行调查与处理；\n\n5. 完成各类政策、规则、信息的上传下达。\n\n\n\n\n我们期望你：\n\n1. 优秀的自驱力，执行力强，有责任心，沟通协调能力强，能推动项目的执行与落地；\n\n2. 有良好的逻辑思维能力，擅长问题分析；\n\n3. 任一项加分: 在校期间参与过项目组建或有相关项目实习经历；数据分析能力；优秀的英语能力。\n",
-    "deadline": null,
-    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036685",
-    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036685",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "携程",
-    "title": "质量管理（用户体验方向）（2027届秋招）",
-    "category": "其他",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 建立客户体验管理标准体系，制定服务流程优化SOP；\n\n2. 构建多维度用户体验监测机制，定期输出工作报告强化成果交付；\n\n3. 进行客户服务旅程关键触点优化，推动服务改进项目落地；\n\n4. 搭建服务质量评估模型，完成客户满意度分析及改善方案；\n\n5. 协调各部门建立服务优化闭环，提升问题解决效率；\n\n6. 推进服务标准化建设，完成服务流程迭代升级。\n\n\n\n\n我们期望你：\n\n1. 有客户关系管理/体验相关实习经历，赞同以客户为中心，熟悉服务蓝图等基础方法论；\n\n2. 熟练应用Office软件，能独立完成数据清洗、分析及可视化呈现；\n\n3. 具备结构化表达和写作能力，擅长跨团队沟通协调，具有推动复杂问题解决的实践经验。\n",
-    "deadline": null,
-    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036684",
-    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036684",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "携程",
-    "title": "旅游业务培训生（业务运营）- 日语/韩语/阿拉伯语（2027届秋招）",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 与供应商进行日常沟通及关系维护，保障旅游产品稳定运营；\n\n2. 追踪市场趋势，拓展合作资源，精细化供应链运营，以数据驱动创效增利；\n\n3. 通过数据分析推动产线迭代升级，动态追踪关键指标，精准定位瓶颈与突破点；\n\n4. 基于质量数据赋能供应商，持续优化旅游产品。\n\n\n\n\n我们期望你：\n\n1. 优秀的项目管理能力，执行力强，有责任心，能推动项目的执行与落地；\n\n2. 优秀的商业数据分析能力，知道用数据说话；\n\n3. 良好的表达能力，乐于并且善于对外沟通；\n\n4. 优秀的英语能力，能使用英语作为日常工作语言，同时精通日语、韩语、阿拉伯语、泰语、粤语（任选其一）\n\n5. 无论你是什么专业，我们需要你对旅游足够的热爱。\n",
-    "deadline": null,
-    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036642",
-    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036642",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "携程",
-    "title": "交互设计师（2027届秋招）",
-    "category": "设计",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 根据产品需求设计Online Travel Agent(OTA)产品，挖掘业务设计价值，提升携程产品的用户体验；\n\n2. 分析项目需求，设计用户行为流程与交互方案，制作保真原型，完成交互说明；\n\n3. 研究现有产品、关注竞争对手，参与用户研究和可用性测试，挖掘体验改进机会点，以推动产品创立或提升；\n\n4. 跟踪用户反馈和上线数据，分析数据变化，通过数据驱动设计迭代改进产品；\n\n5. 关注设计趋势、竞品动向，沉淀设计规范并分享设计知识。\n\n\n\n\n我们期望你：\n\n1. 设计或计算机相关教育背景；\n\n2. 对用户体验设计有深厚的知识背景和扎实的实践经验，具备完整而专业的知识体系，掌握用户体验设计通用理论和方法；\n\n3. 熟练使用常用设计工具，具有创新精神，关注业内设计趋势和思潮；\n\n4. 出色的逻辑思维和产品感知能力，对设计整体和细节均能良好把握；\n\n5. 出众的沟通交流、跨团队协作能力，高效策动设计项目的推进；\n\n6. 良好的抗压性、多任务并行能力及持续学习意愿，确保计划内的方案进度。\n",
-    "deadline": null,
-    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036637",
-    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036637",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "携程",
-    "title": "旅游业务培训生（业务运营）（2027届秋招）",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 与供应商进行日常沟通及关系维护，保障旅游产品稳定运营；\n\n2. 追踪市场趋势，拓展合作资源，精细化供应链运营，以数据驱动创效增利；\n\n3. 通过数据分析推动产线迭代升级，动态追踪关键指标，精准定位瓶颈与突破点；\n\n4. 基于质量数据赋能供应商，持续优化旅游产品。\n\n\n\n\n我们期望你：\n\n1. 优秀的项目管理能力，执行力强，有责任心，能推动项目的执行与落地；\n\n2. 优秀的商业数据分析能力，知道用数据说话；\n\n3. 良好的表达能力，乐于并且善于对外沟通；\n\n4. 优秀的英语能力，能使用英语作为日常工作语言；\n\n5. 无论你是什么专业，我们需要你对旅游足够的热爱。\n",
-    "deadline": null,
-    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036699",
-    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036699",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "携程",
-    "title": "业务运营（数据分析方向）（2027届秋招）",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1.协助构建全球业务需求预测模型，分析各区域及业务线的人员需求趋势；\n\n2.参与智能排班体系优化，支持实时监控，识别潜在风险与改进机会；\n\n3.在导师指导下参与系统工具开发和流程改进项目，将数据洞察转化为可落地的业务方案；\n\n4.使用 Excel、SQL 或 Python 分析业务数据，开展 ROI 分析、成本测算及项目效果评估；\n\n5.与产品、技术、运营及海外团队协作，明确项目目标、成功标准及风险应对；\n\n6.在真实业务环境中积累分析、项目管理及运营经验，参与团队复盘和反馈，优化工作方法。\n\n\n\n\n我们期望你：\n\n1.理工科、商科、数据分析、统计或计算机相关专业优先；\n\n2.具备流利的英语听说读写能力，能够在国际化环境中高效沟通；\n\n3.数据敏感，逻辑清晰，热爱用分析解决问题；熟练使用 Excel，了解 SQL / Python / Tableau / Power BI 优先；\n\n4.乐于跨团队、跨区域协作；积极主动，能在导师指导下独立完成任务；具备良好团队精神；\n\n5.学习能力强，善于问题拆解；自我驱动力高，能在快节奏、多任务环境中高效工作；对业务成长、影响力及运营实践充满兴趣；\n\n6.了解大模型及 AI 应用的基本能力，且有较强兴趣；有 Prompt、RAG、Agent、Workflow、AI Skill 等相关实践经验优先。\n",
-    "deadline": null,
-    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036695",
-    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036695",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -260,7 +164,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036675",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036675",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -274,7 +178,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036633",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036633",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -288,7 +192,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036688",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036688",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -302,7 +206,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036683",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036683",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -316,13 +220,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036638",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036638",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "旅游业务培训生（业务拓展）（2027届秋招）- 沈阳",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "沈阳"
     ],
@@ -330,13 +234,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036692",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036692",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "旅游业务培训生（业务拓展）-日语/韩语/泰语/粤语（2027届秋招）",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "上海"
     ],
@@ -344,7 +248,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036641",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036641",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -358,7 +262,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036701",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036701",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -372,7 +276,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036704",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036704",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -386,7 +290,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036682",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036682",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -400,7 +304,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036668",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036668",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -414,7 +318,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036689",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036689",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -428,7 +332,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036666",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036666",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -442,7 +346,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036636",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036636",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -456,13 +360,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036705",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036705",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "旅游业务培训生（业务拓展）（2027届秋招）- 深圳",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "深圳"
     ],
@@ -470,7 +374,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036698",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036698",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -484,13 +388,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036696",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036696",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "旅游业务培训生（业务拓展）（2027届秋招）- 北京",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "北京"
     ],
@@ -498,13 +402,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036691",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036691",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
     "company": "携程",
     "title": "旅游业务培训生（业务拓展）（2027届秋招）",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "上海"
     ],
@@ -512,7 +416,105 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036690",
     "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036690",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
+    "job_type": "校招"
+  },
+  {
+    "company": "携程",
+    "title": "全球人力资源管培生（2027届秋招）",
+    "category": "职能",
+    "city": [
+      "上海"
+    ],
+    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\nWhat You Will Gain:\n\n1.Rotation in different HR functions across all HR’s Three Pillars:\n\n-Rotate through COE (Center of Expertise), SSC (Shared Service Center), Business Unit HR teams, and overseas HR teams.\n\n-Master end-to-end HR processes and understand the three-pillar operational model.\n\n-Receive customized development guidance from dual mentors: a Group COE expert and a Regional HR Director.\n\n\n\n\n2.On-the-Ground projects at overseas offices:\n\n-Collaborate with cross-functional HR teams in overseas offices to tackle real-world HR challenges under \nTrip.com\n globalization progress.\n\n-Gain front-line experience solving business-critical HR pain points.\n\n\n\n\nWhat We Expect From You:\n\n1.Education &amp; Skills:\n\n-Bachelor’s degree or higher (all majors welcome).\n\n-Overseas study or multinational internship experience preferred.\n\n-Fluent in English (written and spoken); additional language skills are a plus.\n\n\n\n\n2.Mindset &amp; Abilities:\n\n-Open-minded, empathetic, and adept at cross-cultural communication.\n\n-Self-driven, responsible, and results-oriented with a problem-solving mindset.\n\n-Thrives in challenges and embraces growth through adversity.\n\n\n\n\n3.Professional Competencies:\n\n-Structured and critical thinking.\n\n-Data analysis proficiency (familiarity with AI tools preferred).\n\n-Strong learning agility and innovation capabilities.\n\n\n\n\n\n\n\n你将会收获：\n\n集团HR三支柱深度轮岗：\n\n在COE（专家中心）、SSC（共享服务中心）、事业部HR团队以及海外驻地HR团队轮岗，系统掌握人力资源全流程，理解三支柱运作机制。配备双导师（总部COE专家+区域HR总监）提供定制化发展建议。\n\n海外当地实战项目：\n\n协同HR各条线，派驻海外办公室，深入一线了解并攻克全球化进程中人力资源相关的业务痛点。\n\n \n\n我们期望你：\n\n本科及以上学历，不限专业，有海外留学或跨国公司实习经历；能够使用英语进行无障碍沟通；有其他小语种技能者优先考虑。\n\n具备开放的心态，有同理心和跨文化沟通能力，自驱力强，有责任心和推动解决问题的能力，愿意迎难而上，以结果为导向，在挑战中不断成长。\n\n拥有结构化思维和批判性思维；具备AI Mindset及能力，主动拥抱 AI-First 的工作方式，具备极强的技术敏感度与探索欲；学习创新能力突出。\n",
+    "deadline": null,
+    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036687",
+    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036687",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
+    "job_type": "校招"
+  },
+  {
+    "company": "携程",
+    "title": "客服管理（2027届秋招）",
+    "category": "运营",
+    "city": [
+      "上海"
+    ],
+    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 根据客服工作目标，制定工作计划并组织实施、监督落实情况，带领客服团队完成或超越目标；\n\n2. 辅导并提升员工素养和服务技能，提升团队人员向心力、执行力、归属感；\n\n3. 识别用户需求与流程和系统的不匹配处，积极与相关方反馈 ；\n\n4. 针对团队中的投诉与纠纷进行调查与处理；\n\n5. 完成各类政策、规则、信息的上传下达。\n\n\n\n\n我们期望你：\n\n1. 优秀的自驱力，执行力强，有责任心，沟通协调能力强，能推动项目的执行与落地；\n\n2. 有良好的逻辑思维能力，擅长问题分析；\n\n3. 任一项加分: 在校期间参与过项目组建或有相关项目实习经历；数据分析能力；优秀的英语能力。\n",
+    "deadline": null,
+    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036685",
+    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036685",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
+    "job_type": "校招"
+  },
+  {
+    "company": "携程",
+    "title": "质量管理（用户体验方向）（2027届秋招）",
+    "category": "供应链",
+    "city": [
+      "上海"
+    ],
+    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 建立客户体验管理标准体系，制定服务流程优化SOP；\n\n2. 构建多维度用户体验监测机制，定期输出工作报告强化成果交付；\n\n3. 进行客户服务旅程关键触点优化，推动服务改进项目落地；\n\n4. 搭建服务质量评估模型，完成客户满意度分析及改善方案；\n\n5. 协调各部门建立服务优化闭环，提升问题解决效率；\n\n6. 推进服务标准化建设，完成服务流程迭代升级。\n\n\n\n\n我们期望你：\n\n1. 有客户关系管理/体验相关实习经历，赞同以客户为中心，熟悉服务蓝图等基础方法论；\n\n2. 熟练应用Office软件，能独立完成数据清洗、分析及可视化呈现；\n\n3. 具备结构化表达和写作能力，擅长跨团队沟通协调，具有推动复杂问题解决的实践经验。\n",
+    "deadline": null,
+    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036684",
+    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036684",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
+    "job_type": "校招"
+  },
+  {
+    "company": "携程",
+    "title": "旅游业务培训生（业务运营）- 日语/韩语/阿拉伯语（2027届秋招）",
+    "category": "运营",
+    "city": [
+      "上海"
+    ],
+    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 与供应商进行日常沟通及关系维护，保障旅游产品稳定运营；\n\n2. 追踪市场趋势，拓展合作资源，精细化供应链运营，以数据驱动创效增利；\n\n3. 通过数据分析推动产线迭代升级，动态追踪关键指标，精准定位瓶颈与突破点；\n\n4. 基于质量数据赋能供应商，持续优化旅游产品。\n\n\n\n\n我们期望你：\n\n1. 优秀的项目管理能力，执行力强，有责任心，能推动项目的执行与落地；\n\n2. 优秀的商业数据分析能力，知道用数据说话；\n\n3. 良好的表达能力，乐于并且善于对外沟通；\n\n4. 优秀的英语能力，能使用英语作为日常工作语言，同时精通日语、韩语、阿拉伯语、泰语、粤语（任选其一）\n\n5. 无论你是什么专业，我们需要你对旅游足够的热爱。\n",
+    "deadline": null,
+    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036642",
+    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036642",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
+    "job_type": "校招"
+  },
+  {
+    "company": "携程",
+    "title": "交互设计师（2027届秋招）",
+    "category": "设计",
+    "city": [
+      "上海"
+    ],
+    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 根据产品需求设计Online Travel Agent(OTA)产品，挖掘业务设计价值，提升携程产品的用户体验；\n\n2. 分析项目需求，设计用户行为流程与交互方案，制作保真原型，完成交互说明；\n\n3. 研究现有产品、关注竞争对手，参与用户研究和可用性测试，挖掘体验改进机会点，以推动产品创立或提升；\n\n4. 跟踪用户反馈和上线数据，分析数据变化，通过数据驱动设计迭代改进产品；\n\n5. 关注设计趋势、竞品动向，沉淀设计规范并分享设计知识。\n\n\n\n\n我们期望你：\n\n1. 设计或计算机相关教育背景；\n\n2. 对用户体验设计有深厚的知识背景和扎实的实践经验，具备完整而专业的知识体系，掌握用户体验设计通用理论和方法；\n\n3. 熟练使用常用设计工具，具有创新精神，关注业内设计趋势和思潮；\n\n4. 出色的逻辑思维和产品感知能力，对设计整体和细节均能良好把握；\n\n5. 出众的沟通交流、跨团队协作能力，高效策动设计项目的推进；\n\n6. 良好的抗压性、多任务并行能力及持续学习意愿，确保计划内的方案进度。\n",
+    "deadline": null,
+    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036637",
+    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036637",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
+    "job_type": "校招"
+  },
+  {
+    "company": "携程",
+    "title": "旅游业务培训生（业务运营）（2027届秋招）",
+    "category": "运营",
+    "city": [
+      "上海"
+    ],
+    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1. 与供应商进行日常沟通及关系维护，保障旅游产品稳定运营；\n\n2. 追踪市场趋势，拓展合作资源，精细化供应链运营，以数据驱动创效增利；\n\n3. 通过数据分析推动产线迭代升级，动态追踪关键指标，精准定位瓶颈与突破点；\n\n4. 基于质量数据赋能供应商，持续优化旅游产品。\n\n\n\n\n我们期望你：\n\n1. 优秀的项目管理能力，执行力强，有责任心，能推动项目的执行与落地；\n\n2. 优秀的商业数据分析能力，知道用数据说话；\n\n3. 良好的表达能力，乐于并且善于对外沟通；\n\n4. 优秀的英语能力，能使用英语作为日常工作语言；\n\n5. 无论你是什么专业，我们需要你对旅游足够的热爱。\n",
+    "deadline": null,
+    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036699",
+    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036699",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
+    "job_type": "校招"
+  },
+  {
+    "company": "携程",
+    "title": "业务运营（数据分析方向）（2027届秋招）",
+    "category": "运营",
+    "city": [
+      "上海"
+    ],
+    "requirements": "岗位职责：\n\n任职要求：\n\n招聘对象：本、硕、博。\n\n毕业时间：2026 年 9 月至 2027 年 8 月期间毕业（中国大陆以毕业证为准，非中国大陆地区以教育部学位认证为准）且最高学历毕业后无全职工作经验的学生。\n\n\n\n\n你将会负责：\n\n1.协助构建全球业务需求预测模型，分析各区域及业务线的人员需求趋势；\n\n2.参与智能排班体系优化，支持实时监控，识别潜在风险与改进机会；\n\n3.在导师指导下参与系统工具开发和流程改进项目，将数据洞察转化为可落地的业务方案；\n\n4.使用 Excel、SQL 或 Python 分析业务数据，开展 ROI 分析、成本测算及项目效果评估；\n\n5.与产品、技术、运营及海外团队协作，明确项目目标、成功标准及风险应对；\n\n6.在真实业务环境中积累分析、项目管理及运营经验，参与团队复盘和反馈，优化工作方法。\n\n\n\n\n我们期望你：\n\n1.理工科、商科、数据分析、统计或计算机相关专业优先；\n\n2.具备流利的英语听说读写能力，能够在国际化环境中高效沟通；\n\n3.数据敏感，逻辑清晰，热爱用分析解决问题；熟练使用 Excel，了解 SQL / Python / Tableau / Power BI 优先；\n\n4.乐于跨团队、跨区域协作；积极主动，能在导师指导下独立完成任务；具备良好团队精神；\n\n5.学习能力强，善于问题拆解；自我驱动力高，能在快节奏、多任务环境中高效工作；对业务成长、影响力及运营实践充满兴趣；\n\n6.了解大模型及 AI 应用的基本能力，且有较强兴趣；有 Prompt、RAG、Agent、Workflow、AI Skill 等相关实践经验优先。\n",
+    "deadline": null,
+    "apply_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036695",
+    "source_url": "https://careers.ctrip.com/#/campus/job-detail/MJ036695",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "校招"
   },
   {
@@ -526,7 +528,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037585",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037585",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -540,7 +542,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ029377",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ029377",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -554,7 +556,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ027121",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ027121",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -568,7 +570,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ027154",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ027154",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -582,7 +584,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037434",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037434",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -596,13 +598,13 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037437",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037437",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
     "company": "携程",
     "title": "酒店供应链实习生",
-    "category": "商务",
+    "category": "供应链",
     "city": [
       "上海"
     ],
@@ -610,7 +612,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037413",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037413",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -624,7 +626,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037369",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037369",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -638,7 +640,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ034422",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ034422",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -652,7 +654,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ017714",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ017714",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -666,7 +668,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037304",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037304",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -680,7 +682,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037283",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ037283",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -694,7 +696,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ036016",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ036016",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -708,7 +710,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ036993",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ036993",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -722,7 +724,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ036706",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ036706",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -736,7 +738,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ020282",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ020282",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -750,7 +752,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ033822",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ033822",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -764,7 +766,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ032591",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ032591",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -778,7 +780,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ030357",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ030357",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -792,7 +794,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ031443",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ031443",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -806,7 +808,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ031384",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ031384",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   },
   {
@@ -820,7 +822,7 @@
     "deadline": null,
     "apply_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ031358",
     "source_url": "https://careers.ctrip.com/#/experienced/job-detail/MJ031358",
-    "fetched_at": "2026-10-27T16:48:36+08:00",
+    "fetched_at": "2026-10-27T18:19:07+08:00",
     "job_type": "实习"
   }
 ]
