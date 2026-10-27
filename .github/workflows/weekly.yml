@@ -40,7 +40,7 @@ jobs:
           done
           echo "FAILED=$failed" >> "$GITHUB_ENV"
       - name: Check links（只查拼接未核实的站点）
-        run: node scripts/check_links.js --only kuaishou,meituan,xiaohongshu,baidu,jd
+        run: node scripts/check_links.js --only kuaishou,meituan,xiaohongshu,baidu,jd,xiaomi
         continue-on-error: true
       - name: Build（失败即停止：切片 >8KB、id 重复或计数不一致）
         run: node scripts/build.js

@@ -4,7 +4,7 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 
 ## 总览
 <!-- overview:start -->
-数据周 **2026-W44**（2026-10-27 生成）· 在招 **2382** · 本周新增 **0** · 下架 **0**
+数据周 **2026-W44**（2026-10-27 生成）· 在招 **2560** · 本周新增 **0** · 下架 **0**
 
 | 公司 | 校招 | 实习 | 合计 |
 |---|---:|---:|---:|
@@ -12,11 +12,12 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 | 蚂蚁集团 | 5 | 3 | 8 |
 | 百度 | 19 | 173 | 192 |
 | 字节跳动 | 568 | 1199 | 1767 |
-| 京东 | 23 | 0 | 23 |
+| 京东 | 23 | 21 | 44 |
 | 快手 | 84 | 41 | 125 |
 | 美团 | 26 | 81 | 107 |
 | 腾讯 | 14 | 21 | 35 |
 | 小红书 | 9 | 83 | 92 |
+| 小米 | 157 | 0 | 157 |
 <!-- overview:end -->
 
 ## 使用教程（学生）
@@ -50,7 +51,7 @@ slug：category `ai-product|product|operations`；城市为拼音（`beijing`、
 ```bash
 node scripts/fetchers/bytedance.js          # 单家抓取 → data/<本周>/bytedance.json（Node 18+，无依赖）
 for f in scripts/fetchers/*.js; do node $f; done
-node scripts/check_links.js --only kuaishou,meituan,xiaohongshu,baidu,jd
+node scripts/check_links.js --only kuaishou,meituan,xiaohongshu,baidu,jd,xiaomi
 node scripts/build.js                       # 生成 site/，并校验：文件 ≤8KB、id 唯一、切片计数一致；不通过退出码 1
 ```
 - 新增公司：写 `scripts/fetchers/<slug>.js`（参考现有文件，调用 `run(slug, async () => jobs)`），在 `scripts/lib/site.js` 的 `COMPANY` 加中文名。build 会自动发现 `data/` 下的新文件。
