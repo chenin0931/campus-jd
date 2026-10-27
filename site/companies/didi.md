@@ -7,9 +7,8 @@
 - 校招·AI产品（2）：[北京 2](../slices/didi/campus/ai-product/beijing.md)
 - 校招·产品（6）：[北京 4](../slices/didi/campus/product/beijing.md) · [上海 2](../slices/didi/campus/product/shanghai.md) · [深圳 2](../slices/didi/campus/product/shenzhen.md)
 - 校招·运营（26）：[北京 14](../slices/didi/campus/ops/beijing.md) · [其他城市 4](../slices/didi/campus/ops/other.md) · [杭州 4](../slices/didi/campus/ops/hangzhou.md) · [沈阳 1](../slices/didi/campus/ops/shenyang.md) · 另 9 城（9 个）见 index.json slices
-- 校招·销售（1）：[北京 1](../slices/didi/campus/sales/beijing.md)
-- 校招·职能（3）：[上海 3](../slices/didi/campus/corporate/shanghai.md) · [杭州 2](../slices/didi/campus/corporate/hangzhou.md) · [北京 1](../slices/didi/campus/corporate/beijing.md)
-- 校招·分析（5）：[上海 3](../slices/didi/campus/analysis/shanghai.md) · [北京 2](../slices/didi/campus/analysis/beijing.md)
+- 校招·职能（2）：[上海 2](../slices/didi/campus/corporate/shanghai.md) · [北京 1](../slices/didi/campus/corporate/beijing.md) · [杭州 1](../slices/didi/campus/corporate/hangzhou.md)
+- 校招·分析（7）：[上海 4](../slices/didi/campus/analysis/shanghai.md) · [北京 3](../slices/didi/campus/analysis/beijing.md) · [杭州 1](../slices/didi/campus/analysis/hangzhou.md)
 - 实习·产品（90）：[北京 59](../slices/didi/intern/product/beijing.md) · [其他城市 20](../slices/didi/intern/product/other.md) · [上海 6](../slices/didi/intern/product/shanghai.md) · [深圳 3](../slices/didi/intern/product/shenzhen.md) · 另 1 城（2 个）见 index.json slices
 - 实习·运营（189）：[北京 106](../slices/didi/intern/ops/beijing.md) · [其他城市 28](../slices/didi/intern/ops/other.md) · [杭州 18](../slices/didi/intern/ops/hangzhou.md) · [上海 13](../slices/didi/intern/ops/shanghai.md) · 另 13 城（25 个）见 index.json slices
 - 实习·商务（7）：[北京 5](../slices/didi/intern/business/beijing.md) · [上海 1](../slices/didi/intern/business/shanghai.md) · [其他城市 1](../slices/didi/intern/business/other.md)

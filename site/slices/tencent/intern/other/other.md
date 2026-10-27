@@ -1,4 +1,4 @@
-# 腾讯 · 实习 · 其他 · 其他城市：Australia-New South Wales/Netherlands-Amsterdam/US-California/United Kingdom-London/S.Korea-Seoul/New Zealand-Auckland/US-Washington/Malaysia-Kuala Lumpur（15 个岗位）
+# 腾讯 · 实习 · 其他 · 其他城市：Australia-New South Wales/Netherlands-Amsterdam/United Kingdom-London/S.Korea-Seoul/New Zealand-Auckland/US-California/US-Washington/Malaysia-Kuala Lumpur（14 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -6,7 +6,6 @@
 |---|---|---|---|
 | Cloud Media Services Intern 107794 | US-California | 2026-10-27 | [详情](../../../../jobs/tencent-107794.md) |
 | Cloud Media Services Intern 108186 | US-California | 2026-10-27 | [详情](../../../../jobs/tencent-108186.md) |
-| Consumer Insights Intern 108279 | US-California | 2026-10-27 | [详情](../../../../jobs/tencent-108279.md) |
 | Controllable Video Generation Research Intern 108305 | Australia-New South Wales | 2026-10-27 | [详情](../../../../jobs/tencent-108305.md) |
 | Cyber Security Intern 108126 | United Kingdom-London | 2026-10-27 | [详情](../../../../jobs/tencent-108126.md) |
 | Database Administrator Intern 107380 | Malaysia-Kuala Lumpur | 2026-10-27 | [详情](../../../../jobs/tencent-107380.md) |

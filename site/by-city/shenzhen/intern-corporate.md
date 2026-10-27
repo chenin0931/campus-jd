@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 职能 · 全部公司（45 个岗位）
+# 深圳 · 实习 · 职能 · 全部公司（46 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 20](../../slices/tencent/intern/corporate/shenzhen.md) · [字节跳动 17](../../slices/bytedance/intern/corporate/shenzhen.md) · [华为 3](../../slices/huawei/intern/corporate/shenzhen.md) · [京东 2](../../slices/jd/intern/corporate/shenzhen.md) · [美团 2](../../slices/meituan/intern/corporate/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 21](../../slices/tencent/intern/corporate/shenzhen.md) · [字节跳动 17](../../slices/bytedance/intern/corporate/shenzhen.md) · [华为 3](../../slices/huawei/intern/corporate/shenzhen.md) · [京东 2](../../slices/jd/intern/corporate/shenzhen.md) · [美团 2](../../slices/meituan/intern/corporate/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 | 腾讯 | 腾讯金融科技-基于知识图谱和大模型的异常特征模式挖掘 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944850.md) |
 | 腾讯 | 腾讯金融科技-金融AI评测能力建设 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944853.md) |
 | 腾讯 | 腾讯金融科技-面向金融应用场景的大模型综合深度推理能力提升 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944851.md) |
+| 腾讯 | 投资者关系 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1226875888789263360.md) |
 | 腾讯 | 文化交流与接待管理 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102083.md) |
 | 腾讯 | AI-HR培训生（创意方向） | 深圳/广州 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938816.md) |
 | 腾讯 | AI-HR培训生（分析方向） | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938817.md) |

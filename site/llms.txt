@@ -1,6 +1,6 @@
 # 大厂非技术岗 校招·实习 JD 库
 
-> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-10-27 生成。在招 7356，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
+> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-10-27 生成。在招 7351，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
 
 ## 怎么读
 1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。
@@ -26,7 +26,7 @@
 ## 枚举
 - category: ai-product=AI产品, product=产品, ops=运营, business=商务, marketing=市场, sales=销售, design=设计, corporate=职能, pm=项目管理, analysis=分析, planning=策划, supply=供应链, other=其他
 - job_type: campus=校招, intern=实习
-- city（前 20）: beijing=北京(3641), shanghai=上海(2604), shenzhen=深圳(761), hangzhou=杭州(707), other=其他城市(512), guangzhou=广州(359), chengdu=成都(194), wuhan=武汉(121), nanjing=南京(74), dongguan=东莞(62), xian=西安(55), singapore=新加坡(50), chongqing=重庆(37), zhengzhou=郑州(35), shenyang=沈阳(33), hongkong=香港(31), jinan=济南(28), tianjin=天津(28), suqian=宿迁(25), suzhou=苏州(24)
+- city（前 20）: beijing=北京(3637), shanghai=上海(2601), shenzhen=深圳(761), hangzhou=杭州(706), other=其他城市(512), guangzhou=广州(359), chengdu=成都(194), wuhan=武汉(121), nanjing=南京(74), dongguan=东莞(62), xian=西安(55), singapore=新加坡(50), chongqing=重庆(37), zhengzhou=郑州(35), shenyang=沈阳(33), hongkong=香港(30), jinan=济南(28), tianjin=天津(28), suqian=宿迁(25), suzhou=苏州(24)
 
 - by-year: 24, 25, 26, 27, 28, 29, 30（有届别列表的届）
 
@@ -35,19 +35,19 @@
 - antgroup=蚂蚁集团：校招 20，实习 30
 - baidu=百度：校招 61，实习 307
 - bilibili=哔哩哔哩：校招 35，实习 242
-- bytedance=字节跳动：校招 861，实习 2219
+- bytedance=字节跳动：校招 861，实习 2217
 - ctrip=携程：校招 37，实习 22
 - dewu=得物：校招 133，实习 5
 - didi=滴滴：校招 43，实习 455
 - huawei=华为：校招 21，实习 11
 - jd=京东：校招 80，实习 70
 - kuaishou=快手：校招 169，实习 76
-- meituan=美团：校招 73，实习 201
+- meituan=美团：校招 73，实习 199
 - mihoyo=米哈游：校招 74，实习 85
 - netease=网易：校招 87，实习 530
 - oppo=OPPO：校招 45，实习 31
 - pinduoduo=拼多多：校招 24，实习 2（手动更新 · 最后更新 2026-10-27）
 - tencent=腾讯：校招 96，实习 223
 - vivo=vivo：校招 10，实习 27
-- xiaohongshu=小红书：校招 34，实习 184
+- xiaohongshu=小红书：校招 34，实习 183
 - xiaomi=小米：校招 318，实习 294

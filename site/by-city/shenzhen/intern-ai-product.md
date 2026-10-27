@@ -1,17 +1,18 @@
-# 深圳 · 实习 · AI产品 · 全部公司（36 个岗位）
+# 深圳 · 实习 · AI产品 · 全部公司（37 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 24](../../slices/bytedance/intern/ai-product/shenzhen.md) · [百度 5](../../slices/baidu/intern/ai-product/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/intern/ai-product/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/ai-product/shenzhen.md) · [vivo 1](../../slices/vivo/intern/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 24](../../slices/bytedance/intern/ai-product/shenzhen.md) · [百度 6](../../slices/baidu/intern/ai-product/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/intern/ai-product/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/ai-product/shenzhen.md) · [vivo 1](../../slices/vivo/intern/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 百度 | 程序化广告AI产品经理实习生（J89490） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-e71bed0a-e3d9-4707-927f-0a897e198df3.md) |
 | 百度 | 海外AI产品增长实习生（J106930） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-bbb82502-9ecc-4252-8cb2-eee4932db4fe.md) |
+| 百度 | AI PM实习生（J106178） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-11780c2a-8193-41bc-b835-cc47bceed324.md) |
 | 百度 | AI产品（J104948） | 深圳/大连/东京 | 2026-10-27 | [详情](../../jobs/baidu-8fbd476d-2d9d-477a-9307-b8d3916d8a22.md) |
 | 百度 | AI产品设计实习生（J104945） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-85da9e26-7893-40e2-a7dd-f948014dd71e.md) |
 | 百度 | AI产品实习生（J106929） | 深圳 | 2026-10-27 | [详情](../../jobs/baidu-066f9984-1dd8-4108-a8c7-6f810791a365.md) |
-| 哔哩哔哩 | 多语种内容标注实习生（英语/西语/阿语/日语等） | 深圳 | 2026-10-27 | [详情](../../jobs/bilibili-30557.md) |
+| 哔哩哔哩 | 多语种内容标注实习生（英语/西语/阿语/日语等） ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/bilibili-30557.md) |
 | 字节跳动 | 产品设计实习生（AI方向）-飞书设计 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7613312932672719157.md) |
 | 字节跳动 | 豆包语音大模型策略产品实习生 - Data语音 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7647369877778762037.md) |
 | 字节跳动 | 豆包AI大模型产品解决方案实习生 - 火山方舟（2个团队） | 深圳 | 2026-10-27 | [1](../../jobs/bytedance-7690515308227397893.md) [2](../../jobs/bytedance-7672308679005899061.md) |

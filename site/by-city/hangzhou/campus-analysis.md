@@ -1,8 +1,8 @@
-# 杭州 · 校招 · 分析 · 全部公司（21 个岗位）
+# 杭州 · 校招 · 分析 · 全部公司（23 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 9](../../slices/alibaba/campus/analysis/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/campus/analysis/hangzhou.md) · [网易 3](../../slices/netease/campus/analysis/hangzhou.md) · [字节跳动 2](../../slices/bytedance/campus/analysis/hangzhou.md) · [快手 2](../../slices/kuaishou/campus/analysis/hangzhou.md) · [京东 1](../../slices/jd/campus/analysis/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 10](../../slices/alibaba/campus/analysis/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/campus/analysis/hangzhou.md) · [网易 3](../../slices/netease/campus/analysis/hangzhou.md) · [字节跳动 2](../../slices/bytedance/campus/analysis/hangzhou.md) · [快手 2](../../slices/kuaishou/campus/analysis/hangzhou.md) · [滴滴 1](../../slices/didi/campus/analysis/hangzhou.md) · [京东 1](../../slices/jd/campus/analysis/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | 阿里巴巴 | 数据科学家 | 北京/广州/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907800043.md) |
 | 阿里巴巴 | 下一代大模型智能体框架与数据技术-阿里星 | 北京/杭州/上海 | 2026-10-27 | [详情](../../jobs/alibaba-199907700044.md) |
 | 阿里巴巴 | 向量数据库竞争力构建-阿里星/A Star | 杭州/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907640112.md) |
+| 阿里巴巴 | AI Coding 数据分析与评测-阿里星 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199908300007.md) |
 | 阿里巴巴 | AI Native数据计算引擎：原子化智能算子、DAG 编排与混合查询优化-阿里星/A Star | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907720109.md) |
 | 阿里巴巴 | Data+AI融合：下一代多模态数据库/下一代AI数据湖-阿里星/A Star | 北京/杭州/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907820112.md) |
 | 蚂蚁集团 | 【蚂蚁星】全模态大模型数据-蚂蚁健康-27届 〔27届〕 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-26042409788457.md) |
@@ -21,6 +22,7 @@
 | 蚂蚁集团 | AI数据与检索基础设施工程 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721010984483.md) |
 | 字节跳动 | 抖音泛娱乐治理策略（大模型方向） - 抖音社区治理 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7668280649551890741.md) |
 | 字节跳动 | 基于多模态大模型的视频分析/理解/画质评估及增强与视频智能编码/表达-音视频技术（杭州） 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7628573292417124661.md) |
+| 滴滴 | 27届秋招-数据分析师（国际化金融） 〔27届〕 ⚠️链接待核 | 杭州/上海 | 2026-10-27 | [详情](../../jobs/didi-b1122e51-227a-429e-a54d-6acd2f337e3e.md) |
 | 京东 | 数据分析 〔27届〕 | 上海/北京/合肥/济南/太原/广州/南宁/乌鲁木齐/南京/南通/宿迁/南昌/石家庄/杭州/长沙/厦门/贵阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9081.md) |
 | 快手 | 风险策略分析师-月付方向 | 杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-10467.md) |
 | 快手 | 数据分析师-风控治理方向 | 杭州/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13207.md) |

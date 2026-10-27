@@ -1,8 +1,8 @@
-# 杭州 · 实习 · 运营 · 全部公司（102 个岗位）（第 1/3 页）
+# 杭州 · 实习 · 运营 · 全部公司（101 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 56](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 18](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/intern/ops/hangzhou.md) · [京东 3](../../slices/jd/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [美团 1](../../slices/meituan/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 55](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 18](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/intern/ops/hangzhou.md) · [京东 3](../../slices/jd/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [美团 1](../../slices/meituan/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
 | 字节跳动 | AI人才运营实习生 - Seed | 杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7602576368497592629.md) |
 | 字节跳动 | FBT商家运营实习生 - TikTok Shop 〔≥6个月，每周≥5天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7700875662429866293.md) |
 | 字节跳动 | IPR平台治理运营TikTok Shop实习生 - TikTok Shop 〔≥3个月〕 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7694608679150668037.md) |
-| 滴滴 | 策略运营实习生-代驾事业部-MJ020617 | 杭州 | 2026-10-27 | [详情](../../jobs/didi-3ecacb32-c7c8-454f-aad6-093302fa2e98.md) |
+| 滴滴 | 策略运营实习生-代驾事业部-MJ020617 ⚠️链接待核 | 杭州 | 2026-10-27 | [详情](../../jobs/didi-3ecacb32-c7c8-454f-aad6-093302fa2e98.md) |
 | 滴滴 | 代驾事业部-策略运营实习生 ⚠️链接待核 | 杭州 | 2026-10-27 | [详情](../../jobs/didi-b4f5aa5a-31a3-4bfd-93f4-01bcd9aaea80.md) |
 | 滴滴 | 代驾事业部-策略运营实习生1 ⚠️链接待核 | 杭州 | 2026-10-27 | [详情](../../jobs/didi-0e246e0c-6720-49c4-b818-0271f058c699.md) |
 | 滴滴 | 代驾事业部-产品与用户运营实习生 ⚠️链接待核 | 杭州 | 2026-10-27 | [详情](../../jobs/didi-20399396-33a2-4d5b-b9cf-85e702dc4b9a.md) |

@@ -4,6 +4,6 @@
 
 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|
-| Localization Translator | 新加坡 | 2026-10-27 | [详情](../../../../jobs/bilibili-30262.md) |
+| Localization Translator ⚠️链接待核 | 新加坡 | 2026-10-27 | [详情](../../../../jobs/bilibili-30262.md) |
 
 [总目录](../../../../llms.txt)

@@ -6,6 +6,7 @@
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 小米 | Sales Operations Specialist-local 〔27届〕 | 迪拜/伊斯坦布尔 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935292522383625.md) |
 | 小米 | Service Operations Specialist-local 〔27届〕 | 雅加达 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931024012675366.md) |
 
 [上一页](campus-ops-p12.md) · [总目录](../../llms.txt)

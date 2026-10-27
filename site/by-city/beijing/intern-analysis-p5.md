@@ -1,11 +1,16 @@
-# 北京 · 实习 · 分析 · 全部公司（212 个岗位）（第 5/5 页）
+# 北京 · 实习 · 分析 · 全部公司（218 个岗位）（第 5/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 122](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 20](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [腾讯 5](../../slices/tencent/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/analysis/beijing.md) · [京东 3](../../slices/jd/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 126](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [腾讯 5](../../slices/tencent/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 美团 | 【2027】Keeta-商业分析实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4692043330.md) |
+| 美团 | 【无人车北斗实习】世界模型实习生（感知数据生成方向） | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4499868041.md) |
+| 美团 | 阿联酋履约商业分析实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4747953767.md) |
+| 美团 | 充电宝出海- 数据分析实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4876269982.md) |
+| 美团 | 大模型数据生产实习生-math&code 〔27/28届〕 | 北京/成都 | 2026-10-27 | [详情](../../jobs/meituan-3052598290.md) |
 | 美团 | 大模型数据实习生 〔≥3个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-3619721723.md) |
 | 美团 | 基座大模型研究分析实习生 | 上海/北京 | 2026-10-27 | [详情](../../jobs/meituan-2995805692.md) |
 | 美团 | 商业分析师实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/meituan-4129556326.md) [2](../../jobs/meituan-3379054365.md) |
@@ -17,8 +22,10 @@
 | 美团 | 无人车业务部-商业分析实习生 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3692056581.md) |
 | 美团 | 支付商业分析实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3600233708.md) |
 | 美团 | 中东商业分析实习生 | 北京/迪拜 | 2026-10-27 | [详情](../../jobs/meituan-3836986063.md) |
+| 美团 | AI战略实习生/商业分析实习生 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4614172673.md) |
 | 美团 | Keeta-阿联酋商业分析实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4360796338.md) |
 | 美团 | Keeta-商业分析实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4601660687.md) |
+| 美团 | Keeta商分经管中心项目实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3349134267.md) |
 | 网易 | 安全策略交付实习生（北京 有转正机会） | 北京 | 2026-10-27 | [详情](../../jobs/netease-63348.md) |
 | 网易 | 用户研究实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78151.md) |
 | 腾讯 | 安全策略 | 深圳/北京/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102081.md) |

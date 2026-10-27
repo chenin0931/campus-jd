@@ -1,8 +1,8 @@
-# 广州 · 校招 · 商务 · 全部公司（16 个岗位）
+# 广州 · 校招 · 商务 · 全部公司（15 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 7](../../slices/bytedance/campus/business/guangzhou.md) · [美团 3](../../slices/meituan/campus/business/guangzhou.md) · [京东 2](../../slices/jd/campus/business/guangzhou.md) · [腾讯 2](../../slices/tencent/campus/business/guangzhou.md) · [华为 1](../../slices/huawei/campus/business/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/business/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 7](../../slices/bytedance/campus/business/guangzhou.md) · [美团 3](../../slices/meituan/campus/business/guangzhou.md) · [京东 2](../../slices/jd/campus/business/guangzhou.md) · [华为 1](../../slices/huawei/campus/business/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/business/guangzhou.md) · [腾讯 1](../../slices/tencent/campus/business/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,6 +19,5 @@
 | 美团 | 大客户合作岗 〔27届〕 | 杭州/北京/石家庄/上海/迪拜/广州/成都/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697233231.md) |
 | 美团 | 渠道管理 | 南京/北京/西安/利雅得/成都/广州/哈尔滨/武汉/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4694732393.md) |
 | 腾讯 | 商务拓展 | 深圳/北京/广州/香港 | 2026-10-27 | [详情](../../jobs/tencent-1282707380882482176.md) |
-| 腾讯 | 战略商业分析师 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126469811577856.md) |
 
 [总目录](../../llms.txt)

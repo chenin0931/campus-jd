@@ -1,21 +1,19 @@
-# 北京 · 实习 · 商务 · 全部公司（90 个岗位）（第 2/2 页）
+# 北京 · 实习 · 商务 · 全部公司（85 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 42](../../slices/bytedance/intern/business/beijing.md) · [百度 12](../../slices/baidu/intern/business/beijing.md) · [网易 7](../../slices/netease/intern/business/beijing.md) · [小米 6](../../slices/xiaomi/intern/business/beijing.md) · [滴滴 5](../../slices/didi/intern/business/beijing.md) · [京东 5](../../slices/jd/intern/business/beijing.md) · [快手 4](../../slices/kuaishou/intern/business/beijing.md) · [腾讯 4](../../slices/tencent/intern/business/beijing.md) · [美团 3](../../slices/meituan/intern/business/beijing.md) · [华为 1](../../slices/huawei/intern/business/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 40](../../slices/bytedance/intern/business/beijing.md) · [百度 12](../../slices/baidu/intern/business/beijing.md) · [网易 7](../../slices/netease/intern/business/beijing.md) · [滴滴 5](../../slices/didi/intern/business/beijing.md) · [京东 5](../../slices/jd/intern/business/beijing.md) · [小米 5](../../slices/xiaomi/intern/business/beijing.md) · [快手 4](../../slices/kuaishou/intern/business/beijing.md) · [腾讯 4](../../slices/tencent/intern/business/beijing.md) · [华为 1](../../slices/huawei/intern/business/beijing.md) · [美团 1](../../slices/meituan/intern/business/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 战略实习生-番茄小说 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7662260868417472773.md) |
 | 字节跳动 | 招商策略实习生 - 抖音电商 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7699336648433879301.md) |
 | 字节跳动 | 资金商务实习生-财经业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7596997866292300037.md) |
 | 字节跳动 | AI商业化策略实习生-飞书 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7641150816397904133.md) |
 | 字节跳动 | AI应用人才战略实习生 - Seed 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7652541233197893893.md) |
-| 字节跳动 | AI战略洞察分析实习生-飞书 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7433801540810869030.md) |
 | 滴滴 | 国际事业群IBG-战略分析实习生（1） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-341c6db0-0caa-43e6-9151-a8ea913e8750.md) |
 | 滴滴 | 战略部-战略实习生（2个团队） ⚠️链接待核 | 北京 | 2026-10-27 | [1](../../jobs/didi-a763e0cc-92d8-4823-9b8d-4471f4adfd91.md) [2](../../jobs/didi-4f9518c5-f1b9-46c2-82c0-4286cfc810d4.md) |
 | 滴滴 | 战略合作部-战略实习生（1） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-3464aec7-c662-48e7-bd1e-92710bd6890d.md) |
-| 滴滴 | 战略实习生-战略合作部-MJ020614 | 北京 | 2026-10-27 | [详情](../../jobs/didi-f8cc5ce7-db88-452d-8cb3-6aff2e483231.md) |
+| 滴滴 | 战略实习生-战略合作部-MJ020614 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-f8cc5ce7-db88-452d-8cb3-6aff2e483231.md) |
 | 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都/合肥/广州/西宁/深圳/杭州/重庆/长沙/北京/济南/南昌/太原/东莞/南京/福州/西安/武汉/石家庄/上海 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
 | 京东 | 渠道销售 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9142.md) |
 | 京东 | 商务拓展 〔27届〕 | 北京/广州/南宁/杭州/兰州/重庆 | 2026-10-27 | [详情](../../jobs/jd-4952.md) |
@@ -26,9 +24,7 @@
 | 快手 | 【留用实习】商务拓展专员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11488.md) |
 | 快手 | 【留用实习】商务拓展专员-音乐方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12491.md) |
 | 快手 | 【留用实习】商业化广告销售 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11491.md) |
-| 美团 | 【基座大模型北斗实习】多模态后训练及 Agent 能力拓展 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4346347366.md) |
 | 美团 | 医药健康-战略规划实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3716178859.md) |
-| 美团 | AI战略实习生/商业分析实习生 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4614172673.md) |
 | 网易 | 工作室商务实习生（云上工作室） 〔27/28届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78313.md) |
 | 网易 | 商业化视频策划实习生（网易文创谈心社） | 北京 | 2026-10-27 | [详情](../../jobs/netease-74897.md) |
 | 网易 | 投资实习生（AI与具身智能方向） | 北京 | 2026-10-27 | [详情](../../jobs/netease-75374.md) |
@@ -45,7 +41,6 @@
 | 小米 | 商务合作主管实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7650336835495741742.md) |
 | 小米 | 商务实习生-2027届 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7694550878183704851.md) |
 | 小米 | 商务助理实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7530377350727336044.md) |
-| 小米 | 投资者关系实习生-2027届 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7699374770206640427.md) |
 | 小米 | 战略技术规划实习生-2027届 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7661954393022368010.md) |
 
 [上一页](intern-business.md) · [总目录](../../llms.txt)

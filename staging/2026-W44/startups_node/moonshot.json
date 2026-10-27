@@ -865,22 +865,6 @@
     "project": null
   },
   {
-    "id": "moonshot-a8b21230-4f92-4c82-b895-d1f8b914410e",
-    "company": "月之暗面",
-    "title": "LLM模型能力实习生",
-    "category": "其他",
-    "city": [
-      "北京"
-    ],
-    "requirements": "<p>1. 负责大语言模型（LLM）相关的数据研究工作，包括但不限于数据获取、清洗、筛选、规模化构建和生成高质量数据。</p><p>2. 研究与优化LLM的模型和数据评估方法，通过训练不同规模的大模型来评估和提升数据质量。</p><p>3. 深入探索LLM的data recipe，包括数据比例的优化和运维实验，以提升模型的整体表现。</p><p>4. 探索先进的数据集合成技术，为大语言模型提供高质量合成tokens。     1. 985高校本科或以上在读，专业为Math/CS/AI/ML/CV/NLP/Speech或相关STEM专业。</p><p>2. 具备大规模模型训练的相关经验，熟悉Megatron、Huggingface等主流框架。</p><p>3. 对数据质量有严格标准，能够对交付的数据进行细致评审与优化。</p><p>4. 具备扎实的数据结构与算法基础，熟练使用Python编程语言，熟悉PyTorch/CUDA编程；熟悉Spark、Ray等分布式计算框架。编程竞赛获奖者优先，e.g. ACM/NOI。</p><p>5. 责任心强，积极主动，具备良好的沟通能力和团队合作精神。</p>",
-    "deadline": null,
-    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a8b21230-4f92-4c82-b895-d1f8b914410e",
-    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a8b21230-4f92-4c82-b895-d1f8b914410e",
-    "fetched_at": "2026-10-27T18:19:08+08:00",
-    "job_type": "实习",
-    "project": null
-  },
-  {
     "id": "moonshot-a24d5b49-c733-4c1e-865a-9467cb8d4eaa",
     "company": "月之暗面",
     "title": "大语言模型评测实习生",
@@ -940,22 +924,6 @@
     "deadline": null,
     "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/74098f86-e8c8-4fbd-a590-4e4eeca457c5",
     "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/74098f86-e8c8-4fbd-a590-4e4eeca457c5",
-    "fetched_at": "2026-10-27T18:19:08+08:00",
-    "job_type": "实习",
-    "project": null
-  },
-  {
-    "id": "moonshot-3b27f072-dfb5-4a76-96c2-1e7147d817b2",
-    "company": "月之暗面",
-    "title": "LLM模型能力实习生",
-    "category": "其他",
-    "city": [
-      "城市见官网"
-    ],
-    "requirements": "<p>工作内容：</p><p>1. 负责大语言模型（LLM）相关的数据研究工作，包括但不限于数据获取、清洗、筛选、规模化构建和生成高质量数据。</p><p>2. 研究与优化LLM的模型和数据评估方法，通过训练不同规模的大模型来评估和提升数据质量。</p><p>3. 深入探索LLM的data recipe，包括数据比例的优化和运维实验，以提升模型的整体表现。</p><p>4. 探索先进的数据集合成技术，为大语言模型提供高质量合成tokens。     </p><p><br></p><p>岗位要求：</p><p>1. 985高校本科或以上在读，专业为Math/CS/AI/ML/CV/NLP/Speech或相关STEM专业。</p><p>2. 具备大规模模型训练的相关经验，熟悉Megatron、Huggingface等主流框架。</p><p>3. 对数据质量有严格标准，能够对交付的数据进行细致评审与优化。</p><p>4. 具备扎实的数据结构与算法基础，熟练使用Python编程语言，熟悉PyTorch/CUDA编程；熟悉Spark、Ray等分布式计算框架。编程竞赛获奖者优先，e.g. ACM/NOI。</p><p>5. 责任心强，积极主动，具备良好的沟通能力和团队合作精神。</p>",
-    "deadline": null,
-    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/3b27f072-dfb5-4a76-96c2-1e7147d817b2",
-    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/3b27f072-dfb5-4a76-96c2-1e7147d817b2",
     "fetched_at": "2026-10-27T18:19:08+08:00",
     "job_type": "实习",
     "project": null

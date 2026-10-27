@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 职能 · 全部公司（25 个岗位）
+# 深圳 · 校招 · 职能 · 全部公司（26 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 13](../../slices/tencent/campus/corporate/shenzhen.md) · [华为 5](../../slices/huawei/campus/corporate/shenzhen.md) · [字节跳动 3](../../slices/bytedance/campus/corporate/shenzhen.md) · [美团 3](../../slices/meituan/campus/corporate/shenzhen.md) · [京东 1](../../slices/jd/campus/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 14](../../slices/tencent/campus/corporate/shenzhen.md) · [华为 5](../../slices/huawei/campus/corporate/shenzhen.md) · [字节跳动 3](../../slices/bytedance/campus/corporate/shenzhen.md) · [美团 3](../../slices/meituan/campus/corporate/shenzhen.md) · [京东 1](../../slices/jd/campus/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -24,6 +24,7 @@
 | 腾讯 | 法务 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1284512614101361664.md) |
 | 腾讯 | 金融风险管理 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1286769609550496768.md) |
 | 腾讯 | 秘书 | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1283045530146251776.md) |
+| 腾讯 | 投资者关系 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1284207539936109568.md) |
 | 腾讯 | 文化交流与接待管理 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1284317763288245248.md) |
 | 腾讯 | 资质合规管理 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1284512614105555969.md) |
 | 腾讯 | AI-HR培训生（创意方向） | 深圳/广州 | 2026-10-27 | [详情](../../jobs/tencent-1286682460696231936.md) |

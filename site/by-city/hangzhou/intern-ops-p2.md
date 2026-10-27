@@ -1,8 +1,8 @@
-# 杭州 · 实习 · 运营 · 全部公司（102 个岗位）（第 2/3 页）
+# 杭州 · 实习 · 运营 · 全部公司（101 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 56](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 18](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/intern/ops/hangzhou.md) · [京东 3](../../slices/jd/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [美团 1](../../slices/meituan/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 55](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 18](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 4](../../slices/antgroup/intern/ops/hangzhou.md) · [京东 3](../../slices/jd/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [美团 1](../../slices/meituan/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -27,7 +27,6 @@
 | 网易 | 内容运营实习生 〔≥3个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-76416.md) |
 | 网易 | 内容运营实习生（有声书） 〔27/28届 · ≥6个月〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-76275.md) |
 | 网易 | 内容运营实习生（AI创新方向） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79528.md) |
-| 网易 | 企划内容实习生 〔≥6个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78593.md) |
 | 网易 | 曲库运营实习生 〔≥4个月〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79010.md) |
 | 网易 | 商业化运营实习生 〔27/28届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78579.md) |
 | 网易 | 社交玩法商业化运营实习生 〔27/28届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-73696.md) |
@@ -55,5 +54,6 @@
 | 网易 | 云商-用户运营实习生 〔≥6个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78064.md) |
 | 网易 | 运营策划实习生（王牌竞速） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78720.md) |
 | 网易 | 运营策划实习生（燕云-日常实习） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-76016.md) |
+| 网易 | 自媒体运营（王牌竞速） 〔27/28届 · ≥3个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79038.md) |
 
 [上一页](intern-ops.md) · [下一页](intern-ops-p3.md) · [总目录](../../llms.txt)

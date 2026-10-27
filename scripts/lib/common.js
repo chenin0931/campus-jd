@@ -12,7 +12,9 @@ const MFG = /智造|制造|工艺/;
 // 汽车工程/技师/医师等技术岗（全标题，岗位名段含产品/运营时不触发）
 const AUTO_TECH = /底盘|电池|电驱|内饰|座椅|仪表板|NVH|CFD|线束|电子电控|热管理|焊装|涂装|总装设备|造型工程|总布置|人机工程|智能诊断|AI前瞻|法规认证|服务工程|质量工程|乘用车系统|技师|超星计划|医师/;
 // 岗位段排除词：只在岗位名段里查（「产品经理-研发中心」「运营专员-XX研究院」保留）
-const EXCLUDE = /研发|研究员|研究型|研究科学家|科研|课题|技术研究|数据工程|网络技术|数据中心技术|芯片|前端|后端|客户端|全栈|架构师|运维|嵌入式|机械结构|结构设计|电机|CNC|关节模组|技术美术|偏工程|爬虫|质量工程|Agent构建|Agentic|数据合成|仿真|决策规划|规控|低功耗|服务端|Golang|Java|(^|[^A-Za-z])(Engineer(s|ing)?|SRE|Developers?|Researchers?|Research Scientist|Algorithms?|ML|QA|TA)([^A-Za-z]|$)/i;
+const EXCLUDE = /研发|研究员|研究型|研究科学家|科研|课题|技术研究|数据工程|网络技术|数据中心技术|芯片|前端|后端|客户端|全栈|架构师|运维|嵌入式|机械结构|结构设计|电机|CNC|关节模组|技术美术|偏工程|爬虫|质量工程|Agent构建|Agentic|数据合成|仿真|决策规划|规控|低功耗|服务端|Golang|Java|DevOps|MLOps|LLMOps|运维开发|(^|[^A-Za-z])(Engineer(s|ing)?|SRE|Developers?|Researchers?|Research Scientist|Algorithms?|ML|QA|TA)([^A-Za-z]|$)/i;
+// 模型训练/能力构建类技术课题：岗位段含 产品/运营/设计/评测/标注 时不触发（「模型训练产品实习生」「VLM数据运营（基础模型）」保留）
+const TECH_MODEL = /模型训练|训练\/推理|能力构建|大模型能力|模型能力|基础模型|预训练|后训练|微调/i;
 // 岗位名段：标题按「-」切段后，取第一个含岗位词的段（跳过「单车业务-」「供应链-」这类部门前缀）
 const ROLE = /实习|工程师|经理|专员|主管|研究员|分析师|架构师|策划|运营|产品|设计|开发|研发|算法|测试|顾问|管培|培训生|助理|岗|师|Engineer|Manager|Intern|Specialist|Associate|Analyst|Designer|Artist|Lead/i;
 // 只对「其他」兜底生效的技术课题词（不影响产品/运营等已归类岗位，如「多模态AI产品经理」）
@@ -35,7 +37,16 @@ const RULES = [
   ['运营', /交付|内容|排播|编辑|配音/],  // 最后兜一层：内容/编辑/配音/交付类归运营（内容设计/内容策划已在前面）
 ];
 // LOC/NOTLOC: 城市地名表与 classify.py 中 CN/LOC/NOTLOC 相同
+// 标题前缀清洗（原先散在各抓取器里）：去（J123）编号，去开头的城市段、届别/校招段（「北京-人力资源-…」「27届-」「2027校招-」「27届秋招-」）
+const PREFIX_SEG = new RegExp('^(?:(?:20)?\\d{2}(?:届|级)?(?:秋招|春招|校招|校园招聘|实习)?|(?:' + LOC.source.split('|[市省]$')[0] + ')(?:市)?)$');
+function cleanTitle(title) {
+  const s = String(title).replace(/[（(]\s*J\d+\s*[）)]/g, '').trim();
+  const segs = s.split(/\s*[-－—–―‒]+\s*/);
+  let i = 0; while (i < segs.length - 1 && PREFIX_SEG.test(segs[i].trim())) i++;
+  return segs.slice(i).join('-');
+}
 function classify(title) {
+  title = cleanTitle(title);
   // 先去成对的【】[]，不成对的【】[]、全角空格当分隔符；长横线 — ― 、‒ 也切
   const segs = String(title).replace(/【[^】]*】|\[[^\]]*\]/g, '').replace(/[【】\[\]\u3000]/g, '-').split(/\s*[-－—–―‒]+\s*/).map(x => x.trim()).filter(Boolean);
   const GENERIC = /^(日常|暑期|留用|校招|校园|社招)?(实习(生)?|校招)$/;  // 纯「实习」段不当岗位名，取后面的段
@@ -49,13 +60,22 @@ function classify(title) {
   // 任一段以「研究」结尾或含「研究与应用」的课题式标题是科研岗；用户/产业/行业/市场研究除外
   const mfg = !pa && (MFG.test(title) || AUTO_TECH.test(title));
   const topic = segs.some(x => /研究$|研究与应用|研究实习/.test(x) && !/(用户|产业|行业|市场|数字生态|评测|政策)研究/.test(x));
-  if (any || mfg || topic || EXCLUDE.test(t)) { if (process.env.DUMP_EXCLUDED) fs.appendFileSync(process.env.DUMP_EXCLUDED, title + '\n'); return null; }  // DUMP_EXCLUDED=文件：调试用
+  const tm = TECH_MODEL.test(h) && !/产品|运营|设计|评测|标注|战略|商务|市场|销售|BD/.test(h);
+  if (any || mfg || topic || tm || EXCLUDE.test(t)) { if (process.env.DUMP_EXCLUDED) fs.appendFileSync(process.env.DUMP_EXCLUDED, title + '\n'); return null; }  // DUMP_EXCLUDED=文件：调试用
   if (/运营|Operation|\bOps\b|\bCategory\b|客服|城市经营|\bCSM\b|Customer Success/i.test(h)) return '运营';
   if (h.includes('采购') && !h.includes('产品经理')) return '职能';
   if (/项目经理|项目管理/.test(h)) return '项目管理';  // 显式「项目经理」先于产品；单独「项目」在产品/运营之后（RULES）
   if (/用户研究/.test(h)) return '分析';
   if (/服务储备|储备|NSC|售后服务|服务大区|督导|经纪/.test(h)) return '运营';  // 门店/服务网络岗（服务工程已在排除里）
   if (/设计师|视觉设计|创意设计|\bDesigners?\b/i.test(h)) return '设计';  // 设计师先于产品/市场：AI 产品设计师、营销创意设计师、品牌与视觉设计归设计
+  // 分析优先于市场/增长：数据分析/洞察/商分/经营分析/商业分析（岗位段含 产品/供应链 时不触发）
+  if (/数据分析|洞察|商分|商业分析|经营分析|Insight/i.test(h) && !/产品|供应链/.test(h)) return '分析';
+  // 资本市场/投融资/IR 归职能（先于市场、商务）
+  if (/资本市场|投融资|投资者关系|(^|[^A-Za-z])IR([^A-Za-z]|$)|Investor Relations/i.test(h)) return '职能';
+  if (/企划/.test(h)) return '策划';
+  if (/业务发展/.test(h)) return '商务';
+  // 单独的 PM（产品经理缩写）归产品；PMO/项目 PM 仍走项目管理
+  if (/(^|[^A-Za-z])PM([^A-Za-z]|$)/.test(h) && !/项目|PMO/.test(h)) return AI.test(h) ? 'AI产品' : '产品';
   if (/产品营销|产品市场|\bGTM\b/i.test(h) || /^(市场|营销)/.test(h)) return '市场';  // 岗位名以市场/营销开头时不被括号里的渠道等词带去商务  // 产品营销/GTM 是市场岗
   if (title.includes('产品专家')) { const tail = segs.slice(segs.indexOf(h) + 1); if (/城市|门店|零售/.test(title) || tail.some(x => LOC.test(x) && !NOTLOC.test(x) && !ROLE.test(x))) return '销售'; }
   if (h.includes('产品') || (/\bProducts?\b/i.test(h) && !/\bDesigner\b/i.test(h))) return AI.test(h) ? 'AI产品' : '产品';  // 英文：AI Product→AI产品，Product Manager→产品
@@ -133,5 +153,5 @@ function writeJobs(slug, jobs, opts = {}) {
 function run(slug, fetcher) {
   fetcher().then(jobs => writeJobs(slug, jobs)).catch(e => { console.error(`[${slug}] 失败，保留旧文件：${e.message}`); process.exit(1); });
 }
-module.exports = { normCity, normCities, classify, isoWeek, nowIso, request, cookiesOf, args, writeJobs, run, sleep, cityFromText };
+module.exports = { cleanTitle, normCity, normCities, classify, isoWeek, nowIso, request, cookiesOf, args, writeJobs, run, sleep, cityFromText };
 

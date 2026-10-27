@@ -1,82 +1,82 @@
 [
- {
-  "id": "uisee-0b67a0cf-7818-4a4e-99ef-e59195a08cd3",
-  "company": "驭势科技",
-  "title": "人力资源实习生",
-  "category": "职能",
-  "city": [
-   "城市见官网"
-  ],
-  "requirements": "",
-  "deadline": null,
-  "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0b67a0cf-7818-4a4e-99ef-e59195a08cd3",
-  "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0b67a0cf-7818-4a4e-99ef-e59195a08cd3",
-  "fetched_at": "2026-10-27T18:19:22+08:00",
-  "job_type": "实习",
-  "project": null
- },
- {
-  "id": "uisee-d6238af4-6f7d-48f6-a927-da416cbff32b",
-  "company": "驭势科技",
-  "title": "2027校招-管培生",
-  "category": "其他",
-  "city": [
-   "城市见官网"
-  ],
-  "requirements": "",
-  "deadline": null,
-  "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/d6238af4-6f7d-48f6-a927-da416cbff32b",
-  "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/d6238af4-6f7d-48f6-a927-da416cbff32b",
-  "fetched_at": "2026-10-27T18:19:22+08:00",
-  "job_type": "校招",
-  "project": null
- },
- {
-  "id": "uisee-829db240-d20b-43f8-8fc2-c8937e3dfd05",
-  "company": "驭势科技",
-  "title": "2027校招-销售经理",
-  "category": "销售",
-  "city": [
-   "城市见官网"
-  ],
-  "requirements": "",
-  "deadline": null,
-  "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/829db240-d20b-43f8-8fc2-c8937e3dfd05",
-  "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/829db240-d20b-43f8-8fc2-c8937e3dfd05",
-  "fetched_at": "2026-10-27T18:19:22+08:00",
-  "job_type": "校招",
-  "project": null
- },
- {
-  "id": "uisee-0a091af0-044d-428c-99da-f0011429a42d",
-  "company": "驭势科技",
-  "title": "合规认证实习生",
-  "category": "职能",
-  "city": [
-   "城市见官网"
-  ],
-  "requirements": "",
-  "deadline": null,
-  "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0a091af0-044d-428c-99da-f0011429a42d",
-  "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0a091af0-044d-428c-99da-f0011429a42d",
-  "fetched_at": "2026-10-27T18:19:22+08:00",
-  "job_type": "实习",
-  "project": null
- },
- {
-  "id": "uisee-8b99c36b-324f-411d-afae-7f0b3cb6098d",
-  "company": "驭势科技",
-  "title": "2026校招-智驾运营中心操作员",
-  "category": "运营",
-  "city": [
-   "城市见官网"
-  ],
-  "requirements": "",
-  "deadline": null,
-  "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/8b99c36b-324f-411d-afae-7f0b3cb6098d",
-  "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/8b99c36b-324f-411d-afae-7f0b3cb6098d",
-  "fetched_at": "2026-10-27T18:19:22+08:00",
-  "job_type": "校招",
-  "project": null
- }
+  {
+    "id": "uisee-0b67a0cf-7818-4a4e-99ef-e59195a08cd3",
+    "company": "驭势科技",
+    "title": "人力资源实习生",
+    "category": "职能",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0b67a0cf-7818-4a4e-99ef-e59195a08cd3",
+    "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0b67a0cf-7818-4a4e-99ef-e59195a08cd3",
+    "fetched_at": "2026-10-27T18:19:22+08:00",
+    "job_type": "实习",
+    "project": null
+  },
+  {
+    "id": "uisee-d6238af4-6f7d-48f6-a927-da416cbff32b",
+    "company": "驭势科技",
+    "title": "2027校招-管培生",
+    "category": "其他",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/d6238af4-6f7d-48f6-a927-da416cbff32b",
+    "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/d6238af4-6f7d-48f6-a927-da416cbff32b",
+    "fetched_at": "2026-10-27T18:19:22+08:00",
+    "job_type": "校招",
+    "project": null
+  },
+  {
+    "id": "uisee-829db240-d20b-43f8-8fc2-c8937e3dfd05",
+    "company": "驭势科技",
+    "title": "2027校招-销售经理",
+    "category": "销售",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/829db240-d20b-43f8-8fc2-c8937e3dfd05",
+    "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/829db240-d20b-43f8-8fc2-c8937e3dfd05",
+    "fetched_at": "2026-10-27T18:19:22+08:00",
+    "job_type": "校招",
+    "project": null
+  },
+  {
+    "id": "uisee-0a091af0-044d-428c-99da-f0011429a42d",
+    "company": "驭势科技",
+    "title": "合规认证实习生",
+    "category": "职能",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0a091af0-044d-428c-99da-f0011429a42d",
+    "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/0a091af0-044d-428c-99da-f0011429a42d",
+    "fetched_at": "2026-10-27T18:19:22+08:00",
+    "job_type": "实习",
+    "project": null
+  },
+  {
+    "id": "uisee-8b99c36b-324f-411d-afae-7f0b3cb6098d",
+    "company": "驭势科技",
+    "title": "2026校招-智驾运营中心操作员",
+    "category": "运营",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/8b99c36b-324f-411d-afae-7f0b3cb6098d",
+    "source_url": "https://app.mokahr.com/campus_apply/yushi/3773#/job/8b99c36b-324f-411d-afae-7f0b3cb6098d",
+    "fetched_at": "2026-10-27T18:19:22+08:00",
+    "job_type": "校招",
+    "project": null
+  }
 ]

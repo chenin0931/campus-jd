@@ -1,13 +1,11 @@
-# 北京 · 实习 · 职能 · 全部公司（249 个岗位）（第 5/5 页）
+# 北京 · 实习 · 职能 · 全部公司（248 个岗位）（第 5/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 87](../../slices/bytedance/intern/corporate/beijing.md) · [小米 49](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 14](../../slices/baidu/intern/corporate/beijing.md) · [京东 14](../../slices/jd/intern/corporate/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [网易 7](../../slices/netease/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 86](../../slices/bytedance/intern/corporate/beijing.md) · [小米 50](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 14](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [网易 7](../../slices/netease/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 小红书 | hr招聘实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19057.md) |
-| 小米 | 海外业务招聘实习生 〔27/28届 · ≥5个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7615529265581410598.md) |
 | 小米 | 27届招聘实习生-国际职能平台 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7469690121537847405.md) |
 | 小米 | 保密专员（实习） 〔每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7674906295041116479.md) |
 | 小米 | 部门助理-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7696706768126707978.md) |
@@ -39,6 +37,7 @@
 | 小米 | 手机法务BP实习生-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7688167747691448619.md) |
 | 小米 | 税务专员实习生（3个团队） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7696723140702423337.md) [2](../../jobs/xiaomi-7680744663968696619.md) [3](../../jobs/xiaomi-7612467927950690610.md) |
 | 小米 | 算力采购部实习生-2027届 〔27届 · 每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7696449876537018665.md) |
+| 小米 | 投资者关系实习生-2027届 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7699374770206640427.md) |
 | 小米 | 现场财务管理BP-2027届 〔27届 · ≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7694847099419281714.md) |
 | 小米 | 行政专员 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7694954846583146795.md) |
 | 小米 | 行政专员-实习-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7675653067522246939.md) |

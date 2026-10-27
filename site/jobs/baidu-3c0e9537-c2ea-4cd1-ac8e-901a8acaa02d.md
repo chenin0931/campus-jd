@@ -3,7 +3,7 @@
 - id: baidu-3c0e9537-c2ea-4cd1-ac8e-901a8acaa02d
 - 公司: 百度
 - job_type: 实习
-- 类别: 项目管理
+- 类别: AI产品
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2027届

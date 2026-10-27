@@ -1,14 +1,13 @@
-# 上海 · 实习 · 项目管理 · 全部公司（27 个岗位）
+# 上海 · 实习 · 项目管理 · 全部公司（26 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 19](../../slices/bytedance/intern/pm/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/intern/pm/shanghai.md) · [腾讯 2](../../slices/tencent/intern/pm/shanghai.md) · [百度 1](../../slices/baidu/intern/pm/shanghai.md) · [携程 1](../../slices/ctrip/intern/pm/shanghai.md) · [美团 1](../../slices/meituan/intern/pm/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/pm/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 19](../../slices/bytedance/intern/pm/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/intern/pm/shanghai.md) · [腾讯 2](../../slices/tencent/intern/pm/shanghai.md) · [携程 1](../../slices/ctrip/intern/pm/shanghai.md) · [美团 1](../../slices/meituan/intern/pm/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/pm/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 百度 | 搭子生态PM（J106470） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/baidu-dbac4623-e9c1-4c1c-8e00-4bef7c127759.md) |
-| 哔哩哔哩 | IP项目管理实习生 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-31041.md) |
-| 哔哩哔哩 | IP衍生品项目实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-27236.md) |
+| 哔哩哔哩 | IP项目管理实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-31041.md) |
+| 哔哩哔哩 | IP衍生品项目实习生 〔≥6个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-27236.md) |
 | 字节跳动 | 本地化项目管理实习生-国际化短视频 〔每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7243694784157518139.md) |
 | 字节跳动 | 大模型PMO实习生 - Data AML 〔≥6个月，每周≥4天〕 | 深圳/上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677809080896293125.md) |
 | 字节跳动 | 豆包AI大模型PMO实习生（火山方舟MaaS） - Data AML 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685686152326760709.md) |

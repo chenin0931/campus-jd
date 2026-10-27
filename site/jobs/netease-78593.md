@@ -3,7 +3,7 @@
 - id: netease-78593
 - 公司: 网易（网易云音乐）
 - job_type: 实习
-- 类别: 运营
+- 类别: 策划
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明

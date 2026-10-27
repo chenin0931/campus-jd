@@ -1,8 +1,8 @@
-# 北京 · 实习 · 商务 · 全部公司（90 个岗位）（第 1/2 页）
+# 北京 · 实习 · 商务 · 全部公司（85 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 42](../../slices/bytedance/intern/business/beijing.md) · [百度 12](../../slices/baidu/intern/business/beijing.md) · [网易 7](../../slices/netease/intern/business/beijing.md) · [小米 6](../../slices/xiaomi/intern/business/beijing.md) · [滴滴 5](../../slices/didi/intern/business/beijing.md) · [京东 5](../../slices/jd/intern/business/beijing.md) · [快手 4](../../slices/kuaishou/intern/business/beijing.md) · [腾讯 4](../../slices/tencent/intern/business/beijing.md) · [美团 3](../../slices/meituan/intern/business/beijing.md) · [华为 1](../../slices/huawei/intern/business/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 40](../../slices/bytedance/intern/business/beijing.md) · [百度 12](../../slices/baidu/intern/business/beijing.md) · [网易 7](../../slices/netease/intern/business/beijing.md) · [滴滴 5](../../slices/didi/intern/business/beijing.md) · [京东 5](../../slices/jd/intern/business/beijing.md) · [小米 5](../../slices/xiaomi/intern/business/beijing.md) · [快手 4](../../slices/kuaishou/intern/business/beijing.md) · [腾讯 4](../../slices/tencent/intern/business/beijing.md) · [华为 1](../../slices/huawei/intern/business/beijing.md) · [美团 1](../../slices/meituan/intern/business/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -31,7 +31,6 @@
 | 字节跳动 | 生态合作商务（豆包方向）实习生 - 技术产业研究与合作 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7672804729569659141.md) |
 | 字节跳动 | 战略（Agent方向）实习生 - 剪映CapCut | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678231419063585077.md) |
 | 字节跳动 | 战略（AI内容方向）实习生 - 剪映CapCut | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678188380380072197.md) |
-| 字节跳动 | 战略/经营分析实习生 - 国际支付 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7626232264976107781.md) |
 | 字节跳动 | 战略分析（数据科学方向）实习生-TikTok 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7483805287393347848.md) |
 | 字节跳动 | 战略分析实习生 - 抖音生活服务（2个团队） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7660056680793917701.md) [2](../../jobs/bytedance-7631948292233890101.md) |
 | 字节跳动 | 战略分析实习生 - 抖音生活服务 〔27届 · ≥3个月，每周≥5天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7603304789758855429.md) |
@@ -43,5 +42,6 @@
 | 字节跳动 | 战略分析实习生-广告业务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7592882718640556341.md) |
 | 字节跳动 | 战略分析实习生-国际化商业安全 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7540914410639034631.md) |
 | 字节跳动 | 战略实习生 - 国际化广告战略（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7698640313351276853.md) [2](../../jobs/bytedance-7697154763989387573.md) |
+| 字节跳动 | 战略实习生-番茄小说 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7662260868417472773.md) |
 
 [下一页](intern-business-p2.md) · [总目录](../../llms.txt)

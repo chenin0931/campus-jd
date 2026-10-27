@@ -10,7 +10,7 @@
 - 实习时长 intern_duration: ≥3个月，每周≥4天
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
-- 投递: https://jobs.bilibili.com/campus/positions/30067
+- 投递: https://jobs.bilibili.com/campus/positions/30067（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 
 ## 岗位要求
 

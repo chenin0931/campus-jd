@@ -2,11 +2,10 @@
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[快手 23](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 22](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 15](../../slices/bytedance/campus/corporate/beijing.md) · [京东 15](../../slices/jd/campus/corporate/beijing.md) · [美团 13](../../slices/meituan/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[快手 23](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 15](../../slices/bytedance/campus/corporate/beijing.md) · [京东 14](../../slices/jd/campus/corporate/beijing.md) · [美团 13](../../slices/meituan/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 快手 | 资金专员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9861.md) |
 | 快手 | 综合财务专员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9862.md) |
 | 快手 | HR-管理研究类 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11163.md) |
 | 快手 | HR-企业文化类（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13650.md) [2](../../jobs/kuaishou-11834.md) |
@@ -53,6 +52,7 @@
 | 小米 | 人力资源专员-SSC 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671128883530172718.md) |
 | 小米 | 税务专员-国际税 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924155562592558.md) |
 | 小米 | 税务专员-转让定价 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923787223370034.md) |
+| 小米 | 投资者关系专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924464812656939.md) |
 | 小米 | 行政专员 〔27届〕 | 武汉/北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671291333982521627.md) |
 | 小米 | 行政专员（福利文化） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7679025822254401855.md) |
 | 小米 | 行政专员（海外行政） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7679026007857236275.md) |

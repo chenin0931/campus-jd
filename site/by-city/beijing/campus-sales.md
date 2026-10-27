@@ -1,8 +1,8 @@
-# 北京 · 校招 · 销售 · 全部公司（35 个岗位）
+# 北京 · 校招 · 销售 · 全部公司（34 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 23](../../slices/bytedance/campus/sales/beijing.md) · [小米 5](../../slices/xiaomi/campus/sales/beijing.md) · [百度 2](../../slices/baidu/campus/sales/beijing.md) · [京东 2](../../slices/jd/campus/sales/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/beijing.md) · [滴滴 1](../../slices/didi/campus/sales/beijing.md) · [腾讯 1](../../slices/tencent/campus/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 23](../../slices/bytedance/campus/sales/beijing.md) · [小米 5](../../slices/xiaomi/campus/sales/beijing.md) · [百度 2](../../slices/baidu/campus/sales/beijing.md) · [京东 2](../../slices/jd/campus/sales/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/beijing.md) · [腾讯 1](../../slices/tencent/campus/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -31,7 +31,6 @@
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 北京/上海/成都/武汉/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667154545639246085.md) |
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668260451848702261.md) |
 | 字节跳动 | 云与AI咨询销售（汽车行业线） - 火山引擎（2个团队） 〔27届〕 | 北京/上海 | 2026-10-27 | [1](../../jobs/bytedance-7694957404425832757.md) [2](../../jobs/bytedance-7694611254162524469.md) |
-| 滴滴 | 27届秋招-商业分析顾问-两轮车 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-abac6fe9-e007-4025-a2f0-af65fd9523ab.md) |
 | 京东 | 大客户销售 〔27届〕 | 上海/昆明/北京/长春/成都/广州/深圳/南昌/杭州/武汉/大连/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9079.md) |
 | 京东 | 解决方案 〔27届〕 | 上海/北京/成都/济南/广州/杭州/兰州/厦门/重庆 | 2026-10-27 | [详情](../../jobs/jd-9070.md) |
 | 腾讯 | 解决方案-技术咨询方向 | 深圳/北京/上海/广州/西安/重庆 | 2026-10-27 | [详情](../../jobs/tencent-1284317542697182209.md) |

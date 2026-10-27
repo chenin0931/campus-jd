@@ -1,13 +1,11 @@
-# 上海 · 实习 · 市场 · 全部公司（95 个岗位）（第 2/3 页）
+# 上海 · 实习 · 市场 · 全部公司（89 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 46](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/marketing/shanghai.md) · [网易 11](../../slices/netease/intern/marketing/shanghai.md) · [米哈游 10](../../slices/mihoyo/intern/marketing/shanghai.md) · [小红书 6](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [腾讯 3](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 43](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/marketing/shanghai.md) · [网易 11](../../slices/netease/intern/marketing/shanghai.md) · [米哈游 9](../../slices/mihoyo/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [腾讯 3](../../slices/tencent/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 行业营销实习生 - 抖音电商运营 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678526697503197493.md) |
-| 字节跳动 | 营销策略实习生 - 抖音电商运营 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700820118566144309.md) |
 | 字节跳动 | 营销产品实习生（Agent方向） - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700792600462346501.md) |
 | 字节跳动 | 营销大促实习生 - 抖音电商运营 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680481131736893749.md) |
 | 字节跳动 | 营销活动实习生 - 抖音电商运营 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698624042448357637.md) |
@@ -35,7 +33,6 @@
 | 米哈游 | 境外市场营销实习-星布谷地 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9621.md) |
 | 米哈游 | 品牌线下实习生-崩坏：因缘精灵 〔28/29届 · ≥5个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8979.md) |
 | 米哈游 | 市场内容实习生（前瞻节目制作）-绝区零 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9541.md) |
-| 米哈游 | 增长洞察数据分析实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7491.md) |
 | 米哈游 | AIGC实习生（市场营销方向） 〔27/28届 · ≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9653.md) |
 | 网易 | 本地化营销（西语）（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/netease-76972.md) [2](../../jobs/netease-78483.md) |
 | 网易 | 海外营销传播实习生-日本发行支持 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79321.md) |
@@ -50,6 +47,8 @@
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067387964684288.md) |
 | 腾讯 | 腾讯营销-多模态大模型与强化学习驱动的广告投放Agent | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944841.md) |
 | 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875613710029824.md) |
-| 小红书 | 【Ace顶尖实习生】面向千人千面agent的广告大模型能力构建 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19815.md) |
+| 小红书 | 公共事务实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21832.md) |
+| 小红书 | 广告业务支持实习生（2个团队） 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-22542.md) [2](../../jobs/xiaohongshu-21833.md) |
+| 小红书 | 品牌投放实习生（抖音短视频方向） 〔28/29届 · ≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22635.md) |
 
 [上一页](intern-marketing.md) · [下一页](intern-marketing-p3.md) · [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 北京 · 实习 · 产品 · 全部公司（434 个岗位）（第 2/10 页）
+# 北京 · 实习 · 产品 · 全部公司（435 个岗位）（第 2/10 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 212](../../slices/bytedance/intern/product/beijing.md) · [百度 63](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 212](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | 百度 | 作者变现产品实习生（J81373） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-0203bfe1-ae6a-4e5a-874a-a1b11d40c683.md) |
 | 百度 | B端产品经理实习生（J85606） 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-b127176b-2de2-4f65-ab1f-f3d994b62c55.md) |
 | 百度 | CDN产品解决方案实习生（J99326） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-ad636793-c017-4188-89bf-16f897208880.md) |
+| 百度 | DuMate策略PM实习生（J106528） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-b3e67d3d-7b6d-4ad9-9b88-5885dfea1048.md) |
 | 百度 | DuMate产品实习生（J105264） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-6bd6ce98-8e49-4af7-925c-a94a2476c934.md) |
 | 百度 | DuMate产品实习生（J106679） 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-1a05544d-b2a7-4a25-9ad3-a29588cd4956.md) |
 | 百度 | IAAS产品解决方案实习生（J71350） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-f3310954-bcb5-40bc-a1e5-83c9cdb8162a.md) |
@@ -45,6 +46,5 @@
 | 字节跳动 | 产品设计实习生-TikTok设计（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7553587828555893010.md) [2](../../jobs/bytedance-7512734192502753554.md) |
 | 字节跳动 | 产品实习生 - 抖音电商 〔≥3个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7696714765792594181.md) |
 | 字节跳动 | 产品实习生 - 国际化内容与服务广告 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7686306263983229237.md) |
-| 字节跳动 | 产品实习生 - 体验与服务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677518055546620213.md) |
 
 [上一页](intern-product.md) · [下一页](intern-product-p3.md) · [总目录](../../llms.txt)

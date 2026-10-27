@@ -1,17 +1,14 @@
-# 上海 · 实习 · 商务 · 全部公司（63 个岗位）（第 2/2 页）
+# 上海 · 实习 · 商务 · 全部公司（59 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/business/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 10](../../slices/bilibili/intern/business/shanghai.md) · [米哈游 2](../../slices/mihoyo/intern/business/shanghai.md) · [网易 2](../../slices/netease/intern/business/shanghai.md) · [腾讯 2](../../slices/tencent/intern/business/shanghai.md) · [携程 1](../../slices/ctrip/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [京东 1](../../slices/jd/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 29](../../slices/bytedance/intern/business/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 10](../../slices/bilibili/intern/business/shanghai.md) · [米哈游 2](../../slices/mihoyo/intern/business/shanghai.md) · [网易 2](../../slices/netease/intern/business/shanghai.md) · [携程 1](../../slices/ctrip/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [京东 1](../../slices/jd/intern/business/shanghai.md) · [腾讯 1](../../slices/tencent/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 米哈游 | 游戏渠道合作实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9713.md) |
-| 米哈游 | 预研孵化战略研究和投资实习生（游戏向） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8829.md) |
 | 网易 | 商业化资源策划实习生（七日世界） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78096.md) |
 | 网易 | 投资实习生（AI与具身智能方向） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78809.md) |
 | 腾讯 | 投资分析 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875884628486144.md) |
-| 腾讯 | 战略商业分析师 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875890517316608.md) |
 | 小红书 | 国货彩香商业化CBD实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20917.md) |
 | 小红书 | 金融行业商业化平台专家实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22749.md) |
 | 小红书 | 平台专家实习生（商业化 - 国货彩香组）（2个团队） 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-21943.md) [2](../../jobs/xiaohongshu-22678.md) |

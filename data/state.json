@@ -25821,7 +25821,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7628831810214988085": {
    "first_seen": "2026-10-27",
@@ -28847,7 +28848,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bytedance-7594685767386335493": {
    "first_seen": "2026-10-27",
@@ -39444,7 +39446,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4347049935": {
    "first_seen": "2026-10-27",
@@ -39634,7 +39637,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-3153873006": {
    "first_seen": "2026-10-27",
@@ -47115,7 +47119,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaohongshu-19812": {
    "first_seen": "2026-10-27",

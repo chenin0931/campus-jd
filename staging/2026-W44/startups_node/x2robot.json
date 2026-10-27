@@ -81,22 +81,6 @@
     "project": "实习生招聘"
   },
   {
-    "id": "x2robot-7669755359267211574",
-    "company": "自变量机器人",
-    "title": "端侧 DevOps 实习生（机器人方向）",
-    "category": "其他",
-    "city": [
-      "深圳"
-    ],
-    "requirements": "1. 本科及以上在读，计算机相关专业。\n2. 熟悉 Linux 基本操作，掌握 Git 的常用命令和基本协作流程。\n3. 掌握 Shell、Python、Go 或 C++ 中至少一种语言，能够编写基础自动化脚本。\n4. 了解 CI/CD 和 Docker 基本概念，对 GitLab CI、Jenkins 等工具有使用或学习经验。\n5. 具备较强的学习能力、动手能力和问题分析能力，能够持续实习 3 个月及以上。\n加分项\n1. 使用过 ROS/ROS2、Gazebo、Isaac Sim 等机器人开发或仿真工具。\n2. 有课程项目、实验室项目、开源项目或机器人相关实践经验。\n3. 了解 ARM、嵌入式 Linux、交叉编译或端侧部署。",
-    "deadline": null,
-    "apply_url": "https://x2-robot.jobs.feishu.cn/912130/position/7669755359267211574/detail",
-    "source_url": "https://x2-robot.jobs.feishu.cn/912130/position/7669755359267211574/detail",
-    "fetched_at": "2026-10-27T18:19:45+08:00",
-    "job_type": "实习",
-    "project": "暑期实习招聘"
-  },
-  {
     "id": "x2robot-7667173872476080427",
     "company": "自变量机器人",
     "title": "SSC-实习生",

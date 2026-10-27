@@ -1,8 +1,8 @@
-# 北京 · 实习 · 其他 · 全部公司（158 个岗位）（第 3/4 页）
+# 北京 · 实习 · 其他 · 全部公司（157 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 57](../../slices/bytedance/intern/other/beijing.md) · [网易 25](../../slices/netease/intern/other/beijing.md) · [小米 22](../../slices/xiaomi/intern/other/beijing.md) · [百度 19](../../slices/baidu/intern/other/beijing.md) · [腾讯 10](../../slices/tencent/intern/other/beijing.md) · [滴滴 7](../../slices/didi/intern/other/beijing.md) · [美团 5](../../slices/meituan/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [京东 3](../../slices/jd/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 57](../../slices/bytedance/intern/other/beijing.md) · [网易 24](../../slices/netease/intern/other/beijing.md) · [小米 22](../../slices/xiaomi/intern/other/beijing.md) · [百度 19](../../slices/baidu/intern/other/beijing.md) · [腾讯 10](../../slices/tencent/intern/other/beijing.md) · [滴滴 7](../../slices/didi/intern/other/beijing.md) · [美团 5](../../slices/meituan/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [京东 3](../../slices/jd/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -29,7 +29,6 @@
 | 网易 | 新闻资讯剪辑实习生 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77957.md) |
 | 网易 | 硬核看板实习生（5个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-79428.md) [2](../../jobs/netease-79356.md) [3](../../jobs/netease-79224.md) [4](../../jobs/netease-78150.md) [5](../../jobs/netease-77288.md) |
 | 网易 | 娱乐-视频后期制作实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79245.md) |
-| 网易 | 自制歌曲企划实习生（云上） 〔27/28届 · ≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77886.md) |
 | 网易 | AI导演实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-78980.md) [2](../../jobs/netease-78620.md) |
 | 网易 | AI视频创作实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-72178.md) |
 | 网易 | AIGC实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77424.md) |
@@ -55,5 +54,6 @@
 | 小米 | 翻译实习生（笔译） | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7616938982844320063.md) |
 | 小米 | 分布式计算实习生-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7655518737009182985.md) |
 | 小米 | 互联网账务实习生-2027届 〔27届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7698188547816032531.md) |
+| 小米 | 集团高招实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7621468340221315347.md) [2](../../jobs/xiaomi-7442231758018560108.md) |
 
 [上一页](intern-other-p2.md) · [下一页](intern-other-p4.md) · [总目录](../../llms.txt)

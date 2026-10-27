@@ -6,7 +6,7 @@
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 哔哩哔哩 | Localization Translator | 新加坡 | 2026-10-27 | [详情](../../jobs/bilibili-30262.md) |
+| 哔哩哔哩 | Localization Translator ⚠️链接待核 | 新加坡 | 2026-10-27 | [详情](../../jobs/bilibili-30262.md) |
 | 腾讯 | Interactive Vision Model Research Intern 108277 | 新加坡 | 2026-10-27 | [详情](../../jobs/tencent-108277.md) |
 | 腾讯 | Large Language Models Research Intern 108263 | 新加坡 | 2026-10-27 | [详情](../../jobs/tencent-108263.md) |
 | 小红书 | Trust & Safety Policy Intern | 北京/上海/新加坡 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21956.md) |

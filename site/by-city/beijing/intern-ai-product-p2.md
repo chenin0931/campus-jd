@@ -1,11 +1,13 @@
-# 北京 · 实习 · AI产品 · 全部公司（215 个岗位）（第 2/5 页）
+# 北京 · 实习 · AI产品 · 全部公司（218 个岗位）（第 2/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 143](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 32](../../slices/baidu/intern/ai-product/beijing.md) · [美团 15](../../slices/meituan/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 143](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 35](../../slices/baidu/intern/ai-product/beijing.md) · [美团 15](../../slices/meituan/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 大模型策略产品（评测方向）实习生 - 豆包 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670015754113206581.md) |
+| 字节跳动 | 大模型策略产品（写作）实习生-豆包 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7638926249863203125.md) |
 | 字节跳动 | 大模型策略产品实习生 - 豆包 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7620699612697397509.md) |
 | 字节跳动 | 大模型策略产品实习生-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7612481443608709381.md) |
 | 字节跳动 | 大模型策略产品实习生（办公方向）-豆包 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7644470105535580421.md) |
@@ -43,7 +45,5 @@
 | 字节跳动 | 直播AI互动产品实习生 - 音视频技术 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7695633395914115381.md) |
 | 字节跳动 | 治理平台AI产品实习生 - TikTok生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7682644048368994613.md) |
 | 字节跳动 | 智能视频云国际产品实习生-音视频技术 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7594772465022208261.md) |
-| 字节跳动 | Agent策略产品实习生 - 火山方舟 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7694875950936623413.md) |
-| 字节跳动 | Agent产品（算法方向）实习生 - 抖音增长 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7644447363779610933.md) |
 
 [上一页](intern-ai-product.md) · [下一页](intern-ai-product-p3.md) · [总目录](../../llms.txt)

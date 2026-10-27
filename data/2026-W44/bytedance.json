@@ -9763,7 +9763,7 @@
       "Glow Studio"
     ],
     "title": "游戏监修PM实习生 - Glow Studio",
-    "category": "项目管理",
+    "category": "产品",
     "job_type": "实习",
     "city": [
       "广州"
@@ -11072,22 +11072,6 @@
   {
     "company": "字节跳动",
     "business_unit": [],
-    "title": "广告大模型训练/推理优化实习生-广告架构与工程",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届本科及以上学历在读，计算机、软件工程等相关专业优先；\n2、熟悉C++/Java/Golang中的至少一门编程语言；\n3、熟悉Linux操作系统和开发环境，具备良好的数据结构、算法基础和系统设计能力；\n4、有强烈的求知欲、优秀的学习和沟通能力。\n\n加分项：\n1、有CUDA开发经验，熟悉TensorRT/Triton/CUTLASS经验者优先；\n2、掌握LLM训练/推理技术，有实际开发和应用落地经验，例如Megatron、DeepSpeed、vLLM、SGLang、TRT-LLM等；\n3、熟悉大模型推理加速的研究和技术进展，包括但不限于模型量化、图编译、算子调优、KVCache、PD分离等。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7641803345097148677/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7641803345097148677/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
     "title": "基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音Generative Recommendation（北京/上海/杭州/深圳）",
     "category": "设计",
     "job_type": "校招",
@@ -11471,7 +11455,7 @@
       "TikTok Shop"
     ],
     "title": "战略商业分析实习生 - TikTok Shop",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -14015,7 +13999,7 @@
       "抖音生活服务"
     ],
     "title": "战略经营分析师 - 抖音生活服务",
-    "category": "商务",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "北京",
@@ -28082,22 +28066,6 @@
   },
   {
     "company": "字节跳动",
-    "business_unit": [],
-    "title": "广告大模型训练/推理优化实习生-广告架构与工程",
-    "category": "市场",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届本科及以上学历在读，计算机、软件工程等相关专业优先；\n2、熟悉C++/Java/Golang中的至少一门编程语言；\n3、熟悉Linux操作系统和开发环境，具备良好的数据结构、算法基础和系统设计能力；\n4、有强烈的求知欲、优秀的学习和沟通能力。\n\n加分项：\n1、有CUDA开发经验，熟悉TensorRT/Triton/CUTLASS经验者优先；\n2、掌握LLM训练/推理技术，有实际开发和应用落地经验，例如Megatron、DeepSpeed、vLLM、SGLang、TRT-LLM等；\n3、熟悉大模型推理加速的研究和技术进展，包括但不限于模型量化、图编译、算子调优、KVCache、PD分离等。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7641803343000242437/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7641803343000242437/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
     "business_unit": [
       "抖音电商"
     ],
@@ -28484,7 +28452,7 @@
       "国际化广告数据科学"
     ],
     "title": "数据分析师（国际化广告数据科学方向） - 国际化广告数据科学",
-    "category": "市场",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "北京",
@@ -29209,7 +29177,7 @@
       "TikTok"
     ],
     "title": "用户增长数据分析师 - TikTok",
-    "category": "市场",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "北京"
@@ -29282,7 +29250,7 @@
       "抖音生活服务"
     ],
     "title": "大促活动营销（数据分析与AI创新方向） - 抖音生活服务",
-    "category": "市场",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "北京",
@@ -29986,7 +29954,7 @@
       "TikTok Shop"
     ],
     "title": "拉美物流数据分析实习生 - TikTok Shop",
-    "category": "供应链",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -31570,7 +31538,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "金融经营分析实习生-国际支付",
-    "category": "职能",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -32700,7 +32668,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "金融经营分析实习生-国际支付",
-    "category": "职能",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -35541,7 +35509,7 @@
       "火山引擎"
     ],
     "title": "业务洞察与市场分析 - 火山引擎",
-    "category": "市场",
+    "category": "分析",
     "job_type": "校招",
     "city": [
       "北京"
@@ -36245,7 +36213,7 @@
       "TikTok Shop"
     ],
     "title": "物流风控数据分析实习生 - TikTok Shop",
-    "category": "供应链",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -37016,7 +36984,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "广告数据分析实习生-国际化",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -40792,7 +40760,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "商业化经营分析实习生-国际化中小企业客户产品",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -41443,7 +41411,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "用户增长数据分析实习生-TikTok产品",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -46212,7 +46180,7 @@
       "国际支付"
     ],
     "title": "战略/经营分析实习生 - 国际支付",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -46260,7 +46228,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "品牌广告商业分析实习生-国际化广告创意与品牌",
-    "category": "市场",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -49889,7 +49857,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "AI战略洞察分析实习生-飞书",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "北京"
@@ -52347,7 +52315,7 @@
       "Global Business Solutions"
     ],
     "title": "TikTok国际商业化广告经营分析实习生 - Global Business Solutions",
-    "category": "商务",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"
@@ -52618,7 +52586,7 @@
       "TikTok Shop"
     ],
     "title": "欧洲物流数据分析师实习生 - TikTok Shop",
-    "category": "供应链",
+    "category": "分析",
     "job_type": "实习",
     "city": [
       "上海"

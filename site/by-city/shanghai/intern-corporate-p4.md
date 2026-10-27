@@ -1,11 +1,12 @@
-# 上海 · 实习 · 职能 · 全部公司（154 个岗位）（第 4/4 页）
+# 上海 · 实习 · 职能 · 全部公司（153 个岗位）（第 4/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 77](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 2](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 2](../../slices/tencent/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 76](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 2](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 2](../../slices/tencent/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 小红书 | 衍生品采购实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-3724.md) |
 | 小红书 | 招聘实习生 〔27/28届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20376.md) |
 | 小红书 | 招聘实习生(技术方向) 〔28/29届 · ≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21019.md) |
 | 小红书 | 招聘HR实习生（4个团队） | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-20007.md) [2](../../jobs/xiaohongshu-17715.md) [3](../../jobs/xiaohongshu-17146.md) [4](../../jobs/xiaohongshu-21279.md) |

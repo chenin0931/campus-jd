@@ -1,11 +1,18 @@
-# 上海 · 实习 · 分析 · 全部公司（156 个岗位）（第 2/4 页）
+# 上海 · 实习 · 分析 · 全部公司（167 个岗位）（第 2/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 106](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 5](../../slices/mihoyo/intern/analysis/shanghai.md) · [美团 4](../../slices/meituan/intern/analysis/shanghai.md) · [网易 4](../../slices/netease/intern/analysis/shanghai.md) · [腾讯 3](../../slices/tencent/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 115](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/analysis/shanghai.md) · [网易 4](../../slices/netease/intern/analysis/shanghai.md) · [腾讯 4](../../slices/tencent/intern/analysis/shanghai.md) · [美团 3](../../slices/meituan/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 美区达人业务策略实习生 - TikTok Shop 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678960065206421813.md) |
+| 字节跳动 | 内容策略实习生 - 抖音电商 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7695724782487079221.md) |
+| 字节跳动 | 内容生态策略实习生-TikTok 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7477496796953741575.md) |
+| 字节跳动 | 欧洲推荐数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7699683762180524293.md) |
+| 字节跳动 | 欧洲物流数据分析师实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7695635373414910261.md) |
+| 字节跳动 | 品牌广告商业分析实习生-国际化广告创意与品牌 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7542766503101499666.md) |
+| 字节跳动 | 企业效能咨询实习生-飞书 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7617781815772760373.md) |
 | 字节跳动 | 企业效能咨询实习生-飞书商业化 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7480838640270543122.md) |
 | 字节跳动 | 商家策略分析实习生-抖音生活服务 〔27届 · ≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7613972468890470661.md) |
 | 字节跳动 | 商家商品策略实习生 - 抖音电商运营 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7690768137100331317.md) |
@@ -16,6 +23,7 @@
 | 字节跳动 | 商业分析实习生 - TikTok Shop 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7699003134207101237.md) |
 | 字节跳动 | 商业分析实习生-国际化广告创意与品牌 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591366102342519045.md) |
 | 字节跳动 | 商业分析与治理实习生（美国） - Global Business Solutions | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683786999545104645.md) |
+| 字节跳动 | 商业化经营分析实习生-国际化中小企业客户产品 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7581475404264425733.md) |
 | 字节跳动 | 数据安全实习生 - 中国交易与广告 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7680511707076495669.md) |
 | 字节跳动 | 数据策略分析实习生 - 飞书商业运营与策略 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7662414251332241717.md) |
 | 字节跳动 | 数据策略实习生-TikTok用户增长 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7545026958981138696.md) |
@@ -38,13 +46,5 @@
 | 字节跳动 | 数据科学实习生 - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7701221314972109061.md) |
 | 字节跳动 | 数据科学实习生 - TikTok | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7687915992445536565.md) |
 | 字节跳动 | 数据科学实习生 - TikTok Shop（4个团队） | 北京/上海 | 2026-10-27 | [1](../../jobs/bytedance-7681255441129900293.md) [2](../../jobs/bytedance-7683787847454820661.md) [3](../../jobs/bytedance-7675270069605255477.md) [4](../../jobs/bytedance-7667089186404583685.md) |
-| 字节跳动 | 数据科学实习生 - TikTok Shop（3个团队） 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7684135281826466101.md) [2](../../jobs/bytedance-7676095882694215989.md) [3](../../jobs/bytedance-7696080727068723461.md) |
-| 字节跳动 | 数据科学实习生 - TikTok用户增长 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7657049199338539317.md) |
-| 字节跳动 | 数据科学实习生 - TikTok用户增长 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7654102261207337269.md) |
-| 字节跳动 | 数据科学实习生 - TikTok直播 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683002882310785285.md) |
-| 字节跳动 | 数据科学实习生-抖音 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7594466668265900341.md) |
-| 字节跳动 | 数据科学实习生-抖音电商（2个团队） | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7660773953178978613.md) [2](../../jobs/bytedance-7651530006565308725.md) |
-| 字节跳动 | 数据科学实习生-抖音生活服务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7455515396880861448.md) |
-| 字节跳动 | 数据科学实习生-TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7594697078116468997.md) |
 
 [上一页](intern-analysis.md) · [下一页](intern-analysis-p3.md) · [总目录](../../llms.txt)

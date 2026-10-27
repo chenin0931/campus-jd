@@ -19,7 +19,7 @@
     "id": "dexmal-7638820497903683846",
     "company": "原力灵机",
     "title": "投融资实习生（具身智能）",
-    "category": "商务",
+    "category": "职能",
     "city": [
       "北京"
     ],
@@ -91,22 +91,6 @@
     "deadline": null,
     "apply_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7582067494816647434/detail",
     "source_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7582067494816647434/detail",
-    "fetched_at": "2026-10-27T18:23:43+08:00",
-    "job_type": "实习",
-    "project": null
-  },
-  {
-    "id": "dexmal-7580297407343921471",
-    "company": "原力灵机",
-    "title": " DevOps实习生",
-    "category": "其他",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1. 本科及以上学历，计算机、软件工程相关专业；\n2. 熟悉Go、Python、C++、Shell等至少一种语言；\n3. 熟悉云平台、容器化技术者优先；\n4. 实习时长不少于3个月。",
-    "deadline": null,
-    "apply_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7580297407343921471/detail",
-    "source_url": "https://dexmal-inc.jobs.feishu.cn/285572/position/7580297407343921471/detail",
     "fetched_at": "2026-10-27T18:23:43+08:00",
     "job_type": "实习",
     "project": null

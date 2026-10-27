@@ -15,10 +15,11 @@
 - 实习·AI产品（7）：[杭州 5](../slices/antgroup/intern/ai-product/hangzhou.md) · [北京 3](../slices/antgroup/intern/ai-product/beijing.md) · [上海 1](../slices/antgroup/intern/ai-product/shanghai.md)
 - 实习·产品（1）：[香港 1](../slices/antgroup/intern/product/hongkong.md)
 - 实习·运营（6）：[杭州 4](../slices/antgroup/intern/ops/hangzhou.md) · [北京 1](../slices/antgroup/intern/ops/beijing.md) · [上海 1](../slices/antgroup/intern/ops/shanghai.md)
-- 实习·市场（6）：[上海 2](../slices/antgroup/intern/marketing/shanghai.md) · [杭州 2](../slices/antgroup/intern/marketing/hangzhou.md) · [新加坡 2](../slices/antgroup/intern/marketing/singapore.md) · [深圳 1](../slices/antgroup/intern/marketing/shenzhen.md) · 另 1 城（1 个）见 index.json slices
+- 实习·商务（2）：[香港 2](../slices/antgroup/intern/business/hongkong.md)
+- 实习·市场（5）：[杭州 2](../slices/antgroup/intern/marketing/hangzhou.md) · [新加坡 2](../slices/antgroup/intern/marketing/singapore.md) · [上海 1](../slices/antgroup/intern/marketing/shanghai.md) · [深圳 1](../slices/antgroup/intern/marketing/shenzhen.md) · 另 1 城（1 个）见 index.json slices
 - 实习·设计（2）：[上海 1](../slices/antgroup/intern/design/shanghai.md) · [香港 1](../slices/antgroup/intern/design/hongkong.md)
 - 实习·职能（1）：[香港 1](../slices/antgroup/intern/corporate/hongkong.md)
-- 实习·分析（1）：[杭州 1](../slices/antgroup/intern/analysis/hangzhou.md)
-- 实习·其他（6）：[其他城市 3](../slices/antgroup/intern/other/other.md) · [杭州 2](../slices/antgroup/intern/other/hangzhou.md) · [香港 2](../slices/antgroup/intern/other/hongkong.md) · [北京 1](../slices/antgroup/intern/other/beijing.md) · 另 1 城（1 个）见 index.json slices
+- 实习·分析（2）：[杭州 1](../slices/antgroup/intern/analysis/hangzhou.md) · [上海 1](../slices/antgroup/intern/analysis/shanghai.md)
+- 实习·其他（4）：[其他城市 3](../slices/antgroup/intern/other/other.md) · [杭州 2](../slices/antgroup/intern/other/hangzhou.md) · [北京 1](../slices/antgroup/intern/other/beijing.md) · [上海 1](../slices/antgroup/intern/other/shanghai.md)
 
 [总目录](../llms.txt)

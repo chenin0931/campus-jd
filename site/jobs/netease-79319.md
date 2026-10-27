@@ -3,7 +3,7 @@
 - id: netease-79319
 - 公司: 网易（网易游戏（互娱））
 - job_type: 实习
-- 类别: 项目管理
+- 类别: 产品
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明
