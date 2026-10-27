@@ -6,6 +6,7 @@
 - 类别: 运营
 - 城市: 杭州
 - status: active
+- 届别 grad_year: 2027届
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://campus.163.com/app/detail/index?id=4805&projectId=103

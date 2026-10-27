@@ -20,3 +20,15 @@ for pid,(h,jt,bu) in P.items():
         p+=1
 print(raw,len(out),collections.Counter((r['job_type'],r['category']) for r in out))
 json.dump(out,open('../../data/2026-W44/netease.json','w'),ensure_ascii=False,indent=1)
+# 日常实习 (navigation link hr.163.com/job-list.html?workType=1) -> POST hr.163.com/api/hr163/position/queryPage
+p=1;n0=len(out)
+while True:
+    o=subprocess.run(['curl','-s','-m','60','-X','POST','https://hr.163.com/api/hr163/position/queryPage','-H','Content-Type: application/json','-d',json.dumps({"currentPage":p,"pageSize":100,"workType":"1"})],capture_output=True,text=True).stdout
+    d=json.loads(o)['data']
+    for x in d['list']:
+        if (c:=cls(x['name'])):
+            r=rec('网易',x['name'],c,x.get('workPlaceNameList') or [],x.get('requirement'),f"https://hr.163.com/job-detail.html?id={x['id']}",'实习'); r['business_unit']=[x.get('productName') or x.get('firstDepName') or '网易']; out.append(r)
+    if p>=d['pages']:break
+    p+=1
+print('daily interns kept',len(out)-n0,collections.Counter((r['job_type'],r['category']) for r in out))
+json.dump(out,open('../../data/2026-W44/netease.json','w'),ensure_ascii=False,indent=1)

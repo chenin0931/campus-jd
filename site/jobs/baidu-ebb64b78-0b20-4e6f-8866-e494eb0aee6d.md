@@ -6,6 +6,7 @@
 - 类别: 产品
 - 城市: 深圳
 - status: active
+- 届别 grad_year: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/GRADUATE/ebb64b78-0b20-4e6f-8866-e494eb0aee6d

@@ -6,6 +6,7 @@
 - 类别: 运营
 - 城市: 北京
 - status: active
+- 届别 grad_year: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/GRADUATE/d1241fcf-3d48-41bc-882b-5e3e1d91be3f

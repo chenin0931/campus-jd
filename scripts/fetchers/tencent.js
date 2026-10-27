@@ -16,7 +16,7 @@ run('tencent', async () => {
       const category = classify(j.positionTitle); if (!category) continue; // 含「研究/课题」的已在 classify 排除
       const det = (await request(`${BASE}/api/v1/jobDetails/getJobDetailsByPostId?postId=${j.postId}`, { headers: H })).data || {};
       const url = `${BASE}/post_detail.html?postid=${j.postId}`;
-      seen.set(j.postId, { company: '腾讯', business_unit: (j.bgs || '').split(/[,，\s]+/).filter(Boolean), title: j.positionTitle, category, job_type: /实习/.test(j.projectName || '') ? '实习' : '校招',
+      seen.set(j.postId, { company: '腾讯', project: j.projectName || null, business_unit: (j.bgs || '').split(/[,，\s]+/).filter(Boolean), title: j.positionTitle, category, job_type: /实习/.test(j.projectName || '') ? '实习' : '校招',
         city: (j.workCities || '').split(/\s+/).filter(Boolean), requirements: det.request || '', deadline: null, apply_url: url, source_url: url, fetched_at: now });
     }
     if (!L.length || p * 100 >= (d.count || 0)) break;

@@ -22,3 +22,8 @@
 - `data/state.json`：`jobs[id] = { first_seen, last_seen, last_week, status: active|removed, removed_at }`。下架只改 status，不删除；`site/jobs/{id}.md` 保留并标 `status: removed`。
 - `data/link_status.json`：`scripts/check_links.js` 写入，`{ id: { status: ok|unverified, code, checked_at } }`。unverified 的原因：`hash-route`（前端 # 路由，服务端无法判断）、`spa-shell`（换成不存在的 id 返回同样页面）、HTTP ≥400 或超时。切片里显示「⚠️链接待核」。
 - 新增 = 本周有、上周没有（按 id）；首个数据周为基线，不算新增。
+
+## 届别与实习时长（build 派生，不写回 data）
+- `project`（抓取字段，可选）：官网结构化招聘项目名，目前字节、小米（飞书招聘 job_subject）提供。
+- `grad_year`：整数数组。先从 `project` 取「20XX届」，否则用正则扫标题+要求：「2027届」「27届」「2026年10月1日至2027年9月30日期间毕业」（取结束年）「2027年毕业」；「2028届及以后」→ [2028, 2029]。抽不到为 null。
+- `intern_duration`：仅实习岗，如「≥3个月，每周≥4天」，抽不到为 null。实现见 `scripts/lib/extract.js`。

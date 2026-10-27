@@ -20,7 +20,7 @@ run('bytedance', async () => {
       const city = (j.city_list || []).map(x => x.name); if (!city.length && j.city_info) city.push(j.city_info.name);
       const intern = j.recruit_type?.name === '实习' || j.recruit_type?.parent?.name === '实习' || /实习/.test(j.title);
       const bu = String(j.title).split(/\s+[-－—]\s+/).slice(1).filter(Boolean);
-      seen.set(j.id, { company: '字节跳动', business_unit: bu, title: j.title, category, job_type: intern ? '实习' : '校招', city, requirements: j.requirement || '', deadline: null, apply_url: url, source_url: url, fetched_at: now });
+      seen.set(j.id, { company: '字节跳动', business_unit: bu, title: j.title, category, job_type: intern ? '实习' : '校招', city, project: j.job_subject?.name?.zh_cn || j.job_subject?.name || null, requirements: j.requirement || '', deadline: null, apply_url: url, source_url: url, fetched_at: now });
     }
     if (!L.length || off + 100 >= (d.count || 0)) break;
   }

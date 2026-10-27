@@ -6,6 +6,7 @@
 - 类别: 运营
 - 城市: 苏州
 - status: active
+- 届别 grad_year: 2027届
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/a5b5ace2-a65d-4544-b32e-3e6e9b06e2ed

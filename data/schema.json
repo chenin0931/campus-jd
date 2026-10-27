@@ -80,6 +80,30 @@
           "type": "string"
         },
         "description": "事业群/业务线，可为空数组"
+      },
+      "project": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "官网结构化招聘项目/批次名（飞书系 job_subject，如「2027届校园招聘」），无则 null"
+      },
+      "grad_year": {
+        "type": [
+          "array",
+          "null"
+        ],
+        "items": {
+          "type": "integer"
+        },
+        "description": "build 时派生：届别，优先 project，其次正则；「及以后」追加下一年；抽不到 null"
+      },
+      "intern_duration": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "build 时派生（仅实习）：如「≥3个月，每周≥4天」；抽不到 null"
       }
     }
   }

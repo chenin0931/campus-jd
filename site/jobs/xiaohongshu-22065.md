@@ -6,6 +6,7 @@
 - 类别: AI产品
 - 城市: 北京、上海
 - status: active
+- 届别 grad_year: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://job.xiaohongshu.com/campus/position/22065

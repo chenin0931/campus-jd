@@ -6,6 +6,7 @@
 - 类别: 运营
 - 城市: 北京
 - status: active
+- 届别 grad_year: 2027届
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/f9dcac51-caf0-4c10-9243-f4f44cfead88

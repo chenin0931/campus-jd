@@ -6,6 +6,8 @@
 - 类别: 运营
 - 城市: 北京
 - status: active
+- 届别 grad_year: 未注明
+- 实习时长 intern_duration: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/c68dfd44-279c-4baa-86c7-69e8ead65c6f

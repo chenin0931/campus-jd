@@ -1,12 +1,13 @@
 # 大厂 AI产品/产品/运营 校招·实习 JD 库
 
-> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-10-27 生成。在招 2709，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
+> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-10-27 生成。在招 2856，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
 
 ## 怎么读
 1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。
 2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。
 3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。
 4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。
+4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。
 5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。
 
 ## 路径模板
@@ -19,7 +20,7 @@
 ## 枚举
 - category: ai-product=AI产品, product=产品, operations=运营
 - job_type: campus=校招, intern=实习
-- city: beijing=北京(1661), shanghai=上海(971), shenzhen=深圳(279), hangzhou=杭州(156), other=其他城市(98), chengdu=成都(77), guangzhou=广州(65), wuhan=武汉(44), nanjing=南京(20), xian=西安(13), hongkong=香港(11), shenyang=沈阳(8), zhuhai=珠海(7), suzhou=苏州(7), chongqing=重庆(7), zhengzhou=郑州(7), suqian=宿迁(6), jinan=济南(5), xiamen=厦门(5), singapore=新加坡(4), kunming=昆明(4), qingdao=青岛(4), tianjin=天津(4), nanchang=南昌(4), dalian=大连(3), nanning=南宁(3), lanzhou=兰州(3), hefei=合肥(3), harbin=哈尔滨(3), changsha=长沙(3), tokyo=东京(2), ningbo=宁波(2), chengmai=澄迈(1)
+- city: beijing=北京(1725), shanghai=上海(979), shenzhen=深圳(279), hangzhou=杭州(214), other=其他城市(98), guangzhou=广州(82), chengdu=成都(77), wuhan=武汉(44), nanjing=南京(20), xian=西安(13), hongkong=香港(11), shenyang=沈阳(8), zhuhai=珠海(7), suzhou=苏州(7), chongqing=重庆(7), zhengzhou=郑州(7), suqian=宿迁(6), jinan=济南(5), xiamen=厦门(5), singapore=新加坡(4), kunming=昆明(4), qingdao=青岛(4), tianjin=天津(4), nanchang=南昌(4), dalian=大连(3), nanning=南宁(3), lanzhou=兰州(3), hefei=合肥(3), harbin=哈尔滨(3), changsha=长沙(3), tokyo=东京(2), ningbo=宁波(2), chengmai=澄迈(1)
 
 ## 公司（校招/实习 岗位数）
 - alibaba=阿里巴巴：校招 33，实习 0
@@ -30,7 +31,7 @@
 - jd=京东：校招 23，实习 21
 - kuaishou=快手：校招 84，实习 41
 - meituan=美团：校招 26，实习 81
-- netease=网易：校招 2，实习 0
+- netease=网易：校招 2，实习 147
 - tencent=腾讯：校招 14，实习 21
 - xiaohongshu=小红书：校招 9，实习 83
 - xiaomi=小米：校招 157，实习 0

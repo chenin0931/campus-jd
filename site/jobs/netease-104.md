@@ -6,6 +6,7 @@
 - 类别: 产品
 - 城市: 广州、新加坡
 - status: active
+- 届别 grad_year: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://campus.game.163.com/app/detail/index?id=4881&projectId=104

@@ -6,6 +6,8 @@
 - 类别: 产品
 - 城市: 北京
 - status: active
+- 届别 grad_year: 未注明
+- 实习时长 intern_duration: ≥4个月，每周≥4天
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/INTERN/f6ff9ed8-84d3-45ba-83bb-7a16a3bed2a7

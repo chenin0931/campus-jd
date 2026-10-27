@@ -6,6 +6,8 @@
 - 类别: 运营
 - 城市: 未知
 - status: active
+- 届别 grad_year: 未注明
+- 实习时长 intern_duration: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/259e7cbe-e704-458a-aecf-f7bb7ac61a97
