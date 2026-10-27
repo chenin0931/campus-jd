@@ -25,7 +25,7 @@ jobs:
           node-version: 20
       - id: week
         run: echo "week=$(TZ=Asia/Shanghai date +%G-W%V)" >> "$GITHUB_OUTPUT"
-      - name: Fetch（各公司独立，单家失败不影响其他家，失败的保留旧数据）
+      - name: Fetch（19 家 Node 抓取器，各公司独立，单家失败不影响其他家，失败的保留旧数据；滴滴解密用 Node 内置 crypto，无需 Python）
         run: |
           mkdir -p data/${{ steps.week.outputs.week }}
           failed=""

@@ -76,7 +76,7 @@ const DETAIL = {
   // hr.163.com/job-detail.html（日常实习，position/query：不存在 → code 500 "系统错误"，无专门不存在码）。
   netease: async (pid, url) => { const h = new URL(url).host;
     if (h === 'hr.163.com') { const b = await (await fetch(`https://hr.163.com/api/hr163/position/query?id=${pid}`, { headers: UA, signal: T() })).json();
-      if (b.code === 200) return !!b.data?.id; if (b.code === 500 && b.data == null) throw Object.assign(new Error('netease-500'), { pending: true }); throw new Error('code ' + b.code); }
+      if (b.code === 200) return !!b.data?.id; if (b.code === 402) return false; /* 402「职位失效或者不存在」：真实下架岗位（72095，2026-10-27）返回此码 */ if (b.code === 500 && b.data == null) throw Object.assign(new Error('netease-500'), { pending: true }); throw new Error('code ' + b.code); }
     const b = await (await fetch(`https://${h}/api/campuspc/position/getJobDetails?id=${pid}`, { headers: UA, signal: T() })).json();
     if (b.code === 200) return !!b.data; throw Object.assign(new Error('code ' + b.code), { pending: true }); },
   // —— 2026-W44 新增 7 家（staging/2026-W44），均已用全量真 id + 假 id 验过 ——
@@ -99,9 +99,11 @@ const DETAIL = {
   // OPPO：有效 id → code 0 + positionStatus（0 在招，1 关闭）；不存在 → code 500 "未知的系统错误"（通用码，但仅在 id 不存在时出现）。
   oppo: async pid => { const b = await (await fetch(`https://careers.oppo.com/openapi/position/detail?id=${pid}`, { headers: UA, signal: T() })).json();
     if (b.code === 0 && b.data) return b.data.positionStatus === 0; if (b.code === 500) return false; throw new Error('code ' + b.code); },
-  // vivo（北森 hr-campus.vivo.com）：要用 GUID；不存在 → Code 500 "参数错误"；Data.Status 2 = 已关闭（页面跳 /job/empty）。
+  // vivo（北森 hr-campus.vivo.com）：Code 200 且有 Data → ok；Data.Status 2 = 已关闭（页面跳 /job/empty）→ 疑似下架；Code 500「参数错误」→ 链接待核。
   vivo: async pid => { const b = await (await fetch(`https://hr-campus.vivo.com/api/JobAd/GetJobAdInfo?jobAdId=${pid}`, { headers: UA, signal: T() })).json();
-    if (b.Code === 200 && b.Data) return b.Data.Status !== 2; if (b.Code === 500) return false; throw new Error('Code ' + b.Code); },
+    if (b.Code === 200 && b.Data) return b.Data.Status !== 2;   // Status 2 = 已关闭 → invalid（疑似下架）
+    // 500「参数错误」：格式错误的 id 和格式正确但不存在的 GUID 返回完全一样，分不出是否下架 → 链接待核（同网易 500）
+    if (b.Code === 500) throw Object.assign(new Error('vivo-500'), { pending: true }); throw new Error('Code ' + b.Code); },
   // 华为新站（apigw）：需站点前端同款头；不存在 → status SUCCESS + data null。
   huawei: async pid => { const b = await (await fetch('https://apigw-dgg-b0.huawei.com/api/apig/channelhw/recruitmentPosition/pub/getRecruitmentPositionDetail?X-HW-ID=app_000000035886', { method: 'POST',
       headers: { ...J, 'User-Agent': BROWSER_UA, Origin: 'https://career.huawei.com', Referer: 'https://career.huawei.com/cn/job-details', 'x-language': 'zh_CN', 'x-jalor-tenantAlias': 'hcm', 'X-HW-ID': 'app_000000035886', 'x-Referer': 'https://career.huawei.com/cn' },

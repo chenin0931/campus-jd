@@ -61,14 +61,16 @@ slug：category `ai-product|product|operations`；城市为拼音（`beijing`、
 ```bash
 node scripts/fetchers/bytedance.js          # 单家抓取 → data/<本周>/bytedance.json（Node 18+，无依赖）
 for f in scripts/fetchers/*.js; do node $f; done
-node scripts/check_links.js                 # 链接校验：先用官网按 id 查详情接口（除滴滴外 18 家；B站限并发 2，华为需浏览器 UA；滴滴列表接口加密，统一记链接待核；网易日常实习接口返回通用 500 时记待核），接口异常时退回格式/HTTP 校验；--probe 每家用真/假 id 验判断逻辑
+node scripts/check_links.js                 # 链接校验：先用官网按 id 查详情接口（除滴滴外 18 家；B站限并发 2，华为需浏览器 UA；滴滴列表接口加密，统一记链接待核；网易日常实习 402「职位失效」判下架、通用 500 记待核；vivo Status 2 判疑似下架、500「参数错误」记待核），接口异常时退回格式/HTTP 校验；--probe 每家用真/假 id 验判断逻辑
 node scripts/lib/check_links_browser.js --sample 5 --fake   # 可选：Playwright 浏览器兜底（npm i playwright；加 --write 写回）
 node scripts/build.js                       # 生成 site/，并校验：文件 ≤8KB、id 唯一、切片计数一致；不通过退出码 1
 ```
 - 新增公司：写 `scripts/fetchers/<slug>.js`（参考现有文件，调用 `run(slug, async () => jobs)`），在 `scripts/lib/site.js` 的 `COMPANY` 加中文名。build 会自动发现 `data/` 下的新文件。
 - fetcher 抓到 0 条或比旧文件少一半以上会拒绝覆盖（`--force` 跳过）。
+- 19 家都有 Node 抓取器（`scripts/fetchers/<slug>.js`），weekly.yml 逐个跑 `scripts/fetchers/*.js`，无需 Python。2026-10-27 新增网易（campus.163.com / campus.game.163.com / hr.163.com 三个域名）、滴滴（列表接口 AES-CBC 加密，用 Node 内置 crypto 按 necromancer 解密，同 reference/dd.py）、B站（串行，请求间隔 ≥1.5s）、得物（飞书 website-path 578078）、OPPO、米哈游、携程（id 保留 MJ 前缀，英文城市转中文）、vivo、华为（浏览器 UA）。抓取结果与 data/2026-W44 对比：id 集合一致（网易少 1 条为官网当天下架）。
+- 只想试跑不写 data：`node scripts/fetchers/didi.js --out /tmp/x`。
 - `scripts/reference/*.py` 是最初的探索脚本，仅供参考。
-- 详情接口插槽在 `scripts/check_links.js` 的 `DETAIL`：快手/京东/美团/小红书/阿里/蚂蚁/百度暂为 null，补一个 `async (postId, url) => boolean` 即可。
+- 详情接口在 `scripts/check_links.js` 的 `DETAIL`（除滴滴外 18 家已接）：`async (postId, url) => boolean`，返回 true=在招、false=疑似下架，抛带 `pending` 的错误=链接待核。
 - `.github/workflows/weekly.yml`：fetch → check_links →（可选）浏览器校验 → build → 打包 skill → commit → tag `w<周>` → 发布 Pages（需要在仓库设置里把 Pages 来源设为 GitHub Actions）。
 
 数据只取自各公司校招官网的公开接口，不抓需要登录的内容；一切以官网为准。
