@@ -1,8 +1,8 @@
-# 北京 · 实习 · 分析 · 全部公司（218 个岗位）（第 1/5 页）
+# 北京 · 实习 · 分析 · 全部公司（216 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 126](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [腾讯 5](../../slices/tencent/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 124](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [腾讯 5](../../slices/tencent/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|

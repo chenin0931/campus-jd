@@ -1,8 +1,8 @@
-# 北京 · 校招 · 运营 · 全部公司（356 个岗位）（第 4/8 页）
+# 北京 · 校招 · 运营 · 全部公司（353 个岗位）（第 4/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 50](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 19](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 173](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -11,7 +11,6 @@
 | 字节跳动 | 增长策略运营（抖音AI产品人才校招） - 抖音音乐 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7690781100918884613.md) |
 | 字节跳动 | 增长策略运营（抖音AI产品人才校招） - 抖音增长 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683835406620625205.md) |
 | 字节跳动 | 账号运营（虚拟演员角色） - 红果短剧 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670414313836906805.md) |
-| 字节跳动 | 招聘运营 - 人力与管理部 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7672609741508266293.md) |
 | 字节跳动 | 招商运营经理 - 抖音品牌营销与星图达人 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668288833993591093.md) |
 | 字节跳动 | 直播产品运营 - TikTok直播 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669697495853238581.md) |
 | 字节跳动 | 治理策略运营 - 抖音电商（5个团队） 〔27届〕 | 上海/北京 | 2026-10-27 | [1](../../jobs/bytedance-7672265479604455733.md) [2](../../jobs/bytedance-7669677533055191301.md) [3](../../jobs/bytedance-7669686705123674373.md) [4](../../jobs/bytedance-7669725381667211525.md) [5](../../jobs/bytedance-7669715540863207685.md) |
@@ -47,5 +46,6 @@
 | 字节跳动 | AI数据运营（多模态AI助手方向） - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683512320950585653.md) |
 | 字节跳动 | AI数据运营（商业广告方向） - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683486995968854325.md) |
 | 字节跳动 | AI数据运营（生活服务方向） - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683493905827989813.md) |
+| 字节跳动 | AI数据运营（视频通话方向） - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683513087236688181.md) |
 
 [上一页](campus-ops-p3.md) · [下一页](campus-ops-p5.md) · [总目录](../../llms.txt)

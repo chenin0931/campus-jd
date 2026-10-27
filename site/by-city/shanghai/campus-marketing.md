@@ -1,8 +1,8 @@
-# 上海 · 校招 · 市场 · 全部公司（42 个岗位）
+# 上海 · 校招 · 市场 · 全部公司（41 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 9](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 8](../../slices/bytedance/campus/marketing/shanghai.md) · [腾讯 4](../../slices/tencent/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [网易 2](../../slices/netease/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 9](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 7](../../slices/bytedance/campus/marketing/shanghai.md) · [腾讯 4](../../slices/tencent/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [网易 2](../../slices/netease/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -22,7 +22,6 @@
 | 字节跳动 | 居家生活行业营销活动 - 抖音电商 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7683892952724146485.md) |
 | 字节跳动 | 品类营销传播 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668576803968452917.md) |
 | 字节跳动 | 热点与内容营销 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670912703905892661.md) |
-| 字节跳动 | 市场/销售类组织招聘 - 人力与管理部 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667389415075055877.md) |
 | 字节跳动 | 数据科学分析师（用户增长中台） - TikTok 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668658029857048885.md) |
 | 字节跳动 | 营销工具产品经理（AI方向） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675675169187219717.md) |
 | 得物 | 【27届校招】社区&增长法务BP 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670376394703046962.md) |

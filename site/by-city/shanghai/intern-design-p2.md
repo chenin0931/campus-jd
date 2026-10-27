@@ -1,14 +1,11 @@
-# 上海 · 实习 · 设计 · 全部公司（116 个岗位）（第 2/3 页）
+# 上海 · 实习 · 设计 · 全部公司（114 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 21](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 15](../../slices/tencent/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 5](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 30](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 20](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 15](../../slices/tencent/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | AI工程/设计实习生（内容设计与本地化方向）-TikTok 〔27届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7616313253196908805.md) |
-| 字节跳动 | AIGC美学设计实习生-抖音 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7543586065283156231.md) |
-| 字节跳动 | AIGC效果与创作设计实习生-效果与创作 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591392228130425093.md) |
 | 字节跳动 | IP创意设计实习生 - TikTok设计 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697092504548280581.md) |
 | 字节跳动 | UI设计实习生 - 抖音电商设计 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7662946006097021189.md) |
 | 携程 | 设计实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ037369.md) |
@@ -29,7 +26,6 @@
 | 米哈游 | 交互策划（UE）实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7883.md) |
 | 米哈游 | 角色概念设计实习生（动画/特效） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8116.md) |
 | 米哈游 | 全球社区·体验设计实习生 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9696.md) |
-| 米哈游 | 视频设计实习生（后期制作） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7935.md) |
 | 米哈游 | 特效原画实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7907.md) |
 | 米哈游 | 游戏动画实习生（Max/Maya） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9068.md) |
 | 米哈游 | 游戏特效实习生（Unity/Unreal） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7895.md) |
@@ -45,6 +41,7 @@
 | 网易 | 游戏体验设计实习生（我的世界） 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78509.md) |
 | 网易 | 游戏战斗策划（英雄*怪物设计方向） | 上海 | 2026-10-27 | [详情](../../jobs/netease-77176.md) |
 | 网易 | AI美术实习生 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78019.md) |
+| 网易 | GUI实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78882.md) |
 | 腾讯 | 2D场景设计 | 深圳/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1219751779685005312.md) |
 | 腾讯 | 2D角色设计 | 深圳/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1219751778799841280.md) |
 | 腾讯 | 2D角色设计 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696384415040512.md) |
@@ -58,5 +55,8 @@
 | 腾讯 | 游戏动效设计(特效向) | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1224696291683401728.md) |
 | 腾讯 | 游戏动效设计(UI向) | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1224696282652836864.md) |
 | 腾讯 | 游戏美术生成式AI的Infra技术-超大规模训练和推理性能优化 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1246578010254242816.md) |
+| 腾讯 | 游戏宣发视觉设计 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1270791052483418112.md) |
+| 腾讯 | 游戏GUI视觉设计 | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751796143454208.md) |
+| 小红书 | 【Ace顶尖实习生】端到端的全双工自然语音交互 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19812.md) |
 
 [上一页](intern-design.md) · [下一页](intern-design-p3.md) · [总目录](../../llms.txt)

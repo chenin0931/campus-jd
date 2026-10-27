@@ -1,11 +1,12 @@
-# 广州 · 校招 · 设计 · 全部公司（49 个岗位）
+# 广州 · 校招 · 设计 · 全部公司（50 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 34](../../slices/netease/campus/design/guangzhou.md) · [阿里巴巴 11](../../slices/alibaba/campus/design/guangzhou.md) · [字节跳动 3](../../slices/bytedance/campus/design/guangzhou.md) · [腾讯 1](../../slices/tencent/campus/design/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 34](../../slices/netease/campus/design/guangzhou.md) · [阿里巴巴 12](../../slices/alibaba/campus/design/guangzhou.md) · [字节跳动 3](../../slices/bytedance/campus/design/guangzhou.md) · [腾讯 1](../../slices/tencent/campus/design/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 阿里巴巴 | 游戏2D动作 | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907800018.md) |
 | 阿里巴巴 | 游戏场景原画（写实） | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907620015.md) |
 | 阿里巴巴 | 游戏交互 | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907800019.md) |
 | 阿里巴巴 | 游戏交互（SLG） | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907800020.md) |

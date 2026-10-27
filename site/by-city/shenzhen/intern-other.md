@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 其他 · 全部公司（36 个岗位）
+# 深圳 · 实习 · 其他 · 全部公司（34 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 17](../../slices/tencent/intern/other/shenzhen.md) · [字节跳动 10](../../slices/bytedance/intern/other/shenzhen.md) · [美团 4](../../slices/meituan/intern/other/shenzhen.md) · [百度 1](../../slices/baidu/intern/other/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/other/shenzhen.md) · [华为 1](../../slices/huawei/intern/other/shenzhen.md) · [京东 1](../../slices/jd/intern/other/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/other/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 16](../../slices/tencent/intern/other/shenzhen.md) · [字节跳动 10](../../slices/bytedance/intern/other/shenzhen.md) · [美团 3](../../slices/meituan/intern/other/shenzhen.md) · [百度 1](../../slices/baidu/intern/other/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/other/shenzhen.md) · [华为 1](../../slices/huawei/intern/other/shenzhen.md) · [京东 1](../../slices/jd/intern/other/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/other/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -21,7 +21,6 @@
 | 京东 | 损耗控制 〔26届〕 | 长春/东莞/广州/深圳/沈阳 | 2026-10-27 | [详情](../../jobs/jd-5865.md) |
 | 美团 | 【无人车北斗实习】3D高斯模型实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4501188515.md) |
 | 美团 | 【无人车北斗实习】端到端模型实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4500420647.md) |
-| 美团 | 【无人车北斗实习】前馈式3D重建实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4501193441.md) |
 | 美团 | 具身本体测评（实习） | 深圳 | 2026-10-27 | [详情](../../jobs/meituan-4603932411.md) |
 | 腾讯 | 法律/行业/产业研究 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1226957123230246912.md) |
 | 腾讯 | 高精3D数字角色驱动 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139135.md) |
@@ -38,7 +37,6 @@
 | 腾讯 | 微信-长视频理解生成统一模型 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139016.md) |
 | 腾讯 | 犀牛鸟人才计划 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1226585122263148544.md) |
 | 腾讯 | 游戏AI-游戏数据实验科学 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944794.md) |
-| 腾讯 | Talent Acquisition Intern (International Students) 106178 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-106178.md) |
 | 腾讯 | WXG-WeLM 大语言模型基座建设 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944862.md) |
 | 小米 | 国际运输实习生 | 深圳 | 2026-10-27 | [详情](../../jobs/xiaomi-7614056108613208358.md) |
 

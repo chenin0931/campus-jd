@@ -302,24 +302,6 @@
     "business_unit": [
       "淘天集团"
     ],
-    "title": "视频编解码-阿里星/T-Star",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京",
-      "杭州"
-    ],
-    "requirements": "1、毕业时间在2026年11月之后的在校本硕博同学，计算机相关专业，有视频或图像编码和处理研究背景；\n2、精通C++和C编程，并熟悉视频编解码标准，如AVC、HEVC、VVC、AV1、AVS系列，有相关标准提案，或使用视频编码开源软件或标准参考软件（如X264，X265，VVENC, VTM，JEM，HM，SHM，JM和JSVM）的经验优先考虑；\n3、熟练掌握超分辨率、去模糊、降噪及色彩增强等方向的经典画质增强算法或无参视频质量评价算法；\n4、熟悉手机端的图像、视频算法的算法开发，包括人脸人体关键点，三维人脸人体重建，美颜、美妆等；\n5、熟悉扩散模型及其在视频图像处理、编码、生成中的应用，有相关项目经验或在高影响力开源项目中作出核心贡献； \n6、有出色的学习能力、分析研究及创新能力、优异的学术产出。 \n\n【加分项】 \n1. 在NTIRE、AIM、AIS、MSU等权威竞赛获奖者；\n2. ICCV、CVPR、ECCV、TPAMI、T-CSVT、T-IP 等顶级会议和期刊发表论文者；",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720114",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907720114",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "淘天集团"
-    ],
     "title": "跨模态理解与视频生成处理-阿里星/T-Star",
     "category": "其他",
     "job_type": "校招",
@@ -1281,7 +1263,7 @@
       "灵犀互娱"
     ],
     "title": "游戏2D动作",
-    "category": "其他",
+    "category": "设计",
     "job_type": "校招",
     "city": [
       "广州"

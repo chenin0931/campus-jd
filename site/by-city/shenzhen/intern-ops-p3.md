@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 运营 · 全部公司（137 个岗位）（第 3/4 页）
+# 深圳 · 实习 · 运营 · 全部公司（136 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 75](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 19](../../slices/tencent/intern/ops/shenzhen.md) · [百度 11](../../slices/baidu/intern/ops/shenzhen.md) · [京东 9](../../slices/jd/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 74](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 19](../../slices/tencent/intern/ops/shenzhen.md) · [百度 11](../../slices/baidu/intern/ops/shenzhen.md) · [京东 9](../../slices/jd/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -11,7 +11,6 @@
 | 字节跳动 | AI内容运营实习生-剪映CapCut 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7584007313582360885.md) |
 | 字节跳动 | AI内容运营实习生（玩法方向）-剪映CapCut 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7569135432463190325.md) |
 | 字节跳动 | AIGC策略运营实习生 - 抖音 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7680090534141610245.md) |
-| 字节跳动 | HR文化活动运营实习生 - TikTok Shop | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7474926397820782855.md) |
 | 字节跳动 | POP运营实习生（英欧市场） - TikTok Shop 〔≥4个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7684163197936453893.md) |
 | 字节跳动 | UGC创作者运营实习生-ONE Studio | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7560920363832445237.md) |
 | 滴滴 | 国际事业群IBG-产品与用户运营实习生（2） ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/didi-82937452-0a5b-45c5-b902-d72c8a1a4d5f.md) |
@@ -55,5 +54,6 @@
 | 腾讯 | 游戏内容分发中的生成式推荐：语义ID、受限解码与多模态对齐 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139155.md) |
 | 腾讯 | 员工福利运营 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102082.md) |
 | vivo | 互联网运营助理-实习 〔≥6个月〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-eed2b81d-7a48-4bcd-87c2-634d55c21c5b.md) |
+| vivo | 阅图锁屏运营助理-实习 〔≥3个月，每周≥5天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/vivo-28d89afb-cd7f-4888-8053-e59166d54182.md) |
 
 [上一页](intern-ops-p2.md) · [下一页](intern-ops-p4.md) · [总目录](../../llms.txt)

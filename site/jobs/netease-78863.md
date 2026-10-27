@@ -3,7 +3,7 @@
 - id: netease-78863
 - 公司: 网易（网易游戏（互娱））
 - job_type: 实习
-- 类别: 运营
+- 类别: 市场
 - 城市: 广州
 - status: active
 - 届别 grad_year: 未注明

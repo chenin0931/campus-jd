@@ -1,4 +1,4 @@
-# 腾讯 总览（在招 319：校招 96，实习 223）
+# 腾讯 总览（在招 316：校招 95，实习 221）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -16,7 +16,7 @@
 - 校招·分析（6）：[深圳 5](../slices/tencent/campus/analysis/shenzhen.md) · [北京 3](../slices/tencent/campus/analysis/beijing.md) · [广州 3](../slices/tencent/campus/analysis/guangzhou.md) · [上海 1](../slices/tencent/campus/analysis/shanghai.md) · 另 1 城（1 个）见 index.json slices
 - 校招·策划（2）：[深圳 2](../slices/tencent/campus/planning/shenzhen.md) · [上海 2](../slices/tencent/campus/planning/shanghai.md) · [北京 1](../slices/tencent/campus/planning/beijing.md) · [杭州 1](../slices/tencent/campus/planning/hangzhou.md)
 - 校招·供应链（1）：[深圳 1](../slices/tencent/campus/supply/shenzhen.md)
-- 校招·其他（22）：[深圳 13](../slices/tencent/campus/other/shenzhen.md) · [北京 10](../slices/tencent/campus/other/beijing.md) · [上海 4](../slices/tencent/campus/other/shanghai.md) · [新加坡 2](../slices/tencent/campus/other/singapore.md) · 另 2 城（2 个）见 index.json slices
+- 校招·其他（21）：[深圳 13](../slices/tencent/campus/other/shenzhen.md) · [北京 9](../slices/tencent/campus/other/beijing.md) · [上海 4](../slices/tencent/campus/other/shanghai.md) · [新加坡 2](../slices/tencent/campus/other/singapore.md) · 另 2 城（2 个）见 index.json slices
 - 实习·AI产品（4）：[深圳 3](../slices/tencent/intern/ai-product/shenzhen.md) · [上海 2](../slices/tencent/intern/ai-product/shanghai.md) · [北京 1](../slices/tencent/intern/ai-product/beijing.md) · [杭州 1](../slices/tencent/intern/ai-product/hangzhou.md) · 另 1 城（1 个）见 index.json slices
 - 实习·产品（13）：[深圳 7](../slices/tencent/intern/product/shenzhen.md) · [北京 5](../slices/tencent/intern/product/beijing.md) · [上海 4](../slices/tencent/intern/product/shanghai.md) · [广州 4](../slices/tencent/intern/product/guangzhou.md) · 另 8 城（14 个）见 index.json slices
 - 实习·运营（26）：[深圳 19](../slices/tencent/intern/ops/shenzhen.md) · [北京 11](../slices/tencent/intern/ops/beijing.md) · [上海 7](../slices/tencent/intern/ops/shanghai.md) · [广州 4](../slices/tencent/intern/ops/guangzhou.md) · 另 5 城（10 个）见 index.json slices
@@ -29,6 +29,6 @@
 - 实习·分析（24）：[新加坡 10](../slices/tencent/intern/analysis/singapore.md) · [深圳 9](../slices/tencent/intern/analysis/shenzhen.md) · [北京 5](../slices/tencent/intern/analysis/beijing.md) · [上海 4](../slices/tencent/intern/analysis/shanghai.md) · 另 3 城（6 个）见 index.json slices
 - 实习·策划（4）：[深圳 4](../slices/tencent/intern/planning/shenzhen.md) · [上海 3](../slices/tencent/intern/planning/shanghai.md) · [杭州 3](../slices/tencent/intern/planning/hangzhou.md) · [成都 1](../slices/tencent/intern/planning/chengdu.md)
 - 实习·供应链（2）：[上海 1](../slices/tencent/intern/supply/shanghai.md) · [深圳 1](../slices/tencent/intern/supply/shenzhen.md)
-- 实习·其他（50）：[深圳 17](../slices/tencent/intern/other/shenzhen.md) · [其他城市 14](../slices/tencent/intern/other/other.md) · [北京 10](../slices/tencent/intern/other/beijing.md) · [新加坡 5](../slices/tencent/intern/other/singapore.md) · 另 4 城（9 个）见 index.json slices
+- 实习·其他（48）：[深圳 16](../slices/tencent/intern/other/shenzhen.md) · [其他城市 14](../slices/tencent/intern/other/other.md) · [北京 9](../slices/tencent/intern/other/beijing.md) · [新加坡 5](../slices/tencent/intern/other/singapore.md) · 另 4 城（9 个）见 index.json slices
 
 [总目录](../llms.txt)

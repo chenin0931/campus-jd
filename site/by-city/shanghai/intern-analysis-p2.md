@@ -1,12 +1,11 @@
-# 上海 · 实习 · 分析 · 全部公司（167 个岗位）（第 2/4 页）
+# 上海 · 实习 · 分析 · 全部公司（165 个岗位）（第 2/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 115](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/analysis/shanghai.md) · [网易 4](../../slices/netease/intern/analysis/shanghai.md) · [腾讯 4](../../slices/tencent/intern/analysis/shanghai.md) · [美团 3](../../slices/meituan/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 114](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/analysis/shanghai.md) · [腾讯 4](../../slices/tencent/intern/analysis/shanghai.md) · [美团 3](../../slices/meituan/intern/analysis/shanghai.md) · [网易 3](../../slices/netease/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | 美区达人业务策略实习生 - TikTok Shop 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678960065206421813.md) |
 | 字节跳动 | 内容策略实习生 - 抖音电商 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7695724782487079221.md) |
 | 字节跳动 | 内容生态策略实习生-TikTok 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7477496796953741575.md) |
 | 字节跳动 | 欧洲推荐数据科学实习生 - TikTok Shop | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7699683762180524293.md) |

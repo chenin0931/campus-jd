@@ -1,8 +1,8 @@
-# 北京 · 校招 · 职能 · 全部公司（106 个岗位）（第 1/2 页）
+# 北京 · 校招 · 职能 · 全部公司（110 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[快手 23](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 15](../../slices/bytedance/campus/corporate/beijing.md) · [京东 14](../../slices/jd/campus/corporate/beijing.md) · [美团 13](../../slices/meituan/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[快手 24](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/corporate/beijing.md) · [京东 14](../../slices/jd/campus/corporate/beijing.md) · [美团 14](../../slices/meituan/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -24,10 +24,12 @@
 | 字节跳动 | 品牌策划（校园招聘方向） - 人力与管理部 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7698944724426098997.md) |
 | 字节跳动 | 企业文化与雇主品牌 - 人力与管理部 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675212390114035973.md) |
 | 字节跳动 | 软件资产管理 - IT 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670140084751206661.md) |
+| 字节跳动 | 市场/销售类组织招聘 - 人力与管理部 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667389415075055877.md) |
 | 字节跳动 | 薪酬与激励 - 人力与管理部 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7675212852807174405.md) |
 | 字节跳动 | 行政策略分析 - Corporate Services 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668289574554110213.md) |
 | 字节跳动 | 行政工程设施管理 - Corporate Services 〔27届〕 | 北京/深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7696407161480399157.md) |
 | 字节跳动 | 硬件资产管理 - IT 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670143360515262773.md) |
+| 字节跳动 | 招聘运营 - 人力与管理部 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7672609741508266293.md) |
 | 字节跳动 | 招聘中心招聘 - 人力与管理部 〔27届〕 | 北京/上海/成都/武汉/南京/西安 | 2026-10-27 | [详情](../../jobs/bytedance-7667382356454525237.md) |
 | 字节跳动 | HRBP - 人力与管理部 〔27届〕 | 北京/广州/上海/成都/武汉/重庆/沈阳/天津/西安/郑州/厦门/福州 | 2026-10-27 | [详情](../../jobs/bytedance-7667391284950436101.md) |
 | 滴滴 | 27届秋招-风险策略分析师（国际化金融-信贷） 〔27届〕 ⚠️链接待核 | 上海/北京 | 2026-10-27 | [详情](../../jobs/didi-b6102ba2-7a1c-43ff-85f5-2c48ade1a336.md) |
@@ -52,9 +54,5 @@
 | 快手 | 采购专员（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13216.md) [2](../../jobs/kuaishou-9832.md) |
 | 快手 | 法务专员-知识产权方向 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13942.md) |
 | 快手 | 合规治理专员-生活服务（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13340.md) [2](../../jobs/kuaishou-12646.md) |
-| 快手 | 人力资源-HRBP | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-4584.md) |
-| 快手 | 软件资产管理员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9828.md) |
-| 快手 | 税务专员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9851.md) |
-| 快手 | 资金专员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9861.md) |
 
 [下一页](campus-corporate-p2.md) · [总目录](../../llms.txt)

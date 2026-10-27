@@ -1,8 +1,8 @@
-# 上海 · 实习 · 设计 · 全部公司（116 个岗位）（第 1/3 页）
+# 上海 · 实习 · 设计 · 全部公司（114 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 21](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 15](../../slices/tencent/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 5](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 30](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 20](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 15](../../slices/tencent/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -37,15 +37,16 @@
 | 字节跳动 | 交互设计实习生-Flow | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7477424395557325064.md) |
 | 字节跳动 | 平面设计实习生 - 企业文化与雇主品牌 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7677501330656299269.md) |
 | 字节跳动 | 人机交互实习生-AI创新业务 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7581357832601733381.md) |
-| 字节跳动 | 人力资源实习生（设计及文案方向）-招聘中心 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7630794531600353541.md) |
 | 字节跳动 | 设计实习生 - 招聘中心 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7664911144599030021.md) |
 | 字节跳动 | 视觉设计实习生（AI漫剧方向） - 广告业务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673124783312570629.md) |
-| 字节跳动 | 视频智能编解码硬件设计实习生-音视频技术 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7594839145311340853.md) |
 | 字节跳动 | 特效创意设计（图文方向）实习生-TikTok设计 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7631474967733487877.md) |
 | 字节跳动 | 体验设计实习生 - 抖音生活服务 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7574388857912674565.md) |
 | 字节跳动 | 效果设计实习生-TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7611756099684059445.md) |
 | 字节跳动 | 游戏动画导演实习生 - ZERO36工作室 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7685954481175202101.md) |
 | 字节跳动 | 游戏UI设计（女性向游戏）实习生 - ZERO36工作室 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7686467327227349301.md) |
 | 字节跳动 | AI Agent（视觉和多模态方向）实习生-集团信息系统 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7651879359309007109.md) |
+| 字节跳动 | AI工程/设计实习生（内容设计与本地化方向）-TikTok 〔27届 · ≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7616313253196908805.md) |
+| 字节跳动 | AIGC美学设计实习生-抖音 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7543586065283156231.md) |
+| 字节跳动 | AIGC效果与创作设计实习生-效果与创作 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591392228130425093.md) |
 
 [下一页](intern-design-p2.md) · [总目录](../../llms.txt)

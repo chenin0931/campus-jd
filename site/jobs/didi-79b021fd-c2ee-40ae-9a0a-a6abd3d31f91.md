@@ -3,7 +3,7 @@
 - id: didi-79b021fd-c2ee-40ae-9a0a-a6abd3d31f91
 - 公司: 滴滴
 - job_type: 实习
-- 类别: 设计
+- 类别: 职能
 - 城市: 城市见官网
 - status: active
 - 届别 grad_year: 未注明

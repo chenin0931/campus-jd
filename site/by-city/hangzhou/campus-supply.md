@@ -1,8 +1,8 @@
-# 杭州 · 校招 · 供应链 · 全部公司（6 个岗位）
+# 杭州 · 校招 · 供应链 · 全部公司（5 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 2](../../slices/bytedance/campus/supply/hangzhou.md) · [阿里巴巴 1](../../slices/alibaba/campus/supply/hangzhou.md) · [京东 1](../../slices/jd/campus/supply/hangzhou.md) · [美团 1](../../slices/meituan/campus/supply/hangzhou.md) · [网易 1](../../slices/netease/campus/supply/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 2](../../slices/bytedance/campus/supply/hangzhou.md) · [阿里巴巴 1](../../slices/alibaba/campus/supply/hangzhou.md) · [京东 1](../../slices/jd/campus/supply/hangzhou.md) · [美团 1](../../slices/meituan/campus/supply/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -11,6 +11,5 @@
 | 字节跳动 | 计划管理（网络方向） - AI算力基础设施 〔27届〕 | 北京/杭州/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7698333979040942341.md) |
 | 京东 | 物流规划与实施 〔27届〕 | 上海/昆明/北京/长春/成都/合肥/济南/太原/广州/南宁/乌鲁木齐/南京/苏州/石家庄/郑州/杭州/海口/武汉/长沙/兰州/厦门/贵阳/沈阳/重庆/西安/哈尔滨 | 2026-10-27 | [详情](../../jobs/jd-9105.md) |
 | 美团 | 商品品质管理岗 | 合肥/福州/杭州/南京/苏州/北京/沈阳/南宁/上海/石家庄/西安/成都/长沙/重庆/东莞/济南/南昌/青岛/广州/深圳/郑州/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697286525.md) |
-| 网易 | 星火计划 2027届人力资源培训生 〔27届〕 | 杭州/上海/广州 | 2026-10-27 | [详情](../../jobs/netease-4788.md) |
 
 [总目录](../../llms.txt)

@@ -3,7 +3,7 @@
 - id: netease-4788
 - 公司: 网易（网易互联网）
 - job_type: 校招
-- 类别: 供应链
+- 类别: 职能
 - 城市: 杭州、上海、广州
 - status: active
 - 届别 grad_year: 2027届

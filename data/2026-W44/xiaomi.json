@@ -7495,7 +7495,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "人力资源（应届生培训运营）实习生",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京"
@@ -7703,7 +7703,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "产品传播-2027届",
-    "category": "产品",
+    "category": "市场",
     "job_type": "实习",
     "city": [
       "北京"
@@ -8103,7 +8103,7 @@
     "company": "小米",
     "business_unit": [],
     "title": "汽车体验营销-传播实习生",
-    "category": "其他",
+    "category": "市场",
     "job_type": "实习",
     "city": [
       "北京"
@@ -9122,22 +9122,6 @@
   {
     "company": "小米",
     "business_unit": [],
-    "title": "e2e预研实习生",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": null,
-    "requirements": "岗位职责：\n探索多模态大模型、自监督预训练、世界模型等前沿技术，并应用于自动驾驶场景。\n研究方向：\n候选人需了解并熟悉以下至少一个方向：\n视觉预训练（Visual Pretraining）：研究自监督学习、知识蒸馏、大规模数据预训练在视觉任务中的应用，熟悉相关工作如DINOv3等。\n多模态学习（VLM/VLA）\nVision-Language-Model（VLM）：研究视觉语言大模型，熟悉相关工作如 VARGPT、VPiT、Ross 等。\nVision-Language-Action（VLA）：研究视觉语言动作大模型并探索在自动驾驶场景应用，熟悉相关工作如 EMMA等。\n世界模型（World Model）\n研究基于自监督学习与强化学习结合的端到端世界模型，应用于自动驾驶场景的状态建模、状态转移预测与规划决策。\n熟悉相关工作，如 Dreamer 系列、Genie系列、JEPA系列、Cosmos 等。\n技术能力要求：\n熟悉自监督和生成模型，了解大规模预训练，有经验者优先。\n熟练掌握 PyTorch，具备模型开发与优化能力，能够提升训练效率。",
-    "deadline": null,
-    "apply_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7545389858441805932/detail",
-    "source_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7545389858441805932/detail",
-    "fetched_at": "2026-10-27T18:19:16+08:00"
-  },
-  {
-    "company": "小米",
-    "business_unit": [],
     "title": "小米汽车 - 自动驾驶- 行车（城区）产品经理 - 实习",
     "category": "产品",
     "job_type": "实习",
@@ -9693,22 +9677,6 @@
     "deadline": null,
     "apply_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7471073390707900525/detail",
     "source_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7471073390707900525/detail",
-    "fetched_at": "2026-10-27T18:19:16+08:00"
-  },
-  {
-    "company": "小米",
-    "business_unit": [],
-    "title": "e2e预研实习生",
-    "category": "其他",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": null,
-    "requirements": "岗位职责：\n探索多模态大模型、自监督预训练、世界模型等前沿技术，并应用于自动驾驶场景。\n研究方向：\n候选人需了解并熟悉以下至少一个方向：\n视觉预训练（Visual Pretraining）：研究自监督学习、知识蒸馏、大规模数据预训练在视觉任务中的应用，熟悉相关工作如DINOv2等。\n多模态学习（VLM/VLA）\nVision-Language-Model（VLM）：研究视觉语言大模型，熟悉相关工作如 VARGPT、VPiT、Ross 等。\nVision-Language-Action（VLA）：研究视觉语言动作大模型并探索在自动驾驶场景应用，熟悉相关工作如 EMMA等。\n世界模型（World Model）\n研究基于自监督学习与强化学习结合的端到端世界模型，应用于自动驾驶场景的状态建模、状态转移预测与规划决策。\n熟悉相关工作，如 Dreamer 系列、Genie2、Doe-1、JEPA、Cosmos 等。\n技术能力要求：\n熟悉自监督和生成模型，了解大规模预训练，有经验者优先。\n熟练掌握 PyTorch，具备模型开发与优化能力，能够提升训练效率。\n",
-    "deadline": null,
-    "apply_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7470779933154623597/detail",
-    "source_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7470779933154623597/detail",
     "fetched_at": "2026-10-27T18:19:16+08:00"
   },
   {

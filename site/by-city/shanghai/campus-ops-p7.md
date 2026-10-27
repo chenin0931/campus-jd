@@ -1,12 +1,11 @@
-# 上海 · 校招 · 运营 · 全部公司（328 个岗位）（第 7/8 页）
+# 上海 · 校招 · 运营 · 全部公司（327 个岗位）（第 7/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 164](../../slices/bytedance/campus/ops/shanghai.md) · [得物 78](../../slices/dewu/campus/ops/shanghai.md) · [京东 14](../../slices/jd/campus/ops/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/ops/shanghai.md) · [携程 11](../../slices/ctrip/campus/ops/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/ops/shanghai.md) · [美团 9](../../slices/meituan/campus/ops/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/ops/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/shanghai.md) · [快手 4](../../slices/kuaishou/campus/ops/shanghai.md) · [腾讯 4](../../slices/tencent/campus/ops/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ops/shanghai.md) · [网易 2](../../slices/netease/campus/ops/shanghai.md) · [百度 1](../../slices/baidu/campus/ops/shanghai.md) · [滴滴 1](../../slices/didi/campus/ops/shanghai.md) · [华为 1](../../slices/huawei/campus/ops/shanghai.md) · [小米 1](../../slices/xiaomi/campus/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 163](../../slices/bytedance/campus/ops/shanghai.md) · [得物 78](../../slices/dewu/campus/ops/shanghai.md) · [京东 14](../../slices/jd/campus/ops/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/ops/shanghai.md) · [携程 11](../../slices/ctrip/campus/ops/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/ops/shanghai.md) · [美团 9](../../slices/meituan/campus/ops/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/ops/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/shanghai.md) · [快手 4](../../slices/kuaishou/campus/ops/shanghai.md) · [腾讯 4](../../slices/tencent/campus/ops/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ops/shanghai.md) · [网易 2](../../slices/netease/campus/ops/shanghai.md) · [百度 1](../../slices/baidu/campus/ops/shanghai.md) · [滴滴 1](../../slices/didi/campus/ops/shanghai.md) · [华为 1](../../slices/huawei/campus/ops/shanghai.md) · [小米 1](../../slices/xiaomi/campus/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 得物 | 【27届校招】商品品类运营-服装 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670379931562412297.md) |
 | 得物 | 【27届校招】商品运营-奢品&箱包 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670388935374211366.md) |
 | 得物 | 【27届校招】商品运营-手表出行 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670738143544690980.md) |
 | 得物 | 【27届校招】商品运营-消电食饮虚拟业务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670547315693717811.md) |
@@ -44,5 +43,6 @@
 | 美团 | 产品运营岗 | 杭州/北京/科威特城/香港/上海/西安/利雅得/广州/哈尔滨/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4696454382.md) |
 | 美团 | 城市运营管理储备岗 | 温州/苏州/北京/烟台/绍兴/沈阳/南宁/上海/兰州/成都/昆明/贵阳/珠海/长沙/银川/重庆/济南/洛阳/南昌/郑州/佛山/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697288183.md) |
 | 美团 | 大模型业务运营岗 | 北京/南通/上海 | 2026-10-27 | [详情](../../jobs/meituan-4694790192.md) |
+| 美团 | 门店管理储备岗 | 杭州/宁波/无锡/北京/苏州/天津/上海/石家庄/成都/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/南宁/西安/太原/长沙/重庆/东莞/中山/南昌/江门/郑州/佛山 | 2026-10-27 | [详情](../../jobs/meituan-4697361084.md) |
 
 [上一页](campus-ops-p6.md) · [下一页](campus-ops-p8.md) · [总目录](../../llms.txt)

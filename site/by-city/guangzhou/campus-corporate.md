@@ -1,8 +1,8 @@
-# 广州 · 校招 · 职能 · 全部公司（14 个岗位）
+# 广州 · 校招 · 职能 · 全部公司（15 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[京东 6](../../slices/jd/campus/corporate/guangzhou.md) · [腾讯 5](../../slices/tencent/campus/corporate/guangzhou.md) · [字节跳动 1](../../slices/bytedance/campus/corporate/guangzhou.md) · [美团 1](../../slices/meituan/campus/corporate/guangzhou.md) · [网易 1](../../slices/netease/campus/corporate/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 6](../../slices/jd/campus/corporate/guangzhou.md) · [腾讯 5](../../slices/tencent/campus/corporate/guangzhou.md) · [网易 2](../../slices/netease/campus/corporate/guangzhou.md) · [字节跳动 1](../../slices/bytedance/campus/corporate/guangzhou.md) · [美团 1](../../slices/meituan/campus/corporate/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | 京东 | 招标采购 〔27届〕 | 上海/北京/成都/广州/深圳/苏州/武汉/英国-伦敦/西安 | 2026-10-27 | [详情](../../jobs/jd-9057.md) |
 | 美团 | 法务岗(诉讼方向) | 北京/重庆/上海/广州/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697314746.md) |
 | 网易 | 采购管培生 | 杭州/广州 | 2026-10-27 | [详情](../../jobs/netease-4766.md) |
+| 网易 | 星火计划 2027届人力资源培训生 〔27届〕 | 杭州/上海/广州 | 2026-10-27 | [详情](../../jobs/netease-4788.md) |
 | 腾讯 | 财经线培训生-专业类 | 深圳/广州/香港 | 2026-10-27 | [详情](../../jobs/tencent-1284632498743321600.md) |
 | 腾讯 | 秘书 | 深圳/北京/上海/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1283045530146251776.md) |
 | 腾讯 | AI-HR培训生（创意方向） | 深圳/广州 | 2026-10-27 | [详情](../../jobs/tencent-1286682460696231936.md) |

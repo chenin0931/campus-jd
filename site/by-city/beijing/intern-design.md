@@ -1,8 +1,8 @@
-# 北京 · 实习 · 设计 · 全部公司（93 个岗位）（第 1/2 页）
+# 北京 · 实习 · 设计 · 全部公司（94 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 34](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 35](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@
 | 字节跳动 | 视觉设计实习生（AI漫剧方向） - 广告业务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673124783312570629.md) |
 | 字节跳动 | 视频后期设计实习生-广告 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7353140455461325082.md) |
 | 字节跳动 | 室内设计实习生 - Corporate Services（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7668297647706343685.md) [2](../../jobs/bytedance-7677499638644001077.md) |
+| 字节跳动 | 数据技术（GUI Agent方向）实习生 - AI数据与安全 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7649303455514085637.md) |
 | 字节跳动 | 体验设计实习生 - Seed | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677926264666163461.md) |
 | 字节跳动 | 用户体验分析实习生-抖音生活服务 〔27届 · ≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7593211387334691125.md) |
 | 字节跳动 | AI工程/设计（内容设计与本地化方向）实习生-TikTok 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7616313875478628661.md) |
 | 字节跳动 | AI平台设计实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7532416564194199826.md) |
 | 字节跳动 | AI视觉实习生-中国公共关系 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7633657098219817269.md) |
 | 字节跳动 | AIGC美学设计实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7543585756112406792.md) |
-| 字节跳动 | Seedance 2.5资产美术实习生-火山方舟 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7654142191791409461.md) |
 
 [下一页](intern-design-p2.md) · [总目录](../../llms.txt)

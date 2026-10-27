@@ -1,15 +1,11 @@
-# 北京 · 实习 · 运营 · 全部公司（726 个岗位）（第 13/17 页）
+# 北京 · 实习 · 运营 · 全部公司（719 个岗位）（第 13/17 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 322](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 72](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [京东 20](../../slices/jd/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [腾讯 11](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 318](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 71](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 36](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [京东 20](../../slices/jd/intern/ops/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/ops/beijing.md) · [腾讯 11](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 滴滴 | IBG Food—产品与用户运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-fd883a33-7111-4049-b10b-d85334b3a27a.md) |
-| 滴滴 | PMO-项目运营实习生（3个团队） ⚠️链接待核 | 北京 | 2026-10-27 | [1](../../jobs/didi-820f2f59-fd82-4041-bc56-76f13cf26e41.md) [2](../../jobs/didi-ffd26d6f-b629-4a92-b3a3-b6f2c4293cf8.md) [3](../../jobs/didi-a178aa03-c1df-4a6b-8226-5e3a3f81538b.md) |
-| 京东 | 财务运营 〔26届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-5859.md) |
-| 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉/长沙/贵阳/沈阳/重庆/西安 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳 | 2026-10-27 | [详情](../../jobs/jd-4914.md) |
 | 京东 | 店长储备 〔26/27届〕 | 上海/昆明/北京/天津/合肥/宿州/淮南/蚌埠/青岛/广州/深圳/南通/宿迁/扬州/保定/廊坊/郑州/杭州/厦门/沈阳/重庆 | 2026-10-27 | [详情](../../jobs/jd-6371.md) |
 | 京东 | 供应链运营 〔27届〕 | 北京/深圳/苏州 | 2026-10-27 | [详情](../../jobs/jd-9149.md) |
@@ -58,5 +54,10 @@
 | 美团 | 【2027】Keeta-广告商家运营实习生 〔27/28届 · ≥5个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4695192297.md) |
 | 美团 | 【2027】Keeta-效果投放运营实习生（用户运营） 〔27/28届 · 每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4695305856.md) |
 | 美团 | 办公AI产品运营 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4840943163.md) |
+| 美团 | 餐饮行业策略运营（实习） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3094471749.md) |
+| 美团 | 策略运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4815400264.md) |
+| 美团 | 产品运营实习生（2个团队） 〔≥4个月〕 | 北京 | 2026-10-27 | [1](../../jobs/meituan-4402739791.md) [2](../../jobs/meituan-4037409740.md) |
+| 美团 | 大模型开发者生态运营实习生 〔每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4839799002.md) |
+| 美团 | 大模型内容活动运营实习生 〔每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4839817088.md) |
 
 [上一页](intern-ops-p12.md) · [下一页](intern-ops-p14.md) · [总目录](../../llms.txt)

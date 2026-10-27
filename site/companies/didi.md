@@ -12,11 +12,11 @@
 - 实习·产品（90）：[北京 59](../slices/didi/intern/product/beijing.md) · [其他城市 20](../slices/didi/intern/product/other.md) · [上海 6](../slices/didi/intern/product/shanghai.md) · [深圳 3](../slices/didi/intern/product/shenzhen.md) · 另 1 城（2 个）见 index.json slices
 - 实习·运营（189）：[北京 106](../slices/didi/intern/ops/beijing.md) · [其他城市 28](../slices/didi/intern/ops/other.md) · [杭州 18](../slices/didi/intern/ops/hangzhou.md) · [上海 13](../slices/didi/intern/ops/shanghai.md) · 另 13 城（25 个）见 index.json slices
 - 实习·商务（7）：[北京 5](../slices/didi/intern/business/beijing.md) · [上海 1](../slices/didi/intern/business/shanghai.md) · [其他城市 1](../slices/didi/intern/business/other.md)
-- 实习·市场（26）：[北京 15](../slices/didi/intern/marketing/beijing.md) · [其他城市 3](../slices/didi/intern/marketing/other.md) · [杭州 3](../slices/didi/intern/marketing/hangzhou.md) · [成都 1](../slices/didi/intern/marketing/chengdu.md) · 另 4 城（4 个）见 index.json slices
-- 实习·设计（20）：[北京 15](../slices/didi/intern/design/beijing.md) · [其他城市 4](../slices/didi/intern/design/other.md) · [上海 1](../slices/didi/intern/design/shanghai.md)
-- 实习·职能（58）：[北京 36](../slices/didi/intern/corporate/beijing.md) · [上海 12](../slices/didi/intern/corporate/shanghai.md) · [其他城市 6](../slices/didi/intern/corporate/other.md) · [杭州 2](../slices/didi/intern/corporate/hangzhou.md) · 另 1 城（2 个）见 index.json slices
+- 实习·市场（28）：[北京 16](../slices/didi/intern/marketing/beijing.md) · [其他城市 4](../slices/didi/intern/marketing/other.md) · [杭州 3](../slices/didi/intern/marketing/hangzhou.md) · [成都 1](../slices/didi/intern/marketing/chengdu.md) · 另 4 城（4 个）见 index.json slices
+- 实习·设计（19）：[北京 15](../slices/didi/intern/design/beijing.md) · [其他城市 3](../slices/didi/intern/design/other.md) · [上海 1](../slices/didi/intern/design/shanghai.md)
+- 实习·职能（59）：[北京 36](../slices/didi/intern/corporate/beijing.md) · [上海 12](../slices/didi/intern/corporate/shanghai.md) · [其他城市 7](../slices/didi/intern/corporate/other.md) · [杭州 2](../slices/didi/intern/corporate/hangzhou.md) · 另 1 城（2 个）见 index.json slices
 - 实习·项目管理（3）：[北京 2](../slices/didi/intern/pm/beijing.md) · [其他城市 1](../slices/didi/intern/pm/other.md)
 - 实习·分析（52）：[其他城市 23](../slices/didi/intern/analysis/other.md) · [北京 19](../slices/didi/intern/analysis/beijing.md) · [上海 9](../slices/didi/intern/analysis/shanghai.md) · [杭州 1](../slices/didi/intern/analysis/hangzhou.md)
-- 实习·其他（10）：[北京 7](../slices/didi/intern/other/beijing.md) · [其他城市 3](../slices/didi/intern/other/other.md)
+- 实习·其他（8）：[北京 6](../slices/didi/intern/other/beijing.md) · [其他城市 2](../slices/didi/intern/other/other.md)
 
 [总目录](../llms.txt)

@@ -1,12 +1,11 @@
-# 广州 · 校招 · 其他 · 全部公司（17 个岗位）
+# 广州 · 校招 · 其他 · 全部公司（16 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 6](../../slices/alibaba/campus/other/guangzhou.md) · [网易 6](../../slices/netease/campus/other/guangzhou.md) · [京东 2](../../slices/jd/campus/other/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/guangzhou.md) · [美团 1](../../slices/meituan/campus/other/guangzhou.md) · [腾讯 1](../../slices/tencent/campus/other/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 6](../../slices/netease/campus/other/guangzhou.md) · [阿里巴巴 5](../../slices/alibaba/campus/other/guangzhou.md) · [京东 2](../../slices/jd/campus/other/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/guangzhou.md) · [美团 1](../../slices/meituan/campus/other/guangzhou.md) · [腾讯 1](../../slices/tencent/campus/other/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 阿里巴巴 | 游戏2D动作 | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907800018.md) |
 | 阿里巴巴 | 游戏3D场景 | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680020.md) |
 | 阿里巴巴 | 游戏3D角色 | 北京/广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680021.md) |
 | 阿里巴巴 | 游戏动效 | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680022.md) |

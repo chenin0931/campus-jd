@@ -1,8 +1,8 @@
-# 北京 · 实习 · 职能 · 全部公司（248 个岗位）（第 1/5 页）
+# 北京 · 实习 · 职能 · 全部公司（256 个岗位）（第 1/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 86](../../slices/bytedance/intern/corporate/beijing.md) · [小米 50](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 14](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [网易 7](../../slices/netease/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 51](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -11,6 +11,7 @@
 | 百度 | 昆仑芯-HR招聘实习生(J12063) 〔26/27届 · ≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-c4995a4a-d3f6-45e6-b1c0-e0b1bf0da3a0.md) |
 | 百度 | 人力资源实习生(偏招聘)(J14275) 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-b7f37bb6-b21c-4856-b794-a4369f81b3dc.md) |
 | 百度 | 文库业务部_HR实习生(J14181) 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-c2b9bcef-2aa2-417c-9147-ccb8b45bbcef.md) |
+| 百度 | 智能交通业务拓展部_HR实习生(J14430)（2个团队） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/baidu-ded0f45a-9894-47be-b48f-397743c39f2f.md) [2](../../jobs/baidu-659a25ef-9cd9-4661-a001-3aaf5e5bf87a.md) |
 | 百度 | 自动驾驶_百度HR实习生(J11171) 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-f8f684ed-98fb-4c8a-908a-67e4c7937152.md) |
 | 百度 | 组织文化实习生（J84598） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-6663f6d9-4572-4678-8b15-5bcdc12e5791.md) |
 | 百度 | ACG人力资源部_HR 实习生（招聘方向）(J17407) 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-4eca6da2-5543-4b78-87ac-906b8930410c.md) |
@@ -33,18 +34,16 @@
 | 字节跳动 | 风控大模型应用实习生-内容质量与数据服务平台 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7532786774008711442.md) |
 | 字节跳动 | 服务器部件采购实习生 - AI算力基础设施 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7673413155523791157.md) |
 | 字节跳动 | 雇主品牌（大模型技术品牌方向）实习生-雇主品牌 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7470829679764850952.md) |
-| 字节跳动 | 雇主品牌传播实习生 - 企业文化与雇主品牌 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7482686951993461010.md) |
 | 字节跳动 | 海外招聘实习生 - Data 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7681212120959011077.md) |
 | 字节跳动 | 合规策略实习生-国际支付 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7606622357954054405.md) |
 | 字节跳动 | 境外资金账户实习生 - 财资管理 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7246268133824153911.md) |
 | 字节跳动 | 内控实习生-内控 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7374349710570899749.md) |
 | 字节跳动 | 企业文化实习生 - 人力与管理部 〔27届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668689417494661429.md) |
+| 字节跳动 | 全球招聘运营实习生-国际化 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7612886173838903557.md) |
 | 字节跳动 | 数据合规实习生-国际支付 〔27届 · ≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7618913577961949493.md) |
 | 字节跳动 | 税务实习生（2个团队） 〔≥3个月〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7602857431329949957.md) [2](../../jobs/bytedance-7204754503631030588.md) |
 | 字节跳动 | 校招实习生 - 招聘中心 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7468575644801108232.md) |
 | 字节跳动 | 信贷风控策略实习生-国际支付（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7610685224804534581.md) [2](../../jobs/bytedance-7621417111399942405.md) |
-| 字节跳动 | 招聘实习生 - 抖音 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7449280762492422408.md) |
-| 字节跳动 | 招聘实习生 - 集团职能 〔≥3个月，每周≥4天〕 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7449224456953022727.md) |
-| 字节跳动 | 招聘实习生 - 人力与管理部 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7680402136745380101.md) |
+| 字节跳动 | 招聘策略与运营实习生-Data（2个团队） 〔27届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7595862777341200693.md) [2](../../jobs/bytedance-7654560740512581893.md) |
 
 [下一页](intern-corporate-p2.md) · [总目录](../../llms.txt)

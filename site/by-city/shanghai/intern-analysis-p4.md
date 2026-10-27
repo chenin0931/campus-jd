@@ -1,8 +1,8 @@
-# 上海 · 实习 · 分析 · 全部公司（167 个岗位）（第 4/4 页）
+# 上海 · 实习 · 分析 · 全部公司（165 个岗位）（第 4/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 115](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/analysis/shanghai.md) · [网易 4](../../slices/netease/intern/analysis/shanghai.md) · [腾讯 4](../../slices/tencent/intern/analysis/shanghai.md) · [美团 3](../../slices/meituan/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 114](../../slices/bytedance/intern/analysis/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/analysis/shanghai.md) · [滴滴 9](../../slices/didi/intern/analysis/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/analysis/shanghai.md) · [米哈游 6](../../slices/mihoyo/intern/analysis/shanghai.md) · [腾讯 4](../../slices/tencent/intern/analysis/shanghai.md) · [美团 3](../../slices/meituan/intern/analysis/shanghai.md) · [网易 3](../../slices/netease/intern/analysis/shanghai.md) · [携程 2](../../slices/ctrip/intern/analysis/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/analysis/shanghai.md) · [百度 1](../../slices/baidu/intern/analysis/shanghai.md) · [京东 1](../../slices/jd/intern/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -22,7 +22,6 @@
 | 网易 | 游戏测评实习生（行业研究） 〔26/27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79474.md) |
 | 网易 | 游戏用户研究实习生-哈利波特 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79376.md) |
 | 网易 | 游戏用户研究实习生（暗黑破坏神-不朽） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78969.md) |
-| 网易 | HRSSC实习生（数据组） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-28520.md) |
 | 腾讯 | 商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067393358393344.md) |
 | 腾讯 | 游戏用户研究 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1227032116983141376.md) |
 | 腾讯 | 战略商业分析师 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875890517316608.md) |

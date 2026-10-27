@@ -1,11 +1,15 @@
-# 北京 · 实习 · 职能 · 全部公司（248 个岗位）（第 3/5 页）
+# 北京 · 实习 · 职能 · 全部公司（256 个岗位）（第 3/6 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 86](../../slices/bytedance/intern/corporate/beijing.md) · [小米 50](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 14](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [网易 7](../../slices/netease/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 51](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [腾讯 4](../../slices/tencent/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | HR招聘实习生 - 电商招聘 〔≥3个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7569165693499459845.md) |
+| 字节跳动 | HR招聘实习生-TikTok Shop 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7579916996930881845.md) |
+| 字节跳动 | HRBP实习生 - 产品研发 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7662966442812492085.md) |
+| 字节跳动 | HRBP实习生 - 抖音电商 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7532430732674189576.md) |
 | 字节跳动 | HRBP实习生 - GBS 〔≥6个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680136979726092549.md) |
 | 字节跳动 | HRBP实习生-集团职能 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7449645731570632978.md) |
 | 字节跳动 | HRBP实习生-人力与管理部 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7322408065076316454.md) |
@@ -42,12 +46,5 @@
 | 滴滴 | 总能企技HR-HRBP实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-7db6a753-9cb4-4da1-94fd-05aedc947893.md) |
 | 滴滴 | 总能企技HR-HRBP实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-f4354b27-b547-4959-be60-edef51f7e927.md) |
 | 滴滴 | MPT-HRBP实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-5a6b9c47-6db6-4ff5-9a57-d1e33350fc6f.md) |
-| 京东 | 财务结算 〔26届〕 | 上海/北京/济南/广州/宿迁/郑州 | 2026-10-27 | [详情](../../jobs/jd-5853.md) |
-| 京东 | 法务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-4968.md) |
-| 京东 | 法务支持 〔26/27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9183.md) |
-| 京东 | 风控 〔27届〕 | 北京/天津/深圳/宿迁 | 2026-10-27 | [详情](../../jobs/jd-4972.md) |
-| 京东 | 合规 〔27届〕 | 北京/天津 | 2026-10-27 | [详情](../../jobs/jd-4970.md) |
-| 京东 | 会计 〔27届〕 | 北京/南京 | 2026-10-27 | [详情](../../jobs/jd-4976.md) |
-| 京东 | 金融风控 〔27届〕 | 北京/天津/青岛 | 2026-10-27 | [详情](../../jobs/jd-5895.md) |
 
 [上一页](intern-corporate-p2.md) · [下一页](intern-corporate-p4.md) · [总目录](../../llms.txt)

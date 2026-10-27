@@ -1,17 +1,14 @@
-# 北京 · 实习 · 其他 · 全部公司（157 个岗位）（第 3/4 页）
+# 北京 · 实习 · 其他 · 全部公司（147 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 57](../../slices/bytedance/intern/other/beijing.md) · [网易 24](../../slices/netease/intern/other/beijing.md) · [小米 22](../../slices/xiaomi/intern/other/beijing.md) · [百度 19](../../slices/baidu/intern/other/beijing.md) · [腾讯 10](../../slices/tencent/intern/other/beijing.md) · [滴滴 7](../../slices/didi/intern/other/beijing.md) · [美团 5](../../slices/meituan/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [京东 3](../../slices/jd/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 57](../../slices/bytedance/intern/other/beijing.md) · [网易 20](../../slices/netease/intern/other/beijing.md) · [百度 19](../../slices/baidu/intern/other/beijing.md) · [小米 19](../../slices/xiaomi/intern/other/beijing.md) · [腾讯 9](../../slices/tencent/intern/other/beijing.md) · [滴滴 6](../../slices/didi/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [美团 4](../../slices/meituan/intern/other/beijing.md) · [京东 3](../../slices/jd/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 京东 | 医务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-6746.md) |
-| 快手 | 【留用实习】海外应用商店优化 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11400.md) |
 | 快手 | 【留用实习】平台治理专员 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11477.md) |
 | 美团 | 【无人车北斗实习】3D高斯模型实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4501188515.md) |
 | 美团 | 【无人车北斗实习】端到端模型实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4500420647.md) |
-| 美团 | 【无人车北斗实习】前馈式3D重建实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4501193441.md) |
 | 美团 | 无人车业务部-模型部署优化实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4104268126.md) |
 | 美团 | Keemart-Logistics Product（运输方向） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4680953116.md) |
 | 米哈游 | LLM Pretrain Data实习生 〔28/29届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/mihoyo-8458.md) |
@@ -20,19 +17,14 @@
 | 网易 | 韩语业务实习生 〔26/27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78875.md) |
 | 网易 | 曲库版权实习生 〔26/27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-72443.md) |
 | 网易 | 曲库版权实习生（网易云音乐） 〔27/28届〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-74064.md) |
-| 网易 | 摄影及后期制作 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76644.md) |
-| 网易 | 视频后期制作 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78085.md) |
-| 网易 | 视频后期制作实习生 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78908.md) |
 | 网易 | 视频拍剪实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-79433.md) [2](../../jobs/netease-78541.md) |
 | 网易 | 视频摄像剪辑实习生（2个团队） 〔≥3个月〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-79148.md) [2](../../jobs/netease-73577.md) |
 | 网易 | 网易曲库版权实习生（北京） 〔26/27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78282.md) |
 | 网易 | 新闻资讯剪辑实习生 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77957.md) |
 | 网易 | 硬核看板实习生（5个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-79428.md) [2](../../jobs/netease-79356.md) [3](../../jobs/netease-79224.md) [4](../../jobs/netease-78150.md) [5](../../jobs/netease-77288.md) |
-| 网易 | 娱乐-视频后期制作实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79245.md) |
 | 网易 | AI导演实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-78980.md) [2](../../jobs/netease-78620.md) |
 | 网易 | AI视频创作实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-72178.md) |
 | 网易 | AIGC实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77424.md) |
-| 腾讯 | 端到端AI视频图像编解码 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944750.md) |
 | 腾讯 | 法律/行业/产业研究 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1226957123230246912.md) |
 | 腾讯 | 腾讯云—腾讯云下一代虚拟化预研项目 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139116.md) |
 | 腾讯 | 微信-下一代图文理解生成统一模型 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139015.md) |
@@ -55,5 +47,13 @@
 | 小米 | 分布式计算实习生-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7655518737009182985.md) |
 | 小米 | 互联网账务实习生-2027届 〔27届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7698188547816032531.md) |
 | 小米 | 集团高招实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7621468340221315347.md) [2](../../jobs/xiaomi-7442231758018560108.md) |
+| 小米 | 集团高招实习生-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7660413095655606579.md) |
+| 小米 | 日本小米网实习生 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7616320881782098203.md) |
+| 小米 | 社交媒体专员 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7686792660917537078.md) |
+| 小米 | 试验室实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7677846393621154054.md) |
+| 小米 | 网络发展实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7425924052760133741.md) |
+| 小米 | 信用风险管理组实习生-2027届 〔27届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7660791605549418798.md) |
+| 小米 | COE实习生-2027届 〔27届 · ≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7685687737094424895.md) |
+| 小米 | ESG报告实习生 〔≥11个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7700951912799815990.md) |
 
 [上一页](intern-other-p2.md) · [下一页](intern-other-p4.md) · [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 其他城市 · 实习 · 职能 · 全部公司（20 个岗位）
+# 其他城市 · 实习 · 职能 · 全部公司（21 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[小米 9](../../slices/xiaomi/intern/corporate/other.md) · [滴滴 6](../../slices/didi/intern/corporate/other.md) · [京东 3](../../slices/jd/intern/corporate/other.md) · [哔哩哔哩 1](../../slices/bilibili/intern/corporate/other.md) · [腾讯 1](../../slices/tencent/intern/corporate/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小米 9](../../slices/xiaomi/intern/corporate/other.md) · [滴滴 7](../../slices/didi/intern/corporate/other.md) · [京东 3](../../slices/jd/intern/corporate/other.md) · [哔哩哔哩 1](../../slices/bilibili/intern/corporate/other.md) · [腾讯 1](../../slices/tencent/intern/corporate/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | 滴滴 | 人力资源-招聘实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-133ef6e7-0c5e-4070-bb5f-a5f23845eb4b.md) |
 | 滴滴 | 人力资源部-招聘实习生（2） ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-5938a23d-8ac0-4d89-95d7-13b9df922951.md) |
 | 滴滴 | 人力资源部-HR实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-7d48354a-68ec-4bc0-a24c-33a7268e4991.md) |
+| 滴滴 | 人力资源部（1）设计实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-79b021fd-c2ee-40ae-9a0a-a6abd3d31f91.md) |
 | 滴滴 | 总部招聘-招聘实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-91d85646-863a-4e1c-8cfc-f66a7503686e.md) |
 | 滴滴 | IBG HR-招聘实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-2d512e93-5f4b-4b41-ae5b-3d38a5a41fc3.md) |
 | 滴滴 | RRH HR-招聘实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-4e71db57-6521-4ad0-bdce-77b0c269cdca.md) |

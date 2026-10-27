@@ -1,12 +1,11 @@
-# 上海 · 校招 · 运营 · 全部公司（328 个岗位）（第 5/8 页）
+# 上海 · 校招 · 运营 · 全部公司（327 个岗位）（第 5/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 164](../../slices/bytedance/campus/ops/shanghai.md) · [得物 78](../../slices/dewu/campus/ops/shanghai.md) · [京东 14](../../slices/jd/campus/ops/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/ops/shanghai.md) · [携程 11](../../slices/ctrip/campus/ops/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/ops/shanghai.md) · [美团 9](../../slices/meituan/campus/ops/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/ops/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/shanghai.md) · [快手 4](../../slices/kuaishou/campus/ops/shanghai.md) · [腾讯 4](../../slices/tencent/campus/ops/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ops/shanghai.md) · [网易 2](../../slices/netease/campus/ops/shanghai.md) · [百度 1](../../slices/baidu/campus/ops/shanghai.md) · [滴滴 1](../../slices/didi/campus/ops/shanghai.md) · [华为 1](../../slices/huawei/campus/ops/shanghai.md) · [小米 1](../../slices/xiaomi/campus/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 163](../../slices/bytedance/campus/ops/shanghai.md) · [得物 78](../../slices/dewu/campus/ops/shanghai.md) · [京东 14](../../slices/jd/campus/ops/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/ops/shanghai.md) · [携程 11](../../slices/ctrip/campus/ops/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/ops/shanghai.md) · [美团 9](../../slices/meituan/campus/ops/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/ops/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/shanghai.md) · [快手 4](../../slices/kuaishou/campus/ops/shanghai.md) · [腾讯 4](../../slices/tencent/campus/ops/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ops/shanghai.md) · [网易 2](../../slices/netease/campus/ops/shanghai.md) · [百度 1](../../slices/baidu/campus/ops/shanghai.md) · [滴滴 1](../../slices/didi/campus/ops/shanghai.md) · [华为 1](../../slices/huawei/campus/ops/shanghai.md) · [小米 1](../../slices/xiaomi/campus/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | AI数据策略运营 - TikTok 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7681524646545623349.md) |
 | 字节跳动 | AI数据运营（模型运营方向） - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670577844986087685.md) |
 | 字节跳动 | AI数据运营（生态方向） - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670571088346433845.md) |
 | 字节跳动 | AI数据运营（生态专项方向） - TikTok 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670571644012349749.md) |
@@ -48,5 +47,6 @@
 | 得物 | 【27届校招】供应链运输运营岗（中台调度） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670421894130551086.md) |
 | 得物 | 【27届校招】供应链运输运营岗（中台管理） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670419506442979626.md) |
 | 得物 | 【27届校招】供应链运输运营岗（中台实施） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670419462576179519.md) |
+| 得物 | 【27届校招】广告策略运营 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670387960018553107.md) |
 
 [上一页](campus-ops-p4.md) · [下一页](campus-ops-p6.md) · [总目录](../../llms.txt)

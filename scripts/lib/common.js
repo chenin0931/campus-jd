@@ -19,17 +19,20 @@ const TECH_MODEL = /模型训练|训练\/推理|能力构建|大模型能力|模
 const ROLE = /实习|工程师|经理|专员|主管|研究员|分析师|架构师|策划|运营|产品|设计|开发|研发|算法|测试|顾问|管培|培训生|助理|岗|师|Engineer|Manager|Intern|Specialist|Associate|Analyst|Designer|Artist|Lead/i;
 // 只对「其他」兜底生效的技术课题词（不影响产品/运营等已归类岗位，如「多模态AI产品经理」）
 const TECH_OTHER = /训练|预测模型|模型实验|时序|推理|模型(压缩|优化|建模)|性能优化|异构|高性能|架构|Infra|攻防|(网络|信息|系统|数据|AI|模型|云|终端|应用)安全|NLP|自然语言|深度学习|强化学习|(^|[^A-Za-z])RL([^A-Za-z]|$)|多模态|世界模型|World Model|表征|生成(基础)?模型|大数据|Data Engineering|Android|iOS|(推理|训练|AI|算法|软件|系统|数据|平台|模型|Infra)工程|软硬件|系统软件|FDE|机器学习|训推|模型系统|计算语言学|内核|编译|算子|GPU|检索系统|对抗|蓝军|威胁情报|可信计算|安全工具|安全研究|基础设施|灵巧手|硬件|VLA|自动驾驶|基模|智能体|Agent|大模型|RSI|递归|AI4SE|评测|Vibe|技术(?!文档|传播)/i;
+// 硬件/芯片/数据系统/预研/编解码/3D 资产生成类技术岗（岗位段）：岗位段含 产品/销售/采购/职能/市场/运营/商务 等业务词时不触发（「硬件产品经理」「硬件销售」「硬件采购」保留）
+const HW_TECH = /硬件|数据系统|预研|编解码|几何资产|3D生成|三维生成|3D重建|RTL|FPGA|IC设计|数字前端|数字后端|模拟电路|电路设计|PCB/i;
+const HW_BIZ = /资产管理|IT支持|交互|体验|战略|投资|产品|销售|采购|职能|市场|营销|运营|商务|BD|渠道|供应链|项目|招聘|HR|品牌|传播|策划|Sales|Product|Marketing/i;
 const AI = /AI|大模型|Agent|AIGC|智能|智算/i;
 const RULES = [
   // 供应链：在运营/产品之后、商务之前；采购已在前面归职能；「计划」只认业务计划，排除 人才/星/实习/招聘/培养 计划
   ['供应链', /品质|(?<!内容|模型|数据)质量|供应链|物流|仓储|备件|供应管理|质控|质检|(?<!人才|专项|星|实习|招聘|培养|管培|校招|北斗|启航|领航|英才)计划(?!精英|生)/],
   // 模型评测/标注岗归 AI产品（先于审计等职能词）
-  ['AI产品', /评测|标注|\bEval\w*/i],
+  ['AI产品', /评测|标注|语料|\bEval\w*/i],
   ['商务', /\bPartnerships?\b|商务|(^|[^A-Za-z])BD([^A-Za-z]|$)|商业化|渠道|合作|招商|拓展|采销|采购|投资|投融资|战略|Business Development/i],
   ['职能', /招聘|雇主品牌/],
   ['市场', /市场|营销|品牌|公关|(^|[^A-Za-z])PR([^A-Za-z]|$)|广告|媒介|增长|Marketing|公共事务|政府事务|政府关系|技术传播|SEO|视频剪辑|视频创意|视频制作|创意制作|新媒体|校园大使|\b(Growth|Community|Content)\b/i],
   ['销售', /销售|客户经理|大客户|售前|售后|客户成功|顾问|规划师|直营管理|新零售|解决方案|\b(Sales|Accounts?|Retail)\b|(^|[^A-Za-z])KA([^A-Za-z]|$)/i],
-  ['设计', /\b(Design|Designer|Artist)s?\b|设计|视觉|交互|(^|[^A-Za-z])(UI|UX)([^A-Za-z]|$)|美术|原画|分镜|动画|插画|模型师|特效|灯光|用户体验/i],
+  ['设计', /\b(Design|Designer|Artist)s?\b|设计|视觉|交互|(^|[^A-Za-z])(UI|UX)([^A-Za-z]|$)|美术|原画|分镜|GUI|[23]D动作|动作(设计|美术|师)|动画|插画|模型师|特效|灯光|用户体验/i],
   ['职能', /(^|[^A-Za-z])HR(BP)?([^A-Za-z]|$)|人力|招聘|财务|会计|审计|税务|法务|律师|合规|风控|行政|秘书|助理|内控|IT支持|财经|资金|理赔|薪酬|组织发展|造价|会务|接待|保密|金融|融租|资管|资产|成本管理|企业文化|组织文化|人才发展|HRIS|企业流程|对外事务|\b(Recruit\w*|Finance|Legal)\b/i],
   ['项目管理', /项目|建设服务|装饰装修|(^|[^A-Za-z])PMO?([^A-Za-z]|$)/i],
   ['分析', /分析|数据|洞察|用户研究|商分|策略|咨询|数据科学|政策研究|行业研究|收益管理|Analy|Data Scien/i],
@@ -60,8 +63,11 @@ function classify(title) {
   // 任一段以「研究」结尾或含「研究与应用」的课题式标题是科研岗；用户/产业/行业/市场研究除外
   const mfg = !pa && (MFG.test(title) || AUTO_TECH.test(title));
   const topic = segs.some(x => /研究$|研究与应用|研究实习/.test(x) && !/(用户|产业|行业|市场|数字生态|评测|政策)研究/.test(x));
-  const tm = TECH_MODEL.test(h) && !/产品|运营|设计|评测|标注|战略|商务|市场|销售|BD/.test(h);
-  if (any || mfg || topic || tm || EXCLUDE.test(t)) { if (process.env.DUMP_EXCLUDED) fs.appendFileSync(process.env.DUMP_EXCLUDED, title + '\n'); return null; }  // DUMP_EXCLUDED=文件：调试用
+  const tm = TECH_MODEL.test(h) && !/产品|运营|设计|评测|标注|语料|战略|商务|市场|销售|BD/.test(h);
+  const hw = HW_TECH.test(h) && !HW_BIZ.test(h);
+  if (any || mfg || topic || tm || hw || EXCLUDE.test(t)) { if (process.env.DUMP_EXCLUDED) fs.appendFileSync(process.env.DUMP_EXCLUDED, title + '\n'); return null; }  // DUMP_EXCLUDED=文件：调试用
+  // 招聘/HR/Talent Acquisition 归职能，先于运营（「校招运营HR实习生」）；岗位段含 产品 时不触发
+  if (/(^|[^A-Za-z])HR(BP|IS|SSC)?([^A-Za-z]|$)|Talent Acquisition|招聘|人力资源/i.test(h) && !/产品/.test(h)) return '职能';
   if (/运营|Operation|\bOps\b|\bCategory\b|客服|城市经营|\bCSM\b|Customer Success/i.test(h)) return '运营';
   if (h.includes('采购') && !h.includes('产品经理')) return '职能';
   if (/项目经理|项目管理/.test(h)) return '项目管理';  // 显式「项目经理」先于产品；单独「项目」在产品/运营之后（RULES）
@@ -78,6 +84,9 @@ function classify(title) {
   if (/(^|[^A-Za-z])PM([^A-Za-z]|$)/.test(h) && !/项目|PMO/.test(h)) return AI.test(h) ? 'AI产品' : '产品';
   if (/产品营销|产品市场|\bGTM\b/i.test(h) || /^(市场|营销)/.test(h)) return '市场';  // 岗位名以市场/营销开头时不被括号里的渠道等词带去商务  // 产品营销/GTM 是市场岗
   if (title.includes('产品专家')) { const tail = segs.slice(segs.indexOf(h) + 1); if (/城市|门店|零售/.test(title) || tail.some(x => LOC.test(x) && !NOTLOC.test(x) && !ROLE.test(x))) return '销售'; }
+  // 传播/后期制作 归市场，先于产品（「产品传播」「视频后期制作」）
+  if (/传播|后期制作/.test(h)) return '市场';
+  if (/语料/.test(h)) return 'AI产品';  // 大模型语料岗与评测/标注同口径
   if (h.includes('产品') || (/\bProducts?\b/i.test(h) && !/\bDesigner\b/i.test(h))) return AI.test(h) ? 'AI产品' : '产品';  // 英文：AI Product→AI产品，Product Manager→产品
   for (const [c, re] of RULES) if (re.test(h)) return c;
   // 兜底：落到「其他」的标题若含技术课题词（模型训练/推理/架构/安全/多模态/智能体等），按技术岗排除

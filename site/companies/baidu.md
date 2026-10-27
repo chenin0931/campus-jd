@@ -19,11 +19,11 @@
 - 实习·AI产品（43）：[北京 35](../slices/baidu/intern/ai-product/beijing.md) · [深圳 6](../slices/baidu/intern/ai-product/shenzhen.md) · [上海 2](../slices/baidu/intern/ai-product/shanghai.md) · [大连 1](../slices/baidu/intern/ai-product/dalian.md) · 另 1 城（1 个）见 index.json slices
 - 实习·产品（74）：[北京 64](../slices/baidu/intern/product/beijing.md) · [深圳 4](../slices/baidu/intern/product/shenzhen.md) · [上海 3](../slices/baidu/intern/product/shanghai.md) · [新加坡 2](../slices/baidu/intern/product/singapore.md) · 另 1 城（1 个）见 index.json slices
 - 实习·运营（77）：[北京 63](../slices/baidu/intern/ops/beijing.md) · [深圳 11](../slices/baidu/intern/ops/shenzhen.md) · [上海 3](../slices/baidu/intern/ops/shanghai.md) · [杭州 1](../slices/baidu/intern/ops/hangzhou.md) · 另 1 城（1 个）见 index.json slices
-- 实习·商务（17）：[北京 12](../slices/baidu/intern/business/beijing.md) · [新加坡 3](../slices/baidu/intern/business/singapore.md) · [香港 1](../slices/baidu/intern/business/hongkong.md) · [深圳 1](../slices/baidu/intern/business/shenzhen.md)
+- 实习·商务（15）：[北京 10](../slices/baidu/intern/business/beijing.md) · [新加坡 3](../slices/baidu/intern/business/singapore.md) · [香港 1](../slices/baidu/intern/business/hongkong.md) · [深圳 1](../slices/baidu/intern/business/shenzhen.md)
 - 实习·市场（10）：[北京 7](../slices/baidu/intern/marketing/beijing.md) · [深圳 1](../slices/baidu/intern/marketing/shenzhen.md) · [新加坡 1](../slices/baidu/intern/marketing/singapore.md) · [武汉 1](../slices/baidu/intern/marketing/wuhan.md)
 - 实习·销售（9）：[北京 6](../slices/baidu/intern/sales/beijing.md) · [上海 4](../slices/baidu/intern/sales/shanghai.md) · [深圳 2](../slices/baidu/intern/sales/shenzhen.md)
 - 实习·设计（12）：[北京 11](../slices/baidu/intern/design/beijing.md) · [深圳 1](../slices/baidu/intern/design/shenzhen.md)
-- 实习·职能（14）：[北京 14](../slices/baidu/intern/corporate/beijing.md)
+- 实习·职能（16）：[北京 16](../slices/baidu/intern/corporate/beijing.md)
 - 实习·项目管理（4）：[北京 4](../slices/baidu/intern/pm/beijing.md)
 - 实习·分析（27）：[北京 27](../slices/baidu/intern/analysis/beijing.md) · [上海 1](../slices/baidu/intern/analysis/shanghai.md)
 - 实习·其他（20）：[北京 19](../slices/baidu/intern/other/beijing.md) · [深圳 1](../slices/baidu/intern/other/shenzhen.md) · [上海 1](../slices/baidu/intern/other/shanghai.md)

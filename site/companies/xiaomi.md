@@ -1,4 +1,4 @@
-# 小米 总览（在招 612：校招 318，实习 294）
+# 小米 总览（在招 610：校招 318，实习 292）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -18,16 +18,16 @@
 - 校招·供应链（11）：[其他城市 6](../slices/xiaomi/campus/supply/other.md) · [北京 5](../slices/xiaomi/campus/supply/beijing.md) · [香港 1](../slices/xiaomi/campus/supply/hongkong.md) · [东京 1](../slices/xiaomi/campus/supply/tokyo.md) · 另 1 城（1 个）见 index.json slices
 - 校招·其他（14）：[北京 11](../slices/xiaomi/campus/other/beijing.md) · [其他城市 2](../slices/xiaomi/campus/other/other.md) · [上海 2](../slices/xiaomi/campus/other/shanghai.md)
 - 实习·AI产品（15）：[北京 10](../slices/xiaomi/intern/ai-product/beijing.md) · [武汉 2](../slices/xiaomi/intern/ai-product/wuhan.md) · [上海 2](../slices/xiaomi/intern/ai-product/shanghai.md) · [南京 1](../slices/xiaomi/intern/ai-product/nanjing.md)
-- 实习·产品（41）：[北京 37](../slices/xiaomi/intern/product/beijing.md) · [武汉 1](../slices/xiaomi/intern/product/wuhan.md) · [南京 1](../slices/xiaomi/intern/product/nanjing.md) · [新加坡 1](../slices/xiaomi/intern/product/singapore.md) · 另 1 城（1 个）见 index.json slices
-- 实习·运营（48）：[北京 37](../slices/xiaomi/intern/ops/beijing.md) · [其他城市 4](../slices/xiaomi/intern/ops/other.md) · [南京 3](../slices/xiaomi/intern/ops/nanjing.md) · [武汉 2](../slices/xiaomi/intern/ops/wuhan.md) · 另 2 城（2 个）见 index.json slices
+- 实习·产品（40）：[北京 36](../slices/xiaomi/intern/product/beijing.md) · [武汉 1](../slices/xiaomi/intern/product/wuhan.md) · [南京 1](../slices/xiaomi/intern/product/nanjing.md) · [新加坡 1](../slices/xiaomi/intern/product/singapore.md) · 另 1 城（1 个）见 index.json slices
+- 实习·运营（47）：[北京 36](../slices/xiaomi/intern/ops/beijing.md) · [其他城市 4](../slices/xiaomi/intern/ops/other.md) · [南京 3](../slices/xiaomi/intern/ops/nanjing.md) · [武汉 2](../slices/xiaomi/intern/ops/wuhan.md) · 另 2 城（2 个）见 index.json slices
 - 实习·商务（5）：[北京 5](../slices/xiaomi/intern/business/beijing.md)
-- 实习·市场（10）：[北京 6](../slices/xiaomi/intern/marketing/beijing.md) · [武汉 2](../slices/xiaomi/intern/marketing/wuhan.md) · [其他城市 2](../slices/xiaomi/intern/marketing/other.md)
+- 实习·市场（12）：[北京 8](../slices/xiaomi/intern/marketing/beijing.md) · [武汉 2](../slices/xiaomi/intern/marketing/wuhan.md) · [其他城市 2](../slices/xiaomi/intern/marketing/other.md)
 - 实习·销售（37）：[其他城市 27](../slices/xiaomi/intern/sales/other.md) · [北京 2](../slices/xiaomi/intern/sales/beijing.md) · [上海 2](../slices/xiaomi/intern/sales/shanghai.md) · [西安 2](../slices/xiaomi/intern/sales/xian.md) · 另 14 城（16 个）见 index.json slices
 - 实习·设计（9）：[北京 6](../slices/xiaomi/intern/design/beijing.md) · [上海 3](../slices/xiaomi/intern/design/shanghai.md)
-- 实习·职能（72）：[北京 50](../slices/xiaomi/intern/corporate/beijing.md) · [其他城市 9](../slices/xiaomi/intern/corporate/other.md) · [上海 4](../slices/xiaomi/intern/corporate/shanghai.md) · [武汉 3](../slices/xiaomi/intern/corporate/wuhan.md) · 另 5 城（6 个）见 index.json slices
+- 实习·职能（73）：[北京 51](../slices/xiaomi/intern/corporate/beijing.md) · [其他城市 9](../slices/xiaomi/intern/corporate/other.md) · [上海 4](../slices/xiaomi/intern/corporate/shanghai.md) · [武汉 3](../slices/xiaomi/intern/corporate/wuhan.md) · 另 5 城（6 个）见 index.json slices
 - 实习·项目管理（8）：[北京 8](../slices/xiaomi/intern/pm/beijing.md)
 - 实习·分析（7）：[北京 6](../slices/xiaomi/intern/analysis/beijing.md) · [南京 1](../slices/xiaomi/intern/analysis/nanjing.md)
 - 实习·策划（1）：[北京 1](../slices/xiaomi/intern/planning/beijing.md)
-- 实习·其他（41）：[北京 22](../slices/xiaomi/intern/other/beijing.md) · [其他城市 8](../slices/xiaomi/intern/other/other.md) · [上海 4](../slices/xiaomi/intern/other/shanghai.md) · [南京 3](../slices/xiaomi/intern/other/nanjing.md) · 另 3 城（4 个）见 index.json slices
+- 实习·其他（38）：[北京 19](../slices/xiaomi/intern/other/beijing.md) · [其他城市 8](../slices/xiaomi/intern/other/other.md) · [上海 4](../slices/xiaomi/intern/other/shanghai.md) · [南京 3](../slices/xiaomi/intern/other/nanjing.md) · 另 3 城（4 个）见 index.json slices
 
 [总目录](../llms.txt)

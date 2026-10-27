@@ -4414,7 +4414,7 @@
       "AI数据与安全"
     ],
     "title": "数据技术（GUI Agent方向）实习生 - AI数据与安全",
-    "category": "分析",
+    "category": "设计",
     "job_type": "实习",
     "city": [
       "北京"
@@ -27526,7 +27526,7 @@
       "国际化"
     ],
     "title": "全球招聘运营实习生 - 国际化",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "上海"
@@ -28633,7 +28633,7 @@
       "抖音电商"
     ],
     "title": "HR文化活动运营实习生 - 抖音电商",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "上海"
@@ -30252,7 +30252,7 @@
       "人力与管理部"
     ],
     "title": "招聘运营 - 人力与管理部",
-    "category": "运营",
+    "category": "职能",
     "job_type": "校招",
     "city": [
       "北京",
@@ -33868,7 +33868,7 @@
       "人力与管理部"
     ],
     "title": "市场/销售类组织招聘 - 人力与管理部",
-    "category": "市场",
+    "category": "职能",
     "job_type": "校招",
     "city": [
       "北京",
@@ -34348,7 +34348,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "招聘策略与运营实习生-Data",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京"
@@ -38447,7 +38447,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "招聘运营实习生-中国招聘中心",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "上海"
@@ -39760,7 +39760,7 @@
       "TikTok Shop"
     ],
     "title": "HR文化活动运营实习生 - TikTok Shop",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "深圳"
@@ -40842,7 +40842,7 @@
       "企业文化与雇主品牌"
     ],
     "title": "雇主品牌传播实习生 - 企业文化与雇主品牌",
-    "category": "职能",
+    "category": "市场",
     "job_type": "实习",
     "city": [
       "北京"
@@ -41279,7 +41279,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "人力资源实习生（设计及文案方向）-招聘中心",
-    "category": "设计",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "上海"
@@ -44051,7 +44051,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "招聘运营实习生-中国招聘中心",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "上海"
@@ -45272,7 +45272,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "招聘运营实习生-抖音电商",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京"
@@ -45434,7 +45434,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "全球招聘运营实习生-国际化",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京"
@@ -45936,7 +45936,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "招聘策略与运营实习生-Data",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京"
@@ -51251,22 +51251,6 @@
   {
     "company": "字节跳动",
     "business_unit": [],
-    "title": "机器学习数据系统实习生-Data AML",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "北京"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届本科及以上学历在读，计算机、软件工程等相关专业优先；\n2、熟练掌握Linux环境下的C/C++、Python语言；\n3、具备扎实的计算机科学功底和编程能力，熟悉常见算法和数据结构，具有良好的编程习惯；\n4、掌握分布式系统原理，参与过大规模分布式系统的设计、开发和维护；\n5、熟悉分布式存储的一致性、可靠性、高性能、成本优化等方向；\n6、有强烈的工作责任心，较好的学习能力、沟通能力和自驱力，能够快速的响应和行动。\n\n加分项\n1、熟悉至少一种主流的机器学习框架（PyTorch/TensorFlow）；\n2、有以下某一方向领域的经验：AI Infrastructure，HW/SW Co-Design，High Performance Computing，ML Hardware Architecture（GPU，Accelerators，Networking）；\n3、在大模型或推荐模型领域，参与过大影响力的项目或论文。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7595103503539276085/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7595103503539276085/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
     "title": "法语&英语运营实习生-国际化",
     "category": "运营",
     "job_type": "实习",
@@ -51316,7 +51300,7 @@
     "company": "字节跳动",
     "business_unit": [],
     "title": "全球招聘运营实习生-TikTok",
-    "category": "运营",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "上海"
@@ -51444,22 +51428,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7615198187162257669/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7615198187162257669/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
-    "title": "机器学习数据系统实习生-Data AML",
-    "category": "分析",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届本科及以上学历在读，计算机、软件工程等相关专业优先；\n2、熟练掌握Linux环境下的C/C++、Python语言；\n3、具备扎实的计算机科学功底和编程能力，熟悉常见算法和数据结构，具有良好的编程习惯；\n4、掌握分布式系统原理，参与过大规模分布式系统的设计、开发和维护；\n5、熟悉分布式存储的一致性、可靠性、高性能、成本优化等方向；\n6、有强烈的工作责任心，较好的学习能力、沟通能力和自驱力，能够快速的响应和行动；有良好的工作文档习惯，及时按要求撰写更新工作流程及技术文档。\n\n加分项\n1、熟悉至少一种主流的机器学习框架（PyTorch/TensorFlow）；\n2、有以下某一方向领域的经验：AI Infrastructure，HW/SW Co-Design，High Performance Computing，ML Hardware Architecture （GPU, Accelerators, Networking）；\n3、在大模型或推荐模型领域，参与过大影响力的项目或论文。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7595103042535622917/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7595103042535622917/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {
@@ -53393,38 +53361,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7608864737657456949/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7608864737657456949/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
-    "title": "视频智能编解码硬件设计实习生-音视频技术",
-    "category": "设计",
-    "job_type": "实习",
-    "city": [
-      "深圳"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届硕士及以上学位在读，计算机、通信、数学、统计等相关专业优先；\n2、熟悉视频或图像端到端深度学习算法；\n3、熟悉C/C++编程，有扎实的数据结构与算法功底；\n4、熟练掌握至少一种深度学习框架，具备模型训练经验。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7594839145312176437/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7594839145312176437/detail",
-    "fetched_at": "2026-10-27T18:19:02+08:00"
-  },
-  {
-    "company": "字节跳动",
-    "business_unit": [],
-    "title": "视频智能编解码硬件设计实习生-音视频技术",
-    "category": "设计",
-    "job_type": "实习",
-    "city": [
-      "上海"
-    ],
-    "project": "ByteIntern",
-    "requirements": "1、2027届硕士及以上学位在读，计算机、通信、数学、统计等相关专业优先；\n2、熟悉视频或图像端到端深度学习算法；\n3、熟悉C/C++编程，有扎实的数据结构与算法功底；\n4、熟练掌握至少一种深度学习框架，具备模型训练经验。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7594839145311340853/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7594839145311340853/detail",
     "fetched_at": "2026-10-27T18:19:02+08:00"
   },
   {

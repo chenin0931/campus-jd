@@ -1,14 +1,11 @@
-# 上海 · 实习 · 设计 · 全部公司（116 个岗位）（第 3/3 页）
+# 上海 · 实习 · 设计 · 全部公司（114 个岗位）（第 3/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 21](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 15](../../slices/tencent/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 5](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 30](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 20](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 15](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 15](../../slices/tencent/intern/design/shanghai.md) · [小红书 15](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 4](../../slices/meituan/intern/design/shanghai.md) · [小米 3](../../slices/xiaomi/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 腾讯 | 游戏宣发视觉设计 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1270791052483418112.md) |
-| 腾讯 | 游戏GUI视觉设计 | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751796143454208.md) |
-| 小红书 | 【Ace顶尖实习生】端到端的全双工自然语音交互 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19812.md) |
 | 小红书 | 【Ace顶尖实习生】基于Agent的交互式推荐系统 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19816.md) |
 | 小红书 | 插画实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-17827.md) |
 | 小红书 | 产品体验设计师（实习）· | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21089.md) |

@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 设计 · 全部公司（44 个岗位）
+# 深圳 · 实习 · 设计 · 全部公司（43 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 23](../../slices/tencent/intern/design/shenzhen.md) · [字节跳动 13](../../slices/bytedance/intern/design/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/design/shenzhen.md) · [美团 2](../../slices/meituan/intern/design/shenzhen.md) · [百度 1](../../slices/baidu/intern/design/shenzhen.md) · [华为 1](../../slices/huawei/intern/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 23](../../slices/tencent/intern/design/shenzhen.md) · [字节跳动 12](../../slices/bytedance/intern/design/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/design/shenzhen.md) · [美团 2](../../slices/meituan/intern/design/shenzhen.md) · [百度 1](../../slices/baidu/intern/design/shenzhen.md) · [华为 1](../../slices/huawei/intern/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -13,7 +13,6 @@
 | 字节跳动 | 创意视觉设计实习生 - TikTok设计 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7584712343945988357.md) |
 | 字节跳动 | 工业设计实习生-AI创新业务 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7628812845358352693.md) |
 | 字节跳动 | 海外创意设计实习生 - TikTok设计 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7611449940598638901.md) |
-| 字节跳动 | 视频智能编解码硬件设计实习生-音视频技术 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7594839145312176437.md) |
 | 字节跳动 | 效果设计实习生-抖音效果与创作 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7576502752354126133.md) |
 | 字节跳动 | AI Agent设计实习生-抖音 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7573973926349621509.md) |
 | 字节跳动 | AI创新设计实习生-AI创新业务 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7626283275377543429.md) |

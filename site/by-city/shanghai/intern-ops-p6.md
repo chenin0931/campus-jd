@@ -1,8 +1,8 @@
-# 上海 · 实习 · 运营 · 全部公司（529 个岗位）（第 6/13 页）
+# 上海 · 实习 · 运营 · 全部公司（523 个岗位）（第 6/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 301](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [网易 10](../../slices/netease/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 296](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@
 | 字节跳动 | 区域政策运营实习生 - 抖音电商运营 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697086992379906309.md) |
 | 字节跳动 | 全球创意补贴策略运营实习生-国际化 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7563867322458507573.md) |
 | 字节跳动 | 全球创意产品解决方案运营实习生（垂直方向）-国际化中小企业客户产品 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7589189165494274357.md) |
-| 字节跳动 | 全球招聘运营实习生 - 国际化 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7530919343305099528.md) |
-| 字节跳动 | 全球招聘运营实习生-TikTok 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7534973538190395666.md) |
+| 字节跳动 | 热点大事件内容运营实习生 - 抖音生态 〔≥3个月〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7680030197173160245.md) |
+| 字节跳动 | 热点内容策划运营实习生 - 抖音生活服务 〔27届 · ≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7665972153414715701.md) |
 
 [上一页](intern-ops-p5.md) · [下一页](intern-ops-p7.md) · [总目录](../../llms.txt)

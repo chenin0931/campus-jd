@@ -1,8 +1,8 @@
-# 成都 · 校招 · 运营 · 全部公司（41 个岗位）
+# 成都 · 校招 · 运营 · 全部公司（40 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[京东 19](../../slices/jd/campus/ops/chengdu.md) · [字节跳动 10](../../slices/bytedance/campus/ops/chengdu.md) · [美团 6](../../slices/meituan/campus/ops/chengdu.md) · [得物 2](../../slices/dewu/campus/ops/chengdu.md) · [OPPO 2](../../slices/oppo/campus/ops/chengdu.md) · [滴滴 1](../../slices/didi/campus/ops/chengdu.md) · [腾讯 1](../../slices/tencent/campus/ops/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 19](../../slices/jd/campus/ops/chengdu.md) · [字节跳动 10](../../slices/bytedance/campus/ops/chengdu.md) · [美团 5](../../slices/meituan/campus/ops/chengdu.md) · [得物 2](../../slices/dewu/campus/ops/chengdu.md) · [OPPO 2](../../slices/oppo/campus/ops/chengdu.md) · [滴滴 1](../../slices/didi/campus/ops/chengdu.md) · [腾讯 1](../../slices/tencent/campus/ops/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -43,7 +43,6 @@
 | 美团 | 门店管理储备岗 | 杭州/宁波/无锡/北京/苏州/天津/上海/石家庄/成都/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/南宁/西安/太原/长沙/重庆/东莞/中山/南昌/江门/郑州/佛山 | 2026-10-27 | [详情](../../jobs/meituan-4697361084.md) |
 | 美团 | 商户运营专员 | 成都 | 2026-10-27 | [详情](../../jobs/meituan-4697308025.md) |
 | 美团 | 物流管理储备岗 | 杭州/南京/北京/苏州/天津/上海/西安/成都/长沙/东莞/广州/武汉/深圳/佛山 | 2026-10-27 | [详情](../../jobs/meituan-4697381206.md) |
-| 美团 | AI Recruiting Builder（招聘运营） | 成都 | 2026-10-27 | [详情](../../jobs/meituan-4695078142.md) |
 | OPPO | 互联网产品运营 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1859.md) |
 | OPPO | 互联网产品运营经理（游戏方向） 〔27届〕 | 成都 | 2026-10-27 | [详情](../../jobs/oppo-1790.md) |
 | 腾讯 | 产品运营 | 深圳/北京/广州/成都 | 2026-10-27 | [详情](../../jobs/tencent-1282707379615819777.md) |

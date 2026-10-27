@@ -3,7 +3,7 @@
 - id: mihoyo-7935
 - 公司: 米哈游
 - job_type: 实习
-- 类别: 设计
+- 类别: 市场
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2028、2029届

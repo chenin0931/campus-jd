@@ -1,8 +1,8 @@
-# 上海 · 实习 · 其他 · 全部公司（99 个岗位）（第 2/3 页）
+# 上海 · 实习 · 其他 · 全部公司（97 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 38](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 23](../../slices/bilibili/intern/other/shanghai.md) · [小红书 10](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 8](../../slices/mihoyo/intern/other/shanghai.md) · [网易 5](../../slices/netease/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [腾讯 4](../../slices/tencent/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 38](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 23](../../slices/bilibili/intern/other/shanghai.md) · [小红书 10](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [腾讯 4](../../slices/tencent/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -30,7 +30,6 @@
 | 米哈游 | 绑定实习生（Max/Maya） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7956.md) |
 | 米哈游 | 场景模型实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7908.md) |
 | 米哈游 | 角色模型实习生（二次元NPR/次世代PBR） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9081.md) |
-| 米哈游 | 社媒传播实习生-崩坏：因缘精灵 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-5810.md) |
 | 米哈游 | 视频编导实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8466.md) |
 | 米哈游 | 语音生成实习生 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7102.md) |
 | 米哈游 | LLM Pretrain Data实习生 〔28/29届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/mihoyo-8458.md) |
@@ -39,7 +38,6 @@
 | 网易 | 游戏测评实习生-行业研究 〔26/27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78223.md) |
 | 网易 | 游戏测评实习生（AI游戏测评） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79377.md) |
 | 网易 | AI互动剧实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78621.md) |
-| 网易 | GUI实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78882.md) |
 | 腾讯 | 用于实时渲染的复杂材质的高效表示 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139146.md) |
 | 腾讯 | 游戏具身智能 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139131.md) |
 | 腾讯 | 语音/对话驱动数字人 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1231829074692139134.md) |
@@ -52,5 +50,7 @@
 | 小红书 | 小红书电商实习生-家具类目 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22663.md) |
 | 小红书 | 小红书商业部美护平台专家实习生 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20769.md) |
 | 小红书 | 新锐国货平台专家支持实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21021.md) |
+| 小红书 | Dots-【Ace顶尖实习生】可扩展监督的 AI 对齐方法 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-15684.md) |
+| 小红书 | Redstudio后期剪辑实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21979.md) |
 
 [上一页](intern-other.md) · [下一页](intern-other-p3.md) · [总目录](../../llms.txt)

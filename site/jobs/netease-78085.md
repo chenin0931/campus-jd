@@ -3,7 +3,7 @@
 - id: netease-78085
 - 公司: 网易（网易传媒）
 - job_type: 实习
-- 类别: 其他
+- 类别: 市场
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

@@ -1,16 +1,11 @@
-# 上海 · 实习 · 运营 · 全部公司（529 个岗位）（第 11/13 页）
+# 上海 · 实习 · 运营 · 全部公司（523 个岗位）（第 11/13 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 301](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [网易 10](../../slices/netease/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 296](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 102](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 9](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 滴滴 | 网约车平台公司-产品与用户运营实习生（上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-8c833985-e949-4267-8281-7c96190645d9.md) |
-| 滴滴 | IBG Fintech-用户运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-8366c91a-f7b0-464e-8f60-95365f1b66f0.md) |
-| 滴滴 | IBG Food-策略运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-c12daf89-a2ba-4ae7-bb7a-8a16352bb76e.md) |
-| 滴滴 | IBG Food-产品与用户运营实习生（沪杭） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-9d79ae95-5ec0-4fc2-850d-2131b44fd417.md) |
-| 滴滴 | Merchant Platform-产品运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-5e274952-f7c5-48e3-b3ea-61434a7c958a.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉/长沙/贵阳/沈阳/重庆/西安 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳 | 2026-10-27 | [详情](../../jobs/jd-4914.md) |
 | 京东 | 店长储备 〔26/27届〕 | 上海/昆明/北京/天津/合肥/宿州/淮南/蚌埠/青岛/广州/深圳/南通/宿迁/扬州/保定/廊坊/郑州/杭州/厦门/沈阳/重庆 | 2026-10-27 | [详情](../../jobs/jd-6371.md) |
@@ -50,5 +45,11 @@
 | 米哈游 | 玩家运营实习生-原神 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8109.md) |
 | 米哈游 | 游戏运营实习生 - 崩坏：星穹铁道 + 崩坏：因缘精灵 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8581.md) |
 | 米哈游 | 游戏运营实习生（AI方向） - 崩坏：星穹铁道 + 崩坏：因缘精灵 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8090.md) |
+| 米哈游 | Agent 策略运营实习生 〔28/29届 · ≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9625.md) |
+| 米哈游 | AI 创新运营实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8616.md) |
+| 网易 | 社区运营实习生岗 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78753.md) |
+| 网易 | 投放运营实习生 〔27/28届 · ≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-75812.md) |
+| 网易 | 游戏测评实习生（UGC内容生产）-游戏美术AI方向 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78681.md) |
+| 网易 | 游戏测评实习生（UGC内容生产）-游戏AI策划玩法 | 上海 | 2026-10-27 | [详情](../../jobs/netease-78679.md) |
 
 [上一页](intern-ops-p10.md) · [下一页](intern-ops-p12.md) · [总目录](../../llms.txt)

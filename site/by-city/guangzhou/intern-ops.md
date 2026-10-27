@@ -1,8 +1,8 @@
-# 广州 · 实习 · 运营 · 全部公司（36 个岗位）
+# 广州 · 实习 · 运营 · 全部公司（34 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 16](../../slices/netease/intern/ops/guangzhou.md) · [京东 5](../../slices/jd/intern/ops/guangzhou.md) · [字节跳动 4](../../slices/bytedance/intern/ops/guangzhou.md) · [美团 4](../../slices/meituan/intern/ops/guangzhou.md) · [腾讯 4](../../slices/tencent/intern/ops/guangzhou.md) · [滴滴 3](../../slices/didi/intern/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 14](../../slices/netease/intern/ops/guangzhou.md) · [京东 5](../../slices/jd/intern/ops/guangzhou.md) · [字节跳动 4](../../slices/bytedance/intern/ops/guangzhou.md) · [美团 4](../../slices/meituan/intern/ops/guangzhou.md) · [腾讯 4](../../slices/tencent/intern/ops/guangzhou.md) · [滴滴 3](../../slices/didi/intern/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -23,12 +23,10 @@
 | 美团 | 商家及供给策略运营实习 | 北京/上海/广州/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4847444064.md) |
 | 美团 | Keeta User Operations Intern -Qatar | 北京/上海/广州/深圳/杭州/成都 | 2026-10-27 | [详情](../../jobs/meituan-4860054176.md) |
 | 网易 | 产品运营实习生（英语测评） 〔≥4个月，每周≥5天〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-50259.md) |
-| 网易 | 达人内容传播实习生（网易BUFF） 〔26届 · ≥4个月〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-79329.md) |
 | 网易 | 海外产品运营实习生 | 广州 | 2026-10-27 | [详情](../../jobs/netease-79547.md) |
 | 网易 | 海外产品运营实习生（韩语） 〔≥6个月〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-71012.md) |
 | 网易 | 海外产品运营实习生（网易画加） 〔≥3个月〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-78226.md) |
 | 网易 | 内容编辑实习生 | 广州 | 2026-10-27 | [详情](../../jobs/netease-78999.md) |
-| 网易 | 内容传播实习生（网易千千壁纸） 〔≥3个月，每周≥4天〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-78863.md) |
 | 网易 | 内容运营实习生（2个团队） 〔≥3个月〕 | 广州 | 2026-10-27 | [1](../../jobs/netease-79418.md) [2](../../jobs/netease-78207.md) |
 | 网易 | 内容运营实习生（广州） 〔≥4个月〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-79119.md) |
 | 网易 | 内容运营实习生（UGC&社区方向）-漫威争锋 | 广州 | 2026-10-27 | [详情](../../jobs/netease-79178.md) |

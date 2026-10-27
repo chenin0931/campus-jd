@@ -3,7 +3,7 @@
 - id: netease-28520
 - 公司: 网易（网易职能）
 - job_type: 实习
-- 类别: 分析
+- 类别: 职能
 - 城市: 上海
 - status: active
 - 届别 grad_year: 未注明

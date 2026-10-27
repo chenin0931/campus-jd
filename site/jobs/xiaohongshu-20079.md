@@ -3,7 +3,7 @@
 - id: xiaohongshu-20079
 - 公司: 小红书
 - job_type: 实习
-- 类别: 运营
+- 类别: 职能
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明
