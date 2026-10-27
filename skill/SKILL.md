@@ -1,25 +1,36 @@
 ---
 name: campus-jd
-description: 大厂 AI产品/产品/运营岗秋招 JD 库。用户想找秋招岗位、按城市或类别筛选、对照 JD 改简历、排投递时间线时使用。
+description: 大厂（字节、腾讯、阿里、蚂蚁、百度、京东、快手、美团、小红书等）AI产品/产品/运营岗的校招和实习 JD 库，每周更新。用户想找校招或实习岗位、按公司/城市/类别筛选、看本周新增、对照 JD 改简历、排投递时间线时使用。
 ---
 
-# 秋招 JD 库 skill
+# 秋招 JD 库
 
-## 数据
-- 每次先拉最新数据：`https://raw.githubusercontent.com/<OWNER>/<REPO>/main/jobs/latest.json`
-- 结构：`{ week, previous_week, generated_at, count, jobs: [...], removed: [...] }`
-- 岗位字段：company, company_slug, title, category(AI产品|产品|运营), job_type(校招|实习), city[], requirements, deadline(YYYY-MM-DD|null), apply_url, source_url, first_seen, is_new
-- **数据量大（几千条，数 MB）**：先用代码（jq/Python）按 company_slug → category → job_type → city 过滤，再把结果给自己读；不要整份塞进上下文。只需看列表时，可直接读分表 `jobs/<company_slug>/<category>.md`（实习为 `实习-<category>.md`）。
-- deadline 为 null 很常见，表示官网未注明，说“见官网”。`job_type_inferred: true` 表示类型是按标题推断的。
-- `removed` 是上周有、本周没有的岗位（已下架），不要推荐。
-- `example: true` 的是示例数据，不要推荐给用户。
-- 数据每周更新一次，截止日期和名额以 `apply_url` 官网为准，回答里提醒用户核实。
+数据由 GitHub Actions 每周在服务端预先算好、切成小文件（每个 ≤8KB）。你只需要 **fetch 对应的小文件**，不要下载全量、不要在本地写代码筛选。
 
-## 能做的事
-1. **筛岗位**：按 category、city（数组，包含即匹配）、公司、is_new 过滤；输出表格：公司｜岗位｜城市｜截止｜投递链接。没问到的条件不要自己加。
-2. **对照 JD 改简历**：让用户贴简历。逐条对照 requirements，列出 ✅已覆盖 / ⚠️需补强 / ❌缺失，再给 3～5 条具体改写（用用户真实经历，不编造经历）。
-3. **投递时间线**：选中的岗位按 deadline 升序排，标出 7 天内截止的；deadline 为 null 的放最后并写“尽早投”。给出每周要做的事（改简历、投递、准备笔面）。
+## 地址
+- 主：`<BASE_URL>` = `https://<OWNER>.github.io/<REPO>/`
+- 备（主地址打不开时）：`https://cdn.jsdelivr.net/gh/<OWNER>/<REPO>@main/site/`（jsDelivr 对分支约缓存 12 小时）
+- 下文路径都相对 `<BASE_URL>`。
 
-## 原则
-- 只用数据里的岗位，不编造岗位或链接。
-- 简洁，用中文回答。
+## 读取流程（严格按顺序，通常 2～4 次 fetch）
+1. **读目录**：fetch `<BASE_URL>llms.txt`（约 2KB）。里面有公司、城市、类别的英文 slug 和岗位数。
+2. **选一个最窄的切片** fetch：
+   - 指定了公司：`slices/{company}/{campus|intern}/{category}/{city}.md`
+   - 只指定了城市：`by-city/{city}/{campus|intern}-{category}.md`
+   - 问“本周新增/下架”：`changes/{week}.md`
+   - category：`ai-product`=AI产品，`product`=产品，`operations`=运营；校招=`campus`，实习=`intern`
+   - 文件末尾有「下一页」就是还有 `-p2`、`-p3`，需要时再读。
+   - 路径不在 llms.txt 列出的枚举里，或 404，说明没有这类岗位，直接告诉用户，**不要猜别的路径**。不确定时读 `index.json`（文件清单和计数）。
+3. **看详情**：从列表挑 3～10 个，fetch 行里的 `jobs/{id}.md`，里面有岗位要求、job_type、status、投递链接。
+
+## 回答规则
+- 只用文件里的岗位和链接，不编造。
+- `status: removed` 是已下架，不推荐。
+- 标「⚠️链接待核」的投递链接是拼出来的、没通过自动校验：给链接时提醒用户“如果打不开，到该公司校招官网搜岗位名”。
+- 截止日期多数官网未注明，写“以官网为准”。提醒用户数据每周一更新。
+- 用中文、用表格：公司｜岗位｜城市｜类型｜详情/投递。
+
+## 常见任务
+1. **筛岗位**：按上面流程，只按用户说的条件筛，不额外加条件。
+2. **对照 JD 改简历**：让用户贴简历，逐条对照岗位要求，列 ✅已覆盖 / ⚠️需补强 / ❌缺失，再给 3～5 条基于真实经历的改写，不编造经历。
+3. **投递时间线**：选中岗位按截止日排序，未注明的放最后写“尽早投”，给出每周计划。

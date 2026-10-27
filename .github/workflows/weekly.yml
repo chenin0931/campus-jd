@@ -1,28 +1,70 @@
 name: weekly-update
+# 每周一 09:00（北京时间）：抓取 → 链接校验 → 预计算构建 site/ → 提交 → 打 tag → 发布 GitHub Pages
 on:
   schedule:
-    - cron: '0 1 * * 1'   # 每周一 09:00 北京时间
+    - cron: '0 1 * * 1'
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    outputs:
+      week: ${{ steps.week.outputs.week }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Fetch JDs (占位)
+      - id: week
+        run: echo "week=$(TZ=Asia/Shanghai date +%G-W%V)" >> "$GITHUB_OUTPUT"
+      - name: Fetch（各公司独立，单家失败不影响其他家，失败的保留旧数据）
         run: |
-          echo "TODO: 抓取脚本写入 data/$(date -u +%G-W%V)/<company>.json"
-          # node scripts/fetch.js
-      - name: Build
+          mkdir -p data/${{ steps.week.outputs.week }}
+          failed=""
+          for f in scripts/fetchers/*.js; do
+            c=$(basename "$f" .js)
+            node "$f" --week ${{ steps.week.outputs.week }} || failed="$failed $c"
+          done
+          # 抓取失败的公司：沿用上一周的文件，保证 build 不把它们当成全部下架
+          prev=$(ls -d data/20*-W* | sort | tail -n 2 | head -n 1)
+          for c in $failed; do
+            [ -f "$prev/$c.json" ] && cp "$prev/$c.json" "data/${{ steps.week.outputs.week }}/$c.json"
+          done
+          echo "FAILED=$failed" >> "$GITHUB_ENV"
+      - name: Check links（只查拼接未核实的站点）
+        run: node scripts/check_links.js --only kuaishou,meituan,xiaohongshu,baidu,jd
+        continue-on-error: true
+      - name: Build（失败即停止：切片 >8KB、id 重复或计数不一致）
         run: node scripts/build.js
-      - name: Commit
+      - name: Package skill
+        run: python3 -c "import zipfile;z=zipfile.ZipFile('skill/campus-jd-skill.zip','w',zipfile.ZIP_DEFLATED);z.write('skill/SKILL.md','campus-jd/SKILL.md');z.close()"
+      - name: Commit & tag
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "weekly: $(date -u +%G-W%V)"
-          git push
+          git diff --cached --quiet || git commit -m "weekly: ${{ steps.week.outputs.week }}${FAILED:+（抓取失败沿用旧数据:$FAILED）}"
+          tag="w${{ steps.week.outputs.week }}"
+          git tag -f "$tag"
+          git push origin HEAD
+          git push -f origin "$tag"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

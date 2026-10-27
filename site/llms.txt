@@ -1,0 +1,31 @@
+# 大厂 AI产品/产品/运营 校招·实习 JD 库
+
+> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-10-27 生成。在招 2382，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
+
+## 怎么读
+1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。
+2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。
+3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。
+
+## 路径模板
+- slices/{company}/{campus|intern}/{category}/{city}.md
+- by-city/{city}/{campus|intern}-{category}.md
+- changes/2026-W44.md（本周新增/下架）
+- jobs/{company}-{postId}.md
+- index.json（全部文件清单与计数）
+
+## 枚举
+- category: ai-product=AI产品, product=产品, operations=运营
+- job_type: campus=校招, intern=实习
+- city: beijing=北京(1456), shanghai=上海(948), shenzhen=深圳(263), hangzhou=杭州(140), chengdu=成都(69), guangzhou=广州(59), other=其他城市(27), wuhan=武汉(17), hongkong=香港(11), xian=西安(10), nanjing=南京(10), zhuhai=珠海(7), xiamen=厦门(5), jinan=济南(4), suzhou=苏州(4), zhengzhou=郑州(4), shenyang=沈阳(4), chongqing=重庆(4), dalian=大连(3), singapore=新加坡(3), suqian=宿迁(3), lanzhou=兰州(3), tianjin=天津(3), nanchang=南昌(3), tokyo=东京(2), hefei=合肥(2), kunming=昆明(2), nanning=南宁(2), harbin=哈尔滨(2), qingdao=青岛(2), changsha=长沙(2), ningbo=宁波(1), chengmai=澄迈(1)
+
+## 公司（校招/实习 岗位数）
+- alibaba=阿里巴巴：校招 33，实习 0
+- antgroup=蚂蚁集团：校招 5，实习 3
+- baidu=百度：校招 19，实习 173
+- bytedance=字节跳动：校招 568，实习 1199
+- jd=京东：校招 23，实习 0
+- kuaishou=快手：校招 84，实习 41
+- meituan=美团：校招 26，实习 81
+- tencent=腾讯：校招 14，实习 21
+- xiaohongshu=小红书：校招 9，实习 83

@@ -18,7 +18,7 @@
     "properties": {
       "company": {
         "type": "string",
-        "pattern": "^[a-z0-9-]+$"
+        "description": "公司中文名，如 字节跳动；公司标识取自文件名"
       },
       "title": {
         "type": "string"
@@ -65,8 +65,7 @@
         "enum": [
           "校招",
           "实习"
-        ],
-        "description": "可选；也兼容读取 type。缺失时 build 从 title 含“实习”推断，否则为校招，并加 job_type_inferred:true"
+        ]
       },
       "type": {
         "enum": [
@@ -74,6 +73,13 @@
           "实习"
         ],
         "description": "job_type 的兼容别名"
+      },
+      "business_unit": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "事业群/业务线，可为空数组"
       }
     }
   }

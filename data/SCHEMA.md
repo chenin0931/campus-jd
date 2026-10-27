@@ -1,28 +1,24 @@
 # 数据约定
 
-- 路径：`data/<ISO周>/<company>.json`，如 `data/2026-W44/bytedance.json`
-- 每个文件是岗位数组，校验用 `data/schema.json`
+- 原始数据：`data/<ISO周>/<company_slug>.json`，每个文件是岗位数组，由 `scripts/fetchers/<company_slug>.js` 写出；校验见 `data/schema.json`。
+- build 自动发现 `data/<最新周>/` 下的任意 `*.json`，新增公司只需加 fetcher 并在 `scripts/lib/site.js` 的 `COMPANY` 里登记中文名（不登记也能用，显示 slug）。
 
 | 字段 | 类型 | 说明 |
 |---|---|---|
-| company | string | 公司标识，小写，如 bytedance |
+| company | string | 公司中文名 |
+| business_unit | string[]，可选 | 事业群/业务线（阿里=circleNames，腾讯=bgs，字节=标题后缀，蚂蚁=标题中段），缺失视为 [] |
 | title | string | 岗位名 |
 | category | `AI产品`/`产品`/`运营` | 类别 |
-| city | string[] | 城市 |
-| requirements | string | 岗位要求摘要 |
-| deadline | `YYYY-MM-DD` 或 null | 截止日期，未知填 null |
-| apply_url | string | 投递链接（新增判定主键） |
-| source_url | string | 数据来源页 |
+| job_type | `校招`/`实习` | 缺失时按标题含“实习”推断 |
+| city | string[] | 城市（build 归一：去“总部/市/县”，映射英文 slug，未登记的归 other） |
+| requirements | string | 岗位要求 |
+| deadline | `YYYY-MM-DD` 或 null | 未知填 null |
+| apply_url | string | 投递链接；postId 从中提取 |
+| source_url | string | 来源页 |
 | fetched_at | ISO 8601 | 抓取时间 |
-| job_type | `校招`/`实习`，可选 | 也兼容读取 `type`。缺失时 build 按 title 含“实习”推断，否则为“校招”，输出带 `job_type_inferred: true` |
-| example | boolean，可选 | 示例/假数据标记，为 true 时 README 中会标注 |
 
-新增判定：本周有、上周没有（按 apply_url；缺失时按 company+title）。
-只收录官网公开岗位，不抓需要登录的数据。
-
-## build 派生字段（只出现在 jobs/latest.json，不写回 data/）
-- `company_slug`：文件名，如 bytedance（分表路径用）
-- `first_seen`：首次出现日期，跨周保存在 `data/state.json`
-- `is_new`：上一周没有
-- `removed[]`：上一周有、本周没有的岗位，`status: "已下架"`
-- 同一 apply_url 在一周内重复时只保留第一条
+## 派生（build 生成，不写回原始数据）
+- `id` = `{company_slug}-{postId}`：postId 取 URL 中的 UUID，否则最后一段 ≥3 位数字，否则最后一个路径/参数 token。全库唯一，build 校验。
+- `data/state.json`：`jobs[id] = { first_seen, last_seen, last_week, status: active|removed, removed_at }`。下架只改 status，不删除；`site/jobs/{id}.md` 保留并标 `status: removed`。
+- `data/link_status.json`：`scripts/check_links.js` 写入，`{ id: { status: ok|unverified, code, checked_at } }`。unverified 的原因：`hash-route`（前端 # 路由，服务端无法判断）、`spa-shell`（换成不存在的 id 返回同样页面）、HTTP ≥400 或超时。切片里显示「⚠️链接待核」。
+- 新增 = 本周有、上周没有（按 id）；首个数据周为基线，不算新增。
