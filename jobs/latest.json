@@ -2,64 +2,581 @@
  "week": "2026-W44",
  "previous_week": null,
  "generated_at": "2026-10-27",
- "count": 1773,
+ "count": 1837,
  "removed_count": 0,
  "jobs": [
   {
-   "company": "alibaba",
-   "title": "【示例】AI运营-钉钉",
-   "category": "运营",
+   "company": "阿里巴巴",
+   "title": "产品经理",
+   "category": "产品",
    "city": [
+    "北京",
+    "广州",
     "杭州"
    ],
-   "requirements": "示例：AI工具推广与场景运营",
-   "deadline": "2026-10-30",
-   "apply_url": "https://example.com/alibaba/job/3",
-   "source_url": "https://example.com/alibaba/campus",
-   "fetched_at": "2026-10-27T10:00:00+08:00",
-   "example": true,
-   "company_slug": "alibaba",
+   "requirements": "1. 本科及以上学历，计算机、人工智能、管理学、经济学、统计学、心理学、社会学等相关专业优先；\n2. 具备优秀的逻辑思维与数据分析能力，能通过数据驱动产品决策；\n3. 熟悉产品设计工具（如Axure/Figma），有用户导向意识与创新思维；\n4.具备良好的沟通与团队协作能力；具备抗压性与结果导向意识。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700039",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907700039",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
    "job_type": "校招",
-   "job_type_inferred": true,
+   "company_slug": "alibaba",
    "first_seen": "2026-10-27",
    "is_new": true
   },
   {
-   "company": "alibaba",
-   "title": "【示例】AI产品经理-通义",
-   "category": "AI产品",
+   "company": "阿里巴巴",
+   "title": "产品经理-搜推策略",
+   "category": "产品",
    "city": [
-    "杭州",
     "北京"
    ],
-   "requirements": "示例：理解RAG/Agent，有项目经历",
-   "deadline": "2026-11-10",
-   "apply_url": "https://example.com/alibaba/job/1",
-   "source_url": "https://example.com/alibaba/campus",
-   "fetched_at": "2026-10-27T10:00:00+08:00",
-   "example": true,
-   "company_slug": "alibaba",
+   "requirements": "1. 本科以上学历，有C端产品实习经验；\n2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点；\n3. 具备较强的数据分析能力，善于运用数据驱动产品优化；\n4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640094",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907640094",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
    "job_type": "校招",
-   "job_type_inferred": true,
+   "company_slug": "alibaba",
    "first_seen": "2026-10-27",
    "is_new": true
   },
   {
-   "company": "alibaba",
-   "title": "【示例】产品经理-淘宝",
+   "company": "阿里巴巴",
+   "title": "产品体验设计师",
    "category": "产品",
    "city": [
     "杭州"
    ],
-   "requirements": "示例：电商产品理解",
+   "requirements": "学历&专业要求：\n1、本科及以上学历；\n2、设计学科，同时跨学科交叉背景优先，如： 人机交互（HCI）、体验设计、视觉设计、计算机科学等；\n3、因自身兴趣，并长期专研和磨砺设计产出，尤其是界面视觉风格定义，无学科背景要求。\n\n能力要求：\n1、出众、独特的审美能力，具备构建精致有序、易于理解的设计界面能力，图形认知判断且准确；\n2、理解商业运行逻辑和用户使用产品的常识。理解商业、用户、成本的关系。遵循产品统一体验；\n3、具备主动沟通协作的意识和勇气，判断统一体验条件下的协同必要性，借助AI工具的目标协同；\n4、有务实本真的求变意识，同一设计能持续创新。追踪AI前沿演进趋势，探索AI产品设计新范式；\n5、具备基于任务目标构想一切画面内容和关系的能力，并能用语言精确表达，具备文字撰写能力；\n6、热爱设计、追求品质，对细节与整体体验有极度完美的追求，具备解决常人认为是限制的能力。\n\n技能要求：\n1、AI设计工具的应用：AI工具在日常工作和设计产出的使用，具备高品质可落地的生成结果；\n2、对AI底层模型能力有认知，能基于模型能力设计对应的产品体验方案。",
    "deadline": null,
-   "apply_url": "https://example.com/alibaba/job/2",
-   "source_url": "https://example.com/alibaba/campus",
-   "fetched_at": "2026-10-27T10:00:00+08:00",
-   "example": true,
-   "company_slug": "alibaba",
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640037",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907640037",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
    "job_type": "校招",
-   "job_type_inferred": true,
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "风险策略运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 数学、统计、计算机、管理科学、金融等相关专业硕士或以上学历；\n2. 良好的数据处理、分析与数据化运营能力，熟练使用至少一种专业分析工具，如Python，R，SAS，SQL等，有AI安全应用的开发经验优先；\n3. 较高的风险敏锐度，能够快速理解新业务特性，主动发现风险点并提出体系化解决方案；\n4. 学习能力强，对新事物保有好奇心，并能快速适应新环境；\n5. 良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；\n6. 对所在领域有热情，善于独立思考并反思总结。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907720093",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907720093",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "供应链运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业，有物流、供应链、互联网产品运营相关实习经历者优先；\n2. 较强的数据挖掘和分析能力，好奇并追求问题的本质，能对结果进行解读并能给出建议方案； \n3. 接受快节奏变化的环境以及良好的适应调整能力。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700033",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907700033",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "供应链运营-俄语",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业本科及以上学历，有物流、供应链、互联网产品运营相关实习经历者优先；\n2. 必须具备俄语熟练工作能力（B2及以上水平），能独立使用俄语进行跨团队沟通、商务文档本地化审核及合作伙伴协作（熟悉独联体地区俄语使用习惯者优先）；同时具备良好的中文或英文工作能力；\n3. 较强的数据挖掘和分析能力，好奇并追求问题的本质，能对结果进行解读并给出建议方案；掌握 Excel 等基础分析工具，了解数据逻辑；\n4. 热爱电商与物流行业，关注跨境供应链趋势与消费者体验，有良好的逻辑思维和方案呈现能力；\n5. 表达与协作能力强，逻辑清晰，能准确表达观点，具备良好的跨文化、跨团队沟通意识\n【加分项】\n有俄语国家留学、工作或生活经历者优先；",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199909220002",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199909220002",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "国际化产品经理",
+   "category": "产品",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 本科及以上学历，计算机、人工智能、管理学、经济学、统计学、心理学、社会学等相关专业优先；\n2. 具备严谨的逻辑思维能力，对数据敏感，能从复杂信息中提取洞察；\n3. 英语/日语/西语/葡语等目标语种流利可作为工作语言，能够深刻理解当地文化、消费习惯及社会规律；\n4. 优秀的跨团队协作意识，面对挫折乐观积极，能适应高速迭代的国际化节奏。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680042",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907680042",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "国际化产品运营",
+   "category": "运营",
+   "city": [
+    "广州",
+    "杭州",
+    "深圳"
+   ],
+   "requirements": "1. 本科及以上学历；具备优秀的语言能力，有相关国家留学或工作经历者优先；\n2. 对数据敏感，有严谨的数据思维，善于用数据结果做导向；\n3. 优秀的逻辑思维、较强的抗压能力；\n4. 熟练运用互联网效率工具，高效支撑工作；\n5. 学习能力强，对新事物保有好奇心，并能快速适应新环境。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800034",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907800034",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "国际体验运营-小语种",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1、教育背景与经验：研究生学历，在跨境电商及咨询分析类岗位有实习经验者优先；\n2、核心能力\n● 跨文化敏锐度：深刻理解目标国家的消费心理、风俗习惯、及社会禁忌，具备极强的文化适应性，有本地留学或生活背景者优先；\n● 数据驱动思维：逻辑思维及框架性强，能通过数据发现体验断点并驱动改进，有基础SQL、Tableau 或类似数据分析经验者优先；\n● 个人素质：善于沟通协作，具备的较好抗压能力和拥抱变化的心态，适应快节奏的国际化工作环境；\n3、语言要求\n● 精通目标国家小语种者优先，可顺畅进行对消费者日常语境及工作场景商务语境沟通，满足主流专业等级认定证书及同等级别的评估，如日语N1/葡语C1/西语C1/波兰语C1/荷兰语C1/希伯来语B2或C1，英语专业8级/雅思7分；\n● 小语种人才，如同时具备优秀英语工作能力者优先。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907640018",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907640018",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "技术运营（AI / 开源生态方向）",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1.计算机、人工智能、软件工程、数据科学或相关专业本科及以上学历；\n2.对大模型、AI Infra、开源生态有基本理解，能够理解模型、推理、部署、API、Agent 等常见技术概念；\n3.有大模型使用、AI 应用开发、开源项目参与、技术社区或 Developer Relations 相关经历者优先；\n4.具备较强的技术理解和学习能力，能够快速理解一个新模型、新框架或新技术，并准确提炼其核心价值；\n5.有良好的文字表达能力，能够把复杂的技术信息转化为清晰、准确、有传播力的开发者内容；\n6.具备较强的沟通和项目推进能力，能够同时与模型研发、产品、开发者、开源社区及外部生态伙伴协作；\n7.具备基本的数据分析能力，习惯通过数据判断运营效果，而不仅仅依赖经验；\n8.自驱、结果导向，能够在快速变化的 AI 行业中主动发现问题并推动解决；\n9.对AI、开源和开发者社区有长期热情。\n加分项：\n\n如果你符合下面任何一项，我们会非常期待与你交流：\n- 是 GitHub / Hugging Face / ModelScope 等开源社区的活跃用户或贡献者；\n- 使用过 Qwen、Llama、DeepSeek 等主流开源模型；\n- 熟悉 vLLM、SGLang、Ollama、llama.cpp、Transformers 等模型生态工具或框架；\n- 有模型部署、推理优化、Agent / AI 应用开发经验；\n- 有开源项目 Maintainer、Contributor、Developer Advocate / Developer Relations 经验；\n- 有技术博客、公众号、知乎、GitHub、B站等技术内容创作经历；\n- 英文可以作为工作语言，能够直接与海外开源社区和开发者进行沟通。\n\n 这个岗位你将获得什么：\n这是一个非常接近 全球最先进的AI 模型、开源社区和全球开发者生态一线的岗位。\n\n你会有机会：\n直接参与头部大模型的开源发布和 Day-0 Support；\n与全球领先的开源社区、推理框架和 AI 基础设施生态合作；\n认识大量优秀的模型作者、开源开发者和 AI 创业者；\n参与建设一个拥有海量模型、项目和开发者的 AI 开源社区。\n\n我们希望你不仅是在“做运营”，而是在参与回答一个更有意思的问题：\n当 AI 模型越来越成为新的技术基础设施，我们应该如何建立一个让模型、开发者、工具和应用共同生长的开源生态？\n如果你也对这个问题感兴趣，欢迎加入魔搭。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199910100002",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199910100002",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "客户服务体验运营",
+   "category": "运营",
+   "city": [
+    "杭州",
+    "深圳"
+   ],
+   "requirements": "1. 理解服务体验解决方案/产品/生态资源管理的特性、逻辑及模式，并能加以应用；\n2. 利用可视化的业务量化数据，运用理性思维对业务中遇到的问题或场景进行观察、分辨、剖析和梳理，能有效定位核心问题和原因或发现有价值的业务改进和优化的机会；\n3. 具备产品运营思维，能够将业务策略产品化，并能通过智能化产品工具有效识别/分析问题发生的根源原因，推进问题的优化和解决；\n4. 学习能力强，对新事物保有好奇心，并能快速适应新环境；良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；对所在领域有热情，相信方法总比困难多，善于独立思考并反思总结。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620026",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907620026",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "商家商品运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1、本科及以上学历，专业不限\n2、有过知名电商商品运营相关实习经验者优先考虑\n3、有较好的数据分析和沟通能力，良好的系统及逻辑思维能力，理解事物的复杂性并能从全局角度考虑问题\n4、擅长沟通，擅长统筹协调多协作方\n5、为人诚信正直、积极主动、认真细心、能够接受新事物；拥有较强的学习能力、具有较强执行力、原则性及推动力。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908340008",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908340008",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "商品运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 有过知名电商、社区团购平台领域实习经验者优先考虑；\n2. 有较好的数据分析和沟通能力，良好的系统及逻辑思维能力，理解事物的复杂性并能从全局角度考虑问题；\n3. 熟悉各类电脑办公软件Word、Excel、PPT等软件；熟练掌握AE、PS、AI、PR等剪辑软件；\n4. 有较强表达能力，用对方能够理解的语言进行交流，表达清晰，确保他人能够及时、准确的获得信息，有良好的审美和节奏感强的视频分解能力；\n5. 为人诚信正直、积极主动、认真细心、能够接受新事物；拥有较强的学习能力、具有较强执行力、原则性及推动力。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700027",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907700027",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "商品运营-东京",
+   "category": "运营",
+   "city": [
+    "东京"
+   ],
+   "requirements": "1. 有过知名电商、社区团购平台领域实习经验者优先考虑；\n2. 有较好的数据分析和沟通能力，良好的系统及逻辑思维能力，理解事物的复杂性并能从全局角度考虑问题；\n3. 熟悉各类电脑办公软件Word、Excel、PPT等软件；熟练掌握AE、PS、AI、PR等剪辑软件；\n4. 有较强表达能力，用对方能够理解的语言进行交流，表达清晰，确保他人能够及时、准确的获得信息，有良好的审美和节奏感强的视频分解能力；\n5. 为人诚信正直、积极主动、认真细心、能够接受新事物；拥有较强的学习能力、具有较强执行力、原则性及推动力。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908160003",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908160003",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "商品运营-小语种",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 本科及以上学历，市场营销、电子商务、国际商务、新闻传播、语言类（如西语、翻译等）或相关人文社科专业；\n2. 具备西语的工作语言能力（需达到B1及以上水平），能够熟练使用进行书面沟通、跨文化协作及业务对接； \n3. 有过知名电商、社区团购平台领域实习经验者优先考虑；\n4. 有较好的数据分析和沟通能力，良好的系统及逻辑思维能力，理解事物的复杂性并能从全局角度考虑问题；\n5. 熟悉各类电脑办公软件Word、Excel、PPT等软件；熟练掌握AE、PS、AI、PR等剪辑软件；\n6. 有较强表达能力，用对方能够理解的语言进行交流，表达清晰，确保他人能够及时、准确的获得信息，有良好的审美和节奏感强的视频分解能力；\n7. 为人诚信正直、积极主动、认真细心、能够接受新事物；拥有较强的学习能力、具有较强执行力、原则性及推动力。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820053",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907820053",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "销售运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 本科及以上学历，市场营销、工商管理、经济学、数据科学等相关专业优先；\n2. 熟练使用Excel（如VLOOKUP、PivotTable、数据透视表等），具备基础的SQL或Python数据分析能力者优先；\n3. 具备优秀的数据分析能力，能够从数据中发现规律并提出改进建议；\n4. 具有较强的逻辑思维能力和结构化表达能力，能够清晰地呈现分析结果和建议；\n5. 工作细致认真，具备良好的抗压能力、沟通能力和团队协作精神；具有较强的责任心和自我驱动力，能够独立完成任务并主动推进项目进展；对销售运营工作有热情，具备快速学习能力和业务敏感度。\n【加分项】：\n1. 有相关实习经验，如销售支持、数据分析、市场研究等；\n2. 熟悉行业动态，对KA客户运营有初步认知。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700031",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907700031",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "行业运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 有较好的数据分析和沟通能力，良好的系统及逻辑思维能力，理解事物的复杂性并能从全局角度考虑问题；\n2. 熟悉各类电脑办公软件Word、Excel、PPT等软件；熟练掌握AE、PS、AI、PR等剪辑软件；\n3. 有较强表达能力，用对方能够理解的语言进行交流，表达清晰，确保他人能够及时、准确的获得信息，有良好的审美和节奏感强的视频分解能力；\n4. 为人诚信正直、积极主动、认真细心、能够接受新事物；拥有较强的学习能力、具有较强执行力、原则性及推动力。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907660025",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907660025",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "巡演项目运营",
+   "category": "运营",
+   "city": [
+    "北京",
+    "上海"
+   ],
+   "requirements": "1.2027届应海外毕业生，全日制本科及以上学历，英语可作为工作语言（口语/书面）；\n2.热爱演出行业，对中国演出市场有基本认知，关注行业动态，有相关实习经验者优先；\n3.具备良好的沟通表达与跨部门协作能力，团队合作意识强，普通话标准；\n4.工作细致负责，具备闭环思维，能在多任务场景下保持条理，抗压能力与应变能力良好；\n5.具备基础的数据分析与信息检索能力，对行业变化保持敏感，善于发现问题并提出建议；\n6.可接受不定时与高强度工作安排，愿意与团队共同成长。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908120002",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908120002",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "演出票务平台运营",
+   "category": "运营",
+   "city": [
+    "北京"
+   ],
+   "requirements": "1、本科及以上学历，有海外留学背景优先，英语优秀\n2、热爱演出行业，致力于在此领域长期发展，有相关实习经验者优先\n3、具备良好的逻辑分析、问题解决、沟通协作、突破创新、全局思维等能力 \n4、符合阿里人才观：聪明、乐观、皮实、自省",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907900008",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907900008",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "用户渠道运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1、本科及以上学历，计算机、人工智能、统计学、数学、信息管理、数据科学等相关专业优先；\n2、熟练掌握 SQL，具备独立进行数据分析、特征理解与实验评估的能力；熟悉 Python（Pandas/Numpy）或常见机器学习指标（AUC/F1等）者优先；\n3、对大模型、多模态生成有浓厚兴趣及深度体验，了解 AIGC 基本原理及工作流（如 ComfyUI、RAG 等）；\n4、具备出色的逻辑思维与结构化拆解能力，能将复杂的业务现象抽象为算法可解决的问题；对互联网运营指标有系统性理解；\n5、 自驱力强，拥有强烈的好奇心与责任感；具备优秀的跨团队沟通协作能力及抗压性，能作为技术与业务间的桥梁推动项目进展。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740020",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907740020",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "用户运营",
+   "category": "运营",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1. 本科以上学历，有大型互联网产品及用户运营实习经验优先；\n2. 对数据敏感，善于通过数据发现问题或机会，可独立思考运营方案、并解决问题；\n3. 能多方协同资源，实现多方共赢；\n4. 擅长透过现象看本质，能够从纷繁复杂的需求中抓住痛点；\n5. 学习能力强，对新事物保有好奇心，并能快速适应新环境。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907620023",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907620023",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "游戏产品运营",
+   "category": "运营",
+   "city": [
+    "广州"
+   ],
+   "requirements": "1.喜欢玩游戏，长期玩，大量玩，能在游戏里找到热情和乐趣；\n2.至少深度熟悉一款游戏，对游戏的玩法设计、内容体验、玩家特征有一定的了解和认知；\n3.有优异的沟通表达能力和团队协作能力，既能主动表达自己的想法，又能积极协同团队整体解决问题;\n4.善于思考，逻辑清晰有条例，能透过现象看本质；\n5.有外语能力者优先，熟悉SLG等品类产品或关注游戏行业动态者尤佳。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700014",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907700014",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "游戏媒体运营",
+   "category": "运营",
+   "city": [
+    "广州"
+   ],
+   "requirements": "1.热爱游戏，对线上各类社交媒体平台有自己的体验理解；\n2.具备基础的数据敏感度，敏捷洞察；\n3.学习能力强，对新事物保有好奇心，并能快速适应新环境；良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；对所在领域有热情，善于独立思考并反思总结。\n\n【加分项】\n1..有过广告投放经验的最佳；\n2.热爱游戏，简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就，喜欢这款游戏的原因等）；\n3.有游戏相关作品/项目经历请附上。\n一段全新、有意思的旅程正待开启！为了更全面的展现你自己，你还可以在简历中附上你认为自己最有意思的爱好、特长、经历，或是对未来有意思的畅想，没有限制，此项非必填。加入我们，一起打开有意思的未来！",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908380006",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908380006",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "游戏运营",
+   "category": "运营",
+   "city": [
+    "广州"
+   ],
+   "requirements": "1、非常热爱游戏，长期玩，大量玩，自发地关注游戏动态，并且有志于做出优秀的游戏产品；\n2、优异的沟通能力和团队协同能力，能与他人合作，共同完成目标，有主动交流自身的游戏体验感受的习惯，安利他人或是交换意见；\n3、缜密的逻辑能力和文字输出能力，透过现象看到本质，能够有条理表达出自己的想法，感染他人；\n4、愿意为了产品让玩家满意而不懈努力，愿意为了团队成就不断挑战自我，挑战自身能力边界，不断突破自我；\n5、热爱生活，充满热情！\n热爱游戏，简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等）；有游戏相关作品/项目经历请附上；如有倾向的岗位方向，可在简历上备注。\n\n一段全新、有意思的旅程正待开启！为了更全面的展现你自己，你还可以在简历中附上你认为自己最有意思的爱好、特长、经历，或是对未来有意思的畅想，没有限制，此项非必填。加入我们，一起打开有意思的未来！",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908380005",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908380005",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "游戏运营（SLG）",
+   "category": "运营",
+   "city": [
+    "广州"
+   ],
+   "requirements": "1、 热爱游戏行业，对SLG游戏有深度的体验和理解的同学优先；\n2、 本科及以上学历，专业不限（市场营销、统计学、计算机相关专业优先），有游戏公司实习经验的同学优先；\n3、 具备基础数据分析能力，熟练使用Excel，掌握SQL/Python者加分；\n4、 逻辑清晰，沟通能力强，具备跨团队协作意识；\n5、 对用户需求敏感，能结合游戏设计提出运营创新点。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907800016",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907800016",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI Agent产品经理",
+   "category": "AI产品",
+   "city": [
+    "上海"
+   ],
+   "requirements": "1. 本科及以上学历，计算机、人工智能、心理学、工业设计等相关专业优先；\n2. 熟悉AI基础技术框架，能与技术团队高效沟通技术应用；\n3. 擅长从员工视角拆解复杂任务，设计轻量化、低学习成本的AI解决方案；\n4. 熟悉企业服务（如OA、HR SaaS）或AI行业应用，熟悉RPA、低代码等效率工具生态，有Prompt工程优化或AIGC应用实践经验；\n5. 熟练使用SQL/Python分析用户行为数据，或具备基础技术开发能力；\n6. 逻辑清晰，能快速将抽象需求转化为可执行方案；自驱力强，对AI技术落地怀有热情，适应高速迭代的工作节奏。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907740089",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907740089",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI产品经理",
+   "category": "AI产品",
+   "city": [
+    "北京",
+    "广州",
+    "杭州",
+    "上海",
+    "深圳"
+   ],
+   "requirements": "1. 本科及以上学历，计算机、人工智能、电子通信、数学、心理学、统计学等相关专业优先；\n2. 了解AIGC相关知识，包括但不限于文本生成、图像/视频生成、提示词工程；\n3. 具备基础的数据处理能力，熟悉SQL/Python或数据分析工具者优先；\n4. 具备优秀的抽象思维和问题拆解能力； 对新技术有强烈渴望，始终保持对事物本质的探究心。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700037",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907700037",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI产品经理-超级智能体",
+   "category": "AI产品",
+   "city": [
+    "北京",
+    "广州",
+    "杭州"
+   ],
+   "requirements": "1.本科及以上学历；\n2.围绕大模型技术，有丰富的相关产品的深度使用思考习惯，有一定大模型动手创造实践经历更佳；\n3.优秀的创造力、想象力、逻辑思维与系统分析能力，突出的思考总结能力和沟通能力；\n4.希望你热爱产品和AI，有好奇心，想要突破自我上限。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680002",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907680002",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI产品经理-文娱方向",
+   "category": "AI产品",
+   "city": [
+    "北京"
+   ],
+   "requirements": "1.本科及以上学历，具备国际化视野与至少一门熟练外语的优先\n2.对 AI、大语言模型、智能体、RAG、AIGC 等有深入理解，并有应用实践或创业经历者优先\n3.对音乐、演出、体育、潮流文化或娱乐内容有浓厚的兴趣\n4.自驱力强、乐于协作，愿意在快速变化的业务与技术环境中持续学习\n\n投递要求：请附上个人简历，并建议补充能够体现产品思考的项目案例，AI 相关作品、产品原型、Demo 链接或技术实践均可附上",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908160002",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908160002",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI产品经理-影视内容策略",
+   "category": "AI产品",
+   "city": [
+    "北京"
+   ],
+   "requirements": "1、本科及以上学历，影视、传播类专业相关，较强的文字功底，有网感； \n2、条理清晰、思维严谨清，善于将复杂问题结构化； \n3、关注AI行业动态，对Agent、大模型应用等方向有基础认知； \n4、责任心强，自驱力好，主动发现问题和洞察用户需求并推进落地。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908160001",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908160001",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI产品经理-智能体",
+   "category": "AI产品",
+   "city": [
+    "杭州"
+   ],
+   "requirements": "1.本科及以上学历，计算机、人工智能、心理学、工业设计等相关专业优先；\n2. 熟悉AI基础技术框架，能与技术团队高效沟通技术应用；\n3. 擅长从员工视角拆解复杂任务，设计轻量化、低学习成本的AI解决方案；\n4. 熟悉企业服务（如OA、HR SaaS）或AI行业应用，熟悉RPA、低代码等效率工具生态，有Prompt工程优化或AIGC应用实践经验；\n5. 熟练使用SQL/Python分析用户行为数据，或具备基础技术开发能力；\n6. 逻辑清晰，能快速将抽象需求转化为可执行方案；自驱力强，对AI技术落地怀有热情，适应高速迭代的工作节奏。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199908580004",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199908580004",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI产品运营",
+   "category": "运营",
+   "city": [
+    "杭州",
+    "上海",
+    "深圳"
+   ],
+   "requirements": "1. 本科及以上学历，计算机、人工智能、统计学、数学、信息管理、数据科学等相关专业优先；\n2. 熟练掌握 SQL，具备独立进行数据分析、特征理解与实验评估的能力；熟悉 Python（Pandas/Numpy）或常见机器学习指标（AUC/F1等）者优先；\n3. 对大模型、多模态生成有浓厚兴趣及深度体验，了解 AIGC 基本原理及工作流（如 ComfyUI、RAG 等）；\n4. 具备出色的逻辑思维与结构化拆解能力，能将复杂的业务现象抽象为算法可解决的问题；对互联网运营指标有系统性理解；\n5. 自驱力强，拥有强烈的好奇心与责任感；具备优秀的跨团队沟通协作能力及抗压性，能作为技术与业务间的桥梁推动项目进展。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907700034",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907700034",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "阿里巴巴",
+   "title": "AI运营专员",
+   "category": "运营",
+   "city": [
+    "广州"
+   ],
+   "requirements": "1. 计算机、信息管理、新媒体、数据分析等相关专业优先，对大模型、Agent、工作流、Skill编排有浓厚兴趣。\n2. 理解大模型基础原理，**有实际动手经验加分**：如搭建过Agent、用低代码平台编排AI工作流、自制Skill、写过复杂提示词、搭建私有知识库等。\n3. 逻辑清晰，擅长需求拆解，能把复杂业务流程转化为AI可执行的任务链路；具备基础数据分析能力，能通过数据评估AI应用效果。\n4. 良好文档撰写能力，会沉淀方案、操作手册；沟通协作能力强，可跨团队对齐需求。\n5. 自驱力强，愿意持续跟踪AI新技术，乐于试错，对AI落地业务有热情。\n6. 加分项：会Python基础、熟悉各类Agent框架/低代码AI平台，有AI相关项目、竞赛、个人作品。",
+   "deadline": null,
+   "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820076",
+   "source_url": "https://campus-talent.alibaba.com/campus/position/199907820076",
+   "fetched_at": "2026-10-27T13:55:50+08:00",
+   "job_type": "校招",
+   "company_slug": "alibaba",
    "first_seen": "2026-10-27",
    "is_new": true
   },
@@ -30484,60 +31001,713 @@
    "is_new": true
   },
   {
-   "company": "tencent",
-   "title": "【示例】AI产品策划-混元",
-   "category": "AI产品",
-   "city": [
-    "深圳"
-   ],
-   "requirements": "示例：对大模型产品有判断力",
-   "deadline": "2026-11-02",
-   "apply_url": "https://example.com/tencent/job/1",
-   "source_url": "https://example.com/tencent/campus",
-   "fetched_at": "2026-10-27T10:00:00+08:00",
-   "example": true,
-   "company_slug": "tencent",
-   "job_type": "校招",
-   "job_type_inferred": true,
-   "first_seen": "2026-10-27",
-   "is_new": true
-  },
-  {
-   "company": "tencent",
-   "title": "【示例】用户运营-腾讯元宝",
-   "category": "运营",
-   "city": [
-    "深圳"
-   ],
-   "requirements": "示例：用户增长与活动策划经验",
-   "deadline": "2026-11-15",
-   "apply_url": "https://example.com/tencent/job/3",
-   "source_url": "https://example.com/tencent/campus",
-   "fetched_at": "2026-10-27T10:00:00+08:00",
-   "example": true,
-   "company_slug": "tencent",
-   "job_type": "校招",
-   "job_type_inferred": true,
-   "first_seen": "2026-10-27",
-   "is_new": true
-  },
-  {
-   "company": "tencent",
-   "title": "【示例】产品策划-微信",
+   "company": "腾讯",
+   "title": "产品策划",
    "category": "产品",
    "city": [
+    "深圳总部",
+    "北京",
+    "上海",
     "广州",
-    "深圳"
+    "成都",
+    "杭州"
    ],
-   "requirements": "示例：逻辑清晰，沟通能力强",
-   "deadline": "2026-11-30",
-   "apply_url": "https://example.com/tencent/job/2",
-   "source_url": "https://example.com/tencent/campus",
-   "fetched_at": "2026-10-27T10:00:00+08:00",
-   "example": true,
-   "company_slug": "tencent",
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、对开发、测试、运营、设计有一定了解，对AI/大模型技术有基本认知和好奇心；\n2、关注AI产品趋势，能独立思考“AI如何让产品变得更好”。\n\n其他：\n1、优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力；\n2、对互联网产品极度热爱，，怀揣着做出最优秀互联网产品的梦想，具备敏捷的洞察和思维能力，并且有把思考变为现实以满足用户需求的勇气和能力。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1282707374754604032",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1282707374754604032",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
    "job_type": "校招",
-   "job_type_inferred": true,
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品策划",
+   "category": "产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州",
+    "成都"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、对开发、测试、运营、设计有一定了解，对AI/大模型技术有基本认知和好奇心；\n2、关注AI产品趋势，能独立思考“AI如何让产品变得更好”。\n\n其他：\n1、优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力；\n2、对互联网产品极度热爱，，怀揣着做出最优秀互联网产品的梦想，具备敏捷的洞察和思维能力，并且有把思考变为现实以满足用户需求的勇气和能力。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1188988696721092608",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1188988696721092608",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品策划",
+   "category": "产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "广州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、对开发、测试、运营、设计有一定了解，对AI/大模型技术有基本认知和好奇心；\n2、关注AI产品趋势，能独立思考“AI如何让产品变得更好”。\n\n其他：\n1、优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力；\n2、对互联网产品极度热爱，，怀揣着做出最优秀互联网产品的梦想，具备敏捷的洞察和思维能力，并且有把思考变为现实以满足用户需求的勇气和能力。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1212183855952704514",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1212183855952704514",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品体验设计",
+   "category": "产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "广州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、用户研究、交互设计、工业设计、视觉设计、计算机、数据与图形可视化等相关专业；\n2、热爱设计，有敏锐的行业洞察力与学习力。\n\n其他：\n1、逻辑思维能力强，善于理解、转化与分解需求；\n2、愿意主动学习和探索AI设计工具。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1283126425985295360",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1283126425985295360",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品体验设计",
+   "category": "产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "广州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、用户研究、交互设计、工业设计、视觉设计、计算机、数据与图形可视化等相关专业；\n2、热爱设计，有敏锐的行业洞察力与学习力。\n\n其他：\n1、逻辑思维能力强，善于理解、转化与分解需求；\n2、愿意主动学习和探索AI设计工具。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1224696067023896576",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1224696067023896576",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品体验设计",
+   "category": "产品",
+   "city": [
+    "深圳总部"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、用户研究、交互设计、工业设计、视觉设计、计算机、数据与图形可视化等相关专业；\n2、热爱设计，有敏锐的行业洞察力与学习力。\n\n其他：\n1、逻辑思维能力强，善于理解、转化与分解需求；\n2、愿意主动学习和探索AI设计工具。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1224696253330685953",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1224696253330685953",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "广州",
+    "成都"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n对开发、测试、运营、设计有一定了解，对AI在产品运营中的应用有认知和好奇心。\n\n其他：\n1、优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力；\n2、对互联网产品极度热爱，具备数据敏感度和实验思维。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1282707379615819777",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1282707379615819777",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "成都"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n对开发、测试、运营、设计有一定了解，对AI在产品运营中的应用有认知和好奇心。\n\n其他：\n1、优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力；\n2、对互联网产品极度热爱，具备数据敏感度和实验思维。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1212816229455368192",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1212816229455368192",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "产品运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n对开发、测试、运营、设计有一定了解，对AI在产品运营中的应用有认知和好奇心。\n\n其他：\n1、优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力；\n2、对互联网产品极度热爱，具备数据敏感度和实验思维。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1218257147532668928",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1218257147532668928",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "技术产品经理",
+   "category": "产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "成都",
+    "杭州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、计算机、软件、人工智能、大数据相关专业；\n2、热爱互联网、热爱技术；对产品策划有激情，热爱思考，具有优秀的逻辑思维和创新能力。\n\n其他：\n1、有亲和力，擅于沟通，并有优秀的执行力来保障需求的落地；\n2、有服务意识 ，用心满足客户诉求，愿意深入了解客户的应用场景；\n3、善于面对挑战和质疑。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1284317600528245760",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1284317600528245760",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "技术产品经理",
+   "category": "产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "成都",
+    "杭州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、计算机、软件、人工智能、大数据相关专业；\n2、热爱互联网、热爱技术；对产品策划有激情，热爱思考，具有优秀的逻辑思维和创新能力。\n\n其他：\n1、有亲和力，擅于沟通，并有优秀的执行力来保障需求的落地；\n2、有服务意识 ，用心满足客户诉求，愿意深入了解客户的应用场景；\n3、善于面对挑战和质疑。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1224696104600437761",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1224696104600437761",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "技术产品经理",
+   "category": "产品",
+   "city": [
+    "深圳总部",
+    "上海"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、计算机、软件、人工智能、大数据相关专业；\n2、热爱互联网、热爱技术；对产品策划有激情，热爱思考，具有优秀的逻辑思维和创新能力。\n\n其他：\n1、有亲和力，擅于沟通，并有优秀的执行力来保障需求的落地；\n2、有服务意识 ，用心满足客户诉求，愿意深入了解客户的应用场景；\n3、善于面对挑战和质疑。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1224696103971292160",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1224696103971292160",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "技术运营",
+   "category": "运营",
+   "city": [
+    "深圳总部"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、熟悉计算机网络、体系架构、Unix/Linux操作系统及常用命令；\n2、至少掌握一门编程语言，例如Python/Java/GO/Shell等，有良好的编码规范；\n3、具备出色的数据分析和深度思考能力。\n\n其他：\n1、对AI在基础设施运营中的应用有兴趣和探索意愿；\n2、责任心强、能抗压，具备良好的用户意识、沟通能力和团队协作能力；\n3、乐于尝试新技术和学习新知识，爱钻研、乐实践、愿分享。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1284501698043487233",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1284501698043487233",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "内容运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "广州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、综合素质扎实，新闻学、文学、广播电视、影视制片、节目编导、音乐等专业；\n2、有扎实的专业特长，如节目编导、编剧、文学创作、音乐制作等技能。\n\n其他：\n热爱互联网，年轻化娱乐性互联网产品的重度用户，热爱动漫和二次元，喜欢娱乐，热点敏感度高，脑洞大，创意多，良好的沟通能力。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1283126452350690304",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1283126452350690304",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "内容运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "成都"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、综合素质扎实，新闻学、文学、广播电视、影视制片、节目编导、音乐等专业；\n2、有扎实的专业特长，如节目编导、编剧、文学创作、音乐制作等技能。\n\n其他：\n热爱互联网，年轻化娱乐性互联网产品的重度用户，热爱动漫和二次元，喜欢娱乐，热点敏感度高，脑洞大，创意多，良好的沟通能力。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1224696522596614144",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1224696522596614144",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "内容运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "广州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、综合素质扎实，新闻学、文学、广播电视、影视制片、节目编导、音乐等专业；\n2、有扎实的专业特长，如节目编导、编剧、文学创作、音乐制作等技能。\n\n其他：\n热爱互联网，年轻化娱乐性互联网产品的重度用户，热爱动漫和二次元，喜欢娱乐，热点敏感度高，脑洞大，创意多，良好的沟通能力。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1218257148728045568",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1218257148728045568",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "腾讯云—下一代AI原生的云产品全链路交互研究",
+   "category": "AI产品",
+   "city": [
+    "深圳总部"
+   ],
+   "requirements": "",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139114",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139114",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "投资运营分析师",
+   "category": "运营",
+   "city": [
+    "北京"
+   ],
+   "requirements": "We are looking for people with intelligence, ownership and great attention to details, who have real enthusiasm and curiosity on TMT related businesses and products, and evident team-working and communication skills\n1、Strong interest, passion, and business sense for TMT, investment and Tencent\n2、High level of integrity, dedication and motivation\n3、Solid logical thinking, strong communication and problem-solving skills\n4、Bachelor/Master degree from top universities\n5、Fluency in English",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1277366754477467648",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1277366754477467648",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "物业运营与办公规划管理",
+   "category": "运营",
+   "city": [
+    "深圳总部"
+   ],
+   "requirements": "1、本科及以上学历，建筑环境与能源应用工程等相关专业优先；\n2、有设计院或商业地产实习经验优先。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1283045533715604480",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1283045533715604480",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "物业运营与办公规划管理",
+   "category": "运营",
+   "city": [
+    "深圳总部"
+   ],
+   "requirements": "1、本科及以上学历，建筑环境与能源应用工程等相关专业优先；\n2、有设计院或商业地产实习经验优先。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1226957123234441216",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1226957123234441216",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "行业运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州"
+   ],
+   "requirements": "1、 本科及以上学历，热爱互联网行业；\n2、 具备优秀的分析问题、解决问题、信息整合、数据挖掘、逻辑组织和观点提炼能力；有一定方案撰写和excel建模能力；\n3、 良好的沟通能力和团队合作精神。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1283126495480718336",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1283126495480718336",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "行业运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州"
+   ],
+   "requirements": "1、 本科及以上学历，热爱互联网行业；\n2、 具备优秀的分析问题、解决问题、信息整合、数据挖掘、逻辑组织和观点提炼能力；有一定方案撰写和excel建模能力；\n3、 良好的沟通能力和团队合作精神。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1153452731391100931",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1153452731391100931",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "行业运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "上海"
+   ],
+   "requirements": "1、 本科及以上学历，热爱互联网行业；\n2、 具备优秀的分析问题、解决问题、信息整合、数据挖掘、逻辑组织和观点提炼能力；有一定方案撰写和excel建模能力；\n3、 良好的沟通能力和团队合作精神。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1212183855952704521",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1212183855952704521",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "业务管理运营",
+   "category": "运营",
+   "city": [
+    "深圳总部"
+   ],
+   "requirements": "1、经营分析相关经验，互联网广告、咨询公司或投研TMT分析类背景优先；\n2、具备优秀的数据思维能力和数据决策意识, 对业务逻辑和数据表现敏感，能够独立分析并解决问题，并基于数据提出有效的业务洞察及驱动业务的策略建议；\n3、有较强的人际沟通、协调能力，并有丰富的团队沟通及内外部合作经验，推动业务战略决策的制定和落地；\n4、熟悉并能熟练使用SQL、Python或R 等语言工具，熟悉Tableau、SPSS等常用分析工具。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1284317968595231744",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1284317968595231744",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "业务管理运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京",
+    "成都"
+   ],
+   "requirements": "1、经营分析相关经验，互联网广告、咨询公司或投研TMT分析类背景优先；\n2、具备优秀的数据思维能力和数据决策意识, 对业务逻辑和数据表现敏感，能够独立分析并解决问题，并基于数据提出有效的业务洞察及驱动业务的策略建议；\n3、有较强的人际沟通、协调能力，并有丰富的团队沟通及内外部合作经验，推动业务战略决策的制定和落地；\n4、熟悉并能熟练使用SQL、Python或R 等语言工具，熟悉Tableau、SPSS等常用分析工具。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1226875738188556288",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1226875738188556288",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "业务管理运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "北京"
+   ],
+   "requirements": "1、经营分析相关经验，互联网广告、咨询公司或投研TMT分析类背景优先；\n2、具备优秀的数据思维能力和数据决策意识, 对业务逻辑和数据表现敏感，能够独立分析并解决问题，并基于数据提出有效的业务洞察及驱动业务的策略建议；\n3、有较强的人际沟通、协调能力，并有丰富的团队沟通及内外部合作经验，推动业务战略决策的制定和落地；\n4、熟悉并能熟练使用SQL、Python或R 等语言工具，熟悉Tableau、SPSS等常用分析工具。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1234496944370743296",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1234496944370743296",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "游戏发行/运营培训生",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "上海"
+   ],
+   "requirements": "1、专业不限，学科成绩优秀，综合素质扎实。同时热爱游戏，对游戏设计、玩家心理或流行内容有自己的独到判断，并持续关注行业动态。\n2、具备一定的产品思维，对数据敏感，能从数据和反馈中找到洞察，并转化为行动。\n3、具有优秀的学习能力、创造力、沟通能力、逻辑思维、系统分析与文字组织能力，能从思考事物规律中获得乐趣； \n4、乐于接受新鲜事物，对流行文化、创新科技、电子竞技等有较高关注度；热爱生活、关注人性，对玩家的心态和行为有天然的敏感与理解。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1282032033786619905",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1282032033786619905",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "游戏发行/运营培训生",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "上海",
+    "成都"
+   ],
+   "requirements": "1、专业不限，学科成绩优秀，综合素质扎实。同时热爱游戏，对游戏设计、玩家心理或流行内容有自己的独到判断，并持续关注行业动态。\n2、具备一定的产品思维，对数据敏感，能从数据和反馈中找到洞察，并转化为行动。\n3、具有优秀的学习能力、创造力、沟通能力、逻辑思维、系统分析与文字组织能力，能从思考事物规律中获得乐趣； \n4、乐于接受新鲜事物，对流行文化、创新科技、电子竞技等有较高关注度；热爱生活、关注人性，对玩家的心态和行为有天然的敏感与理解。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1219751773724899328",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1219751773724899328",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "游戏发行/运营培训生",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "上海",
+    "澄迈县"
+   ],
+   "requirements": "1、专业不限，学科成绩优秀，综合素质扎实。同时热爱游戏，对游戏设计、玩家心理或流行内容有自己的独到判断，并持续关注行业动态。\n2、具备一定的产品思维，对数据敏感，能从数据和反馈中找到洞察，并转化为行动。\n3、具有优秀的学习能力、创造力、沟通能力、逻辑思维、系统分析与文字组织能力，能从思考事物规律中获得乐趣； \n4、乐于接受新鲜事物，对流行文化、创新科技、电子竞技等有较高关注度；热爱生活、关注人性，对玩家的心态和行为有天然的敏感与理解。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1227032278660950017",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1227032278660950017",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "游戏市场运营智能模型研究",
+   "category": "运营",
+   "city": [
+    "上海"
+   ],
+   "requirements": "",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1231829074692139168",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1231829074692139168",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "员工福利运营",
+   "category": "运营",
+   "city": [
+    "深圳总部",
+    "上海",
+    "中国香港"
+   ],
+   "requirements": "1、有超强的策划能力和创新意识；\n2、有优秀的协调能力、组织能力、分析能力或者策划能力。\n\n如果你是点子王、策划能手、创意家，快来投递吧！",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1284512614105555968",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1284512614105555968",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "员工福利运营",
+   "category": "运营",
+   "city": [
+    "深圳总部"
+   ],
+   "requirements": "1、有超强的策划能力和创新意识；\n2、有优秀的协调能力、组织能力、分析能力或者策划能力。\n\n如果你是点子王、策划能手、创意家，快来投递吧！",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1226957086077102082",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1226957086077102082",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "AI产品经理",
+   "category": "AI产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、具备敏捷的洞察和思维能力，并且能把思考变为现实以不断满足用户和客户需求；\n2、拥有优秀的逻辑思维与系统分析能力、技术敏感度及商业敏感度；\n3、具备优秀的产品Sense和用户同理心，能独立完成从用户洞察到产品方案的全流程思考。\n\n其他：\n怀揣着做出优秀互联网产品的梦想，拥有对AI行业和产品的极大热情。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1283126456553382912",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1283126456553382912",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "AI产品经理",
+   "category": "AI产品",
+   "city": [
+    "深圳总部",
+    "上海"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、具备敏捷的洞察和思维能力，并且能把思考变为现实以不断满足用户和客户需求；\n2、拥有优秀的逻辑思维与系统分析能力、技术敏感度及商业敏感度；\n3、具备优秀的产品Sense和用户同理心，能独立完成从用户洞察到产品方案的全流程思考。\n\n其他：\n怀揣着做出优秀互联网产品的梦想，拥有对AI行业和产品的极大热情。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1310631402664067072",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1310631402664067072",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "AI产品经理",
+   "category": "AI产品",
+   "city": [
+    "深圳总部",
+    "北京",
+    "上海",
+    "杭州"
+   ],
+   "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI 的输出进行高质量判断，具备人机协同的工作意识和习惯。\n\n专业能力：\n1、具备敏捷的洞察和思维能力，并且能把思考变为现实以不断满足用户和客户需求；\n2、拥有优秀的逻辑思维与系统分析能力、技术敏感度及商业敏感度；\n3、具备优秀的产品Sense和用户同理心，能独立完成从用户洞察到产品方案的全流程思考。\n\n其他：\n怀揣着做出优秀互联网产品的梦想，拥有对AI行业和产品的极大热情。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1284862486247711744",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1284862486247711744",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "CSIG技术产品商务培训生",
+   "category": "产品",
+   "city": [
+    "青岛",
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州",
+    "成都",
+    "武汉",
+    "杭州",
+    "南京",
+    "中国香港",
+    "西安",
+    "重庆",
+    "厦门"
+   ],
+   "requirements": "1、计算机、信息技术、计算机交叉学科等相关专业背景优先，商科专业背景同时愿意快速学习技术产品知识的同学；\n2、具备良好的综合素质，有优秀的沟通和团队协作能力、热爱挑战，能在复杂环境中探索解决路径；\n3、愿意将“给客户提供优秀的技术产品，并达成商务目标”作为个人职业发展方向；\n4、积极拥抱云、大数据、人工智能等技术产品领域的变化，具备快速学习能力及敏锐的市场洞察意识。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1284317542697182210",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1284317542697182210",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "校招",
+   "company_slug": "tencent",
+   "first_seen": "2026-10-27",
+   "is_new": true
+  },
+  {
+   "company": "腾讯",
+   "title": "CSIG技术产品商务培训生",
+   "category": "产品",
+   "city": [
+    "西安",
+    "深圳总部",
+    "北京",
+    "上海",
+    "广州",
+    "杭州",
+    "南京",
+    "厦门",
+    "中国香港"
+   ],
+   "requirements": "1、计算机、信息技术、计算机交叉学科等相关专业背景优先，商科专业背景同时愿意快速学习技术产品知识的同学；\n2、具备良好的综合素质，有优秀的沟通和团队协作能力、热爱挑战，能在复杂环境中探索解决路径；\n3、愿意将“给客户提供优秀的技术产品，并达成商务目标”作为个人职业发展方向；\n4、积极拥抱云、大数据、人工智能等技术产品领域的变化，具备快速学习能力及敏锐的市场洞察意识。",
+   "deadline": null,
+   "apply_url": "https://join.qq.com/post_detail.html?postid=1153452731391100929",
+   "source_url": "https://join.qq.com/post_detail.html?postid=1153452731391100929",
+   "fetched_at": "2026-10-27T13:54:39+08:00",
+   "job_type": "实习",
+   "company_slug": "tencent",
    "first_seen": "2026-10-27",
    "is_new": true
   }

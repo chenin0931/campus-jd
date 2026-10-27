@@ -99,7 +99,7 @@ const md = [
   '## 数据', '', '- 全量机器可读：[`jobs/latest.json`](jobs/latest.json)', '- 给 Agent 的 skill：[`skill/SKILL.md`](skill/SKILL.md)',
   '- 字段说明：[`data/SCHEMA.md`](data/SCHEMA.md)', '', '数据只取自各公司校招官网的公开页面，以官网为准。', ''
 ].join('\n');
-fs.writeFileSync(path.join(ROOT, 'README.md'), md);
+fs.writeFileSync(path.join(ROOT, 'README.md'), md.replace(/\n{3,}/g, '\n\n'));
 
 const inf = jobs.filter(j => j.job_type_inferred).length;
 console.log(`分表行数：折叠前 ${rawRows} → 折叠后 ${foldRows}`);
