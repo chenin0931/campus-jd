@@ -1,20 +1,16 @@
-# 其他城市 · 校招 · 其他 · 全部公司（14 个岗位）
+# 其他城市 · 校招 · 其他 · 全部公司（9 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[美团 4](../../slices/meituan/campus/other/other.md) · [阿里巴巴 2](../../slices/alibaba/campus/other/other.md) · [华为 2](../../slices/huawei/campus/other/other.md) · [网易 2](../../slices/netease/campus/other/other.md) · [小米 2](../../slices/xiaomi/campus/other/other.md) · [京东 1](../../slices/jd/campus/other/other.md) · [OPPO 1](../../slices/oppo/campus/other/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[美团 4](../../slices/meituan/campus/other/other.md) · [华为 2](../../slices/huawei/campus/other/other.md) · [网易 2](../../slices/netease/campus/other/other.md) · [京东 1](../../slices/jd/campus/other/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 阿里巴巴 | Applied Scientist | 森尼韦尔 | 2026-10-27 | [详情](../../jobs/alibaba-199907780044.md) |
-| 阿里巴巴 | LLM and Multimodal Post-training-AliStar/Bravo Star | 森尼韦尔 | 2026-10-27 | [详情](../../jobs/alibaba-199907820114.md) |
 | 华为 | 消费者管理培训生 | 全球 | 2026-10-27 | [详情](../../jobs/huawei-38435.md) |
 | 华为 | 消费者管理培训生（小语种） | 全球 | 2026-10-27 | [详情](../../jobs/huawei-38436.md) |
 | 京东 | 医技 〔27届〕 | 上海/北京/天津/太原 | 2026-10-27 | [详情](../../jobs/jd-9313.md) |
 | 美团 | 商户/客户服务管理培训生（4个团队） | 张家口/扬州/南通/石家庄/洛阳/武汉 | 2026-10-27 | [1](../../jobs/meituan-4697213423.md) [2](../../jobs/meituan-4697213423.md) [3](../../jobs/meituan-4697213423.md) [4](../../jobs/meituan-4697213423.md) |
 | 网易 | 高中线下班课教师-有道领世 | 石家庄 | 2026-10-27 | [详情](../../jobs/netease-4852.md) |
 | 网易 | 高中线下一对一老师-有道领世 | 石家庄 | 2026-10-27 | [详情](../../jobs/netease-4851.md) |
-| OPPO | Channel Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1848.md) |
-| 小米 | 零售主管-外派（2个团队） 〔27届〕 | 罗安达/约翰内斯堡 | 2026-10-27 | [1](../../jobs/xiaomi-7671117671589644571.md) [2](../../jobs/xiaomi-7671117671589644571.md) |
 
 [总目录](../../llms.txt)

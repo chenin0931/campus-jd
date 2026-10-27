@@ -1,8 +1,8 @@
-# 其他城市 · 实习 · 产品 · 全部公司（25 个岗位）
+# 其他城市 · 实习 · 产品 · 全部公司（20 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[滴滴 20](../../slices/didi/intern/product/other.md) · [腾讯 4](../../slices/tencent/intern/product/other.md) · [小米 1](../../slices/xiaomi/intern/product/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[滴滴 20](../../slices/didi/intern/product/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -26,10 +26,5 @@
 | 滴滴 | IBG Food-产品实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-405cf543-2e18-415c-8342-6060fcb6103b.md) |
 | 滴滴 | IBG Food（3）产品实习生 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-715ec52c-eb5d-4469-8e9b-eefb899e9b4b.md) |
 | 滴滴 | Robotaxi service（4）产品实习生【MJ020619】 ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-d8dfe47d-b4d4-49a2-b167-e34849e2e6d8.md) |
-| 腾讯 | Product Manager Intern 108260 | Netherlands-Amsterdam | 2026-10-27 | [详情](../../jobs/tencent-108260.md) |
-| 腾讯 | Product Manager Intern, User Acqusition 108259 | Netherlands-Amsterdam | 2026-10-27 | [详情](../../jobs/tencent-108259.md) |
-| 腾讯 | Tencent Cloud CPaaS Product Management Intern 108019 | US-California | 2026-10-27 | [详情](../../jobs/tencent-108019.md) |
-| 腾讯 | Tencent Cloud CPaaS Product Management Intern 108020 | US-California | 2026-10-27 | [详情](../../jobs/tencent-108020.md) |
-| 小米 | Product&Compliance Intern | 伊斯坦布尔 | 2026-10-27 | [详情](../../jobs/xiaomi-7480839320724422765.md) |
 
 [总目录](../../llms.txt)

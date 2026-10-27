@@ -4,7 +4,8 @@
 // 输出：site/llms.txt、index.json、slices/、by-city/、changes/、jobs/；并刷新 README.md 中的总览表。
 const { gradYear, internDuration } = require('./lib/extract');
 const fs = require('fs'), path = require('path');
-const { COMPANY, CATS, TYPES, CITY, normCity, citySlug, postId } = require('./lib/site');
+const { COMPANY, CATS, TYPES, CITY, normCity, citySlug, postId, uniqIds } = require('./lib/site');
+const { stripOverseas } = require('./lib/overseas');
 const cityName = sl => sl === 'other' ? '其他城市' : (Object.keys(CITY).find(k => CITY[k] === sl) || sl);
 const ROOT = path.join(__dirname, '..'), DATA = path.join(ROOT, 'data'), SITE = path.join(ROOT, 'site');
 const MAX = 8 * 1024; // 单文件上限（字节）
@@ -18,10 +19,12 @@ const linkStatus = fs.existsSync(path.join(DATA, 'link_status.json')) ? JSON.par
 function load(w) {
   if (!w) return [];
   return fs.readdirSync(path.join(DATA, w)).filter(f => f.endsWith('.json')).sort().flatMap(f => {
-    const slug = f.slice(0, -5), arr = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8'));
+    const slug = f.slice(0, -5); let arr = JSON.parse(fs.readFileSync(path.join(DATA, w, f), 'utf8'));
     if (!Array.isArray(arr)) { issues.push(`${w}/${f} 不是数组，跳过`); return []; }
-    return arr.map(j => {
-      const pid = postId(j.apply_url);
+    { const r = stripOverseas(arr); arr = r.jobs; if (r.deleted.length || r.modified.length) issues.push(`${w}/${f} 海外岗后处理：删 ${r.deleted.length}、去海外城市 ${r.modified.length}`); } // §11，兜底手动来源
+    const pids = uniqIds(arr.map(j => ({ title: j.title, apply_url: j.apply_url, pid: postId(j.apply_url) })));
+    return arr.map((j, i) => {
+      const pid = pids[i].pid;
       if (!pid) issues.push(`${w}/${f} 无法从 apply_url 取 postId: ${j.apply_url}`);
       if (!CATS[j.category]) issues.push(`${w}/${f} 非法类别 ${j.category}`);
       const jt = TYPES[j.job_type] ? j.job_type : (/实习/.test(j.title) ? '实习' : '校招');

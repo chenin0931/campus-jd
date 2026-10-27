@@ -6,7 +6,7 @@
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| OPPO | Product Marketing Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1851.md) |
+| OPPO | Product Marketing Manager 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../jobs/oppo-1851.md) |
 | vivo | 产品策略经理-27届博士 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../jobs/vivo-f152f433-8ba3-42ac-9464-2c1f08ec51ed.md) |
 
 [总目录](../../llms.txt)

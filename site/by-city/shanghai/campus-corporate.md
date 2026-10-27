@@ -1,8 +1,8 @@
-# 上海 · 校招 · 职能 · 全部公司（58 个岗位）（第 1/2 页）
+# 上海 · 校招 · 职能 · 全部公司（59 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 15](../../slices/bytedance/campus/corporate/shanghai.md) · [米哈游 9](../../slices/mihoyo/campus/corporate/shanghai.md) · [美团 7](../../slices/meituan/campus/corporate/shanghai.md) · [得物 3](../../slices/dewu/campus/corporate/shanghai.md) · [京东 3](../../slices/jd/campus/corporate/shanghai.md) · [拼多多 3](../../slices/pinduoduo/campus/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/campus/corporate/shanghai.md) · [小红书 3](../../slices/xiaohongshu/campus/corporate/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/corporate/shanghai.md) · [携程 2](../../slices/ctrip/campus/corporate/shanghai.md) · [滴滴 2](../../slices/didi/campus/corporate/shanghai.md) · [华为 2](../../slices/huawei/campus/corporate/shanghai.md) · [小米 2](../../slices/xiaomi/campus/corporate/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/shanghai.md) · [网易 1](../../slices/netease/campus/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 15](../../slices/bytedance/campus/corporate/shanghai.md) · [米哈游 9](../../slices/mihoyo/campus/corporate/shanghai.md) · [美团 7](../../slices/meituan/campus/corporate/shanghai.md) · [拼多多 4](../../slices/pinduoduo/campus/corporate/shanghai.md) · [得物 3](../../slices/dewu/campus/corporate/shanghai.md) · [京东 3](../../slices/jd/campus/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/campus/corporate/shanghai.md) · [小红书 3](../../slices/xiaohongshu/campus/corporate/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/corporate/shanghai.md) · [携程 2](../../slices/ctrip/campus/corporate/shanghai.md) · [滴滴 2](../../slices/didi/campus/corporate/shanghai.md) · [华为 2](../../slices/huawei/campus/corporate/shanghai.md) · [小米 2](../../slices/xiaomi/campus/corporate/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/shanghai.md) · [网易 1](../../slices/netease/campus/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@
 | 华为 | 审计专员 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-40930.md) |
 | 京东 | 财务结算 〔27届〕 | 上海/北京/成都/广州/宿迁/郑州 | 2026-10-27 | [详情](../../jobs/jd-9309.md) |
 | 京东 | 人力资源（专业方向） 〔27届〕 | 上海/昆明/北京/成都/合肥/济南/太原/广州/南宁/南京/南通/宿迁/石家庄/郑州/杭州/海口/武汉/长沙/贵阳/沈阳/重庆/西安/哈尔滨 | 2026-10-27 | [详情](../../jobs/jd-9111.md) |
-| 京东 | 招标采购 〔27届〕 | 上海/北京/成都/广州/深圳/苏州/武汉/英国-伦敦/西安 | 2026-10-27 | [详情](../../jobs/jd-9057.md) |
+| 京东 | 招标采购 〔27届〕 | 上海/北京/成都/广州/深圳/苏州/武汉/西安 | 2026-10-27 | [详情](../../jobs/jd-9057.md) |
 | 美团 | 财务培训生(财务BP方向) | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4695102332.md) |
 | 美团 | 法务岗(诉讼方向) | 北京/重庆/上海/广州/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697314746.md) |
 | 美团 | 金融风控策略 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4696316198.md) |
 | 美团 | 行政专业 CoE 岗 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4697343507.md) |
-| 美团 | 招商采购岗 | 杭州/北京/上海/利雅得/成都/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4695162972.md) |
+| 美团 | 招商采购岗 | 杭州/北京/上海/成都/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4695162972.md) |
 | 美团 | AI招聘Builder（招聘） | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4695062216.md) |
 | 美团 | AI组织转型（组织发展） | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4694828828.md) |
 | 米哈游 | 财务（统招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9164.md) |

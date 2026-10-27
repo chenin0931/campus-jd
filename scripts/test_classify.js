@@ -57,6 +57,19 @@ for (const [t, want] of cases) { const got = classify(t); if (got !== want) { ba
   const { classifyJob, jdTech } = require('./lib/common'); const j = { title: '项目实习生-视觉设计', requirements: null, entry_requirements: '熟悉 Golang 后端开发，博士在读有研究论文' };
   if (jdTech(j.title, j.requirements) !== false || classifyJob(j.title, j.requirements) !== '设计') { bad++; console.log('FAIL entry_requirements 被读取'); }
   if (jdTech('数据实习生', j.entry_requirements) === false) { bad++; console.log('FAIL 对照组：同文本作为 requirements 应触发'); } }
+{ // §11 海外岗后处理：纯海外删、多城市去海外、港澳台保留
+  const { stripOverseas, isOverseas } = require('./lib/overseas');
+  const r = stripOverseas([{ title: 'a', city: ['吉隆坡'] }, { title: 'b', city: ['北京', '新加坡', 'US-California'] }, { title: 'c', city: ['香港', '台北', '澳门'] }, { title: 'd', city: ['Malaysia-Kuala Lumpur'] }, { title: 'e', city: ['澄迈县', '城市见官网'] }, { title: 'f', city: [] }]);
+  const eq = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+  if (!eq(r.jobs.map(j => j.title), ['b', 'c', 'e', 'f']) || !eq(r.jobs[0].city, ['北京']) || r.deleted.length !== 2 || r.modified.length !== 1) { bad++; console.log('FAIL overseas', JSON.stringify(r)); }
+  for (const c of ['中国-香港特别行政区', '香港特别行政区', '中国台湾', '上海市-上海', '广东省-深圳']) if (isOverseas(c)) { bad++; console.log('FAIL overseas 误判国内', c); } }
+{ // postId / id 撞车
+  const { postId, uniqIds } = require('./lib/site');
+  if (postId('https://join.qq.com/post_detail.html?postid=-12') === postId('https://join.qq.com/post_detail.html?postid=-34')) { bad++; console.log('FAIL 负数 postid 撞车'); }
+  if (postId('https://join.qq.com/post_detail.html?postid=1225871633341097984') !== '1225871633341097984') { bad++; console.log('FAIL 腾讯 postid'); }
+  const u = 'https://careers.pddglobalhr.com/campus/grad', a = uniqIds(['设计管培生', '法务助理', '设计管培生'].map(t => ({ title: t, apply_url: u, pid: postId(u) })));
+  if (a[0].pid === a[1].pid || a[0].pid !== a[2].pid) { bad++; console.log('FAIL 共用 URL 的不同岗位应各自唯一、同岗位仍相同', a); }
+  const b = uniqIds([{ title: 'x', apply_url: 'https://a/1234', pid: '1234' }]); if (b[0].pid !== '1234') { bad++; console.log('FAIL 无撞车时不应改 id'); } }
 console.log(bad ? `${bad} 条失败` : `全部 ${cases.length} 条通过`); process.exit(bad ? 1 : 0);
 // 城市名归一化
 { const { normCities } = require('./lib/common'); const eq = (a, b) => JSON.stringify(a) === JSON.stringify(b);

@@ -1,8 +1,8 @@
-# 上海 · 校招 · 设计 · 全部公司（101 个岗位）（第 1/2 页）
+# 上海 · 校招 · 设计 · 全部公司（102 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [字节跳动 23](../../slices/bytedance/campus/design/shanghai.md) · [网易 19](../../slices/netease/campus/design/shanghai.md) · [腾讯 10](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 24](../../slices/mihoyo/campus/design/shanghai.md) · [字节跳动 23](../../slices/bytedance/campus/design/shanghai.md) · [网易 19](../../slices/netease/campus/design/shanghai.md) · [腾讯 10](../../slices/tencent/campus/design/shanghai.md) · [阿里巴巴 7](../../slices/alibaba/campus/design/shanghai.md) · [小红书 5](../../slices/xiaohongshu/campus/design/shanghai.md) · [携程 3](../../slices/ctrip/campus/design/shanghai.md) · [得物 2](../../slices/dewu/campus/design/shanghai.md) · [京东 2](../../slices/jd/campus/design/shanghai.md) · [美团 2](../../slices/meituan/campus/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/design/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/design/shanghai.md) · [华为 1](../../slices/huawei/campus/design/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/design/shanghai.md) · [小米 1](../../slices/xiaomi/campus/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -49,6 +49,5 @@
 | 美团 | 体验设计师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697273246.md) |
 | 米哈游 | 2D美术（AI向） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9117.md) |
 | 米哈游 | 场景模型师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9167.md) |
-| 米哈游 | 场景原画师 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9173.md) |
 
 [下一页](campus-design-p2.md) · [总目录](../../llms.txt)

@@ -23,6 +23,6 @@
 | 小红书 | 【2027校招】综合创意写作 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22156.md) |
 | 小红书 | 【2027校招】AI创意影像制作 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22152.md) |
 | 小红书 | 服饰行业内衣童装-专家侧 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22770.md) |
-| 小红书 | Trust & Safety Policy Intern | 北京/上海/新加坡 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21956.md) |
+| 小红书 | Trust & Safety Policy Intern | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21956.md) |
 
 [总目录](../../llms.txt)

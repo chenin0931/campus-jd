@@ -1053,23 +1053,6 @@
   {
     "company": "阿里巴巴",
     "business_unit": [
-      "阿里国际数字商业集团"
-    ],
-    "title": "商品运营-东京",
-    "category": "运营",
-    "job_type": "校招",
-    "city": [
-      "东京"
-    ],
-    "requirements": "1. 有过知名电商、社区团购平台领域实习经验者优先考虑；\n2. 有较好的数据分析和沟通能力，良好的系统及逻辑思维能力，理解事物的复杂性并能从全局角度考虑问题；\n3. 熟悉各类电脑办公软件Word、Excel、PPT等软件；熟练掌握AE、PS、AI、PR等剪辑软件；\n4. 有较强表达能力，用对方能够理解的语言进行交流，表达清晰，确保他人能够及时、准确的获得信息，有良好的审美和节奏感强的视频分解能力；\n5. 为人诚信正直、积极主动、认真细心、能够接受新事物；拥有较强的学习能力、具有较强执行力、原则性及推动力。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199908160003",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199908160003",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
       "虎鲸文娱集团"
     ],
     "title": "虎鲸文娱娱跃班-少儿自制-执行导演",
@@ -1848,23 +1831,6 @@
   {
     "company": "阿里巴巴",
     "business_unit": [
-      "阿里国际数字商业集团"
-    ],
-    "title": "LLM and Multimodal Post-training-AliStar/Bravo Star",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "森尼韦尔"
-    ],
-    "requirements": "1、计算机科学、人工智能、机器学习或相关领域硕士或博士学位；\n2、具备 LLM 训练或后训练（fine-tuning / post-training）经验；\n3、在 NeurIPS、ICML、ICLR、CVPR 等顶级会议发表论文或参与开源项目。",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907820114",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907820114",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
       "阿里云"
     ],
     "title": "Data+AI融合：下一代多模态数据库/下一代AI数据湖-阿里星/A Star",
@@ -2003,23 +1969,6 @@
     "deadline": null,
     "apply_url": "https://campus-talent.alibaba.com/campus/position/199907680042",
     "source_url": "https://campus-talent.alibaba.com/campus/position/199907680042",
-    "fetched_at": "2026-10-27T18:19:01+08:00"
-  },
-  {
-    "company": "阿里巴巴",
-    "business_unit": [
-      "阿里国际数字商业集团"
-    ],
-    "title": "Applied Scientist",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "森尼韦尔"
-    ],
-    "requirements": "1. PhD, Master's, or Bachelor's degree in Computer Science, Engineering, Mathematics, or related fields;\n2. Ability to implement and verify state-of-the-art NLP or Computer Vision algorithms;\n3. Experience in successfully applying machine learning approaches to real-world personalization problems;\n4. Experience with building large language models;\n5. Knowledge of statistical methods, with strong mathematical skills;\n6. Excellent problem-solving and programming skills in Python.",
-    "deadline": null,
-    "apply_url": "https://campus-talent.alibaba.com/campus/position/199907780044",
-    "source_url": "https://campus-talent.alibaba.com/campus/position/199907780044",
     "fetched_at": "2026-10-27T18:19:01+08:00"
   },
   {

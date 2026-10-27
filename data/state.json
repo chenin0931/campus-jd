@@ -148,7 +148,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199908120002": {
    "first_seen": "2026-10-27",
@@ -13292,13 +13293,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4803800880": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4739225359": {
    "first_seen": "2026-10-27",
@@ -14078,7 +14081,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaohongshu-22754": {
    "first_seen": "2026-10-27",
@@ -15244,7 +15248,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-a3d5a4f0-c5fd-4816-afa3-57c3b7fc4d34": {
    "first_seen": "2026-10-27",
@@ -15574,7 +15579,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-2979e889-b8b8-4cac-9f6f-d6aef591a6ba": {
    "first_seen": "2026-10-27",
@@ -15778,7 +15784,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7697203833453758770": {
    "first_seen": "2026-10-27",
@@ -15832,13 +15839,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7671295548247083310": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7671295548246477102": {
    "first_seen": "2026-10-27",
@@ -15934,85 +15943,99 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935478140635401": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935478128281882": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935464878377266": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935312893823275": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935284204374335": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935283243977011": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935194911639844": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935167976540467": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935138549745939": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935136749865226": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935108438280499": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934973654026532": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934925583960329": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934795166058803": {
    "first_seen": "2026-10-27",
@@ -16030,49 +16053,57 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934527729453375": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934527728601407": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934488843176235": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934357804091686": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670933692873836851": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670933400378804534": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670931984176711945": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670931080719010067": {
    "first_seen": "2026-10-27",
@@ -16090,7 +16121,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670930864515860799": {
    "first_seen": "2026-10-27",
@@ -16294,13 +16326,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670886107165378835": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670885967847508278": {
    "first_seen": "2026-10-27",
@@ -21402,7 +21436,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907720123": {
    "first_seen": "2026-10-27",
@@ -21605,7 +21640,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "alibaba-199907640035": {
    "first_seen": "2026-10-27",
@@ -21773,13 +21809,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-26041109541010": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-260920012140234": {
    "first_seen": "2026-10-27",
@@ -22217,13 +22255,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "antgroup-26041509610060": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-27dfae62-75cc-4744-8711-0b25c49f9dc3": {
    "first_seen": "2026-10-27",
@@ -22791,7 +22831,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-bbb82502-9ecc-4252-8cb2-eee4932db4fe": {
    "first_seen": "2026-10-27",
@@ -22986,7 +23027,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-2e8ea336-3e17-48c1-9f41-353db0b73145": {
    "first_seen": "2026-10-27",
@@ -23037,7 +23079,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-7ef435eb-b1f2-4d34-991f-cd3fe424e6d2": {
    "first_seen": "2026-10-27",
@@ -23277,7 +23320,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "baidu-f7c577cb-aeaf-4382-8588-1688e397e8e1": {
    "first_seen": "2026-10-27",
@@ -23351,7 +23395,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-31041": {
    "first_seen": "2026-10-27",
@@ -23513,7 +23558,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-30112": {
    "first_seen": "2026-10-27",
@@ -23718,13 +23764,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-30243": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-29943": {
    "first_seen": "2026-10-27",
@@ -23918,7 +23966,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "bilibili-29206": {
    "first_seen": "2026-10-27",
@@ -38600,19 +38649,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4803890129": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4803837512": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4721439045": {
    "first_seen": "2026-10-27",
@@ -38840,7 +38892,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4697381206": {
    "first_seen": "2026-10-27",
@@ -39213,7 +39266,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4650800437": {
    "first_seen": "2026-10-27",
@@ -39333,7 +39387,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "meituan-4555137940": {
    "first_seen": "2026-10-27",
@@ -40855,7 +40910,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-4745": {
    "first_seen": "2026-10-27",
@@ -40927,7 +40983,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-4898": {
    "first_seen": "2026-10-27",
@@ -47437,7 +47494,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7698325415798393142": {
    "first_seen": "2026-10-27",
@@ -47473,7 +47531,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7686764793517001010": {
    "first_seen": "2026-10-27",
@@ -47582,7 +47641,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7671489622266661174": {
    "first_seen": "2026-10-27",
@@ -47696,109 +47756,127 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7671117671589644571": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935713390528778": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935610878511410": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935503051049267": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935478141470985": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935430540593458": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935375619442971": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935343642741030": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935313682549001": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935292522383625": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935257667307827": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935187111053578": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935186390288667": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935141807982858": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935107549301042": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935066206783807": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935066206062911": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670935050502998298": {
    "first_seen": "2026-10-27",
@@ -47810,55 +47888,64 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934973646194963": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934870566635822": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934849423493422": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934764413045028": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934761405548846": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934755752544562": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934733808159022": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934677377927487": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670934501371054399": {
    "first_seen": "2026-10-27",
@@ -47870,31 +47957,36 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670932811557177642": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670932377199790362": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670931927511992630": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670931558120327443": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670931328757680447": {
    "first_seen": "2026-10-27",
@@ -47930,13 +48022,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670931024012675366": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7670930896287385910": {
    "first_seen": "2026-10-27",
@@ -48504,7 +48598,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-106179": {
    "first_seen": "2026-10-27",
@@ -48517,121 +48612,141 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107692": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108251": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108306": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108305": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107847": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108278": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108293": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108295": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108296": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108252": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108279": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108261": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107662": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108211": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108260": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108258": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108259": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108206": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107171": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-105155": {
    "first_seen": "2026-10-27",
@@ -48656,175 +48771,204 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-106470": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107024": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107012": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107011": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108239": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108213": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108149": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108217": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108216": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107344": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107363": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108186": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108152": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107794": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108178": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108176": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108151": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107793": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107927": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108169": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107659": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108126": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108100": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107974": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108019": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108020": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108031": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107720": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108000": {
    "first_seen": "2026-10-27",
@@ -48837,139 +48981,162 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107933": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107938": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107949": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107835": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107887": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107147": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107226": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107868": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107870": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107822": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107551": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107790": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107754": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-104908": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107518": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107259": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107380": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107379": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107361": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-107266": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108277": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-108263": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7701246068051544347": {
    "first_seen": "2026-10-27",
@@ -49421,7 +49588,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7686451406916897060": {
    "first_seen": "2026-10-27",
@@ -49458,13 +49626,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7685728870188157227": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7685687737094424895": {
    "first_seen": "2026-10-27",
@@ -49494,7 +49664,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7685223010021738778": {
    "first_seen": "2026-10-27",
@@ -49531,7 +49702,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7683431074927724843": {
    "first_seen": "2026-10-27",
@@ -49609,7 +49781,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7681214482618272009": {
    "first_seen": "2026-10-27",
@@ -49737,7 +49910,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7673420157939026202": {
    "first_seen": "2026-10-27",
@@ -50051,7 +50225,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7628223021711853874": {
    "first_seen": "2026-10-27",
@@ -50159,7 +50334,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7616261555642042651": {
    "first_seen": "2026-10-27",
@@ -50244,7 +50420,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7605898417445341503": {
    "first_seen": "2026-10-27",
@@ -50292,7 +50469,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7602444835899951379": {
    "first_seen": "2026-10-27",
@@ -50322,7 +50500,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7601099261011085610": {
    "first_seen": "2026-10-27",
@@ -50334,19 +50513,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7594285918472177961": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7593963411378243903": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7592863879609321766": {
    "first_seen": "2026-10-27",
@@ -50401,13 +50583,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7571786112475515182": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7571645010808359218": {
    "first_seen": "2026-10-27",
@@ -50444,7 +50628,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7563478037440104713": {
    "first_seen": "2026-10-27",
@@ -50462,7 +50647,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7559471854135560486": {
    "first_seen": "2026-10-27",
@@ -50475,7 +50661,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7555089560876632329": {
    "first_seen": "2026-10-27",
@@ -50548,13 +50735,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7538333996460556396": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7537842909430726764": {
    "first_seen": "2026-10-27",
@@ -50584,7 +50773,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7530377350727336044": {
    "first_seen": "2026-10-27",
@@ -50632,7 +50822,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7515272730566180973": {
    "first_seen": "2026-10-27",
@@ -50650,7 +50841,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7505996427942183021": {
    "first_seen": "2026-10-27",
@@ -50674,7 +50866,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7495599654902759533": {
    "first_seen": "2026-10-27",
@@ -50692,7 +50885,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7494180468439498860": {
    "first_seen": "2026-10-27",
@@ -50704,7 +50898,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7485625069730807917": {
    "first_seen": "2026-10-27",
@@ -50728,13 +50923,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7480499948775571565": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7471073390707900525": {
    "first_seen": "2026-10-27",
@@ -50795,7 +50992,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "xiaomi-7358280499309838444": {
    "first_seen": "2026-10-27",
@@ -50813,7 +51011,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "didi-d8dfe47d-b4d4-49a2-b167-e34849e2e6d8": {
    "first_seen": "2026-10-27",
@@ -50891,7 +51090,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "tencent-1244420450084484096": {
    "first_seen": "2026-10-27",
@@ -50948,6 +51148,30 @@
    "status": "active"
   },
   "tencent-1226701088032696320": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "pinduoduo-h0e6bb424d2": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "pinduoduo-h6f043e3b82": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "pinduoduo-h73c2dd97b2": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "pinduoduo-h753a5aed7a": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",

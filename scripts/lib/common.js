@@ -176,7 +176,8 @@ function writeJobs(slug, jobs, opts = {}) {
   if (!jobs.length) throw new Error(`${slug}: 0 条，不写出`);
   jobs = jobs.filter(j => !jdTech(j.title, j.requirements));  // JD 第二道把关（§10）
   for (const j of jobs) if (!j.city || !j.city.length) j.city = cityFromText(j.requirements);
-  for (const j of jobs) j.city = normCities(j.city);  // 公共后处理：城市名归一化  // 公共后处理：无城市（如部分 Moka 岗）从岗位描述提取
+  for (const j of jobs) j.city = normCities(j.city);
+  { const r = require('./overseas').stripOverseas(jobs); jobs = r.jobs; if (r.deleted.length || r.modified.length) console.log(`${slug}: 海外岗后处理 删 ${r.deleted.length}、去海外城市 ${r.modified.length}（§11）`); }  // 公共后处理：海外岗（港澳台以外）删除/去城市
   if (fs.existsSync(file) && !a.force) {
     const old = JSON.parse(fs.readFileSync(file, 'utf8')).length, min = +(process.env.MIN_RATIO || 0.5);
     if (jobs.length < old * min) throw new Error(`${slug}: 新 ${jobs.length} 条 < 旧 ${old} 条×${min}，疑似抓取异常，不覆盖（--force 强制）`);
