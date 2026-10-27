@@ -12,7 +12,7 @@
 - 实习时长 intern_duration: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
-- 投递: https://careers.pddglobalhr.com/campus/intern/detail?positionId=c1fe33d8-c73e-46e5-9fae-8163c9d9b4ce（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://careers.pddglobalhr.com/campus/intern/detail?positionId=c1fe33d8-c73e-46e5-9fae-8163c9d9b4ce
 
 ## 岗位要求
 

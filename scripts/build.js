@@ -63,7 +63,7 @@ let st = fs.existsSync(STATE) ? JSON.parse(fs.readFileSync(STATE, 'utf8')) : {};
 if (!st.jobs) { const old = st.first_seen || {}; st = { jobs: {} };
   for (const j of [...prevMap.values(), ...curMap.values()]) if (old[j.apply_url]) st.jobs[j.id] = { first_seen: old[j.apply_url] }; }
 for (const [id, j] of curMap) { const s = st.jobs[id] ||= { first_seen: today }; s.last_seen = today; s.last_week = cur; s.status = 'active'; delete s.removed_at;
-  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? 'unverified' : (linkStatus[id]?.status || 'unchecked'); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
+  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? (linkStatus[id]?.code === 'manual-browser-verified' ? linkStatus[id].status : 'unverified') : (linkStatus[id]?.status || 'unchecked'); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
 const removed = [];
 for (const [id, s] of Object.entries(st.jobs)) if (!curMap.has(id) && s.status === 'active') { s.status = 'removed'; s.removed_at = today; if (prevMap.has(id)) removed.push({ ...prevMap.get(id), status: 'removed', first_seen: s.first_seen }); }
 st.updated_at = today; st.week = cur;
@@ -148,7 +148,7 @@ for (const [rn, rs] of Object.entries(REG)) { index.region_counts[rs] = jobs.fil
 index.company_pages = [];
 for (const co of companies) {
   const f = `companies/${co}.md`, ss = index.slices.filter(s => s.company === co), c = index.companies[co];
-  const lines = [`# ${names[co]} 总览（在招 ${c.total}：校招 ${c.campus}，实习 ${c.intern}）`, '', ...(manual[co] ? [`> ${manualTag(co)}。该公司无自动抓取器，靠浏览器手动更新；链接统一「链接待核」，岗位要求为空时请到官网链接查看。`, ''] : []), NOTE, '', '没列出的 类型×类别 组合就是没有岗位，不要再猜路径。', ''];
+  const lines = [`# ${names[co]} 总览（在招 ${c.total}：校招 ${c.campus}，实习 ${c.intern}）`, '', ...(manual[co] ? [`> ${manualTag(co)}。该公司无自动抓取器，靠浏览器手动更新；${jobs.filter(j => j.company_slug === co).every(j => j.link_status === 'ok') ? '链接已人工逐条核对' : '链接统一「链接待核」'}，岗位要求为空时请到官网链接查看。`, ''] : []), NOTE, '', '没列出的 类型×类别 组合就是没有岗位，不要再猜路径。', ''];
   for (const [jt, ts] of Object.entries(TYPES)) for (const [cn, cs] of Object.entries(CATS)) {
     const l = ss.filter(s => s.job_type === ts && s.category === cs).sort((a, b) => b.count - a.count); if (!l.length) continue;
     const n = jobs.filter(j => j.company_slug === co && j.job_type === jt && j.category === cn).length;

@@ -20726,8 +20726,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "removed",
-   "removed_at": "2026-10-27"
+   "status": "active"
   },
   "alibaba-199907720035": {
    "first_seen": "2026-10-27",
@@ -50959,21 +50958,43 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "pinduoduo-h6f043e3b82": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "pinduoduo-h73c2dd97b2": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "pinduoduo-h753a5aed7a": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "removed",
+   "removed_at": "2026-10-27"
+  },
+  "pinduoduo-e1d2925a-9895-4495-aad1-e7178c0a4c31": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "pinduoduo-1cb69201-116c-4eb6-bf17-fa644ded950f": {
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "pinduoduo-5ee17eb4-3ed4-45d4-88d3-471c614af16f": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",

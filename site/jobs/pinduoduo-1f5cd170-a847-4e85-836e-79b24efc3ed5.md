@@ -11,7 +11,7 @@
 - 届别 grad_year: 2027届
 - 首次出现: 2026-10-27　最近出现: 2026-10-27
 - 截止: 以官网为准
-- 投递: https://careers.pddglobalhr.com/campus/grad/detail?positionId=1f5cd170-a847-4e85-836e-79b24efc3ed5（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://careers.pddglobalhr.com/campus/grad/detail?positionId=1f5cd170-a847-4e85-836e-79b24efc3ed5
 
 ## 岗位要求
 

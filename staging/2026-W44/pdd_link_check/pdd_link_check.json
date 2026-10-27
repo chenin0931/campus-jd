@@ -1,0 +1,244 @@
+{
+ "checked_at": "2026-10-27 (UTC+8)",
+ "method": "官网 careers.pddglobalhr.com 详情页用无头 Chrome 正常渲染读取；未调用带 anti_content 的接口、未登录",
+ "summary": {
+  "ok": 25,
+  "fixed": 4,
+  "not_found": 0,
+  "unverifiable": 0
+ },
+ "roles": [
+  {
+   "id": "pinduoduo-5f91d23a-54c1-4fc1-93f7-c81af681ec84",
+   "title": "物流运营管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=5f91d23a-54c1-4fc1-93f7-c81af681ec84",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-01bf6409-6ce9-44b8-b36f-494fc13a3785",
+   "title": "商务管培生（香港）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=01bf6409-6ce9-44b8-b36f-494fc13a3785",
+   "status": "ok",
+   "new_url": null,
+   "notes": "官网城市写「中国香港」，与香港一致；官网职位类别为运营"
+  },
+  {
+   "id": "pinduoduo-e22c34bf-9ef6-431b-a739-a4e94387413d",
+   "title": "运营管培生（区域业务）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=e22c34bf-9ef6-431b-a739-a4e94387413d",
+   "status": "ok",
+   "new_url": null,
+   "notes": "官网城市「全国多省区」，与全国多地一致"
+  },
+  {
+   "id": "pinduoduo-b168e225-3034-4cac-8e3a-ea4aff372a67",
+   "title": "仓配物流管培生（区域业务）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=b168e225-3034-4cac-8e3a-ea4aff372a67",
+   "status": "ok",
+   "new_url": null,
+   "notes": "同上"
+  },
+  {
+   "id": "pinduoduo-1502839e-a636-46a8-856f-071c2542f3b7",
+   "title": "质控管培生（区域业务）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=1502839e-a636-46a8-856f-071c2542f3b7",
+   "status": "ok",
+   "new_url": null,
+   "notes": "同上"
+  },
+  {
+   "id": "pinduoduo-64fe882f-b4b6-4b8c-9931-7b336b18e818",
+   "title": "HR培训生（区域业务）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=64fe882f-b4b6-4b8c-9931-7b336b18e818",
+   "status": "ok",
+   "new_url": null,
+   "notes": "同上"
+  },
+  {
+   "id": "pinduoduo-2cc76787-d5a1-486b-81e4-b8847b135956",
+   "title": "运营中台管培生（广东）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=2cc76787-d5a1-486b-81e4-b8847b135956",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-878ca01a-dfd0-402d-8844-f664de2e29b3",
+   "title": "仓储管理管培生（广东）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=878ca01a-dfd0-402d-8844-f664de2e29b3",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-20a60163-e39f-4aa8-9886-1cc49b4c4432",
+   "title": "质检管培生（广东）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=20a60163-e39f-4aa8-9886-1cc49b4c4432",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-11ba506f-f655-4008-87f7-6c5209ea8233",
+   "title": "用户体验运营（多语种优势-上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=11ba506f-f655-4008-87f7-6c5209ea8233",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-3aaa65b4-1f32-4843-90d6-1e339cba7a34",
+   "title": "数据分析师",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=3aaa65b4-1f32-4843-90d6-1e339cba7a34",
+   "status": "ok",
+   "new_url": null,
+   "notes": "官网类别标「研发」，本库分类未改动"
+  },
+  {
+   "id": "pinduoduo-52a3964f-10e0-4d53-b9fb-8a30aa6c4bdf",
+   "title": "产品管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=52a3964f-10e0-4d53-b9fb-8a30aa6c4bdf",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-3bbb35c8-c711-4f8e-8735-2362c97fc2c5",
+   "title": "产品管培生（广东省）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=3bbb35c8-c711-4f8e-8735-2362c97fc2c5",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-ba49c098-6493-4b55-a4d5-3af01d362fc7",
+   "title": "市场管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=ba49c098-6493-4b55-a4d5-3af01d362fc7",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-d9d18ec8-0ace-4154-9b6d-0490f97a558c",
+   "title": "合规策略管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=d9d18ec8-0ace-4154-9b6d-0490f97a558c",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-1f5cd170-a847-4e85-836e-79b24efc3ed5",
+   "title": "商务管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=1f5cd170-a847-4e85-836e-79b24efc3ed5",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-2294d7d0-3186-433b-95fc-d05ff85c33a8",
+   "title": "运营管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=2294d7d0-3186-433b-95fc-d05ff85c33a8",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-b8035e7b-d947-4e3e-96e9-4d81316842bc",
+   "title": "商家运营（多语种优势-上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=b8035e7b-d947-4e3e-96e9-4d81316842bc",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-60266382-d957-41e4-bd5d-1713aa404759",
+   "title": "合规运营管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=60266382-d957-41e4-bd5d-1713aa404759",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-0c949a90-196a-4383-b0fb-2a3870b4b79f",
+   "title": "HR管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=0c949a90-196a-4383-b0fb-2a3870b4b79f",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-23520b34-377e-41d7-b8b5-526d86f4fec8",
+   "title": "HR管培生（广东省）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=23520b34-377e-41d7-b8b5-526d86f4fec8",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-c182ce04-7520-4d2e-8ac0-4027acb9bdd9",
+   "title": "HR管培生（河北雄安）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=c182ce04-7520-4d2e-8ac0-4027acb9bdd9",
+   "status": "ok",
+   "new_url": null,
+   "notes": "官网城市「河北雄安」"
+  },
+  {
+   "id": "pinduoduo-ccf2e8fa-ed82-4b8d-8641-3d5334fb1160",
+   "title": "行政管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=ccf2e8fa-ed82-4b8d-8641-3d5334fb1160",
+   "status": "ok",
+   "new_url": null,
+   "notes": "详情页标题、城市、届别/类型一致"
+  },
+  {
+   "id": "pinduoduo-8999575e-951d-43ad-b262-2abb1a920787",
+   "title": "HR实习生",
+   "old_url": "https://careers.pddglobalhr.com/campus/intern/detail?positionId=8999575e-951d-43ad-b262-2abb1a920787",
+   "status": "ok",
+   "new_url": null,
+   "notes": "官网城市「上海市」；页面届别标 2027届"
+  },
+  {
+   "id": "pinduoduo-c1fe33d8-c73e-46e5-9fae-8163c9d9b4ce",
+   "title": "校园大使（2027届校招）",
+   "old_url": "https://careers.pddglobalhr.com/campus/intern/detail?positionId=c1fe33d8-c73e-46e5-9fae-8163c9d9b4ce",
+   "status": "ok",
+   "new_url": null,
+   "notes": "官网城市为「/」（未填），与「不限」一致"
+  },
+  {
+   "id": "pinduoduo-campus(共享列表页链接)",
+   "title": "消费者服务运营管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad",
+   "status": "fixed",
+   "new_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=302ef710-75f2-4e9c-bc94-244ba721d1b8",
+   "notes": "原链接是应届生列表页而非详情页；在官网列表点开该岗位得到详情链接，详情页标题/上海/2027届校招均一致"
+  },
+  {
+   "id": "pinduoduo-campus(共享列表页链接)",
+   "title": "设计管培生（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad",
+   "status": "fixed",
+   "new_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=e1d2925a-9895-4495-aad1-e7178c0a4c31",
+   "notes": "原链接是应届生列表页而非详情页；在官网列表点开该岗位得到详情链接，详情页标题/上海/2027届校招均一致"
+  },
+  {
+   "id": "pinduoduo-campus(共享列表页链接)",
+   "title": "视频创意制作（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad",
+   "status": "fixed",
+   "new_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=1cb69201-116c-4eb6-bf17-fa644ded950f",
+   "notes": "原链接是应届生列表页而非详情页；在官网列表点开该岗位得到详情链接，详情页标题/上海/2027届校招均一致"
+  },
+  {
+   "id": "pinduoduo-campus(共享列表页链接)",
+   "title": "法务助理（上海）",
+   "old_url": "https://careers.pddglobalhr.com/campus/grad",
+   "status": "fixed",
+   "new_url": "https://careers.pddglobalhr.com/campus/grad/detail?positionId=5ee17eb4-3ed4-45d4-88d3-471c614af16f",
+   "notes": "原链接是应届生列表页而非详情页；在官网列表点开该岗位得到详情链接，详情页标题/上海/2027届校招均一致"
+  }
+ ]
+}
