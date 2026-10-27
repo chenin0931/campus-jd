@@ -1,0 +1,315 @@
+{
+  "_note": "AI创业公司抓取配置。来源 staging/2026-W44/startups/LIST.md。feishu: mode=campus|social_intern|text；moka: orgId/siteId",
+  "feishu": [
+    {
+      "slug": "modelbest",
+      "company": "面壁智能",
+      "domain": "https://modelbest.jobs.feishu.cn",
+      "websitePath": "campus",
+      "mode": "campus"
+    },
+    {
+      "slug": "agibot",
+      "company": "智元机器人",
+      "domain": "https://agirobot.jobs.feishu.cn",
+      "websitePath": "campusrecruitment",
+      "mode": "campus"
+    },
+    {
+      "slug": "spiritai",
+      "company": "千寻智能",
+      "domain": "https://nwd4iy9rd2s.jobs.feishu.cn",
+      "websitePath": "campusofSpiritAI",
+      "mode": "campus"
+    },
+    {
+      "slug": "shengshu",
+      "company": "生数科技",
+      "domain": "https://shengshu.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "01ai",
+      "company": "零一万物",
+      "domain": "https://01ai.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "infinigence",
+      "company": "无问芯穹",
+      "domain": "https://infinigence.jobs.feishu.cn",
+      "websitePath": "infinigence",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "mobvoi",
+      "company": "出门问问",
+      "domain": "https://mobvoi.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "lightwheel",
+      "company": "光轮智能",
+      "domain": "https://lightwheel.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "ai2robotics",
+      "company": "智平方",
+      "domain": "https://ai2robotics.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "aisphere",
+      "company": "爱诗科技",
+      "domain": "https://aisphere.jobs.feishu.cn",
+      "websitePath": "join",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "x2robot",
+      "company": "自变量机器人",
+      "domain": "https://x2-robot.jobs.feishu.cn",
+      "websitePath": "912130",
+      "mode": "text"
+    },
+    {
+      "slug": "limx",
+      "company": "逐际动力",
+      "domain": "https://career.limxdynamics.com",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "flexiv",
+      "company": "非夕科技",
+      "domain": "https://flexivrobotics.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "text"
+    },
+    {
+      "slug": "booster",
+      "company": "加速进化",
+      "domain": "https://booster.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "tarsrobot",
+      "company": "它石智航",
+      "domain": "https://tarsrobot.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "tezign",
+      "company": "特赞",
+      "domain": "https://tezign.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "manifold",
+      "company": "流形空间",
+      "domain": "https://jobs.manifoldai.cn",
+      "websitePath": "campus",
+      "mode": "campus"
+    },
+    {
+      "slug": "manifold",
+      "company": "流形空间",
+      "domain": "https://jobs.manifoldai.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "wuji",
+      "company": "舞肌科技",
+      "domain": "https://wuji.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "baichuan",
+      "company": "百川智能",
+      "domain": "https://cq6qe6bvfr6.jobs.feishu.cn",
+      "websitePath": "646926",
+      "mode": "campus"
+    },
+    {
+      "slug": "baichuan",
+      "company": "百川智能",
+      "domain": "https://cq6qe6bvfr6.jobs.feishu.cn",
+      "websitePath": "baichuanzhaopin",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "dexmal",
+      "company": "原力灵机",
+      "domain": "https://dexmal-inc.jobs.feishu.cn",
+      "websitePath": "285572",
+      "mode": "campus"
+    },
+    {
+      "slug": "dexmal",
+      "company": "原力灵机",
+      "domain": "https://dexmal-inc.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "aibee",
+      "company": "爱笔",
+      "domain": "https://aibee.jobs.feishu.cn",
+      "websitePath": "834668",
+      "mode": "campus"
+    },
+    {
+      "slug": "aibee",
+      "company": "爱笔",
+      "domain": "https://aibee.jobs.feishu.cn",
+      "websitePath": "index",
+      "mode": "social_intern"
+    }
+  ],
+  "moka": [
+    {
+      "slug": "galbot",
+      "company": "银河通用",
+      "orgId": "yinhetongyong",
+      "siteId": 165930
+    },
+    {
+      "slug": "deepseek",
+      "company": "DeepSeek",
+      "orgId": "high-flyer",
+      "siteId": 140576
+    },
+    {
+      "slug": "moonshot",
+      "company": "月之暗面",
+      "orgId": "moonshot",
+      "siteId": 148507,
+      "pathKind": "campus-recruitment"
+    },
+    {
+      "slug": "moonshot",
+      "company": "月之暗面",
+      "orgId": "moonshot",
+      "siteId": 148506,
+      "pathKind": "apply",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "stepfun",
+      "company": "阶跃星辰",
+      "orgId": "step",
+      "siteId": 94905,
+      "pathKind": "campus-recruitment"
+    },
+    {
+      "slug": "stepfun",
+      "company": "阶跃星辰",
+      "orgId": "step",
+      "siteId": 94904,
+      "pathKind": "apply",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "zhihu",
+      "company": "知乎",
+      "orgId": "zhihu",
+      "siteId": 68321,
+      "pathKind": "campus_apply"
+    },
+    {
+      "slug": "zhihu",
+      "company": "知乎",
+      "orgId": "zhihu",
+      "siteId": 78336,
+      "pathKind": "apply",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "shopee",
+      "company": "Shopee",
+      "orgId": "shopee",
+      "siteId": 2962,
+      "pathKind": "campus-recruitment"
+    },
+    {
+      "slug": "weibo",
+      "company": "新浪/微博",
+      "orgId": "sina",
+      "siteId": 43536,
+      "pathKind": "campus-recruitment",
+      "sourceNote": "official site SSL failed; verified via 新浪招聘 official weibo"
+    },
+    {
+      "slug": "smartmore",
+      "company": "思谋科技",
+      "orgId": "smartmore",
+      "siteId": 143311,
+      "pathKind": "campus-recruitment"
+    },
+    {
+      "slug": "biren",
+      "company": "壁仞科技",
+      "orgId": "biren",
+      "siteId": 44727,
+      "pathKind": "campus-recruitment"
+    },
+    {
+      "slug": "astribot",
+      "company": "星尘智能",
+      "orgId": "astribot",
+      "siteId": 144862,
+      "pathKind": "campus-recruitment"
+    },
+    {
+      "slug": "uisee",
+      "company": "驭势科技",
+      "orgId": "yushi",
+      "siteId": 3773,
+      "pathKind": "campus_apply"
+    },
+    {
+      "slug": "uisee",
+      "company": "驭势科技",
+      "orgId": "yushi",
+      "siteId": 3774,
+      "pathKind": "apply",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "feixiang",
+      "company": "飞象星球",
+      "orgId": "fenbi",
+      "siteId": 193890,
+      "pathKind": "social-recruitment",
+      "mode": "social_intern"
+    },
+    {
+      "slug": "yuaiweiwu",
+      "company": "与爱为舞",
+      "orgId": "yuaiweiwu",
+      "siteId": 145290,
+      "pathKind": "campus-recruitment",
+      "sourceNote": "官网 aitutor100.com/aixue-join"
+    },
+    {
+      "slug": "yuaiweiwu",
+      "company": "与爱为舞",
+      "orgId": "yuaiweiwu",
+      "siteId": 145289,
+      "pathKind": "social-recruitment",
+      "mode": "social_intern",
+      "sourceNote": "官网 aitutor100.com/aixue-join"
+    }
+  ]
+}
