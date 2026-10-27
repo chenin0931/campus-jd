@@ -3,7 +3,7 @@
 - id: xiaohongshu-22540
 - 公司: 小红书
 - job_type: 实习
-- 类别: 其他
+- 类别: 分析
 - 城市: 上海、美国
 - status: active
 - 届别 grad_year: 2028届

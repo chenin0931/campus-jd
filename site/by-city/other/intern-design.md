@@ -1,8 +1,8 @@
-# 其他城市 · 实习 · 设计 · 全部公司（6 个岗位）
+# 其他城市 · 实习 · 设计 · 全部公司（5 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[滴滴 4](../../slices/didi/intern/design/other.md) · [腾讯 2](../../slices/tencent/intern/design/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[滴滴 4](../../slices/didi/intern/design/other.md) · [腾讯 1](../../slices/tencent/intern/design/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -10,6 +10,6 @@
 | 滴滴 | 设计部（10）设计实习生 ⚠️链接待核 |  | 2026-10-27 | [详情](../../jobs/didi-fc0016db-4913-4c78-a823-67811edd3e08.md) |
 | 滴滴 | 设计部（11）设计实习生 ⚠️链接待核 |  | 2026-10-27 | [详情](../../jobs/didi-615f4ac8-c9a1-468f-a946-1ecbd2c26274.md) |
 | 滴滴 | 设计部（12）设计实习生 ⚠️链接待核 |  | 2026-10-27 | [详情](../../jobs/didi-381dcc5f-bf7c-44be-9c6e-4f4e149ad155.md) |
-| 腾讯 | Game UI & Tools Intern (AI Focus) 108251（2个团队） ⚠️链接待核 | United/Kingdom-London | 2026-10-27 | [1](../../jobs/tencent-2110692196108910592.md) [2](../../jobs/tencent-2110692196108910592.md) |
+| 腾讯 | Game UI & Tools Intern (AI Focus) 108251 | United Kingdom-London | 2026-10-27 | [详情](../../jobs/tencent-108251.md) |
 
 [总目录](../../llms.txt)

@@ -3,7 +3,7 @@
 - id: bilibili-27341
 - 公司: 哔哩哔哩
 - job_type: 实习
-- 类别: 其他
+- 类别: 分析
 - 城市: 上海
 - status: active
 - 届别 grad_year: 未注明

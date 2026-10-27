@@ -1,8 +1,8 @@
-# 上海 · 实习 · 运营 · 全部公司（507 个岗位）（第 1/12 页）
+# 上海 · 实习 · 运营 · 全部公司（510 个岗位）（第 1/12 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 294](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 100](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 15](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 12](../../slices/meituan/intern/ops/shanghai.md) · [京东 7](../../slices/jd/intern/ops/shanghai.md) · [网易 7](../../slices/netease/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [腾讯 6](../../slices/tencent/intern/ops/shanghai.md) · [百度 2](../../slices/baidu/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 295](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 100](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 15](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 7](../../slices/jd/intern/ops/shanghai.md) · [网易 7](../../slices/netease/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [腾讯 6](../../slices/tencent/intern/ops/shanghai.md) · [百度 2](../../slices/baidu/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -54,6 +54,5 @@
 | 哔哩哔哩 | 日语运营实习生 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-31005.md) |
 | 哔哩哔哩 | 商务运营实习生 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28167.md) |
 | 哔哩哔哩 | 商业化-广告行业运营实习生(教育) 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28793.md) |
-| 哔哩哔哩 | 商业化-广告行业运营实习生(金融通信) 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28375.md) |
 
 [下一页](intern-ops-p2.md) · [总目录](../../llms.txt)

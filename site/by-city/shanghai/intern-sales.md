@@ -1,8 +1,8 @@
-# 上海 · 实习 · 销售 · 全部公司（11 个岗位）
+# 上海 · 实习 · 销售 · 全部公司（13 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[百度 3](../../slices/baidu/intern/sales/shanghai.md) · [字节跳动 3](../../slices/bytedance/intern/sales/shanghai.md) · [京东 2](../../slices/jd/intern/sales/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/intern/sales/shanghai.md) · [华为 1](../../slices/huawei/intern/sales/shanghai.md) · [美团 1](../../slices/meituan/intern/sales/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[百度 3](../../slices/baidu/intern/sales/shanghai.md) · [字节跳动 3](../../slices/bytedance/intern/sales/shanghai.md) · [京东 2](../../slices/jd/intern/sales/shanghai.md) · [小米 2](../../slices/xiaomi/intern/sales/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/intern/sales/shanghai.md) · [华为 1](../../slices/huawei/intern/sales/shanghai.md) · [美团 1](../../slices/meituan/intern/sales/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -17,5 +17,7 @@
 | 京东 | 大客户销售 〔27届〕 | 上海/北京/长春/成都/济南/广州/深圳/苏州/石家庄/郑州/杭州/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-4950.md) |
 | 京东 | 销售拓展 〔26届〕 | 上海/长春/成都/天津/深圳/长沙/遵义/大连/重庆 | 2026-10-27 | [详情](../../jobs/jd-5847.md) |
 | 美团 | 境外酒店销售支持实习生 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4490799538.md) |
+| 小米 | 交付顾问实习生 〔≥9个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7681268689022552370.md) |
+| 小米 | 零售顾问实习生 〔27/28届 · ≥1个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7672622342618548506.md) |
 
 [总目录](../../llms.txt)

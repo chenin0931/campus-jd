@@ -3,7 +3,7 @@
 - id: vivo-f4b70d54-baa6-421b-b85e-ad9e7b2187ea
 - 公司: vivo
 - job_type: 实习
-- 类别: 其他
+- 类别: 分析
 - 城市: 东莞
 - status: active
 - 届别 grad_year: 未注明

@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 产品 · 全部公司（65 个岗位）（第 1/2 页）
+# 深圳 · 实习 · 产品 · 全部公司（67 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 7](../../slices/tencent/intern/product/shenzhen.md) · [vivo 6](../../slices/vivo/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/product/shenzhen.md) · [滴滴 3](../../slices/didi/intern/product/shenzhen.md) · [美团 3](../../slices/meituan/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [华为 1](../../slices/huawei/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 7](../../slices/tencent/intern/product/shenzhen.md) · [vivo 6](../../slices/vivo/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/product/shenzhen.md) · [滴滴 3](../../slices/didi/intern/product/shenzhen.md) · [美团 3](../../slices/meituan/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [华为 1](../../slices/huawei/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | 字节跳动 | 商业化产品实习生（品牌创新玩法方向）-国际化广告创意与品牌 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7563240573743532293.md) |
 | 字节跳动 | 收银产品经理实习生-国际支付 〔27届 · ≥3个月，每周≥3天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7606285579219880245.md) |
 | 字节跳动 | 投放策略产品实习生 - 抖音 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7673816932219062581.md) |
+| 字节跳动 | 信贷产品实习生 - 国际支付（2个团队） | 上海/深圳/北京 | 2026-10-27 | [1](../../jobs/bytedance-7701264480365529349.md) [2](../../jobs/bytedance-7701263491918924037.md) |
 | 字节跳动 | 用户产品实习生-抖音效果与创作 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7506465013847410951.md) |
 | 字节跳动 | 用户产品实习生-今日头条 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7594401397208025397.md) |
 | 滴滴 | 设计&产品实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | [详情](../../jobs/didi-ae1a46c7-b5f0-43fa-803e-0831e73ae1f8.md) |
@@ -46,7 +47,5 @@
 | 快手 | 【留用实习】策略产品经理 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-11300.md) |
 | 快手 | 【留用实习】用户产品经理 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/kuaishou-11583.md) |
 | 美团 | 【2027】Keeta-产品实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4691986310.md) |
-| 美团 | 【实习】Keeta-供给及销售产品实习生 〔≥3个月，每周≥3天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/meituan-4743756908.md) |
-| 美团 | 搜推导购产品实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4150674945.md) |
 
 [下一页](intern-product-p2.md) · [总目录](../../llms.txt)

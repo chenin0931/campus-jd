@@ -1,11 +1,12 @@
-# 北京 · 实习 · 运营 · 全部公司（663 个岗位）（第 8/15 页）
+# 北京 · 实习 · 运营 · 全部公司（701 个岗位）（第 8/16 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 111](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 60](../../slices/baidu/intern/ops/beijing.md) · [美团 41](../../slices/meituan/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 110](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 61](../../slices/baidu/intern/ops/beijing.md) · [美团 42](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 用户增长产品运营（ASO方向）实习生 - TikTok用户增长 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7698590716648163589.md) |
 | 字节跳动 | 用户增长运营实习生 - 剪映CapCut | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7673085912372726069.md) |
 | 字节跳动 | 语音大模型小语种运营实习生（印尼语/葡萄牙语） - Data语音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670011255843653893.md) |
 | 字节跳动 | 越南货架增长运营实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7665328965864098101.md) |
@@ -46,7 +47,5 @@
 | 字节跳动 | AI Agent应用运营实习生 - Data AML 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7680495332044032309.md) |
 | 字节跳动 | AI产品运营（安全模型运营方向）实习生-TikTok 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7255597223294126392.md) |
 | 字节跳动 | AI产品运营实习生 - 抖音平台产品 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7656796105934031157.md) |
-| 字节跳动 | AI产品运营实习生 - 抖音研发 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7672703835110787381.md) |
-| 字节跳动 | AI产品运营实习生 - TikTok直播 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7649258396615182597.md) |
 
 [上一页](intern-ops-p7.md) · [下一页](intern-ops-p9.md) · [总目录](../../llms.txt)

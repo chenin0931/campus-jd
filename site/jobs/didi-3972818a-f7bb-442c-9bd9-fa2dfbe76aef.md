@@ -3,7 +3,7 @@
 - id: didi-3972818a-f7bb-442c-9bd9-fa2dfbe76aef
 - 公司: 滴滴
 - job_type: 校招
-- 类别: 其他
+- 类别: 运营
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2027届

@@ -3,7 +3,7 @@
 - id: netease-62800
 - 公司: 网易（其他）
 - job_type: 实习
-- 类别: 其他
+- 类别: 项目管理
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

@@ -1,8 +1,8 @@
-# 深圳 · 校招 · AI产品 · 全部公司（32 个岗位）
+# 深圳 · 校招 · AI产品 · 全部公司（31 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 26](../../slices/bytedance/campus/ai-product/shenzhen.md) · [美团 2](../../slices/meituan/campus/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/campus/ai-product/shenzhen.md) · [阿里巴巴 1](../../slices/alibaba/campus/ai-product/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 25](../../slices/bytedance/campus/ai-product/shenzhen.md) · [美团 2](../../slices/meituan/campus/ai-product/shenzhen.md) · [OPPO 2](../../slices/oppo/campus/ai-product/shenzhen.md) · [阿里巴巴 1](../../slices/alibaba/campus/ai-product/shenzhen.md) · [腾讯 1](../../slices/tencent/campus/ai-product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -22,7 +22,6 @@
 | 字节跳动 | AI产品经理 - 剪映CapCut 〔27届〕 | 北京/深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667532105950054661.md) |
 | 字节跳动 | AI产品经理 - 开发者服务 〔27届〕 | 杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667874143609588021.md) |
 | 字节跳动 | AI产品经理 - 数据平台 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667083864120002869.md) |
-| 字节跳动 | AI产品经理（采购Agent方向） - 集团信息系统 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667564159460378885.md) |
 | 字节跳动 | AI产品经理（垂直场景方向） - 集团信息系统 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667552110397114629.md) |
 | 字节跳动 | AI产品经理（剪映用户增长方向） - 剪映CapCut 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667170821950064949.md) |
 | 字节跳动 | AI产品经理（平台方向） - 风控 〔27届〕 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668645444991486213.md) |

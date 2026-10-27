@@ -1,11 +1,24 @@
-# 北京 · 实习 · AI产品 · 全部公司（177 个岗位）（第 5/5 页）
+# 北京 · 实习 · AI产品 · 全部公司（189 个岗位）（第 5/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 126](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 30](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 127](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 31](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 小红书 | 小红书点点产品实习生（AIx社区xPC端） 〔28/29届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22507.md) |
+| 小红书 | 智能体Agent Infra 产品经理实习生 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20205.md) |
+| 小红书 | Agent 应用产品（实习） | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22656.md) |
+| 小红书 | AI 数据产品实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22830.md) |
 | 小红书 | AI策略产品经理（大模型/Agent方向）实习（2个团队） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaohongshu-19686.md) [2](../../jobs/xiaohongshu-21729.md) |
+| 小米 | Agent策略产品实习生-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7701222625343293737.md) |
+| 小米 | Agent评测产品经理-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7699746217916483876.md) |
+| 小米 | AI 产品实习生 〔27/28届 · ≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7654079382692333865.md) |
+| 小米 | AI产品经理实习生 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7621512530250713382.md) |
+| 小米 | AI产品经理实习生（摄影与视觉美学方向） | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7613346896761719059.md) |
+| 小米 | AI创新产品实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7621073873320478995.md) [2](../../jobs/xiaomi-7605147007258446123.md) |
+| 小米 | AI培训方向产品经理 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7677898666723789094.md) |
+| 小米 | AI输入法产品 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7686451406916897060.md) |
+| 小米 | AI应用产品经理-汽车专项-实习-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7695586403459385663.md) |
 
 [上一页](intern-ai-product-p4.md) · [总目录](../../llms.txt)

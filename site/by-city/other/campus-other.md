@@ -1,8 +1,8 @@
-# 其他城市 · 校招 · 其他 · 全部公司（147 个岗位）（第 1/2 页）
+# 其他城市 · 校招 · 其他 · 全部公司（113 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[小米 64](../../slices/xiaomi/campus/other/other.md) · [京东 45](../../slices/jd/campus/other/other.md) · [美团 19](../../slices/meituan/campus/other/other.md) · [腾讯 9](../../slices/tencent/campus/other/other.md) · [阿里巴巴 2](../../slices/alibaba/campus/other/other.md) · [华为 2](../../slices/huawei/campus/other/other.md) · [网易 2](../../slices/netease/campus/other/other.md) · [OPPO 2](../../slices/oppo/campus/other/other.md) · [小红书 2](../../slices/xiaohongshu/campus/other/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小米 52](../../slices/xiaomi/campus/other/other.md) · [京东 38](../../slices/jd/campus/other/other.md) · [美团 13](../../slices/meituan/campus/other/other.md) · [阿里巴巴 2](../../slices/alibaba/campus/other/other.md) · [华为 2](../../slices/huawei/campus/other/other.md) · [网易 2](../../slices/netease/campus/other/other.md) · [小红书 2](../../slices/xiaohongshu/campus/other/other.md) · [OPPO 1](../../slices/oppo/campus/other/other.md) · [腾讯 1](../../slices/tencent/campus/other/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,26 +15,28 @@
 | 京东 | 客服支持储备 〔27届〕 | 成都/天津/大同/宿迁 | 2026-10-27 | [详情](../../jobs/jd-9308.md) |
 | 京东 | 门店督导（8个团队） 〔27届〕 | 上海/昆明/呼和浩特/北京/成都/天津/合肥/济南/东莞/佛山/广州/南宁/乌鲁木齐/南京/南昌/赣州/石家庄/郑州/宁波/杭州/海口/武汉/长沙/福州/贵阳/沈阳/重庆/西安 | 2026-10-27 | [1](../../jobs/jd-9307.md) [2](../../jobs/jd-9307.md) [3](../../jobs/jd-9307.md) [4](../../jobs/jd-9307.md) [5](../../jobs/jd-9307.md) [6](../../jobs/jd-9307.md) [7](../../jobs/jd-9307.md) [8](../../jobs/jd-9307.md) |
 | 京东 | 人才交付 〔27届〕 | 成都/石家庄/武汉 | 2026-10-27 | [详情](../../jobs/jd-9288.md) |
-| 京东 | 数据分析（4个团队） 〔27届〕 | 上海/北京/合肥/济南/太原/广州/南宁/乌鲁木齐/南京/南通/宿迁/南昌/石家庄/杭州/长沙/厦门/贵阳/西安 | 2026-10-27 | [1](../../jobs/jd-9081.md) [2](../../jobs/jd-9081.md) [3](../../jobs/jd-9081.md) [4](../../jobs/jd-9081.md) |
 | 京东 | 物流规划与实施（6个团队） 〔27届〕 | 上海/昆明/北京/长春/成都/合肥/济南/太原/广州/南宁/乌鲁木齐/南京/苏州/石家庄/郑州/杭州/海口/武汉/长沙/兰州/厦门/贵阳/沈阳/重庆/西安/哈尔滨 | 2026-10-27 | [1](../../jobs/jd-9105.md) [2](../../jobs/jd-9105.md) [3](../../jobs/jd-9105.md) [4](../../jobs/jd-9105.md) [5](../../jobs/jd-9105.md) [6](../../jobs/jd-9105.md) |
-| 京东 | 项目与流程管理（3个团队） 〔27届〕 | 上海/昆明/北京/济南/太原/广州/深圳/乌鲁木齐/南京/宿迁/南昌/石家庄/杭州/长沙/厦门/西安/哈尔滨 | 2026-10-27 | [1](../../jobs/jd-9125.md) [2](../../jobs/jd-9125.md) [3](../../jobs/jd-9125.md) |
 | 京东 | 信控管理储备（2个团队） 〔27届〕 | 昆明/成都/天津/青岛/大同/宿迁/海口 | 2026-10-27 | [1](../../jobs/jd-9334.md) [2](../../jobs/jd-9334.md) |
 | 京东 | 医技 〔27届〕 | 上海/北京/天津/太原 | 2026-10-27 | [详情](../../jobs/jd-9313.md) |
 | 京东 | 医师（正骨方向） 〔27届〕 | 上海/北京/天津/太原 | 2026-10-27 | [详情](../../jobs/jd-9301.md) |
-| 美团 | 【国际化业务】商业分析师（BA/DS）/Business Analyst | 迪拜 | 2026-10-27 | [详情](../../jobs/meituan-4803890129.md) |
 | 美团 | 门店管理储备岗（6个团队） | 杭州/宁波/无锡/北京/苏州/天津/上海/石家庄/成都/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/南宁/西安/太原/长沙/重庆/东莞/中山/南昌/江门/郑州/佛山 | 2026-10-27 | [1](../../jobs/meituan-4697361084.md) [2](../../jobs/meituan-4697361084.md) [3](../../jobs/meituan-4697361084.md) [4](../../jobs/meituan-4697361084.md) [5](../../jobs/meituan-4697361084.md) [6](../../jobs/meituan-4697361084.md) |
 | 美团 | 商户/客户服务管理培训生（4个团队） | 张家口/扬州/南通/石家庄/洛阳/武汉 | 2026-10-27 | [1](../../jobs/meituan-4697213423.md) [2](../../jobs/meituan-4697213423.md) [3](../../jobs/meituan-4697213423.md) [4](../../jobs/meituan-4697213423.md) |
 | 美团 | 商品品质管理岗（2个团队） | 合肥/福州/杭州/南京/苏州/北京/沈阳/南宁/上海/石家庄/西安/成都/长沙/重庆/东莞/济南/南昌/青岛/广州/深圳/郑州/武汉 | 2026-10-27 | [1](../../jobs/meituan-4697286525.md) [2](../../jobs/meituan-4697286525.md) |
-| 美团 | 商业分析师（BA/DS）（3个团队） | 北京/科威特城/香港/上海/利雅得/迪拜 | 2026-10-27 | [1](../../jobs/meituan-4697298860.md) [2](../../jobs/meituan-4697298860.md) [3](../../jobs/meituan-4697298860.md) |
 | 美团 | 物流管理储备岗 | 杭州/南京/北京/苏州/天津/上海/西安/成都/长沙/东莞/广州/武汉/深圳/佛山 | 2026-10-27 | [详情](../../jobs/meituan-4697381206.md) |
-| 美团 | Administrative Operations & Delivery (Overseas)（2个团队） | 圣保罗/利雅得 | 2026-10-27 | [1](../../jobs/meituan-4696492258.md) [2](../../jobs/meituan-4696492258.md) |
 | 网易 | 高中线下班课教师-有道领世 | 石家庄 | 2026-10-27 | [详情](../../jobs/netease-4852.md) |
 | 网易 | 高中线下一对一老师-有道领世 | 石家庄 | 2026-10-27 | [详情](../../jobs/netease-4851.md) |
 | OPPO | Channel Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1848.md) |
-| OPPO | Product Marketing Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1851.md) |
-| 腾讯 | Financial Management and Analysis 107692（2个团队） ⚠️链接待核 | US-California-Palo/Alto | 2026-10-27 | [1](../../jobs/tencent-2069546082903441408.md) [2](../../jobs/tencent-2069546082903441408.md) |
-| 腾讯 | Interactive Vision Model Research Intern 108277 ⚠️链接待核 | Singapore-CapitaSky | 2026-10-27 | [详情](../../jobs/tencent-2111039502607892480.md) |
-| 腾讯 | Large Language Models Research Intern 108263 ⚠️链接待核 | Singapore-CapitaSky | 2026-10-27 | [详情](../../jobs/tencent-2111039498291949568.md) |
-| 腾讯 | People Operations Associate 106179（2个团队） ⚠️链接待核 | Malaysia-Kuala/Lumpur | 2026-10-27 | [1](../../jobs/tencent-1972879109650534400.md) [2](../../jobs/tencent-1972879109650534400.md) |
+| 腾讯 | Tencent Cloud - Technical Associate Account Representative (Korea) 108129 | S.Korea-Seoul | 2026-10-27 | [详情](../../jobs/tencent-108129.md) |
+| 小红书 | Backend Engineering Intern - rednote | 美国 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22773.md) |
+| 小红书 | Client Engineering Intern — rednote | 美国 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22774.md) |
+| 小米 | 零售主管-外派（2个团队） 〔27届〕 | 罗安达/约翰内斯堡 | 2026-10-27 | [1](../../jobs/xiaomi-7671117671589644571.md) [2](../../jobs/xiaomi-7671117671589644571.md) |
+| 小米 | 手机计划-Local（4个团队） 〔27届〕 | 马尼拉/莫斯科/曼谷/胡志明 | 2026-10-27 | [1](../../jobs/xiaomi-7670935313682549001.md) [2](../../jobs/xiaomi-7670935313682549001.md) [3](../../jobs/xiaomi-7670935313682549001.md) [4](../../jobs/xiaomi-7670935313682549001.md) |
+| 小米 | 物流专员-西语-local 〔27届〕 | 马德里 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931558120327443.md) |
+| 小米 | 新零售管培生-外派 〔27届〕 | 约翰内斯堡 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935610878511410.md) |
+| 小米 | 新零售平台-local（2个团队） 〔27届〕 | 莫斯科/阿拉木图 | 2026-10-27 | [1](../../jobs/xiaomi-7671117936485370150.md) [2](../../jobs/xiaomi-7671117936485370150.md) |
+| 小米 | 新零售平台支持岗-local 〔27届〕 | 布拉格直辖 | 2026-10-27 | [详情](../../jobs/xiaomi-7670934099002935598.md) |
+| 小米 | AIoT GTM Specialist-local（3个团队） 〔27届〕 | 迪拜/布拉格直辖/埃尔比勒 | 2026-10-27 | [1](../../jobs/xiaomi-7670934677377927487.md) [2](../../jobs/xiaomi-7670934677377927487.md) [3](../../jobs/xiaomi-7670934677377927487.md) |
+| 小米 | AIoT GTM-local 〔27届〕 | 贝尔格莱德/东京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670934849423493422.md) |
+| 小米 | Channel Finance BP （CDI） 〔27届〕 | 巴黎 | 2026-10-27 | [详情](../../jobs/xiaomi-7690761452894161188.md) |
 
 [下一页](campus-other-p2.md) · [总目录](../../llms.txt)

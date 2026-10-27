@@ -1,8 +1,8 @@
-# 北京 · 校招 · AI产品 · 全部公司（170 个岗位）（第 1/5 页）
+# 北京 · 校招 · AI产品 · 全部公司（169 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 147](../../slices/bytedance/campus/ai-product/beijing.md) · [小米 6](../../slices/xiaomi/campus/ai-product/beijing.md) · [阿里巴巴 4](../../slices/alibaba/campus/ai-product/beijing.md) · [快手 3](../../slices/kuaishou/campus/ai-product/beijing.md) · [美团 3](../../slices/meituan/campus/ai-product/beijing.md) · [蚂蚁集团 2](../../slices/antgroup/campus/ai-product/beijing.md) · [滴滴 2](../../slices/didi/campus/ai-product/beijing.md) · [百度 1](../../slices/baidu/campus/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/campus/ai-product/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 145](../../slices/bytedance/campus/ai-product/beijing.md) · [小米 6](../../slices/xiaomi/campus/ai-product/beijing.md) · [阿里巴巴 5](../../slices/alibaba/campus/ai-product/beijing.md) · [快手 3](../../slices/kuaishou/campus/ai-product/beijing.md) · [美团 3](../../slices/meituan/campus/ai-product/beijing.md) · [蚂蚁集团 2](../../slices/antgroup/campus/ai-product/beijing.md) · [滴滴 2](../../slices/didi/campus/ai-product/beijing.md) · [百度 1](../../slices/baidu/campus/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/campus/ai-product/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@
 | 阿里巴巴 | AI产品经理-超级智能体 | 北京/广州/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907680002.md) |
 | 阿里巴巴 | AI产品经理-文娱方向 | 北京 | 2026-10-27 | [详情](../../jobs/alibaba-199908160002.md) |
 | 阿里巴巴 | AI产品经理-影视内容策略 | 北京 | 2026-10-27 | [详情](../../jobs/alibaba-199908160001.md) |
+| 阿里巴巴 | AI视频前沿算法标准探索及产品化-阿里星 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907640074.md) |
 | 蚂蚁集团 | 蚂蚁集团-医学专项-AI 健康产品评测专家 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-261020012500379.md) |
 | 蚂蚁集团 | AI&Web3产品经理 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011015449.md) |
 | 百度 | 北京-AI产品经理(J100665) | 北京 | 2026-10-27 | [详情](../../jobs/baidu-423c0fa3-a0f3-4def-a882-7466d3685b79.md) |
@@ -43,6 +44,5 @@
 | 字节跳动 | 推荐策略产品经理（抖音AI产品人才校招） - 抖音运营 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667769076330334469.md) |
 | 字节跳动 | 音乐合作平台产品经理（抖音AI产品人才校招） - 抖音音乐 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7673761412287646005.md) |
 | 字节跳动 | 营收礼物玩法AI产品经理（抖音AI产品人才校招） - 抖音直播 〔27届〕 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667854488603855109.md) |
-| 字节跳动 | 营收用户产品经理（抖音AI产品人才校招） - 抖音直播 〔27届〕 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667854450103486773.md) |
 
 [下一页](campus-ai-product-p2.md) · [总目录](../../llms.txt)

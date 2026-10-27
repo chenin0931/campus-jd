@@ -3,7 +3,7 @@
 - id: baidu-c5291eee-adee-48f6-be2d-6c88f190eb35
 - 公司: 百度
 - job_type: 校招
-- 类别: 其他
+- 类别: 分析
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

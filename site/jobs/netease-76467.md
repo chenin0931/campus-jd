@@ -3,7 +3,7 @@
 - id: netease-76467
 - 公司: 网易（网易游戏（雷火））
 - job_type: 实习
-- 类别: 其他
+- 类别: 项目管理
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明

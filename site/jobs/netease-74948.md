@@ -3,7 +3,7 @@
 - id: netease-74948
 - 公司: 网易（星间工作室）
 - job_type: 实习
-- 类别: 其他
+- 类别: 策划
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2027、2028届

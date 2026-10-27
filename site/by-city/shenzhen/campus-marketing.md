@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 市场 · 全部公司（16 个岗位）
+# 深圳 · 校招 · 市场 · 全部公司（17 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[腾讯 7](../../slices/tencent/campus/marketing/shenzhen.md) · [OPPO 5](../../slices/oppo/campus/marketing/shenzhen.md) · [字节跳动 2](../../slices/bytedance/campus/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shenzhen.md) · [美团 1](../../slices/meituan/campus/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[腾讯 8](../../slices/tencent/campus/marketing/shenzhen.md) · [OPPO 5](../../slices/oppo/campus/marketing/shenzhen.md) · [字节跳动 2](../../slices/bytedance/campus/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shenzhen.md) · [美团 1](../../slices/meituan/campus/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,6 +15,7 @@
 | OPPO | 营销策划经理 （非理工科类_手机方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1787.md) |
 | OPPO | 营销策划经理（理工科类_手机方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1794.md) |
 | OPPO | 营销创意设计师 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1801.md) |
+| 腾讯 | 公共事务 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1284512614101361665.md) |
 | 腾讯 | 公关 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1282707442895266816.md) |
 | 腾讯 | 市场研究 | 深圳 | 2026-10-27 | [详情](../../jobs/tencent-1284318005643518976.md) |
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1282707375417304064.md) |

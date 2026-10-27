@@ -1,12 +1,11 @@
-# 北京 · 校招 · AI产品 · 全部公司（170 个岗位）（第 4/5 页）
+# 北京 · 校招 · AI产品 · 全部公司（169 个岗位）（第 4/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 147](../../slices/bytedance/campus/ai-product/beijing.md) · [小米 6](../../slices/xiaomi/campus/ai-product/beijing.md) · [阿里巴巴 4](../../slices/alibaba/campus/ai-product/beijing.md) · [快手 3](../../slices/kuaishou/campus/ai-product/beijing.md) · [美团 3](../../slices/meituan/campus/ai-product/beijing.md) · [蚂蚁集团 2](../../slices/antgroup/campus/ai-product/beijing.md) · [滴滴 2](../../slices/didi/campus/ai-product/beijing.md) · [百度 1](../../slices/baidu/campus/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/campus/ai-product/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 145](../../slices/bytedance/campus/ai-product/beijing.md) · [小米 6](../../slices/xiaomi/campus/ai-product/beijing.md) · [阿里巴巴 5](../../slices/alibaba/campus/ai-product/beijing.md) · [快手 3](../../slices/kuaishou/campus/ai-product/beijing.md) · [美团 3](../../slices/meituan/campus/ai-product/beijing.md) · [蚂蚁集团 2](../../slices/antgroup/campus/ai-product/beijing.md) · [滴滴 2](../../slices/didi/campus/ai-product/beijing.md) · [百度 1](../../slices/baidu/campus/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/campus/ai-product/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | AI产品经理（用户/社交方向） - TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7681137403578992949.md) |
 | 字节跳动 | AI产品经理（增长方向） - 火山引擎 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667835620395387189.md) |
 | 字节跳动 | AI产品经理（账号安全方向） - TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667850470927108357.md) |
 | 字节跳动 | AI产品经理（招聘方向） - 人力与管理部 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667393356424726789.md) |
@@ -48,5 +47,7 @@
 | 小米 | 大模型平台产品经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7681256024946542857.md) |
 | 小米 | 整机产品经理（AI终端） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670890904535009582.md) |
 | 小米 | AI Agent产品经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670928765471852843.md) |
+| 小米 | AI Native产品经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670891616316311858.md) |
+| 小米 | AI产品经理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885162934716714.md) |
 
 [上一页](campus-ai-product-p3.md) · [下一页](campus-ai-product-p5.md) · [总目录](../../llms.txt)

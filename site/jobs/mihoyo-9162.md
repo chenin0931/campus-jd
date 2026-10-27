@@ -3,7 +3,7 @@
 - id: mihoyo-9162
 - 公司: 米哈游
 - job_type: 校招
-- 类别: 商务
+- 类别: 职能
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2027届

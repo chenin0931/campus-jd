@@ -1,8 +1,8 @@
-# 北京 · 实习 · AI产品 · 全部公司（177 个岗位）（第 1/5 页）
+# 北京 · 实习 · AI产品 · 全部公司（189 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 126](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 30](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 127](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 31](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@
 | 百度 | AI开放平台产品经理实习生（J103342） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-93b3c7ae-15ca-421c-b5ec-71492ea86561.md) |
 | 百度 | AI内容生产策略产品实习生（J85846） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-7dd411a8-bef3-4128-993b-0fdea5f7e6e0.md) |
 | 百度 | AI搜索产品实习生（J105324） 〔28/29届 · ≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-a099a4c1-44c3-4e62-8980-61bd5680e64d.md) |
+| 百度 | AI搜索产品实习生（J106931） 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-c0bc2939-5aa9-406c-9434-cbf274e503cc.md) |
 | 百度 | AI搜索功能产品经理实习生（J83556） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-905f5d2d-5082-4a30-8eed-1b4540780dd2.md) |
 | 百度 | AI增值服务产品生态合作助理（J106121） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-a9b07063-48bc-4d07-aebc-0c3f057c5418.md) |
 | 百度 | AIAPI策略产品实习生（J102199） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-21dbac7d-3600-4fd5-b361-e81cd6bbaeb3.md) |
 | 百度 | AIGC 产品经理实习生（数字人方向）（J104325） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-ce05e443-6c08-4df9-b68f-203035e10969.md) |
 | 百度 | Dumate AI生态产品经理（J106615） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-73a0bb97-087b-4b07-ba06-bfecc9b97d8f.md) |
-| 字节跳动 | 采购AI产品实习生 - Corporate Services | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7527150093935773959.md) |
 | 字节跳动 | 产品设计（AI方向）实习生 - 飞书设计 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7680110370195048757.md) |
 | 字节跳动 | 产品设计实习生（AI方向）-飞书设计 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7613312741419370757.md) |
 | 字节跳动 | 产品实习生（达人和AI方向）-国际化广告创意与品牌 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7553473317518067975.md) |

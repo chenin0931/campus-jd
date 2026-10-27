@@ -1,11 +1,19 @@
-# 上海 · 实习 · 运营 · 全部公司（507 个岗位）（第 11/12 页）
+# 上海 · 实习 · 运营 · 全部公司（510 个岗位）（第 11/12 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 294](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 100](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 15](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 12](../../slices/meituan/intern/ops/shanghai.md) · [京东 7](../../slices/jd/intern/ops/shanghai.md) · [网易 7](../../slices/netease/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [腾讯 6](../../slices/tencent/intern/ops/shanghai.md) · [百度 2](../../slices/baidu/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 295](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 100](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 15](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 7](../../slices/jd/intern/ops/shanghai.md) · [网易 7](../../slices/netease/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [腾讯 6](../../slices/tencent/intern/ops/shanghai.md) · [百度 2](../../slices/baidu/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 米哈游 | 广告素材运营实习生 〔27/28届 · 每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9704.md) |
+| 米哈游 | 海外创意运营实习生-韩语 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9382.md) |
+| 米哈游 | 开发者运营实习生（千星奇域方向）-原神 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8944.md) |
+| 米哈游 | 内容运营实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8779.md) |
+| 米哈游 | 数据运营实习生-原神 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8110.md) |
+| 米哈游 | 投放运营实习生（素材内容方向） 〔28/29届 · 每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9073.md) |
+| 米哈游 | 玩家运营实习生-绝区零 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7738.md) |
+| 米哈游 | 玩家运营实习生-原神 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8109.md) |
 | 米哈游 | 游戏运营实习生 - 崩坏：星穹铁道 + 崩坏：因缘精灵 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8581.md) |
 | 米哈游 | 游戏运营实习生（AI方向） - 崩坏：星穹铁道 + 崩坏：因缘精灵 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8090.md) |
 | 米哈游 | Agent 策略运营实习生 〔28/29届 · ≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9625.md) |
@@ -44,12 +52,5 @@
 | 小红书 | 蒲公英产品运营实习生 〔28/29届 · ≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21796.md) |
 | 小红书 | 亲子教育生活-xhs买手运营实习生 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22703.md) |
 | 小红书 | 上海-线索行业运营实习生 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19533.md) |
-| 小红书 | 设计内容传播运营实习生 〔≥5个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21973.md) |
-| 小红书 | 生态线索行业运营实习生 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19026.md) |
-| 小红书 | 视频播客创作者运营实习生 〔≥2个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22836.md) |
-| 小红书 | 小红书 · 创新产品市场运营实习生 〔≥6个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22615.md) |
-| 小红书 | 小红书-家电行业商家运营实习生（有转正机会） 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22671.md) |
-| 小红书 | 小红书-交易部门-虚拟行业运营实习生 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22801.md) |
-| 小红书 | 小红书-兴趣爱好-潮玩行业电商运营实习生 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22664.md) |
 
 [上一页](intern-ops-p10.md) · [下一页](intern-ops-p12.md) · [总目录](../../llms.txt)

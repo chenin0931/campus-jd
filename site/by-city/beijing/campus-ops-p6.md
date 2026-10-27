@@ -1,11 +1,13 @@
-# 北京 · 校招 · 运营 · 全部公司（344 个岗位）（第 6/7 页）
+# 北京 · 校招 · 运营 · 全部公司（346 个岗位）（第 6/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 170](../../slices/bytedance/campus/ops/beijing.md) · [小米 55](../../slices/xiaomi/campus/ops/beijing.md) · [快手 50](../../slices/kuaishou/campus/ops/beijing.md) · [京东 19](../../slices/jd/campus/ops/beijing.md) · [美团 17](../../slices/meituan/campus/ops/beijing.md) · [滴滴 13](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 4](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 170](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 50](../../slices/kuaishou/campus/ops/beijing.md) · [京东 19](../../slices/jd/campus/ops/beijing.md) · [美团 17](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 4](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 快手 | 产品运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13193.md) |
+| 快手 | 产品运营-商业产品 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9704.md) |
 | 快手 | 创作者运营（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13220.md) [2](../../jobs/kuaishou-9810.md) |
 | 快手 | 达人运营（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13309.md) [2](../../jobs/kuaishou-9811.md) |
 | 快手 | 海外内容安全规则运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11061.md) |
@@ -62,7 +64,5 @@
 | 腾讯 | 投资运营分析师 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1277366754477467648.md) |
 | 腾讯 | 行业运营 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126495480718336.md) |
 | 小红书 | 【2027校招】安全运营校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22159.md) |
-| 小红书 | 【2027校招】规则运营 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22073.md) |
-| 小红书 | 【2027校招】体验运营 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22525.md) |
 
 [上一页](campus-ops-p5.md) · [下一页](campus-ops-p7.md) · [总目录](../../llms.txt)

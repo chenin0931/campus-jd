@@ -1,28 +1,24 @@
-# 上海 · 实习 · 商务 · 全部公司（75 个岗位）（第 2/2 页）
+# 上海 · 实习 · 商务 · 全部公司（70 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 37](../../slices/bytedance/intern/business/shanghai.md) · [小红书 13](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 9](../../slices/bilibili/intern/business/shanghai.md) · [米哈游 3](../../slices/mihoyo/intern/business/shanghai.md) · [网易 3](../../slices/netease/intern/business/shanghai.md) · [携程 2](../../slices/ctrip/intern/business/shanghai.md) · [京东 2](../../slices/jd/intern/business/shanghai.md) · [腾讯 2](../../slices/tencent/intern/business/shanghai.md) · [得物 1](../../slices/dewu/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [美团 1](../../slices/meituan/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 36](../../slices/bytedance/intern/business/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 9](../../slices/bilibili/intern/business/shanghai.md) · [网易 3](../../slices/netease/intern/business/shanghai.md) · [携程 2](../../slices/ctrip/intern/business/shanghai.md) · [米哈游 2](../../slices/mihoyo/intern/business/shanghai.md) · [腾讯 2](../../slices/tencent/intern/business/shanghai.md) · [得物 1](../../slices/dewu/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [京东 1](../../slices/jd/intern/business/shanghai.md) · [美团 1](../../slices/meituan/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 携程 | 酒店供应链实习生 〔每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ037413.md) |
 | 携程 | 投资实习生 〔≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ032591.md) |
 | 得物 | 供应链实习生【上海】 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7567342263292381467.md) |
 | 滴滴 | 国际事业群IBG-战略实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-4535f6a4-86da-46c8-8892-686a62a4bddc.md) |
 | 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都/合肥/广州/西宁/深圳/杭州/重庆/长沙/北京/济南/南昌/太原/东莞/南京/福州/西安/武汉/石家庄/上海 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
 | 京东 | 供应链规划 〔27届〕 | 上海/北京/合肥/广州/深圳 | 2026-10-27 | [详情](../../jobs/jd-4860.md) |
-| 京东 | 招标采购 〔27届〕 | 上海/北京/广州/苏州/杭州/武汉/西安 | 2026-10-27 | [详情](../../jobs/jd-4988.md) |
 | 美团 | 【实习】商品与供应链管理 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4861621419.md) |
 | 米哈游 | 游戏渠道合作实习生 〔27/28届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9713.md) |
 | 米哈游 | 预研孵化战略研究和投资实习生（游戏向） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8829.md) |
-| 米哈游 | 综合采购实习生 〔28届 · 每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9623.md) |
 | 网易 | 商务实习生（游戏/IP方向） 〔每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/netease-79099.md) |
 | 网易 | 商业化资源策划实习生（七日世界） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78096.md) |
 | 网易 | 投资实习生（AI与具身智能方向） | 上海 | 2026-10-27 | [详情](../../jobs/netease-78809.md) |
 | 腾讯 | 投资分析 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875884628486144.md) |
 | 腾讯 | 战略商业分析师 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875890517316608.md) |
-| 小红书 | 采购中台实习生（技术方向） 〔≥8个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21849.md) |
 | 小红书 | 国货彩香商业化CBD实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20917.md) |
 | 小红书 | 金融行业商业化平台专家实习生 〔≥6个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22749.md) |
 | 小红书 | 平台专家实习生（商业化 - 国货彩香组）（2个团队） 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-21943.md) [2](../../jobs/xiaohongshu-22678.md) |
@@ -33,6 +29,5 @@
 | 小红书 | 小红书商业化平台专家实习 ｜ 有转正机会 〔28届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22521.md) |
 | 小红书 | 小红书商业化实习生 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22715.md) |
 | 小红书 | 小红书商业化手机数码CBD实习生 〔≥6个月〕 | 广州/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22825.md) |
-| 小红书 | 衍生品采购实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-3724.md) |
 
 [上一页](intern-business.md) · [总目录](../../llms.txt)

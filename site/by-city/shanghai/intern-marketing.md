@@ -1,8 +1,8 @@
-# 上海 · 实习 · 市场 · 全部公司（81 个岗位）（第 1/2 页）
+# 上海 · 实习 · 市场 · 全部公司（84 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 39](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 11](../../slices/bilibili/intern/marketing/shanghai.md) · [网易 11](../../slices/netease/intern/marketing/shanghai.md) · [米哈游 10](../../slices/mihoyo/intern/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [腾讯 3](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md) · [京东 1](../../slices/jd/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 39](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 11](../../slices/bilibili/intern/marketing/shanghai.md) · [网易 11](../../slices/netease/intern/marketing/shanghai.md) · [米哈游 10](../../slices/mihoyo/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [腾讯 3](../../slices/tencent/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md) · [美团 1](../../slices/meituan/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|

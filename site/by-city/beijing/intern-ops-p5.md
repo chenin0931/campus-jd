@@ -1,11 +1,12 @@
-# 北京 · 实习 · 运营 · 全部公司（663 个岗位）（第 5/15 页）
+# 北京 · 实习 · 运营 · 全部公司（701 个岗位）（第 5/16 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 111](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 60](../../slices/baidu/intern/ops/beijing.md) · [美团 41](../../slices/meituan/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 110](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 61](../../slices/baidu/intern/ops/beijing.md) · [美团 42](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 客户体验运营实习生 - 商业生态与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7639327360797985077.md) |
 | 字节跳动 | 客户运营实习生-飞书（2个团队） 〔27届 · ≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7641430940811774213.md) [2](../../jobs/bytedance-7637025588811024645.md) |
 | 字节跳动 | 拉美电商战略运营实习生 - TikTok Shop 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7684274151813466421.md) |
 | 字节跳动 | 流量运营平台产品实习生 - TikTok Shop 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7544951193534269703.md) |
@@ -44,6 +45,5 @@
 | 字节跳动 | 品牌种草广告产品运营实习生-国际化 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7546059777811269895.md) |
 | 字节跳动 | 平台策略运营实习生 - TikTok Shop | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7662659474440849717.md) |
 | 字节跳动 | 平台运营实习生 - 抖音生态 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7678712551926335749.md) |
-| 字节跳动 | 葡语短剧运营实习生-TikTok 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7626405832338557237.md) |
 
 [上一页](intern-ops-p4.md) · [下一页](intern-ops-p6.md) · [总目录](../../llms.txt)

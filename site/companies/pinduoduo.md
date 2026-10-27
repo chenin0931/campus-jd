@@ -11,7 +11,8 @@
 - 校招·商务（2）：[香港 1](../slices/pinduoduo/campus/business/hongkong.md) · [上海 1](../slices/pinduoduo/campus/business/shanghai.md)
 - 校招·市场（1）：[上海 1](../slices/pinduoduo/campus/marketing/shanghai.md)
 - 校招·职能（6）：[上海 3](../slices/pinduoduo/campus/corporate/shanghai.md) · [全国/不限 1](../slices/pinduoduo/campus/corporate/nationwide.md) · [广东省 1](../slices/pinduoduo/campus/corporate/guangdong-province.md) · [雄安 1](../slices/pinduoduo/campus/corporate/xiongan.md)
-- 校招·其他（5）：[全国/不限 2](../slices/pinduoduo/campus/other/nationwide.md) · [广东省 2](../slices/pinduoduo/campus/other/guangdong-province.md) · [上海 1](../slices/pinduoduo/campus/other/shanghai.md)
+- 校招·分析（1）：[上海 1](../slices/pinduoduo/campus/analysis/shanghai.md)
+- 校招·其他（4）：[全国/不限 2](../slices/pinduoduo/campus/other/nationwide.md) · [广东省 2](../slices/pinduoduo/campus/other/guangdong-province.md)
 - 实习·职能（1）：[上海 1](../slices/pinduoduo/intern/corporate/shanghai.md)
 - 实习·其他（1）：[全国/不限 1](../slices/pinduoduo/intern/other/nationwide.md)
 

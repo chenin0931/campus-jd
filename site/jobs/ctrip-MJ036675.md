@@ -3,7 +3,7 @@
 - id: ctrip-MJ036675
 - 公司: 携程
 - job_type: 校招
-- 类别: 其他
+- 类别: 项目管理
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2027届

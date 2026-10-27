@@ -1,8 +1,8 @@
-# 北京 · 校招 · 运营 · 全部公司（344 个岗位）（第 5/7 页）
+# 北京 · 校招 · 运营 · 全部公司（346 个岗位）（第 5/7 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 170](../../slices/bytedance/campus/ops/beijing.md) · [小米 55](../../slices/xiaomi/campus/ops/beijing.md) · [快手 50](../../slices/kuaishou/campus/ops/beijing.md) · [京东 19](../../slices/jd/campus/ops/beijing.md) · [美团 17](../../slices/meituan/campus/ops/beijing.md) · [滴滴 13](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 4](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 170](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 50](../../slices/kuaishou/campus/ops/beijing.md) · [京东 19](../../slices/jd/campus/ops/beijing.md) · [美团 17](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 4](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -23,6 +23,7 @@
 | 滴滴 | 27届秋招-国际化运营分析师（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/didi-e7caa9d5-9e1d-41b4-8975-2a4b978e03a8.md) |
 | 滴滴 | 27届秋招-用户增长运营分析师（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京/上海 | 2026-10-27 | [详情](../../jobs/didi-ab4a1333-a550-401d-a8e8-f45a5bb089bc.md) |
 | 滴滴 | 27届秋招-运力运营顾问（北京） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-dc53db79-3cb8-43a5-9961-a0373f04c2eb.md) |
+| 滴滴 | 27届秋招-AI Operation Analyst（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-3972818a-f7bb-442c-9bd9-fa2dfbe76aef.md) |
 | 华为 | 产品运营经理 | 东莞/南京/杭州/北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38425.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/-香港/北京/成都/广州/深圳/乌鲁木齐/日本/南京/苏州/郑州/宁波/杭州/武汉/兰州/厦门/西安 | 2026-10-27 | [详情](../../jobs/jd-9222.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳/宿迁 | 2026-10-27 | [详情](../../jobs/jd-9119.md) |
@@ -50,7 +51,5 @@
 | 快手 | 策略运营-分析 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13249.md) |
 | 快手 | 策略运营-内容 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13278.md) |
 | 快手 | 策略运营-社区安全 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13573.md) |
-| 快手 | 产品运营 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-13193.md) |
-| 快手 | 产品运营-商业产品 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9704.md) |
 
 [上一页](campus-ops-p4.md) · [下一页](campus-ops-p6.md) · [总目录](../../llms.txt)

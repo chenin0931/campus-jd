@@ -1,11 +1,13 @@
-# 北京 · 实习 · 市场 · 全部公司（85 个岗位）（第 2/2 页）
+# 北京 · 实习 · 市场 · 全部公司（93 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 45](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 16](../../slices/didi/intern/marketing/beijing.md) · [百度 6](../../slices/baidu/intern/marketing/beijing.md) · [网易 5](../../slices/netease/intern/marketing/beijing.md) · [美团 4](../../slices/meituan/intern/marketing/beijing.md) · [腾讯 4](../../slices/tencent/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [京东 1](../../slices/jd/intern/marketing/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 47](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 16](../../slices/didi/intern/marketing/beijing.md) · [百度 6](../../slices/baidu/intern/marketing/beijing.md) · [网易 5](../../slices/netease/intern/marketing/beijing.md) · [腾讯 5](../../slices/tencent/intern/marketing/beijing.md) · [美团 4](../../slices/meituan/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [小米 3](../../slices/xiaomi/intern/marketing/beijing.md) · [京东 2](../../slices/jd/intern/marketing/beijing.md) · [小红书 2](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 增长策略分析实习生-TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7602952383157750069.md) |
+| 字节跳动 | 增长策略实习生-飞书 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7493235849631566098.md) |
 | 字节跳动 | 增长营销（活动方向）实习生 - TikTok生活服务 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667505098385901877.md) |
 | 字节跳动 | 增长营销实习生 - 抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7695746188772133173.md) |
 | 字节跳动 | 增长营销实习生 - 抖音UGC | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7624108365493225733.md) |
@@ -29,6 +31,7 @@
 | 滴滴 | 网约车市场部-市场营销实习生（2个团队） ⚠️链接待核 | 北京 | 2026-10-27 | [1](../../jobs/didi-dae0b536-00eb-4c08-b6c4-94c8cad00cf2.md) [2](../../jobs/didi-de7bbc92-ddae-4f5c-828b-72bc5a47d776.md) |
 | 滴滴 | 网约车市场部-市场营销实习生（2） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-14d49928-3f46-499c-a4fc-f974011bcde0.md) |
 | 滴滴 | 业务中台部-市场/市场营销实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-ad993444-9efa-4702-ac16-22cc209b4e74.md) |
+| 京东 | 公共事务 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/jd-4992.md) |
 | 京东 | 市场营销 〔27届〕 | 上海/北京/合肥/深圳/南京/香港 | 2026-10-27 | [详情](../../jobs/jd-4944.md) |
 | 快手 | 【留用实习】海外广告优化师 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11387.md) |
 | 快手 | 【留用实习】市场推广与策划 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11501.md) |
@@ -41,10 +44,11 @@
 | 网易 | 全球网红营销实习生 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-46572.md) |
 | 网易 | 市场品牌实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-78904.md) [2](../../jobs/netease-78613.md) |
 | 网易 | PUSH增长组实习生 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78446.md) |
+| 腾讯 | 公共事务 | 北京/重庆/成都/香港 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102080.md) |
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067387964684288.md) |
 | 腾讯 | 市场营销 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1227032176378652672.md) |
 | 腾讯 | 腾讯营销-基于Agentic AI的自主进化广告审核专家Agent构建 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1231829074687944846.md) |
 | 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875613710029824.md) |
 | 小红书 | 【Ace顶尖实习生】面向千人千面agent的广告大模型能力构建 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19815.md) |
 
-[上一页](intern-marketing.md) · [总目录](../../llms.txt)
+[上一页](intern-marketing.md) · [下一页](intern-marketing-p3.md) · [总目录](../../llms.txt)

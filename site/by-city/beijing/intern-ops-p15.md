@@ -1,11 +1,15 @@
-# 北京 · 实习 · 运营 · 全部公司（663 个岗位）（第 15/15 页）
+# 北京 · 实习 · 运营 · 全部公司（701 个岗位）（第 15/16 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 111](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 60](../../slices/baidu/intern/ops/beijing.md) · [美团 41](../../slices/meituan/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 110](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 61](../../slices/baidu/intern/ops/beijing.md) · [美团 42](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 网易 | 微博运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76632.md) |
+| 网易 | 文化设计与活动运营实习生 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78444.md) |
+| 网易 | 小蜜蜂-产品运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78763.md) |
+| 网易 | 小蜜蜂社区运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76276.md) |
 | 网易 | 新媒体运营实习生（网易人间）（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-78147.md) [2](../../jobs/netease-77606.md) |
 | 网易 | 新闻资讯策划运营实习生（2个团队） 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-78581.md) [2](../../jobs/netease-76473.md) |
 | 网易 | 音乐内容策略运营实习生（北京） 〔27/28届 · ≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77089.md) |
@@ -39,5 +43,17 @@
 | 小红书 | AI 生态合作运营实习生 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22721.md) |
 | 小红书 | AI内容安全运营实习生 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21743.md) |
 | 小红书 | HR中台运营实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20079.md) |
+| 小米 | 「滚动招募」发布会活动运营实习生 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7516426544664166509.md) |
+| 小米 | 产品运营经理-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7694929652586252580.md) |
+| 小米 | 产品运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7610684955647592754.md) |
+| 小米 | 场景险运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7667382648545593638.md) |
+| 小米 | 电商运营实习生-东南亚 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7498261461404500077.md) |
+| 小米 | 对公保险运营实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7677765250351155499.md) |
+| 小米 | 儿童内容运营实习生-2027届 〔27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7698572163167799594.md) |
+| 小米 | 法国电商运营实习生 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7471073390707900525.md) |
+| 小米 | 供应链金融运营专员-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7667497272214079771.md) |
+| 小米 | 韩国电商运营实习生 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7495599632958685292.md) |
+| 小米 | 计划运营实习生-2027届 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7686371766390360383.md) |
+| 小米 | 技术圈运营 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7695712751208909075.md) |
 
-[上一页](intern-ops-p14.md) · [总目录](../../llms.txt)
+[上一页](intern-ops-p14.md) · [下一页](intern-ops-p16.md) · [总目录](../../llms.txt)

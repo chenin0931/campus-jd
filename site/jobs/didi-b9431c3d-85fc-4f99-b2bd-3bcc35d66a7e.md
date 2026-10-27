@@ -3,7 +3,7 @@
 - id: didi-b9431c3d-85fc-4f99-b2bd-3bcc35d66a7e
 - 公司: 滴滴
 - job_type: 实习
-- 类别: 其他
+- 类别: 项目管理
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

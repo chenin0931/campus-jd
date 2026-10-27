@@ -1,11 +1,14 @@
-# 北京 · 实习 · AI产品 · 全部公司（177 个岗位）（第 4/5 页）
+# 北京 · 实习 · AI产品 · 全部公司（189 个岗位）（第 4/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 126](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 30](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 127](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 31](../../slices/baidu/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [美团 9](../../slices/meituan/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI产品实习生（AI tob）-广告业务 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7659635477821491509.md) |
+| 字节跳动 | AI产品实习生（AI平台产品） - 体验与服务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7680853936330557701.md) |
+| 字节跳动 | AI产品实习生（People）-集团信息系统 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7596935036591769861.md) |
 | 字节跳动 | AI产品实习生（To C）-财经业务 〔27届 · 每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7596994630080989493.md) |
 | 字节跳动 | AI创作产品实习生-AI创新业务 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7646638500473637173.md) |
 | 字节跳动 | AI大模型产品（内容安全方向）实习生 - TikTok 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7701219801246878005.md) |
@@ -48,9 +51,5 @@
 | 小红书 | 大模型数据产品实习生 〔27/28届 · ≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19793.md) |
 | 小红书 | 大模型资源产品实习生 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21802.md) |
 | 小红书 | 推荐产品实习生（AI / 推荐方向） | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21910.md) |
-| 小红书 | 小红书点点产品实习生（AIx社区xPC端） 〔28/29届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22507.md) |
-| 小红书 | 智能体Agent Infra 产品经理实习生 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20205.md) |
-| 小红书 | Agent 应用产品（实习） | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22656.md) |
-| 小红书 | AI 数据产品实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22830.md) |
 
 [上一页](intern-ai-product-p3.md) · [下一页](intern-ai-product-p5.md) · [总目录](../../llms.txt)

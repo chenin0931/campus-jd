@@ -1,11 +1,12 @@
-# 北京 · 实习 · 产品 · 全部公司（400 个岗位）（第 3/9 页）
+# 北京 · 实习 · 产品 · 全部公司（438 个岗位）（第 3/10 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 211](../../slices/bytedance/intern/product/beijing.md) · [百度 65](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 213](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 产品实习生 - 国际化内容与服务广告 〔≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7686306263983229237.md) |
 | 字节跳动 | 产品实习生 - 体验与服务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7677518055546620213.md) |
 | 字节跳动 | 产品实习生-存储 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7594811786128492805.md) |
 | 字节跳动 | 产品实习生-抖音电商 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7650422900386138421.md) |
@@ -46,6 +47,5 @@
 | 字节跳动 | 抖音商家中心产品实习生-广告业务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7629236441524767029.md) |
 | 字节跳动 | 短剧产品实习生 - TikTok 〔≥6个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7634129983086676277.md) |
 | 字节跳动 | 分发策略产品实习生-今日头条 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7652215303417743669.md) |
-| 字节跳动 | 广告策略产品实习生 - 广告业务 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7676290873403623733.md) |
 
 [上一页](intern-product-p2.md) · [下一页](intern-product-p4.md) · [总目录](../../llms.txt)

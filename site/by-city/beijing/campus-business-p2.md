@@ -1,22 +1,15 @@
-# 北京 · 校招 · 商务 · 全部公司（73 个岗位）（第 2/2 页）
+# 北京 · 校招 · 商务 · 全部公司（64 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 24](../../slices/bytedance/campus/business/beijing.md) · [小米 14](../../slices/xiaomi/campus/business/beijing.md) · [快手 9](../../slices/kuaishou/campus/business/beijing.md) · [美团 8](../../slices/meituan/campus/business/beijing.md) · [京东 6](../../slices/jd/campus/business/beijing.md) · [百度 5](../../slices/baidu/campus/business/beijing.md) · [腾讯 3](../../slices/tencent/campus/business/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/business/beijing.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/beijing.md) · [华为 1](../../slices/huawei/campus/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 22](../../slices/bytedance/campus/business/beijing.md) · [小米 13](../../slices/xiaomi/campus/business/beijing.md) · [快手 7](../../slices/kuaishou/campus/business/beijing.md) · [美团 6](../../slices/meituan/campus/business/beijing.md) · [京东 5](../../slices/jd/campus/business/beijing.md) · [百度 4](../../slices/baidu/campus/business/beijing.md) · [腾讯 3](../../slices/tencent/campus/business/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/business/beijing.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/beijing.md) · [华为 1](../../slices/huawei/campus/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 美团 | 供应链管理岗 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4694853346.md) |
-| 美团 | 渠道管理 | 南京/北京/西安/利雅得/成都/广州/哈尔滨/武汉/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4694732393.md) |
-| 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海/成都/长春/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/大连/南宁/西安/哈尔滨/昆明/长沙/湛江/重庆/东莞/南昌/中山/佛山/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
-| 美团 | 战略与投资分析师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4694877891.md) |
-| 美团 | 招商采购岗 | 杭州/北京/上海/利雅得/成都/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4695162972.md) |
-| 腾讯 | 商务拓展 | 深圳/北京/广州/香港 | 2026-10-27 | [详情](../../jobs/tencent-1282707380882482176.md) |
 | 腾讯 | 投资分析 | 北京 | 2026-10-27 | [详情](../../jobs/tencent-1277366755316311040.md) |
 | 腾讯 | 战略商业分析师 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1283126469811577856.md) |
 | 小红书 | 【2027校招】科技投资 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22198.md) |
 | 小红书 | 【2027校招】战略 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22196.md) |
-| 小米 | 供应链采购专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7680375795693488393.md) |
 | 小米 | 供应链计划专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7680376662261729577.md) |
 | 小米 | 渠道管理专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7670885964466768169.md) |
 | 小米 | 渠道零售阵地主管（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/xiaomi-7670884875013310766.md) [2](../../jobs/xiaomi-7670882346867149065.md) |

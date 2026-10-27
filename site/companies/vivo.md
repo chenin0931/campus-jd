@@ -1,4 +1,4 @@
-# vivo 总览（在招 38：校招 10，实习 28）
+# vivo 总览（在招 37：校招 10，实习 27）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
@@ -11,6 +11,6 @@
 - 实习·运营（5）：[深圳 2](../slices/vivo/intern/ops/shenzhen.md) · [南京 1](../slices/vivo/intern/ops/nanjing.md) · [东莞 1](../slices/vivo/intern/ops/dongguan.md) · [杭州 1](../slices/vivo/intern/ops/hangzhou.md)
 - 实习·销售（1）：[东莞 1](../slices/vivo/intern/sales/dongguan.md)
 - 实习·职能（2）：[东莞 2](../slices/vivo/intern/corporate/dongguan.md)
-- 实习·其他（5）：[深圳 3](../slices/vivo/intern/other/shenzhen.md) · [东莞 1](../slices/vivo/intern/other/dongguan.md) · [南京 1](../slices/vivo/intern/other/nanjing.md)
+- 实习·分析（4）：[深圳 3](../slices/vivo/intern/analysis/shenzhen.md) · [东莞 1](../slices/vivo/intern/analysis/dongguan.md)
 
 [总目录](../llms.txt)

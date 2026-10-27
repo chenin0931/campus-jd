@@ -3,7 +3,7 @@
 - id: bilibili-30241
 - 公司: 哔哩哔哩
 - job_type: 校招
-- 类别: 其他
+- 类别: 市场
 - 城市: 新加坡
 - status: active
 - 届别 grad_year: 未注明

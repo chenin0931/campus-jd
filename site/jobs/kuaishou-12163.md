@@ -3,7 +3,7 @@
 - id: kuaishou-12163
 - 公司: 快手
 - job_type: 实习
-- 类别: 其他
+- 类别: 策划
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明

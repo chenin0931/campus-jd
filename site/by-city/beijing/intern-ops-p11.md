@@ -1,11 +1,12 @@
-# 北京 · 实习 · 运营 · 全部公司（663 个岗位）（第 11/15 页）
+# 北京 · 实习 · 运营 · 全部公司（701 个岗位）（第 11/16 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 111](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 60](../../slices/baidu/intern/ops/beijing.md) · [美团 41](../../slices/meituan/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 110](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 61](../../slices/baidu/intern/ops/beijing.md) · [美团 42](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 滴滴 | 两轮车事业部-策略运营实习生（北京） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-110018a4-a9a3-4d4a-99e1-666fd4c3c9f7.md) |
 | 滴滴 | 两轮车事业部-运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-5ef64414-3e2e-4cf0-945b-9c10f90a983f.md) |
 | 滴滴 | 两轮车事业部(2)-策略运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-989f4542-9240-42e5-a81b-296c15f0bb3e.md) |
 | 滴滴 | 两轮车事业部（6）-运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-02c20d71-5c1c-4c90-852c-f85a49c46d58.md) |
@@ -44,6 +45,5 @@
 | 滴滴 | 网约车平台公司-产品与用户运营实习生1 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-24d2254b-2636-4fcd-a77d-fa7abe6a12ed.md) |
 | 滴滴 | 网约车平台公司-运营实习生（2） ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-01bae50f-8ee2-4dab-b1f1-9c72ccf48ede.md) |
 | 滴滴 | 网约车平台公司运营-产品与用户运营实习生 二 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-c68dfd44-279c-4baa-86c7-69e8ead65c6f.md) |
-| 滴滴 | 校园业务组-策略运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-099c4a4f-3cb7-4e95-9fc1-c7c33df48bfd.md) |
 
 [上一页](intern-ops-p10.md) · [下一页](intern-ops-p12.md) · [总目录](../../llms.txt)

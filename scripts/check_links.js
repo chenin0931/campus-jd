@@ -23,16 +23,16 @@ const FORMATS = {
   jd: /^https:\/\/campus\.jd\.com\/#\/details\?id=\d+$/,
   meituan: /^https:\/\/zhaopin\.meituan\.com\/web\/position\/detail\?jobUnionId=\d+(&highlightType=\w+)?$/,
   xiaohongshu: /^https:\/\/job\.xiaohongshu\.com\/campus\/position\/\d+$/,
-  xiaomi: /^https:\/\/xiaomi\.jobs\.f\.mioffice\.cn\/campus\/position\/\d+\/detail$/,
+  xiaomi: /^https:\/\/xiaomi\.jobs\.f\.mioffice\.cn\/(?:campus|internship)\/position\/\d+\/detail$/,
 };
 const get = async u => { const r = await fetch(u, { headers: UA, redirect: 'follow', signal: AbortSignal.timeout(15e3) }); return { code: r.status, len: (await r.text()).length }; };
 // —— 按 id 查详情接口（首选）。返回 true=在招，false=已下架/不存在（invalid），抛错=接口不可用→退回下面的格式/HTTP 校验。
 // 插槽留给待补的公司：填入 async (postId, url) => boolean 即可。
-const feishu = (base, channel, portal) => { let tok;
-  const H = { 'Content-Type': 'application/json', 'portal-channel': channel, 'website-path': 'campus', Referer: `${base}/campus/position` };
-  return async pid => {
+const feishu = (base, channel, portal) => { const TOK = {}; // 按 URL 路径区分 campus / internship 门户（小米实习在 /internship/）
+  return async (pid, u = '') => { const wp = /\/internship\//.test(u) ? 'internship' : 'campus'; let tok = TOK[wp];
+    const H = { 'Content-Type': 'application/json', 'portal-channel': channel, 'website-path': wp, Referer: `${base}/${wp}/position` };
     tok ||= (async () => { const r = await fetch(`${base}/api/v1/csrf/token`, { method: 'POST', headers: H, body: '{"portal_entrance":1}', signal: AbortSignal.timeout(15e3) });
-      return { cookie: r.headers.getSetCookie().map(c => c.split(';')[0]).join('; '), t: (await r.json()).data.token }; })();
+      return { cookie: r.headers.getSetCookie().map(c => c.split(';')[0]).join('; '), t: (await r.json()).data.token }; })(); TOK[wp] = tok;
     const { cookie, t } = await tok;
     const r = await fetch(`${base}/api/v1/job/posts/${pid}?portal_type=${portal}&with_recommend=false`, { headers: { ...H, 'x-csrf-token': t, cookie }, signal: AbortSignal.timeout(15e3) });
     if (!r.ok) throw new Error('http ' + r.status);
@@ -44,7 +44,14 @@ const BROWSER_UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, l
 const LIMIT = { bilibili: 2 };
 // 抛出带 pending 的错误 = 接口给不出确定结论（如网易日常实习假 id 返回通用 500）→ 直接记 unverified（链接待核），不判下架、不回退。
 const DETAIL = {
-  tencent: async pid => { const r = await fetch(`https://join.qq.com/api/v1/jobDetails/getJobDetailsByPostId?postId=${pid}`, { headers: UA, signal: AbortSignal.timeout(15e3) });
+  // 腾讯海外岗（positionSource=workday）join.qq 详情接口一律回「岗位已下架/404」，须查 Workday 自身接口；本轮 Workday 404 也只记待核，不判下架
+  // postid 为负数（-2…-6「项目实习生-技术/产品/…」）是列表里的项目汇总入口，不是单个岗位，详情接口必空 → 记待核
+  tencent: async (pid, u) => { if (/postid=-\d/.test(u)) throw Object.assign(new Error('project entry'), { pending: true });
+    if (/myworkdayjobs\.com/.test(u)) { const m = u.match(/^https:\/\/([^.]+)\.(wd\d+)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/]+)\/(job\/.+)$/);
+      if (!m) throw Object.assign(new Error('workday url'), { pending: true });
+      const r = await fetch(`https://${m[1]}.${m[2]}.myworkdayjobs.com/wday/cxs/${m[1]}/${m[3]}/${m[4]}`, { headers: { ...UA, accept: 'application/json' }, signal: T() });
+      if (r.ok) return !!(await r.json()).jobPostingInfo?.id; throw Object.assign(new Error('workday ' + r.status), { pending: true }); }
+    const r = await fetch(`https://join.qq.com/api/v1/jobDetails/getJobDetailsByPostId?postId=${pid}`, { headers: UA, signal: AbortSignal.timeout(15e3) });
     const b = await r.json(); if (b.status === 0) return !!b.data?.postId; if (b.status === 404) return false; throw new Error('status ' + b.status); },
   bytedance: feishu('https://jobs.bytedance.com', 'campus', 3),
   xiaomi: feishu('https://xiaomi.jobs.f.mioffice.cn', 'saas-career', 6),

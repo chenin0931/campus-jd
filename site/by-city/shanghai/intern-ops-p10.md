@@ -1,11 +1,17 @@
-# 上海 · 实习 · 运营 · 全部公司（507 个岗位）（第 10/12 页）
+# 上海 · 实习 · 运营 · 全部公司（510 个岗位）（第 10/12 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 294](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 100](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 15](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 12](../../slices/meituan/intern/ops/shanghai.md) · [京东 7](../../slices/jd/intern/ops/shanghai.md) · [网易 7](../../slices/netease/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [腾讯 6](../../slices/tencent/intern/ops/shanghai.md) · [百度 2](../../slices/baidu/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 295](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 100](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 44](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 15](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 7](../../slices/jd/intern/ops/shanghai.md) · [网易 7](../../slices/netease/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [腾讯 6](../../slices/tencent/intern/ops/shanghai.md) · [百度 2](../../slices/baidu/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | US POP电商运营（中台）实习生 - TikTok Shop 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7694495873870989573.md) |
+| 携程 | 高端定制业务运营实习生 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ031358.md) |
+| 携程 | 国际产品运营实习生 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ037304.md) |
+| 携程 | 海外SSC 运营实习生 (Overseas SSC Operations Intern) 〔≥6个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ036993.md) |
+| 携程 | 业务运营实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ017714.md) |
+| 携程 | 业务运营实习生(欧洲） 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ031384.md) |
 | 携程 | 营销运营实习 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ031443.md) |
 | 滴滴 | 国际事业群IBG-产品与用户运营实习生（二） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-4fa60176-1703-4af6-8998-d974961aaf37.md) |
 | 滴滴 | 国际事业群IBG（33）（西班牙语方向）产品与用户运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/didi-9637a9ae-0d3a-4530-a985-34ad67c180c5.md) |
@@ -40,16 +46,9 @@
 | 美团 | 用户运营实习生 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4569755918.md) |
 | 美团 | AI产品运营实习生 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-3723476783.md) |
 | 美团 | AI开发者社区运营实习生（Longcat大模型） | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-4599741798.md) |
+| 美团 | Keeta User Operations Intern -Qatar | 北京/上海/广州/深圳/杭州/成都 | 2026-10-27 | [详情](../../jobs/meituan-4860054176.md) |
 | 米哈游 | 版本运营实习生-原神 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8111.md) |
 | 米哈游 | 产品运营实习生-原神 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8108.md) |
 | 米哈游 | 创作者运营实习生 〔28/29届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9039.md) |
-| 米哈游 | 广告素材运营实习生 〔27/28届 · 每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9704.md) |
-| 米哈游 | 海外创意运营实习生-韩语 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9382.md) |
-| 米哈游 | 开发者运营实习生（千星奇域方向）-原神 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8944.md) |
-| 米哈游 | 内容运营实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8779.md) |
-| 米哈游 | 数据运营实习生-原神 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8110.md) |
-| 米哈游 | 投放运营实习生（素材内容方向） 〔28/29届 · 每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9073.md) |
-| 米哈游 | 玩家运营实习生-绝区零 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7738.md) |
-| 米哈游 | 玩家运营实习生-原神 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8109.md) |
 
 [上一页](intern-ops-p9.md) · [下一页](intern-ops-p11.md) · [总目录](../../llms.txt)

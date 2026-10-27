@@ -1,14 +1,19 @@
-# 其他城市 · 校招 · 运营 · 全部公司（65 个岗位）（第 2/2 页）
+# 其他城市 · 校招 · 运营 · 全部公司（73 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[小米 32](../../slices/xiaomi/campus/ops/other.md) · [京东 14](../../slices/jd/campus/ops/other.md) · [美团 14](../../slices/meituan/campus/ops/other.md) · [滴滴 4](../../slices/didi/campus/ops/other.md) · [得物 1](../../slices/dewu/campus/ops/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小米 37](../../slices/xiaomi/campus/ops/other.md) · [美团 16](../../slices/meituan/campus/ops/other.md) · [京东 14](../../slices/jd/campus/ops/other.md) · [滴滴 4](../../slices/didi/campus/ops/other.md) · [得物 1](../../slices/dewu/campus/ops/other.md) · [腾讯 1](../../slices/tencent/campus/ops/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 小米 | 社交媒体运营-Local（3个团队） 〔27届〕 | 马尼拉/台北/雅加达 | 2026-10-27 | [1](../../jobs/xiaomi-7670934795166058803.md) [2](../../jobs/xiaomi-7670934795166058803.md) [3](../../jobs/xiaomi-7670934795166058803.md) |
+| 小米 | 售后服务运营-Local 〔27届〕 | 杜塞尔多夫 | 2026-10-27 | [详情](../../jobs/xiaomi-7670934527728601407.md) |
 | 小米 | 销售运营-local 〔27届〕 | 杜塞尔多夫 | 2026-10-27 | [详情](../../jobs/xiaomi-7670934357804091686.md) |
 | 小米 | 销售运营专员-西语-外派 〔27届〕 | 墨西哥城 | 2026-10-27 | [详情](../../jobs/xiaomi-7697204258416019731.md) |
 | 小米 | 运营专员-西语-外派（2个团队） 〔27届〕 | 墨西哥城 | 2026-10-27 | [1](../../jobs/xiaomi-7670935194911639844.md) [2](../../jobs/xiaomi-7670934973654026532.md) |
+| 小米 | GTM Operations Specialist-local（2个团队） 〔27届〕 | 布拉格直辖/雅加达 | 2026-10-27 | [1](../../jobs/xiaomi-7670932811557177642.md) [2](../../jobs/xiaomi-7670932811557177642.md) |
 | 小米 | GTM运营专员-外派 〔27届〕 | 开罗 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935284204374335.md) |
+| 小米 | Sales Operations Specialist-local（2个团队） 〔27届〕 | 迪拜/伊斯坦布尔 | 2026-10-27 | [1](../../jobs/xiaomi-7670935292522383625.md) [2](../../jobs/xiaomi-7670935292522383625.md) |
+| 小米 | Service Operations Specialist-local 〔27届〕 | 雅加达 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931024012675366.md) |
 
 [上一页](campus-ops.md) · [总目录](../../llms.txt)

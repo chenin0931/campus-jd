@@ -1,12 +1,11 @@
-# 上海 · 实习 · 设计 · 全部公司（111 个岗位）（第 2/3 页）
+# 上海 · 实习 · 设计 · 全部公司（114 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 16](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 16](../../slices/tencent/intern/design/shanghai.md) · [小红书 14](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [美团 3](../../slices/meituan/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 32](../../slices/bytedance/intern/design/shanghai.md) · [米哈游 18](../../slices/mihoyo/intern/design/shanghai.md) · [哔哩哔哩 16](../../slices/bilibili/intern/design/shanghai.md) · [腾讯 16](../../slices/tencent/intern/design/shanghai.md) · [小红书 14](../../slices/xiaohongshu/intern/design/shanghai.md) · [网易 6](../../slices/netease/intern/design/shanghai.md) · [小米 4](../../slices/xiaomi/intern/design/shanghai.md) · [美团 3](../../slices/meituan/intern/design/shanghai.md) · [京东 2](../../slices/jd/intern/design/shanghai.md) · [携程 1](../../slices/ctrip/intern/design/shanghai.md) · [滴滴 1](../../slices/didi/intern/design/shanghai.md) · [华为 1](../../slices/huawei/intern/design/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 字节跳动 | AIGC效果与创作设计实习生-效果与创作 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7591392228130425093.md) |
 | 字节跳动 | IP创意设计实习生 - TikTok设计 〔每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7697092504548280581.md) |
 | 字节跳动 | UI设计实习生 - 抖音电商设计 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7662946006097021189.md) |
 | 携程 | 设计实习生（上海） | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ037369.md) |
@@ -58,5 +57,6 @@
 | 腾讯 | 游戏GUI视觉设计 | 深圳/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1219751796143454208.md) |
 | 小红书 | 【Ace顶尖实习生】端到端的全双工自然语音交互 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19812.md) |
 | 小红书 | 【Ace顶尖实习生】基于Agent的交互式推荐系统 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19816.md) |
+| 小红书 | 插画实习生 〔≥3个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-17827.md) |
 
 [上一页](intern-design.md) · [下一页](intern-design-p3.md) · [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 杭州 · 校招 · 运营 · 全部公司（52 个岗位）（第 1/2 页）
+# 杭州 · 校招 · 运营 · 全部公司（55 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 15](../../slices/alibaba/campus/ops/hangzhou.md) · [字节跳动 15](../../slices/bytedance/campus/ops/hangzhou.md) · [网易 7](../../slices/netease/campus/ops/hangzhou.md) · [京东 5](../../slices/jd/campus/ops/hangzhou.md) · [滴滴 4](../../slices/didi/campus/ops/hangzhou.md) · [快手 4](../../slices/kuaishou/campus/ops/hangzhou.md) · [华为 1](../../slices/huawei/campus/ops/hangzhou.md) · [美团 1](../../slices/meituan/campus/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 18](../../slices/alibaba/campus/ops/hangzhou.md) · [字节跳动 15](../../slices/bytedance/campus/ops/hangzhou.md) · [网易 7](../../slices/netease/campus/ops/hangzhou.md) · [京东 5](../../slices/jd/campus/ops/hangzhou.md) · [滴滴 4](../../slices/didi/campus/ops/hangzhou.md) · [快手 4](../../slices/kuaishou/campus/ops/hangzhou.md) · [华为 1](../../slices/huawei/campus/ops/hangzhou.md) · [美团 1](../../slices/meituan/campus/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -21,6 +21,9 @@
 | 阿里巴巴 | 用户渠道运营 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907740020.md) |
 | 阿里巴巴 | 用户运营 | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907620023.md) |
 | 阿里巴巴 | AI产品运营 | 杭州/上海/深圳 | 2026-10-27 | [详情](../../jobs/alibaba-199907700034.md) |
+| 阿里巴巴 | Merchandise Operations- Forward Youth Program (TH/ID/VN/MY/PH) | 广州/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907740022.md) |
+| 阿里巴巴 | Product Operations- Forward Youth Program (TH/ID/VN/MY/PH) | 广州/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907780022.md) |
+| 阿里巴巴 | User Operations- Forward Youth Program (TH/ID/VN/MY/PH) | 杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907640029.md) |
 | 字节跳动 | 产品/运营/分析/设计类组织招聘 - 人力与管理部 〔27届〕 | 北京/上海/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7667391119591901493.md) |
 | 字节跳动 | 产品运营（字节云） - AI算力基础设施 〔27届〕 | 北京/深圳/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7664905146535790901.md) |
 | 字节跳动 | 创作者运营 - 抖音生活服务 〔27届〕 | 上海/杭州/北京/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7668587408078375173.md) |
@@ -50,9 +53,5 @@
 | 快手 | 行业商家运营 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-13327.md) |
 | 快手 | 行业商家运营 | 上海/北京/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-9803.md) |
 | 快手 | 游戏运营 | 杭州/广州 | 2026-10-27 | [详情](../../jobs/kuaishou-13592.md) |
-| 美团 | 产品运营岗 | 杭州/北京/科威特城/香港/上海/西安/利雅得/广州/哈尔滨/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4696454382.md) |
-| 网易 | 产品运营（曲库） 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-4805.md) |
-| 网易 | 创新运营专员 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-4811.md) |
-| 网易 | 广告行业运营 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-4802.md) |
 
 [下一页](campus-ops-p2.md) · [总目录](../../llms.txt)

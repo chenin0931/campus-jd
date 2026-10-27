@@ -3,7 +3,7 @@
 - id: netease-78484
 - 公司: 网易（网易游戏（互娱））
 - job_type: 实习
-- 类别: 其他
+- 类别: 策划
 - 城市: 广州
 - status: active
 - 届别 grad_year: 2027届

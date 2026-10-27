@@ -1,11 +1,12 @@
-# 北京 · 实习 · 运营 · 全部公司（663 个岗位）（第 12/15 页）
+# 北京 · 实习 · 运营 · 全部公司（701 个岗位）（第 12/16 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 111](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 60](../../slices/baidu/intern/ops/beijing.md) · [美团 41](../../slices/meituan/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 110](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 61](../../slices/baidu/intern/ops/beijing.md) · [美团 42](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 滴滴 | 校园业务组-策略运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-099c4a4f-3cb7-4e95-9fc1-c7c33df48bfd.md) |
 | 滴滴 | 新出租车事业部-产品与用户运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-13625055-fd0c-477b-bd83-d8f8850016b4.md) |
 | 滴滴 | 信息安全部-安全运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-99dbf53d-826d-4532-b8f7-dffa3b391205.md) |
 | 滴滴 | 业务交付中心—产品与用户运营实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-6aae9239-2331-43ad-8882-0c702c43be63.md) |
@@ -49,7 +50,5 @@
 | 京东 | 医生运营（健康） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-5029.md) |
 | 京东 | 营销运营 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/jd-9140.md) |
 | 京东 | 用户运营 〔27届〕 | 上海/北京/沈阳 | 2026-10-27 | [详情](../../jobs/jd-4924.md) |
-| 快手 | 【留用实习】策略运营-安全 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-11308.md) |
-| 快手 | 【留用实习】策略运营-创作者 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12499.md) |
 
 [上一页](intern-ops-p11.md) · [下一页](intern-ops-p13.md) · [总目录](../../llms.txt)

@@ -3,7 +3,7 @@
 - id: netease-4820
 - 公司: 网易（网易互联网）
 - job_type: 校招
-- 类别: 其他
+- 类别: 分析
 - 城市: 杭州
 - status: active
 - 届别 grad_year: 未注明

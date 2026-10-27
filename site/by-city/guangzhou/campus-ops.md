@@ -1,8 +1,8 @@
-# 广州 · 校招 · 运营 · 全部公司（35 个岗位）
+# 广州 · 校招 · 运营 · 全部公司（37 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 11](../../slices/bytedance/campus/ops/guangzhou.md) · [阿里巴巴 6](../../slices/alibaba/campus/ops/guangzhou.md) · [京东 6](../../slices/jd/campus/ops/guangzhou.md) · [美团 3](../../slices/meituan/campus/ops/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/ops/guangzhou.md) · [得物 2](../../slices/dewu/campus/ops/guangzhou.md) · [网易 2](../../slices/netease/campus/ops/guangzhou.md) · [携程 1](../../slices/ctrip/campus/ops/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 11](../../slices/bytedance/campus/ops/guangzhou.md) · [阿里巴巴 8](../../slices/alibaba/campus/ops/guangzhou.md) · [京东 6](../../slices/jd/campus/ops/guangzhou.md) · [美团 3](../../slices/meituan/campus/ops/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/ops/guangzhou.md) · [得物 2](../../slices/dewu/campus/ops/guangzhou.md) · [网易 2](../../slices/netease/campus/ops/guangzhou.md) · [携程 1](../../slices/ctrip/campus/ops/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -12,6 +12,8 @@
 | 阿里巴巴 | 游戏运营 | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199908380005.md) |
 | 阿里巴巴 | 游戏运营（SLG） | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907800016.md) |
 | 阿里巴巴 | AI运营专员 | 广州 | 2026-10-27 | [详情](../../jobs/alibaba-199907820076.md) |
+| 阿里巴巴 | Merchandise Operations- Forward Youth Program (TH/ID/VN/MY/PH) | 广州/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907740022.md) |
+| 阿里巴巴 | Product Operations- Forward Youth Program (TH/ID/VN/MY/PH) | 广州/杭州 | 2026-10-27 | [详情](../../jobs/alibaba-199907780022.md) |
 | 字节跳动 | 策略运营管培生（全托管） - TikTok Shop 〔27届〕 | 广州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667542221588826373.md) |
 | 字节跳动 | 产品运营 - 广告业务 〔27届〕 | 上海/北京/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7665590199121365301.md) |
 | 字节跳动 | 创作者运营 - 抖音生活服务 〔27届〕 | 上海/杭州/北京/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7668587408078375173.md) |

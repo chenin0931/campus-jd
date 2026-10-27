@@ -3,7 +3,7 @@
 - id: baidu-720ab09c-f78c-4dda-80fa-10afd09b8094
 - 公司: 百度
 - job_type: 校招
-- 类别: 其他
+- 类别: 分析
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

@@ -1,11 +1,13 @@
-# 北京 · 实习 · 运营 · 全部公司（663 个岗位）（第 14/15 页）
+# 北京 · 实习 · 运营 · 全部公司（701 个岗位）（第 14/16 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 111](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 60](../../slices/baidu/intern/ops/beijing.md) · [美团 41](../../slices/meituan/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 110](../../slices/didi/intern/ops/beijing.md) · [网易 64](../../slices/netease/intern/ops/beijing.md) · [百度 61](../../slices/baidu/intern/ops/beijing.md) · [美团 42](../../slices/meituan/intern/ops/beijing.md) · [小米 37](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [京东 17](../../slices/jd/intern/ops/beijing.md) · [腾讯 6](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 美团 | 线下场景运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4673575867.md) |
+| 美团 | 销售数据运营项目实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4843615693.md) |
 | 美团 | 销售运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4839634192.md) |
 | 美团 | 小象超市-选址运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4836504048.md) |
 | 美团 | 医药健康运营项目实习生 〔≥2个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4208545497.md) |
@@ -17,6 +19,7 @@
 | 美团 | AIGC应用产品运营 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3589237321.md) |
 | 美团 | IP运营 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3346904295.md) |
 | 美团 | Keeta Ads运营实习生 〔27/28届 · ≥5个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4249687470.md) |
+| 美团 | Keeta User Operations Intern -Qatar | 北京/上海/广州/深圳/杭州/成都 | 2026-10-27 | [详情](../../jobs/meituan-4860054176.md) |
 | 美团 | Keeta-境外国家产品运营实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-2950194701.md) |
 | 网易 | 创作者运营实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78802.md) |
 | 网易 | 【线上实践项目】小蜜蜂校园大使（社群运营） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79168.md) |
@@ -47,9 +50,5 @@
 | 网易 | 网易小蜜蜂-社区活动运营实习生（base北京） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79244.md) |
 | 网易 | 网易小蜜蜂-用户产品运营实习生 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78465.md) |
 | 网易 | 网易小蜜蜂社区运营实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78840.md) |
-| 网易 | 微博运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76632.md) |
-| 网易 | 文化设计与活动运营实习生 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78444.md) |
-| 网易 | 小蜜蜂-产品运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78763.md) |
-| 网易 | 小蜜蜂社区运营实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76276.md) |
 
 [上一页](intern-ops-p13.md) · [下一页](intern-ops-p15.md) · [总目录](../../llms.txt)

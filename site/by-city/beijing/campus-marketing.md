@@ -1,8 +1,8 @@
-# 北京 · 校招 · 市场 · 全部公司（42 个岗位）
+# 北京 · 校招 · 市场 · 全部公司（48 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 13](../../slices/bytedance/campus/marketing/beijing.md) · [小米 13](../../slices/xiaomi/campus/marketing/beijing.md) · [百度 5](../../slices/baidu/campus/marketing/beijing.md) · [快手 3](../../slices/kuaishou/campus/marketing/beijing.md) · [网易 3](../../slices/netease/campus/marketing/beijing.md) · [腾讯 3](../../slices/tencent/campus/marketing/beijing.md) · [美团 1](../../slices/meituan/campus/marketing/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小米 14](../../slices/xiaomi/campus/marketing/beijing.md) · [字节跳动 13](../../slices/bytedance/campus/marketing/beijing.md) · [百度 5](../../slices/baidu/campus/marketing/beijing.md) · [快手 4](../../slices/kuaishou/campus/marketing/beijing.md) · [腾讯 4](../../slices/tencent/campus/marketing/beijing.md) · [网易 3](../../slices/netease/campus/marketing/beijing.md) · [美团 2](../../slices/meituan/campus/marketing/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/marketing/beijing.md) · [京东 1](../../slices/jd/campus/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -24,16 +24,22 @@
 | 字节跳动 | 用户增长数据分析师 - TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668657994767419701.md) |
 | 字节跳动 | 增长策略分析师 - TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668657843764300085.md) |
 | 字节跳动 | 增长营销经理 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669710776109730101.md) |
+| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9043.md) |
+| 快手 | 公共事务管理 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9837.md) |
 | 快手 | 海外广告投放 | 北京 | 2026-10-27 | [详情](../../jobs/kuaishou-12428.md) |
 | 快手 | 市场营销与策划（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/kuaishou-13324.md) [2](../../jobs/kuaishou-9739.md) |
+| 美团 | 公共事务岗 | 北京/济南/西安/广州 | 2026-10-27 | [详情](../../jobs/meituan-4697287258.md) |
 | 美团 | 市场营销岗 | 北京/利雅得/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697313567.md) |
 | 网易 | 内容营销专员（网易智邮） 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4841.md) |
 | 网易 | 市场管理培训生-网易有道 | 北京 | 2026-10-27 | [详情](../../jobs/netease-4845.md) |
 | 网易 | 营销推广专员（网易智邮） | 北京 | 2026-10-27 | [详情](../../jobs/netease-4839.md) |
+| 腾讯 | 公共事务 | 深圳/北京/广州 | 2026-10-27 | [详情](../../jobs/tencent-1284512614101361665.md) |
 | 腾讯 | 公关 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/tencent-1282707442895266816.md) |
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1282707375417304064.md) |
 | 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1284207373170582528.md) |
 | 小红书 | 【2027校招】公共品牌与公众沟通校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22160.md) |
+| 小红书 | 【2027校招】公共事务校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22158.md) |
+| 小米 | 公共事务专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7671293133066488070.md) |
 | 小米 | 公关策略专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7686764793517001010.md) |
 | 小米 | 公关传播专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7686764781294078254.md) |
 | 小米 | 公关专员 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7676379611710769417.md) |

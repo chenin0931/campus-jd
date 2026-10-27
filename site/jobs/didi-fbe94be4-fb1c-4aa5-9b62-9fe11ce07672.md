@@ -3,7 +3,7 @@
 - id: didi-fbe94be4-fb1c-4aa5-9b62-9fe11ce07672
 - 公司: 滴滴
 - job_type: 实习
-- 类别: 其他
+- 类别: 分析
 - 城市: 未知
 - status: active
 - 届别 grad_year: 未注明

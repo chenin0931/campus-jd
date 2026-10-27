@@ -1,11 +1,12 @@
-# 杭州 · 实习 · AI产品 · 全部公司（29 个岗位）
+# 杭州 · 实习 · AI产品 · 全部公司（30 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 16](../../slices/bytedance/intern/ai-product/hangzhou.md) · [网易 9](../../slices/netease/intern/ai-product/hangzhou.md) · [vivo 2](../../slices/vivo/intern/ai-product/hangzhou.md) · [腾讯 1](../../slices/tencent/intern/ai-product/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ai-product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 16](../../slices/bytedance/intern/ai-product/hangzhou.md) · [网易 9](../../slices/netease/intern/ai-product/hangzhou.md) · [vivo 2](../../slices/vivo/intern/ai-product/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ai-product/hangzhou.md) · [腾讯 1](../../slices/tencent/intern/ai-product/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ai-product/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 蚂蚁集团 | AI产品经理（金融方向） 〔28/29届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/antgroup-261027012593589.md) |
 | 字节跳动 | 大模型数据产品实习生-数据平台 〔27届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7592211499600136453.md) |
 | 字节跳动 | 电商营销AI产品实习生 - TikTok Shop 〔≥4个月，每周≥5天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7696109127765231877.md) |
 | 字节跳动 | 豆包AI大模型产品实习生 - 火山方舟（2个团队） 〔≥6个月〕 | 杭州/上海 | 2026-10-27 | [1](../../jobs/bytedance-7688267140178004229.md) [2](../../jobs/bytedance-7682681592747804933.md) |

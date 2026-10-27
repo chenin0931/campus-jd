@@ -1,8 +1,8 @@
-# 成都 · 实习 · 运营 · 全部公司（35 个岗位）
+# 成都 · 实习 · 运营 · 全部公司（36 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 13](../../slices/bytedance/intern/ops/chengdu.md) · [美团 8](../../slices/meituan/intern/ops/chengdu.md) · [京东 5](../../slices/jd/intern/ops/chengdu.md) · [腾讯 4](../../slices/tencent/intern/ops/chengdu.md) · [滴滴 3](../../slices/didi/intern/ops/chengdu.md) · [OPPO 2](../../slices/oppo/intern/ops/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 13](../../slices/bytedance/intern/ops/chengdu.md) · [美团 9](../../slices/meituan/intern/ops/chengdu.md) · [京东 5](../../slices/jd/intern/ops/chengdu.md) · [腾讯 4](../../slices/tencent/intern/ops/chengdu.md) · [滴滴 3](../../slices/didi/intern/ops/chengdu.md) · [OPPO 2](../../slices/oppo/intern/ops/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -35,6 +35,7 @@
 | 美团 | 大模型数据运营-音乐数据方向实习生 〔≥3个月，每周≥4天〕 | 北京/成都 | 2026-10-27 | [详情](../../jobs/meituan-3392128388.md) |
 | 美团 | 大模型数据运营（英文实习） 〔27/28届〕 | 北京/成都 | 2026-10-27 | [详情](../../jobs/meituan-2731047995.md) |
 | 美团 | 大模型数据运营实习生 〔26/27届〕 | 北京/上海/成都 | 2026-10-27 | [详情](../../jobs/meituan-3779779839.md) |
+| 美团 | Keeta User Operations Intern -Qatar | 北京/上海/广州/深圳/杭州/成都 | 2026-10-27 | [详情](../../jobs/meituan-4860054176.md) |
 | OPPO | 互联网产品运营 〔27届〕 | 成都/深圳 | 2026-10-27 | [详情](../../jobs/oppo-1649.md) |
 | OPPO | 互联网产品运营经理（游戏方向） 〔27届〕 | 成都 | 2026-10-27 | [详情](../../jobs/oppo-1619.md) |
 | 腾讯 | 产品运营 | 深圳/北京/上海/成都 | 2026-10-27 | [详情](../../jobs/tencent-1212816229455368192.md) |

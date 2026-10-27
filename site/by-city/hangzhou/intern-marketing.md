@@ -1,8 +1,8 @@
-# 杭州 · 实习 · 市场 · 全部公司（40 个岗位）
+# 杭州 · 实习 · 市场 · 全部公司（38 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 31](../../slices/netease/intern/marketing/hangzhou.md) · [字节跳动 4](../../slices/bytedance/intern/marketing/hangzhou.md) · [滴滴 3](../../slices/didi/intern/marketing/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/marketing/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 29](../../slices/netease/intern/marketing/hangzhou.md) · [字节跳动 4](../../slices/bytedance/intern/marketing/hangzhou.md) · [滴滴 3](../../slices/didi/intern/marketing/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/marketing/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -41,9 +41,7 @@
 | 网易 | 游戏市场营销实习生（游戏生态与UGC建设方向） 〔≥3个月〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-65379.md) |
 | 网易 | 游戏市场营销实习生（直播方向） 〔27/28届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-58368.md) |
 | 网易 | 游戏市场营销实习生（自媒体方向） 〔27/28届〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-58367.md) |
-| 网易 | 游戏营销实习生（海外内容传播） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79298.md) |
 | 网易 | 游戏营销实习生（魔兽世界/炉石传说） 〔≥3个月〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-58086.md) |
-| 网易 | 游戏营销实习生（社媒社区） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79299.md) |
 | 网易 | 游戏营销实习生（生态方向-射击类） 〔≥4个月，每周≥5天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79029.md) |
 | 小红书 | 【Ace顶尖实习生】面向千人千面agent的广告大模型能力构建 | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/xiaohongshu-19815.md) |
 

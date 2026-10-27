@@ -1,8 +1,8 @@
-# 上海 · 实习 · 商务 · 全部公司（75 个岗位）（第 1/2 页）
+# 上海 · 实习 · 商务 · 全部公司（70 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 37](../../slices/bytedance/intern/business/shanghai.md) · [小红书 13](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 9](../../slices/bilibili/intern/business/shanghai.md) · [米哈游 3](../../slices/mihoyo/intern/business/shanghai.md) · [网易 3](../../slices/netease/intern/business/shanghai.md) · [携程 2](../../slices/ctrip/intern/business/shanghai.md) · [京东 2](../../slices/jd/intern/business/shanghai.md) · [腾讯 2](../../slices/tencent/intern/business/shanghai.md) · [得物 1](../../slices/dewu/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [美团 1](../../slices/meituan/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 36](../../slices/bytedance/intern/business/shanghai.md) · [小红书 11](../../slices/xiaohongshu/intern/business/shanghai.md) · [哔哩哔哩 9](../../slices/bilibili/intern/business/shanghai.md) · [网易 3](../../slices/netease/intern/business/shanghai.md) · [携程 2](../../slices/ctrip/intern/business/shanghai.md) · [米哈游 2](../../slices/mihoyo/intern/business/shanghai.md) · [腾讯 2](../../slices/tencent/intern/business/shanghai.md) · [得物 1](../../slices/dewu/intern/business/shanghai.md) · [滴滴 1](../../slices/didi/intern/business/shanghai.md) · [华为 1](../../slices/huawei/intern/business/shanghai.md) · [京东 1](../../slices/jd/intern/business/shanghai.md) · [美团 1](../../slices/meituan/intern/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -15,7 +15,6 @@
 | 哔哩哔哩 | 商业化产运实习生 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28151.md) |
 | 哔哩哔哩 | 投资并购部实习生 〔≥3个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28953.md) |
 | 哔哩哔哩 | 投资并购实习生 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-31030.md) |
-| 字节跳动 | 国际电商采购实习生 - TikTok Shop 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7677433299497830709.md) |
 | 字节跳动 | 国际化音乐战略实习生-TikTok 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7581731904375507253.md) |
 | 字节跳动 | 渠道营销实习生 - 飞书商业化 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7631837873109321989.md) |
 | 字节跳动 | 商业化经营分析实习生-国际化中小企业客户产品 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7581475404264425733.md) |
@@ -44,5 +43,6 @@
 | 字节跳动 | AI战略研究实习生-飞书 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7434009983408916746.md) |
 | 字节跳动 | TikTok国际商业化广告经营分析实习生 - Global Business Solutions 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7696838258965104949.md) |
 | 字节跳动 | TikTok商业化CNOB实习生 - Global Business Solutions 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700812214042921269.md) |
+| 携程 | 酒店供应链实习生 〔每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/ctrip-MJ037413.md) |
 
 [下一页](intern-business-p2.md) · [总目录](../../llms.txt)

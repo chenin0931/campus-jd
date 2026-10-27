@@ -1,13 +1,14 @@
-# 杭州 · 实习 · 运营 · 全部公司（97 个岗位）（第 2/3 页）
+# 杭州 · 实习 · 运营 · 全部公司（98 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[网易 51](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 24](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 16](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [京东 1](../../slices/jd/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 51](../../slices/netease/intern/ops/hangzhou.md) · [滴滴 24](../../slices/didi/intern/ops/hangzhou.md) · [字节跳动 16](../../slices/bytedance/intern/ops/hangzhou.md) · [蚂蚁集团 2](../../slices/antgroup/intern/ops/hangzhou.md) · [百度 1](../../slices/baidu/intern/ops/hangzhou.md) · [京东 1](../../slices/jd/intern/ops/hangzhou.md) · [美团 1](../../slices/meituan/intern/ops/hangzhou.md) · [vivo 1](../../slices/vivo/intern/ops/hangzhou.md) · [小红书 1](../../slices/xiaohongshu/intern/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 滴滴 | 用户平台部-运营实习生 ⚠️链接待核 | 北京/杭州 | 2026-10-27 | [详情](../../jobs/didi-c1c47f92-0a82-4ede-8f04-4798fd85c052.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉/长沙/贵阳/沈阳/重庆/西安 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
+| 美团 | Keeta User Operations Intern -Qatar | 北京/上海/广州/深圳/杭州/成都 | 2026-10-27 | [详情](../../jobs/meituan-4860054176.md) |
 | 网易 | 《蛋仔派对》UGC运营实习生（赛事活动方向） 〔≥3个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79258.md) |
 | 网易 | 《蛋仔派对》UGC运营实习生（专业开发者孵化方向） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79257.md) |
 | 网易 | 版权运营实习生 〔≥3个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78945.md) |
@@ -55,6 +56,5 @@
 | 网易 | AI 音乐运营实习生 〔≥6个月，每周≥4天〕 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-78970.md) |
 | 网易 | AI社交产品用户运营实习-日语方向 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79211.md) |
 | 网易 | IP运营实习生 | 杭州 | 2026-10-27 | [详情](../../jobs/netease-74518.md) |
-| 网易 | LOFTER社区运营实习生 （同人方向） | 杭州 | 2026-10-27 | [详情](../../jobs/netease-79525.md) |
 
 [上一页](intern-ops.md) · [下一页](intern-ops-p3.md) · [总目录](../../llms.txt)

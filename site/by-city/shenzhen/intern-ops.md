@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 运营 · 全部公司（123 个岗位）（第 1/3 页）
+# 深圳 · 实习 · 运营 · 全部公司（125 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 74](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 12](../../slices/tencent/intern/ops/shenzhen.md) · [百度 10](../../slices/baidu/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [京东 6](../../slices/jd/intern/ops/shenzhen.md) · [OPPO 5](../../slices/oppo/intern/ops/shenzhen.md) · [美团 3](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 74](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 12](../../slices/tencent/intern/ops/shenzhen.md) · [百度 10](../../slices/baidu/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [京东 6](../../slices/jd/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|

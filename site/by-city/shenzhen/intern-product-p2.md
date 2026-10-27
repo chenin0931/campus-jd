@@ -1,11 +1,13 @@
-# 深圳 · 实习 · 产品 · 全部公司（65 个岗位）（第 2/2 页）
+# 深圳 · 实习 · 产品 · 全部公司（67 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 7](../../slices/tencent/intern/product/shenzhen.md) · [vivo 6](../../slices/vivo/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/product/shenzhen.md) · [滴滴 3](../../slices/didi/intern/product/shenzhen.md) · [美团 3](../../slices/meituan/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [华为 1](../../slices/huawei/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/intern/product/shenzhen.md) · [腾讯 7](../../slices/tencent/intern/product/shenzhen.md) · [vivo 6](../../slices/vivo/intern/product/shenzhen.md) · [百度 4](../../slices/baidu/intern/product/shenzhen.md) · [OPPO 4](../../slices/oppo/intern/product/shenzhen.md) · [滴滴 3](../../slices/didi/intern/product/shenzhen.md) · [美团 3](../../slices/meituan/intern/product/shenzhen.md) · [京东 2](../../slices/jd/intern/product/shenzhen.md) · [快手 2](../../slices/kuaishou/intern/product/shenzhen.md) · [华为 1](../../slices/huawei/intern/product/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/intern/product/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 美团 | 【实习】Keeta-供给及销售产品实习生 〔≥3个月，每周≥3天〕 | 深圳 | 2026-10-27 | [详情](../../jobs/meituan-4743756908.md) |
+| 美团 | 搜推导购产品实习生 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4150674945.md) |
 | OPPO | 产品策划经理（非理工科_手机方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1715.md) |
 | OPPO | 产品策划经理（理工科_手机方向） 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1714.md) |
 | OPPO | 多媒体影像产品经理 〔27届〕 | 深圳 | 2026-10-27 | [详情](../../jobs/oppo-1704.md) |

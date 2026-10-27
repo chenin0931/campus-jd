@@ -3,7 +3,7 @@
 - id: bilibili-29705
 - 公司: 哔哩哔哩
 - job_type: 校招
-- 类别: 其他
+- 类别: 策划
 - 城市: 上海
 - status: active
 - 届别 grad_year: 2027届

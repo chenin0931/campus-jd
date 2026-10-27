@@ -1,8 +1,8 @@
-# 上海 · 校招 · 市场 · 全部公司（39 个岗位）
+# 上海 · 校招 · 市场 · 全部公司（41 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 9](../../slices/bytedance/campus/marketing/shanghai.md) · [米哈游 9](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [腾讯 4](../../slices/tencent/campus/marketing/shanghai.md) · [网易 2](../../slices/netease/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/marketing/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 9](../../slices/bytedance/campus/marketing/shanghai.md) · [米哈游 9](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [腾讯 4](../../slices/tencent/campus/marketing/shanghai.md) · [网易 2](../../slices/netease/campus/marketing/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 | 字节跳动 | 数据分析师（国际化广告数据科学方向） - 国际化广告数据科学 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668154340578298117.md) |
 | 字节跳动 | 数据科学分析师（用户增长中台） - TikTok 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668658029857048885.md) |
 | 得物 | 【27届校招】社区&增长法务BP 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670376394703046962.md) |
+| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | [详情](../../jobs/jd-9043.md) |
 | 美团 | 品牌/营销设计师 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-4697314458.md) |
 | 米哈游 | 东南亚品牌策略岗 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9464.md) |
 | 米哈游 | 国际化市场公关 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9089.md) |
@@ -44,5 +45,6 @@
 | 腾讯 | 腾讯营销—基于LLM的广告系统实验设计与衡量 | 上海 | 2026-10-27 | [详情](../../jobs/tencent-1274736399219913733.md) |
 | 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1284207373170582528.md) |
 | 小红书 | 【2027校招】公共品牌与公众沟通校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22160.md) |
+| 小红书 | 【2027校招】公共事务校招生 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22158.md) |
 
 [总目录](../../llms.txt)

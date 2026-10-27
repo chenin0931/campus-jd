@@ -1,11 +1,12 @@
-# 北京 · 校招 · AI产品 · 全部公司（170 个岗位）（第 2/5 页）
+# 北京 · 校招 · AI产品 · 全部公司（169 个岗位）（第 2/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 147](../../slices/bytedance/campus/ai-product/beijing.md) · [小米 6](../../slices/xiaomi/campus/ai-product/beijing.md) · [阿里巴巴 4](../../slices/alibaba/campus/ai-product/beijing.md) · [快手 3](../../slices/kuaishou/campus/ai-product/beijing.md) · [美团 3](../../slices/meituan/campus/ai-product/beijing.md) · [蚂蚁集团 2](../../slices/antgroup/campus/ai-product/beijing.md) · [滴滴 2](../../slices/didi/campus/ai-product/beijing.md) · [百度 1](../../slices/baidu/campus/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/campus/ai-product/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 145](../../slices/bytedance/campus/ai-product/beijing.md) · [小米 6](../../slices/xiaomi/campus/ai-product/beijing.md) · [阿里巴巴 5](../../slices/alibaba/campus/ai-product/beijing.md) · [快手 3](../../slices/kuaishou/campus/ai-product/beijing.md) · [美团 3](../../slices/meituan/campus/ai-product/beijing.md) · [蚂蚁集团 2](../../slices/antgroup/campus/ai-product/beijing.md) · [滴滴 2](../../slices/didi/campus/ai-product/beijing.md) · [百度 1](../../slices/baidu/campus/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/campus/ai-product/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 营收用户产品经理（抖音AI产品人才校招） - 抖音直播 〔27届〕 | 深圳/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667854450103486773.md) |
 | 字节跳动 | 营销Agent产品 - 剪映CapCut 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667165034336340229.md) |
 | 字节跳动 | 用户产品经理（抖音AI产品人才校招） - 抖音音乐 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7698987068773861685.md) |
 | 字节跳动 | 用户体验判责策略产品经理（AI Agent方向） - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668368427569481989.md) |
@@ -37,12 +38,11 @@
 | 字节跳动 | AI产品经理 - Aime 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668356727960242485.md) |
 | 字节跳动 | AI产品经理-「星璨全球」培养计划 - 国际化广告创意与品牌 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667802679964469557.md) |
 | 字节跳动 | AI产品经理（安全方向） - AI创新业务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670815374104283445.md) |
-| 字节跳动 | AI产品经理（采购方向） - Corporate Services 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668294646178908469.md) |
-| 字节跳动 | AI产品经理（采购Agent方向） - 集团信息系统 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667564159460378885.md) |
 | 字节跳动 | AI产品经理（策略方向） - 开发者服务 〔27届〕 | 杭州/上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667870355249580293.md) |
 | 字节跳动 | AI产品经理（创作方向） - 火山引擎 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667836478151641349.md) |
 | 字节跳动 | AI产品经理（创作Agent方向） - 剪映CapCut 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667159554523154741.md) |
 | 字节跳动 | AI产品经理（垂直场景方向） - 集团信息系统 〔27届〕 | 北京/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7667552110397114629.md) |
 | 字节跳动 | AI产品经理（达人&内容方向） - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667935739301185845.md) |
+| 字节跳动 | AI产品经理（达人方向） - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7667935178136848693.md) |
 
 [上一页](campus-ai-product.md) · [下一页](campus-ai-product-p3.md) · [总目录](../../llms.txt)

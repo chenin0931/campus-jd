@@ -3,7 +3,7 @@
 - id: xiaohongshu-22150
 - 公司: 小红书
 - job_type: 校招
-- 类别: 其他
+- 类别: 分析
 - 城市: 北京、上海
 - status: active
 - 届别 grad_year: 未注明

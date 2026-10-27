@@ -1,12 +1,11 @@
-# 北京 · 实习 · 设计 · 全部公司（87 个岗位）（第 1/2 页）
+# 北京 · 实习 · 设计 · 全部公司（95 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 32](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 11](../../slices/kuaishou/intern/design/beijing.md) · [腾讯 5](../../slices/tencent/intern/design/beijing.md) · [美团 4](../../slices/meituan/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 32](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 11](../../slices/kuaishou/intern/design/beijing.md) · [小米 9](../../slices/xiaomi/intern/design/beijing.md) · [腾讯 5](../../slices/tencent/intern/design/beijing.md) · [美团 4](../../slices/meituan/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 蚂蚁集团 | 【蚂蚁星】实时音视频交互大模型-蚂蚁健康（实习） | 北京/上海/杭州 | 2026-10-27 | [详情](../../jobs/antgroup-26042809804183.md) |
 | 百度 | 交互设计实习生（J106120） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-59a14345-809e-48b9-bedd-aae0464e4ce7.md) |
 | 百度 | 交互设计实习生（J77497） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-076e4cd6-d07f-40ac-882f-93dfddd84d91.md) |
 | 百度 | 昆仑芯-综合管理部_设计实习生(J10655)（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/baidu-773be443-240f-4382-b857-1751e0c9f6e7.md) [2](../../jobs/baidu-2aa5c288-26e5-4437-b5f7-f14d2a7b1120.md) |
@@ -47,5 +46,6 @@
 | 字节跳动 | AIGC美学设计实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7543585756112406792.md) |
 | 字节跳动 | Seedance 2.5资产美术实习生-火山方舟 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7654142191791409461.md) |
 | 字节跳动 | UI设计实习生-AI创新业务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7628814219996465413.md) |
+| 滴滴 | （1）设计部/用户体验设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-f066dc45-b4d1-4741-91e1-47fdeec25555.md) |
 
 [下一页](intern-design-p2.md) · [总目录](../../llms.txt)

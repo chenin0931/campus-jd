@@ -1,8 +1,8 @@
-# 广州 · 实习 · 商务 · 全部公司（11 个岗位）
+# 广州 · 实习 · 商务 · 全部公司（10 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[京东 4](../../slices/jd/intern/business/guangzhou.md) · [网易 3](../../slices/netease/intern/business/guangzhou.md) · [小红书 2](../../slices/xiaohongshu/intern/business/guangzhou.md) · [华为 1](../../slices/huawei/intern/business/guangzhou.md) · [腾讯 1](../../slices/tencent/intern/business/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 3](../../slices/jd/intern/business/guangzhou.md) · [网易 3](../../slices/netease/intern/business/guangzhou.md) · [小红书 2](../../slices/xiaohongshu/intern/business/guangzhou.md) · [华为 1](../../slices/huawei/intern/business/guangzhou.md) · [腾讯 1](../../slices/tencent/intern/business/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -10,7 +10,6 @@
 | 京东 | 供应链规划 〔27届〕 | 上海/北京/合肥/广州/深圳 | 2026-10-27 | [详情](../../jobs/jd-4860.md) |
 | 京东 | 商务拓展 〔27届〕 | 北京/广州/南宁/杭州/兰州/重庆 | 2026-10-27 | [详情](../../jobs/jd-4952.md) |
 | 京东 | 商务支持 〔27/28届〕 | 北京/成都/广州 | 2026-10-27 | [详情](../../jobs/jd-6650.md) |
-| 京东 | 招标采购 〔27届〕 | 上海/北京/广州/苏州/杭州/武汉/西安 | 2026-10-27 | [详情](../../jobs/jd-4988.md) |
 | 网易 | 海外商务实习生 | 广州 | 2026-10-27 | [详情](../../jobs/netease-78936.md) |
 | 网易 | 海外商务实习生（AI方向） 〔≥3个月〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-65647.md) |
 | 网易 | 音乐商务实习生（AI音乐方向） 〔27/28届 · ≥6个月，每周≥4天〕 | 广州 | 2026-10-27 | [详情](../../jobs/netease-78396.md) |

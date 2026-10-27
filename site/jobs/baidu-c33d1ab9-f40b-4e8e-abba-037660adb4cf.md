@@ -3,7 +3,7 @@
 - id: baidu-c33d1ab9-f40b-4e8e-abba-037660adb4cf
 - 公司: 百度
 - job_type: 校招
-- 类别: 其他
+- 类别: 项目管理
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明

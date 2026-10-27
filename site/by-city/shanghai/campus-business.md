@@ -1,8 +1,8 @@
-# 上海 · 校招 · 商务 · 全部公司（46 个岗位）（第 1/2 页）
+# 上海 · 校招 · 商务 · 全部公司（41 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 14](../../slices/bytedance/campus/business/shanghai.md) · [得物 14](../../slices/dewu/campus/business/shanghai.md) · [美团 5](../../slices/meituan/campus/business/shanghai.md) · [小红书 3](../../slices/xiaohongshu/campus/business/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/business/shanghai.md) · [京东 2](../../slices/jd/campus/business/shanghai.md) · [米哈游 2](../../slices/mihoyo/campus/business/shanghai.md) · [华为 1](../../slices/huawei/campus/business/shanghai.md) · [快手 1](../../slices/kuaishou/campus/business/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/business/shanghai.md) · [小米 1](../../slices/xiaomi/campus/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[得物 14](../../slices/dewu/campus/business/shanghai.md) · [字节跳动 13](../../slices/bytedance/campus/business/shanghai.md) · [美团 4](../../slices/meituan/campus/business/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/business/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/business/shanghai.md) · [华为 1](../../slices/huawei/campus/business/shanghai.md) · [京东 1](../../slices/jd/campus/business/shanghai.md) · [快手 1](../../slices/kuaishou/campus/business/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/business/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/business/shanghai.md) · [小米 1](../../slices/xiaomi/campus/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -13,7 +13,6 @@
 | 字节跳动 | 出海大客户/渠道销售（非电商-游戏） - Global Business Solutions 〔27届〕 | 上海/深圳 | 2026-10-27 | [详情](../../jobs/bytedance-7675583335754697013.md) |
 | 字节跳动 | 代理合作伙伴 - Global Business Solutions 〔27届〕 | 上海/广州 | 2026-10-27 | [详情](../../jobs/bytedance-7667464074172958981.md) |
 | 字节跳动 | 服务商渠道经理 - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7670756030309435701.md) |
-| 字节跳动 | 拉美物流采购专员 - TikTok Shop 〔27届〕 | 上海/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7668648723850316037.md) |
 | 字节跳动 | 渠道销售（创意经营） - 商业化 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7669688971358357813.md) |
 | 字节跳动 | 渠道销售（全域经营） - 商业化 〔27届〕 | 北京/上海/广州/杭州 | 2026-10-27 | [详情](../../jobs/bytedance-7669690089723889973.md) |
 | 字节跳动 | 商务流程管理 - TikTok Shop 〔27届〕 | 深圳/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668519606021212421.md) |
@@ -37,15 +36,15 @@
 | 得物 | 【27届校招】供应链售后链路解决方案（增值服务） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/dewu-7670425234923407658.md) |
 | 华为 | 智能汽车解决方案BD | 长春/重庆/武汉/芜湖/北京/上海/广州/合肥/深圳 | 2026-10-27 | [详情](../../jobs/huawei-38434.md) |
 | 京东 | 供应链规划 〔27届〕 | 上海/北京/合肥/济南/海口/厦门/西安 | 2026-10-27 | [详情](../../jobs/jd-9120.md) |
-| 京东 | 招标采购 〔27届〕 | 上海/北京/成都/广州/深圳/苏州/武汉/英国-伦敦/西安 | 2026-10-27 | [详情](../../jobs/jd-9057.md) |
 | 快手 | 商业化KA销售 | 上海/广州/北京 | 2026-10-27 | [详情](../../jobs/kuaishou-9752.md) |
 | 美团 | 城市大客户商务合作专员 | 合肥/杭州/南京/北京/苏州/天津/上海/西安/成都/昆明/长沙/重庆/济南/南昌/广州/郑州/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4697264948.md) |
 | 美团 | 大客户合作岗 〔27届〕 | 杭州/北京/石家庄/上海/迪拜/广州/成都/武汉/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4697233231.md) |
 | 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海/成都/长春/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/大连/南宁/西安/哈尔滨/昆明/长沙/湛江/重庆/东莞/南昌/中山/佛山/郑州 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | 美团 | 战略与投资分析师 | 北京/上海/深圳 | 2026-10-27 | [详情](../../jobs/meituan-4694877891.md) |
-| 美团 | 招商采购岗 | 杭州/北京/上海/利雅得/成都/深圳/武汉 | 2026-10-27 | [详情](../../jobs/meituan-4695162972.md) |
 | 米哈游 | 国际化市场商务 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9183.md) |
-| 米哈游 | IP周边衍生品采购 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9162.md) |
 | 拼多多 | 商务管培生（上海） 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-1f5cd170-a847-4e85-836e-79b24efc3ed5.md) |
+| 小红书 | 【2027校招】科技投资 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22198.md) |
+| 小红书 | 【2027校招】战略 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22196.md) |
+| 小米 | 投资专员 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924409896618249.md) |
 
-[下一页](campus-business-p2.md) · [总目录](../../llms.txt)
+[总目录](../../llms.txt)

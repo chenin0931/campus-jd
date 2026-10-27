@@ -1,14 +1,13 @@
-# 北京 · 实习 · 产品 · 全部公司（400 个岗位）（第 1/9 页）
+# 北京 · 实习 · 产品 · 全部公司（438 个岗位）（第 1/10 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 211](../../slices/bytedance/intern/product/beijing.md) · [百度 65](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 213](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 60](../../slices/didi/intern/product/beijing.md) · [小米 37](../../slices/xiaomi/intern/product/beijing.md) · [美团 26](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
 | 百度 | 百度 - 搜索产品经理实习生（J79492）（2个团队） 〔≥4个月〕 | 北京 | 2026-10-27 | [1](../../jobs/baidu-3faa8c71-ec0e-4a89-90eb-202a2118d050.md) [2](../../jobs/baidu-113bfe98-fcbf-43c7-90ec-39e4f7d36faf.md) |
 | 百度 | 百度APP产品实习生（多端方向）（J105995） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/baidu-7d5b645f-43db-4274-a801-1766a27a8e09.md) |
-| 百度 | 采购供应链实习产品经理（J81453） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-6c52d32f-203b-44f7-83c5-548edfcedc95.md) |
 | 百度 | 策略产品经理（J79942） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-b262c513-c457-42ba-869d-66b4bdf26d90.md) |
 | 百度 | 策略产品实习生（J106845） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-83e0cbf6-73c8-44d2-a7f9-ea95f52da65b.md) |
 | 百度 | 策略产品实习生（J77587） | 北京 | 2026-10-27 | [详情](../../jobs/baidu-cb4a32d5-0490-4a1e-9081-d7e435d0e0c3.md) |

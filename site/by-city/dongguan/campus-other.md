@@ -1,8 +1,8 @@
-# 东莞 · 校招 · 其他 · 全部公司（9 个岗位）
+# 东莞 · 校招 · 其他 · 全部公司（8 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[OPPO 5](../../slices/oppo/campus/other/dongguan.md) · [美团 3](../../slices/meituan/campus/other/dongguan.md) · [京东 1](../../slices/jd/campus/other/dongguan.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[OPPO 4](../../slices/oppo/campus/other/dongguan.md) · [美团 3](../../slices/meituan/campus/other/dongguan.md) · [京东 1](../../slices/jd/campus/other/dongguan.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -12,8 +12,7 @@
 | 美团 | 物流管理储备岗 | 杭州/南京/北京/苏州/天津/上海/西安/成都/长沙/东莞/广州/武汉/深圳/佛山 | 2026-10-27 | [详情](../../jobs/meituan-4697381206.md) |
 | OPPO | 计划经理 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../jobs/oppo-1756.md) |
 | OPPO | Channel Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1848.md) |
-| OPPO | Overseas Business Trainee 〔27届〕 ⚠️链接待核 | 东莞 | 2026-10-27 | [详情](../../jobs/oppo-1892.md) |
-| OPPO | Product Marketing Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | [详情](../../jobs/oppo-1851.md) |
+| OPPO | Overseas Business Trainee 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../jobs/oppo-1892.md) |
 | OPPO | Retail Manager 〔27届〕 | 东莞 | 2026-10-27 | [详情](../../jobs/oppo-1904.md) |
 
 [总目录](../../llms.txt)

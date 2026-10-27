@@ -3,7 +3,7 @@
 - id: kuaishou-12461
 - 公司: 快手
 - job_type: 校招
-- 类别: 其他
+- 类别: 分析
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明
