@@ -143,6 +143,11 @@ if (a.probe) (async () => { const seen = new Set();
 else (async () => {
   let i = 0; const now = new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 19) + '+08:00';
   await Promise.all(Array.from({ length: N }, async () => { while (i < todo.length) { const t = todo[i++]; res[t.id] = { ...(await check(t.url, t.slug)), checked_at: now }; } }));
+  // 防误判：同一轮某家判 invalid 的超过 10 条或 20%，疑似限流/接口异常 → 整家 invalid 降级为待核，待人工抽查
+  const by = {}; for (const t of todo) { const c = t.id.split('-')[0]; (by[c] ||= { n: 0, bad: [] }).n++; if (res[t.id].status === 'invalid') by[c].bad.push(t.id); }
+  for (const [c, v] of Object.entries(by)) if (v.bad.length > 10 || (v.bad.length && v.bad.length / v.n > 0.2)) {
+    console.warn(`⚠️ ${c}: ${v.bad.length}/${v.n} 判下架，超阈值，降级为待核，请浏览器抽查`);
+    for (const id of v.bad) res[id] = { ...res[id], status: 'unverified', code: 'mass-invalid-review' }; }
   fs.writeFileSync(OUT, JSON.stringify(res, null, 1) + '\n');
   const sum = {}; for (const t of todo) { const k = t.id.split('-')[0] + ':' + res[t.id].status + ':' + res[t.id].code; sum[k] = (sum[k] || 0) + 1; }
   console.log(`checked ${todo.length} links (${week})`, sum);
