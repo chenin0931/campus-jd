@@ -4116,23 +4116,8 @@
   },
   {
     "company": "字节跳动",
-    "title": "AI应用人才战略实习生 - Spring 产品",
-    "category": "AI产品",
-    "city": [
-      "上海",
-      "深圳"
-    ],
-    "requirements": "1、本科及以上学历在读，经济学、金融学、工商管理等商科相关专业，具备计算机、人工智能、统计学跨学科背景者优先；\n2、有AI产品、Coding工具或开发者工具的实习或使用经验；\n3、能够使用英语作为工作语言；\n4、对AI应用和技术感兴趣，且具备独立的思考和认知；\n5、能够连续实习3个月及以上，每周出勤4天以上。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7662665409930053941/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7662665409930053941/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "评测产品经理 - AI Platform",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "上海",
       "深圳"
@@ -4147,7 +4132,7 @@
   {
     "company": "字节跳动",
     "title": "产品（评测方向）实习生-AI Platform",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "上海"
     ],
@@ -4204,7 +4189,7 @@
   {
     "company": "字节跳动",
     "title": "模型训练产品实习生-AI数据与安全",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -4261,7 +4246,7 @@
   {
     "company": "字节跳动",
     "title": "模型训练产品实习生-AI数据与安全",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -4360,7 +4345,7 @@
   {
     "company": "字节跳动",
     "title": "LLM/VLM模型训练产品实习生 - AI数据与安全",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -4388,7 +4373,7 @@
   {
     "company": "字节跳动",
     "title": "LLM/VLM模型训练产品实习生 - AI数据与安全",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -4502,7 +4487,7 @@
   {
     "company": "字节跳动",
     "title": "用户产品实习生-AI创新业务",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "上海"
     ],
@@ -5257,22 +5242,8 @@
   },
   {
     "company": "字节跳动",
-    "title": "抖音AI创新策略经理 - 抖音内容运营",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、2027届获得本科及以上学历，专业不限；\n2、具备扎实的编程基础（Python/Java等），能够独立完成代码开发与调试，具备全栈开发能力；熟悉大模型相关产品API调用，掌握LangChain、AutoGPT等主流框架的原理与应用，熟悉RAG、Agent、Workflow等AI应用架构模式，能够设计并实施复杂的多Agent协作方案；\n3、有需求拆解和抽象能力，对相关技术实现有判断力，用户体验敏感，有研发背景或者AI产品经验优先；\n4、具备较强的学习能力和资源协调能力，能够推进跨团队合作项目落地；\n5、富有团队合作精神，强调团队合作，勇于挑战，能够独立思考，有创新意识。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7668288833977747765/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7668288833977747765/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "校招"
-  },
-  {
-    "company": "字节跳动",
     "title": "世界模型训练产品实习生-AI数据与安全",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -5286,7 +5257,7 @@
   {
     "company": "字节跳动",
     "title": "世界模型训练产品实习生-AI数据与安全",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -6416,7 +6387,7 @@
   {
     "company": "字节跳动",
     "title": "云存储产品经理 - AI算力基础设施",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京",
       "杭州"
@@ -6703,22 +6674,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "Agent数据工程实习生 - 抖音用户产品",
-    "category": "AI产品",
-    "city": [
-      "杭州",
-      "北京",
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读，计算机、软件工程等相关专业优先；\n2、熟悉至少一种编程语言，如Go、Python、Java等，至少有一种模型后训练经验；\n3、对大数据技术有深入的理解加分，熟练掌握如Spark、Flink、Kafka、Hive、HDFS等工具加分；\n4、对大模型、Agent Infra等方向有热情，具备较好的学习能力、独立分析和处理复杂问题的能力；\n5、具备良好的沟通协作能力，善于合作；\n6、一周出勤4天及以上，连续实习6个月以上优先。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7681137268297730309/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7681137268297730309/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "产品实习生（达人和AI方向）-国际化广告创意与品牌",
     "category": "AI产品",
     "city": [
@@ -6804,7 +6759,7 @@
   {
     "company": "字节跳动",
     "title": "产品实习生-AI创新业务",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "上海"
     ],
@@ -6832,7 +6787,7 @@
   {
     "company": "字节跳动",
     "title": "平台产品经理 - AI算力基础设施",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -6891,20 +6846,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "AI技术战略实习生-TikTok产品",
-    "category": "AI产品",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读，计算机科学、人工智能、工程、商科等相关专业优先；\n2、具备技术+商业的复合跨学科背景者优先；具备逻辑分析能力、商业敏感度和深度研究能力，求知欲强，能快速学习并理解复杂的技术和商业概念，了解主流大模型的技术原理、能力边界、应用场景，能够使用英语作为工作语言；\n3、掌握Python进行开发和数据分析建模，善于并高频使用各类AI工具（如Cursor,Copilot等）进行高效研究、数据分析优先；\n4、工作态度严谨细致、积极主动，有高度的责任感和出色的沟通能力；\n5、实习期至少3个月，6个月以上优先，每周至少可到岗4天。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7585161864424032565/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7585161864424032565/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "AI数据服务平台产品运营实习生 - TikTok",
     "category": "运营",
     "city": [
@@ -6920,7 +6861,7 @@
   {
     "company": "字节跳动",
     "title": "产品经理（供应链平台） - AI算力基础设施",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "北京"
     ],
@@ -7021,7 +6962,7 @@
   {
     "company": "字节跳动",
     "title": "策略产品实习生 - AI创新业务",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "上海"
     ],
@@ -7071,20 +7012,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7699337704628291845/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7699337704628291845/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "AI自动化实习生-TikTok安全产品",
-    "category": "AI产品",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读，计算机科学、信息系统、数据科学、人工智能、工程、商业分析或相关专业；\n2、具备出色的分析与问题解决能力，能够解读数据并得出可落地的洞见；具备出色的沟通与协作能力，可在跨职能团队中高效开展工作；能够统筹多项任务，同时高度关注细节；积极主动的学习者，对人工智能技术及卓越运营抱有强烈好奇心；\n3、对大语言模型（LLM）、生成式AI、AI智能体或机器学习应用有明确的兴趣或实操经验；通过课程学习、个人项目、黑客马拉松或实习，熟悉提示词工程、提示词评估或AI工作流设计，若了解准确率、召回率、幻觉、信息泄露、过度拦截或模型性能指标等AI评估相关概念者优先；\n4、具备API、工作流自动化工具或AI开发平台的使用经验；熟悉数据分析与可视化工具（如SQL、Excel、Tableau、Power BI或Python）；\n5、对信任与安全、内容审核、风险管理或大规模在线平台运营有兴趣；\n6、有检索增强生成（RAG）、智能体AI框架或AI评估框架相关经验者优先。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7664515703379298565/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7664515703379298565/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
   },
@@ -7204,7 +7131,7 @@
   {
     "company": "字节跳动",
     "title": "产品设计实习生-AI创新业务",
-    "category": "AI产品",
+    "category": "产品",
     "city": [
       "上海"
     ],
@@ -8861,20 +8788,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7621838251519428917/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7621838251519428917/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "数据策略分析实习生 - 飞书商业运营与策略",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、2027届本科及以上学历在读，专业不限；\n2、至少一段数据分析、金融分析、咨询、商业分析、策略运营或相关实习经历；\n3、熟练使用SQL查询和处理数据，能用Python或R独立完成从数据清洗到分析输出的全流程；善于利用AI工具解决实际问题，能将AI融入日常分析和决策流程中提升效率和质量；\n4、逻辑思维清晰，善于在模糊的商业问题中找到结构，具备将复杂分析转化为业务决策建议的能力；\n5、具备良好的沟通与协作意识，能把技术方法论翻译成业务语言，高效推动跨部门协作；\n6、英语听说读写流利，能适应国际化业务环境。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7662414251332241717/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7662414251332241717/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
   },
@@ -12768,20 +12681,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "风险评估实习生-TikTok安全产品",
-    "category": "产品",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、2027届本科及以上学历在读，新闻传播学、社会学或相关专业；\n2、能够保证至少3个月实习，每周可出勤4天及以上者优先；\n3、熟练掌握英语/日语/印尼语/德语/韩语/阿拉伯语/西班牙语/葡萄牙语/法语中的一门语言，有相应国家留学经历者优先；\n4、对内容安全和网络风险有较高敏感度，能准确识别潜在风险，并理解相关政策与规则，具备较强的规律归纳总结能力，熟练掌握内容审核与舆情监控相关技能；\n5、熟悉常见数据分析方法与统计学方法，掌握至少一种脚本语言并具备相关实践经验者优先；\n6、思维灵活，责任心强，具备良好的跨部门沟通协调能力及应急响应能力，能够有效推进项目与管理支持工作，学习能力强，领悟能力高，能够快速适应管制政策与平台内容生态的变化。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7624099117551290677/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7624099117551290677/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "抖音星图达人运营经理 - 抖音品牌营销与星图达人",
     "category": "运营",
     "city": [
@@ -14647,20 +14546,6 @@
     "source_url": "https://jobs.bytedance.com/campus/position/7628878081310132485/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "抖音热点治理策略经理 - 抖音内容运营",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、2027届获得本科及以上学历；\n2、有平台治理、策略产品、数据分析或大模型相关经验，有生态治理、大模型Agent应用经验者优先；\n3、较强逻辑思维与系统设计能力，能将复杂问题拆解为可量化的指标和规则；\n4、熟练使用SQL等工具分析数据，擅长通过数据驱动决策，具备Python数据分析经验者优先；\n5、熟悉内容社区运作机制，对创作者心理和用户需求有敏锐洞察；\n6、责任心强，具备跨团队协作能力，能在中平衡短期效果与长期生态健康。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7668288515521153333/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7668288515521153333/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "校招"
   },
   {
     "company": "字节跳动",
@@ -18316,20 +18201,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "营销大促实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读；\n2、对电商营销、平台活动运营有较高兴趣，具备较强的好奇心、学习能力、跨团队协作与沟通、结构化提炼总结及清晰有逻辑的表达能力；\n3、拥有较强的自驱力和主动性，善于沟通和团队协作，学习能力强、责任心强，工作严谨细致、积极主动，具备应对复杂任务的能力；\n4、有数据整理和数据分析的能力，有AI数据处理和建设能力，熟练使用Excel等办公软件优先；\n5、有营销运营、活动运营、平台运营、电商运营等相关实习经验者优先；有复杂项目协同、跨团队推进或专项支持经验者优先。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7680481131736893749/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7680481131736893749/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "抖音泛资讯运营经理 - 抖音内容运营",
     "category": "运营",
     "city": [
@@ -18832,20 +18703,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "商家商品策略实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读，计算机、统计学、经济学等相关专业优先；\n2、有电商策略运营实习经验者优先，具有良好的数据和业务敏感度，有良好的数据分析能力；\n3、理解商家商品的经营视角，能够洞察本质，挖掘机会点，并能够协调整合资源、强力推动各方落地；\n4、具有强烈的学习意愿和工作热情，有较强学习能力、沟通协调能力和执行力，有较好的自驱力。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7690768137100331317/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7690768137100331317/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "美护亲子萌宠行业运营 - 抖音电商",
     "category": "运营",
     "city": [
@@ -19173,34 +19030,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "经营策略实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读；\n2、有电商运营经验优先，对消费者行为、货品有较好的认知；\n3、逻辑思维好，有数据思维，有较强的数据分析与业务落地能力，能通过数据分析寻找规律、发现问题与机会，并支持业务部门输出解决方案，协同团队一起落地实现结果；\n4、学习能力强，执行力高，有较强的沟通协调、资源整合能力及项目管理能力。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7695601435832224005/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7695601435832224005/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "家清日用行业实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读、理科；\n2、具有较强的责任心和合作意识，自驱力优秀，能够完成较为复杂的工作任务，并进行跨部门协作；\n3、具备较强的沟通协作以及组织协调能力，能够与重要商家进行交流与合作；\n4、具备一定的商业洞察能力，能够对行业现状及市场环境进行分析，不断发掘行业发展的底层逻辑。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7689039437923862789/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7689039437923862789/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "效果与创作内容运营实习生-抖音",
     "category": "运营",
     "city": [
@@ -19210,21 +19039,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7540848064116050183/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7540848064116050183/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "达人营销策略实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "杭州",
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读；\n2、每周可实习5天，可连续实习，对电商行业有热情，对营销活动感兴趣，具有主人翁意识，能够积极投身活动大事件打造；\n3、熟练使用办公软件，对电商有一定的了解，熟悉电商活动和货品；\n4、善于沟通和团队协作，学习能力强、责任心强、踏实靠谱，积极主动；\n5、良好的数据分析能力，能从数据中分析发现用户及产品需求。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7698935678747265285/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7698935678747265285/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
   },
@@ -19342,20 +19156,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "营销实习生-抖音运营",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、本科及以上学历在读；\n2、有市场部、品牌部相关活动项目工作经验者优先；\n3、协作沟通能力较强、具备良好的领悟能力，能够举一反三，能够进行基础的项目策划，有较强的视觉审美水准和文案撰写能力，有网感，能够驾驭不同风格的文字，熟悉社交平台新趋势；\n4、善于沟通，具备良好的沟通能力和较高的执行力，主动进行内外部沟通，思维活跃、领悟能力强；\n5、有较强的团队合作精神，责任感强，能够快速融入工作。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7637441198371146037/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7637441198371146037/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "商家增长运营实习生（AI相关）-抖音生活服务",
     "category": "运营",
     "city": [
@@ -19393,20 +19193,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7358412304545532198/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7358412304545532198/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "行业治理实习生 - 抖音内容运营",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、本科及以上学历在读，专业不限，统计学、数学相关专业优先；\n2、有内容治理或风控策略相关经验，内容风险敏感度较高；熟悉内容型社区产品，有策略产品运营经验优先；\n3、有较强的逻辑思维、数据能力和跨团队协作沟通能力，有效进行数据处理和策略决策落地；\n4、有出色的理解能力与协同沟通界面；富有团队合作精神、韧性与自驱力强。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7673015490605205813/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7673015490605205813/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
   },
@@ -19923,20 +19709,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "营销活动实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读；\n2、学习能力强、洞察力强、思路清晰、文笔流畅，具有较强的独立思考能力和自我驱动力；\n3、熟悉使用各种办公及分析软件，有较强的沟通能力、数据分析能力，工作高效；\n4、对国内主流电商平台特别是内容电商平台的商业模式有基本认知和思考，有电商平台或自媒体运营等实习经历优先；\n5、实习期保证4个月以上，每周工作5天，能长期实习优先。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7698624042448357637/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7698624042448357637/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "激励增长产品运营实习生-TikTok",
     "category": "运营",
     "city": [
@@ -20300,20 +20072,6 @@
     "source_url": "https://jobs.bytedance.com/campus/position/7685612037252712709/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "校招"
-  },
-  {
-    "company": "字节跳动",
-    "title": "行业营销实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读，市场营销、广告传播相关专业优先；\n2、一周可实习至少4天以上，实习周期4个月以上；\n3、了解并熟悉电商营销活动，有创意、思维灵活，具备创新思维，喜欢思考；\n4、熟悉主流电商平台。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7678526697503197493/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7678526697503197493/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
   },
   {
     "company": "字节跳动",
@@ -21992,20 +21750,6 @@
   },
   {
     "company": "字节跳动",
-    "title": "营销策略实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读，统计学、数学、经济学、商业分析、市场营销等相关专业优先；\n2、过往实习有过营销策略、增长策略、经营分析、商业分析或数据驱动营销相关经验，有电商、零售、消费品等行业经验优先；\n3、数据能力强：熟练使用SQL独立取数和分析，熟练使用Excel/PPT，掌握Tableau、Power BI等BI工具之一；\n4、熟悉漏斗分析、Cohort分析、A/B测试、归因分析、LTV/ROI测算等分析方法；\n5、具备较强的经营分析敏感度，可基于数据洞察输出分析结论并完成归因；\n6、逻辑清晰，沟通推动能力强，能跨团队推动策略落地并对结果负责，Python/R、统计建模、自动化报表能力为加分项。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7700820118566144309/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7700820118566144309/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
     "title": "内容安全研判运营（葡萄牙语方向） - TikTok",
     "category": "运营",
     "city": [
@@ -22254,20 +21998,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7677438105138219317/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7677438105138219317/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "服饰行业经营分析实习生 - 抖音电商运营",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读；\n2、数据敏感度佳，能从复杂数据中提炼关键问题，熟练使用数据分析及数据可视化软件，有独立搭建看板和数据集经验；\n3、有较强的多团队协作能力，较好自驱力，善于找到问题关键点，从复杂现象中提炼规律。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7698273369578653957/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7698273369578653957/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
   },
@@ -23256,20 +22986,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7694605740006902069/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7694605740006902069/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "数据分析实习生 - 抖音内容运营",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、本科及以上学历在读，数学、统计学、经济学、计算机专业优先；\n2、有统计、机器学习、深度学习相关研究或工作经验者优先；\n3、熟悉Python、R、Hive等常用数据技术优先；\n4、对数据敏感，具有良好的逻辑思维能力、分析总结能力、表达呈现能力；\n5、有挑战难题的热情和韧性，良好的团队沟通和协作能力。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7585139627922458933/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7585139627922458933/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
   },
@@ -25259,20 +24975,6 @@
     "deadline": null,
     "apply_url": "https://jobs.bytedance.com/campus/position/7696887135721163013/detail",
     "source_url": "https://jobs.bytedance.com/campus/position/7696887135721163013/detail",
-    "fetched_at": "2026-10-27T13:43:11+08:00",
-    "job_type": "实习"
-  },
-  {
-    "company": "字节跳动",
-    "title": "数据分析实习生-销售运营管理平台",
-    "category": "运营",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1、本科及以上学历在读，统计学、计算机、经济学、数据科学、量化分析等相关专业；\n2、具备扎实的统计学、机器学习、因果推断等数据科学理论基础及应用经验；精通SQL，熟练掌握Python/R中的一种及相关库的应用；\n3、具备优秀的数据敏感度与逻辑思维能力，能够在较大不确定性的问题中构建分析框架，将数据转化为有效的信息进行定量洞察，有互联网直播/短视频相关行业经验优先；\n4、熟悉A/B实验理论和流程，有推荐、广告、增长营销等相关方向数据科学与分析经验者优先；\n5、能够主动、独立的思考，具备良好的团队协作能力与责任心，善于跨部门沟通协作。",
-    "deadline": null,
-    "apply_url": "https://jobs.bytedance.com/campus/position/7477582636400118023/detail",
-    "source_url": "https://jobs.bytedance.com/campus/position/7477582636400118023/detail",
     "fetched_at": "2026-10-27T13:43:11+08:00",
     "job_type": "实习"
   },

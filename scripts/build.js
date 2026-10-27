@@ -46,6 +46,18 @@ const table = (l, withCo) => l.length ? [
   `| ${withCo ? '公司 | ' : ''}岗位 | 城市 | 截止 | 首次出现 | 链接 |`, `|${withCo ? '---|' : ''}---|---|---|---|---|`,
   ...l.map(j => `| ${withCo ? esc(j.company) + ' | ' : ''}${esc(j.title)}${tag(j)} | ${esc(j.city.join('/'))} | ${j.deadline || '见官网'} | ${j.first_seen || '-'} | [投递](${j.apply_url}) |`)
 ].join('\n') : '_无_';
+// 分表折叠：同一分表内 title+city 相同的合成一行
+const group = l => { const m = new Map();
+  for (const j of l) { const k = j.title + '|' + [...j.city].sort().join('/'); if (!m.has(k)) m.set(k, []); m.get(k).push(j); }
+  return [...m.values()].map(g => ({ ...g[0], n: g.length, links: g.map(x => x.apply_url),
+    is_new: g.some(x => x.is_new), first_seen: g.map(x => x.first_seen).sort()[0],
+    deadline: g.map(x => x.deadline).filter(Boolean).sort()[0] || null })); };
+const ha = s => String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
+const linkCell = g => g.n === 1 ? `[投递](${g.links[0]})` :
+  `<details><summary>展开 ${g.n} 个投递入口</summary>${g.links.map((u, i) => `<a href="${ha(u)}">入口${i + 1}</a>`).join('<br>')}</details>`;
+const gtable = l => ['| 岗位 | 城市 | 截止 | 首次出现 | 投递 |', '|---|---|---|---|---|',
+  ...l.map(g => `| ${esc(g.title)}${tag(g)}${g.n > 1 ? `<br>**${g.n} 个团队在招**` : ''} | ${esc(g.city.join('/'))} | ${g.deadline || '见官网'} | ${g.first_seen || '-'} | ${linkCell(g)} |`)].join('\n');
+let rawRows = 0, foldRows = 0; const folded = {};
 const fileOf = (jt, c) => jt === '实习' ? `实习-${c}.md` : `${c}.md`;
 const enc = p => p.split('/').map(encodeURIComponent).join('/');
 
@@ -58,8 +70,9 @@ for (const co of companies) {
   for (const jt of TYPES) for (const c of CATS) {
     const l = jobs.filter(j => j.company_slug === co && j.category === c && j.job_type === jt).sort(byDl);
     if (!l.length) continue;
-    fs.writeFileSync(path.join(JOBS, co, fileOf(jt, c)), [`# ${names[co]} · ${jt} · ${c}（${l.length}）`, '',
-      `数据周 ${cur}，生成于 ${today}。截止“见官网”表示官网未注明。🆕 = 本周新增。[返回总览](../../README.md)`, '', table(l), ''].join('\n'));
+    const g = group(l); rawRows += l.length; foldRows += g.length; folded[`${co}|${c}|${jt}`] = g.length;
+    fs.writeFileSync(path.join(JOBS, co, fileOf(jt, c)), [`# ${names[co]} · ${jt} · ${c}（${l.length} 个岗位，去重后 ${g.length}）`, '',
+      `数据周 ${cur}，生成于 ${today}。截止“见官网”表示官网未注明。🆕 = 本周新增。标题和城市相同的岗位合并为一行，点“展开”看各团队的投递入口。[返回总览](../../README.md)`, '', gtable(g), ''].join('\n'));
   }
 }
 fs.writeFileSync(path.join(JOBS, 'latest.json'), JSON.stringify({ week: cur, previous_week: prev || null, generated_at: today, count: jobs.length, removed_count: removed.length, jobs, removed }, null, 1) + '\n');
@@ -69,7 +82,7 @@ fs.writeFileSync(path.join(JOBS, 'removed.md'), [`# 已下架岗位（${removed.
 const newJobs = jobs.filter(j => j.is_new);
 const soon = jobs.filter(j => j.deadline && days(j.deadline) >= 0 && days(j.deadline) <= 7).sort(byDl);
 const cnt = (co, c, jt) => jobs.filter(j => j.company_slug === co && j.category === c && j.job_type === jt).length;
-const cell = (co, c, jt) => { const n = cnt(co, c, jt); return n ? `[${n}](${enc(`jobs/${co}/${fileOf(jt, c)}`)})` : '0'; };
+const cell = (co, c, jt) => { const n = cnt(co, c, jt), f = folded[`${co}|${c}|${jt}`]; return n ? `[${n}${f !== n ? `（${f}）` : ''}](${enc(`jobs/${co}/${fileOf(jt, c)}`)})` : '0'; };
 const exampleCos = [...new Set(jobs.filter(j => j.example).map(j => names[j.company_slug]))];
 const md = [
   '# 大厂 AI / 产品 / 运营岗秋招 JD 库（每周更新）', '',
@@ -79,6 +92,7 @@ const md = [
   `| 公司 | ${TYPES.flatMap(t => CATS.map(c => `${t}·${c}`)).join(' | ')} | 合计 | 本周新增 |`,
   `|---|${TYPES.flatMap(() => CATS.map(() => '---:')).join('|')}|---:|---:|`,
   ...companies.map(co => `| ${esc(names[co])}${exampleCos.includes(names[co]) ? ' `示例`' : ''} | ${TYPES.flatMap(t => CATS.map(c => cell(co, c, t))).join(' | ')} | ${jobs.filter(j => j.company_slug === co).length} | ${newJobs.filter(j => j.company_slug === co).length} |`), '',
+  '括号内为去重后行数（同标题同城市合并）。', '',
   prev ? `本周新增按 apply_url 对比 ${prev}。` : '没有上一周数据，本周全部视为新增。', '',
   `## ⏰ 7 天内截止（${soon.length}）`, '', soon.length ? table(soon, true) : '_无（仅统计官网注明截止日期的岗位）_', '',
   `## 📦 已下架（${removed.length}）`, '', removed.length ? `完整列表见 [jobs/removed.md](jobs/removed.md)。` : '_无_', '',
@@ -88,6 +102,7 @@ const md = [
 fs.writeFileSync(path.join(ROOT, 'README.md'), md);
 
 const inf = jobs.filter(j => j.job_type_inferred).length;
+console.log(`分表行数：折叠前 ${rawRows} → 折叠后 ${foldRows}`);
 console.log(`build ok: ${cur} vs ${prev || '-'} | ${jobs.length} jobs, ${newJobs.length} new, ${removed.length} removed, ${soon.length} due in 7d, ${dup} dup dropped, ${inf} job_type inferred`);
 for (const co of companies) console.log(' ', co, TYPES.map(t => t + ':' + CATS.map(c => c + '=' + cnt(co, c, t)).join(',')).join(' | '));
 if (issues.length) { console.log(`数据问题 ${issues.length} 条：`); issues.slice(0, 20).forEach(i => console.log('  ' + i)); }

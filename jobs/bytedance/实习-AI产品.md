@@ -1,19 +1,15 @@
-# 字节跳动 · 实习 · AI产品（235）
+# 字节跳动 · 实习 · AI产品（220 个岗位，去重后 209）
 
-数据周 2026-W44，生成于 2026-10-27。截止“见官网”表示官网未注明。🆕 = 本周新增。[返回总览](../../README.md)
+数据周 2026-W44，生成于 2026-10-27。截止“见官网”表示官网未注明。🆕 = 本周新增。标题和城市相同的岗位合并为一行，点“展开”看各团队的投递入口。[返回总览](../../README.md)
 
-| 岗位 | 城市 | 截止 | 首次出现 | 链接 |
+| 岗位 | 城市 | 截止 | 首次出现 | 投递 |
 |---|---|---|---|---|
 | 采购AI产品实习生 - Corporate Services 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7527150093935773959/detail) |
-| 策略产品实习生 - AI创新业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7629626590481549621/detail) |
-| 产品（评测方向）实习生-AI Platform 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7593032687017445637/detail) |
 | 产品内容营销（AI Agent方向）实习生 - 飞书 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7641527999201184005/detail) |
 | 产品设计（AI方向）实习生 - 飞书设计 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7680110370195048757/detail) |
 | 产品设计（AI方向）实习生-飞书设计 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7611826461696330037/detail) |
-| 产品设计实习生-AI创新业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7472227164983003410/detail) |
 | 产品设计实习生（AI方向）-飞书设计 🆕 | 深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7613312932672719157/detail) |
 | 产品设计实习生（AI方向）-飞书设计 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7613312741419370757/detail) |
-| 产品实习生-AI创新业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7527611402996156680/detail) |
 | 产品实习生（达人和AI方向）-国际化广告创意与品牌 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7553473317518067975/detail) |
 | 产品实习生（数据智能体方向）-数据平台 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7554289793937606930/detail) |
 | 大模型安全产品实习生 - 火山方舟 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7675353973675460869/detail) |
@@ -30,8 +26,7 @@
 | 大模型产品实习生-TikTok 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7672401115376929029/detail) |
 | 大模型平台产品实习生 - TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7689008806607440133/detail) |
 | 大模型评测产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7599952289071237429/detail) |
-| 大模型评测平台产品实习生 - 模型数据工程 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667041805084903685/detail) |
-| 大模型评测平台产品实习生 - 模型数据工程 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7615581474781104389/detail) |
+| 大模型评测平台产品实习生 - 模型数据工程 🆕<br>**2 个团队在招** | 北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7667041805084903685/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7615581474781104389/detail">入口2</a></details> |
 | 大模型数据产品实习生-数据平台 🆕 | 杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7592211499600136453/detail) |
 | 电商营销AI产品实习生 - TikTok Shop 🆕 | 杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7696109127765231877/detail) |
 | 豆包大模型产品解决方案实习生 - 火山方舟 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7696095447061039365/detail) |
@@ -40,13 +35,11 @@
 | 豆包语音大模型产品实习生（实时音视频交互/Agent方向） - Data语音 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7699801215703304453/detail) |
 | 豆包AI大模型策略产品实习生 - 火山方舟 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7683377651108612357/detail) |
 | 豆包AI大模型产品（Viking AI搜索方向）实习生-火山方舟 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7646684300608522549/detail) |
-| 豆包AI大模型产品解决方案实习生 - 火山方舟 🆕 | 深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7690515308227397893/detail) |
-| 豆包AI大模型产品解决方案实习生 - 火山方舟 🆕 | 深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7672308679005899061/detail) |
+| 豆包AI大模型产品解决方案实习生 - 火山方舟 🆕<br>**2 个团队在招** | 深圳 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7690515308227397893/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7672308679005899061/detail">入口2</a></details> |
 | 豆包AI大模型产品解决方案实习生 - Data AML 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7649005097564834101/detail) |
 | 豆包AI大模型产品解决方案实习生-火山方舟 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7659299976208206133/detail) |
 | 豆包AI大模型产品实习生 - 火山方舟 🆕 | 杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7683369053983000837/detail) |
-| 豆包AI大模型产品实习生 - 火山方舟 🆕 | 杭州/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7688267140178004229/detail) |
-| 豆包AI大模型产品实习生 - 火山方舟 🆕 | 杭州/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7682681592747804933/detail) |
+| 豆包AI大模型产品实习生 - 火山方舟 🆕<br>**2 个团队在招** | 杭州/上海 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7688267140178004229/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7682681592747804933/detail">入口2</a></details> |
 | 豆包AI大模型产品实习生 - 火山方舟 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7671188492174674181/detail) |
 | 豆包AI大模型Agent评测产品实习生 - 火山方舟 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7676350693393811765/detail) |
 | 合同产品实习生（AI应用方向）-集团信息系统 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7628888319682857269/detail) |
@@ -59,18 +52,13 @@
 | 剪映AI产品实习生 - 剪映CapCut 🆕 | 深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7699742689026279685/detail) |
 | 具身智能产品实习生（豆包大模型） - 火山方舟 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7488910961756768519/detail) |
 | 流量激励AI产品实习生 - TikTok直播 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7641229398772140341/detail) |
-| 模型训练产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7598219830978005253/detail) |
-| 模型训练产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7524639056538913042/detail) |
 | 人审平台产品（AI方向）实习生 - TikTok 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7658189815418046773/detail) |
 | 商品成长智能化策略产品实习生（AI产品方向） - TikTok Shop 🆕 | 珠海/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7683889249212696837/detail) |
 | 商业化电商AIGC产品实习生 - 国际化电商广告 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7665183529056356661/detail) |
-| 世界模型训练产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7642612019191515445/detail) |
-| 世界模型训练产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7644770781558229253/detail) |
 | 数据产品实习生（AI方向） - 创新&中台 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7546518500043426066/detail) |
 | 行业AI产品实习生 - 飞书商业化 🆕 | 杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7665275066474170629/detail) |
 | 营销产品实习生（Agent方向） - 抖音电商 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7700792600462346501/detail) |
 | 营销平台产品实习生（AI与流量补贴方向） - 抖音电商 🆕 | 杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7699337704628291845/detail) |
-| 用户产品实习生-AI创新业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7659258874063112501/detail) |
 | 语音大模型AI产品实习生 - Data语音 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7690408509064087813/detail) |
 | 语音大模型AI平台产品实习生 - Data语音 🆕 | 杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7674861834033875253/detail) |
 | 直播AI互动产品实习生 - 音视频技术 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7695633395914115381/detail) |
@@ -82,7 +70,6 @@
 | Agent策略产品实习生 - 火山方舟 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7694875950936623413/detail) |
 | Agent产品实习生 - 抖音增长 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7643674229564868869/detail) |
 | Agent平台产品实习生 - TikTok 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7699106162533501189/detail) |
-| Agent数据工程实习生 - 抖音用户产品 🆕 | 杭州/北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7681137268297730309/detail) |
 | AI Agent产品（增长投放方向）实习生 - 抖音 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7673409327177533701/detail) |
 | AI Agent产品实习生 - 巨量AI工作台 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7699129373466970373/detail) |
 | AI Builder产品实习生-隐私和数据保护办公室 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7644045167175715125/detail) |
@@ -134,10 +121,8 @@
 | AI产品实习生-国际化广告创意与品牌 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7591364390168086837/detail) |
 | AI产品实习生-集团信息系统 🆕 | 杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7631141550316308789/detail) |
 | AI产品实习生-AI创新业务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7628558235151124789/detail) |
-| AI产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7597797411016771893/detail) |
-| AI产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7573540114467899701/detail) |
-| AI产品实习生-GenAI 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7592161783022356789/detail) |
-| AI产品实习生-GenAI 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7592475185988290821/detail) |
+| AI产品实习生-AI数据与安全 🆕<br>**2 个团队在招** | 北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7597797411016771893/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7573540114467899701/detail">入口2</a></details> |
+| AI产品实习生-GenAI 🆕<br>**2 个团队在招** | 北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7592161783022356789/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7592475185988290821/detail">入口2</a></details> |
 | AI产品实习生-TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7634381267023350069/detail) |
 | AI产品实习生（表格） - 飞书&豆包办公任务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7628831225650039045/detail) |
 | AI产品实习生（采购方向）-集团信息系统 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7652370477450561797/detail) |
@@ -155,16 +140,14 @@
 | AI产品实习生（即创AI）-广告业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7592925902420003077/detail) |
 | AI产品实习生（平台产品）-抖音生活服务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7628832143767619845/detail) |
 | AI产品实习生（平台产品）-抖音生活服务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7629673317514938677/detail) |
-| AI产品实习生（评测方向） - 豆包 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7680838623608801589/detail) |
-| AI产品实习生（评测方向） - 豆包 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7574803189789018373/detail) |
+| AI产品实习生（评测方向） - 豆包 🆕<br>**2 个团队在招** | 北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7680838623608801589/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7574803189789018373/detail">入口2</a></details> |
 | AI产品实习生（评测方向）-豆包 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7620699218393467141/detail) |
 | AI产品实习生（企业级智能体） - 数据平台 🆕 | 北京/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7672709044188236085/detail) |
 | AI产品实习生（企业应用方向）-集团信息系统 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7615522531928246581/detail) |
 | AI产品实习生（企业应用方向）-集团信息系统 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7630450900891355397/detail) |
 | AI产品实习生（社交/创作方向）-TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7610814334232086789/detail) |
 | AI产品实习生（社区与房产） - 抖音生活服务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7641900183356197125/detail) |
-| AI产品实习生（生成式广告）-广告业务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7637380665575164213/detail) |
-| AI产品实习生（生成式广告）-广告业务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7591405422062979381/detail) |
+| AI产品实习生（生成式广告）-广告业务 🆕<br>**2 个团队在招** | 北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7637380665575164213/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7591405422062979381/detail">入口2</a></details> |
 | AI产品实习生（数据产品）-数据平台 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7592211501749422341/detail) |
 | AI产品实习生（效果方向）-AI创新业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7469683066203261202/detail) |
 | AI产品实习生（效果评测方向） - TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7687890394097436933/detail) |
@@ -196,7 +179,6 @@
 | AI工具产品实习生（CapCut） - 剪映CapCut 🆕 | 深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7685242927275362613/detail) |
 | AI互动产品实习生 - 抖音社交与互动 🆕 | 深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7688631333216045317/detail) |
 | AI技术产品实习生（AI数据应用方向） - 中国交易与广告 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7683804060418361605/detail) |
-| AI技术战略实习生-TikTok产品 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7585161864424032565/detail) |
 | AI漫剧产品实习生 - 广告业务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667950653440084277/detail) |
 | AI平台产品实习生 - Data AML 🆕 | 北京/杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7683898217184725301/detail) |
 | AI平台产品实习生（商业安全方向） - 广告业务 🆕 | 北京/上海/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7683448753924163893/detail) |
@@ -207,14 +189,12 @@
 | AI搜索产品评测实习生-TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7526825039020574984/detail) |
 | AI搜索产品实习生（生活服务方向）-TikTok 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7612482999435528453/detail) |
 | AI搜索大模型应用产品实习生 - TikTok搜索 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7696094785664190773/detail) |
-| AI应用人才战略实习生 - Spring 产品 🆕 | 上海/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7662665409930053941/detail) |
 | AI英语学习产品实习生 - 语言中心 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7677968263307086085/detail) |
 | AI营销产品实习生 - 抖音生活服务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7686067184798009605/detail) |
 | AI知识助手（海外）产品实习生-火山方舟 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7645238283556194613/detail) |
 | AI智能客服产品实习生 - 抖音生活服务 🆕 | 上海/北京/成都 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7695715175747569973/detail) |
 | AI智能销售产品实习生-广告业务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7537278105525438728/detail) |
 | AI中台产品实习生 - 抖音生活服务 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7637112157868345605/detail) |
-| AI自动化实习生-TikTok安全产品 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7664515703379298565/detail) |
 | AIGC策略产品实习生 - 剪映CapCut 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7681571462048237877/detail) |
 | AIGC策略产品实习生-广告业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7579929385488156981/detail) |
 | AIGC产品实习生 - 广告业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7573564097951860997/detail) |
@@ -222,20 +202,14 @@
 | AIGC产品实习生-国际化广告创意与品牌 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7576996646093900085/detail) |
 | AIGC产品实习生（创作方向）-抖音 🆕 | 深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7623733460372343045/detail) |
 | AIGC产品实习生（IAA方向） - 广告业务 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7674944037608409349/detail) |
-| AIGC创意产品实习生 - 广告业务 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7688577144895064325/detail) |
-| AIGC创意产品实习生 - 广告业务 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7677469600480790789/detail) |
+| AIGC创意产品实习生 - 广告业务 🆕<br>**2 个团队在招** | 北京/上海 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7688577144895064325/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7677469600480790789/detail">入口2</a></details> |
 | AIGC商业产品经理实习生-国际化 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7516811772571355410/detail) |
-| AIGC商业产品经理实习生-国际化 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7516809943816325384/detail) |
-| AIGC商业产品经理实习生-国际化 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7498320552189380882/detail) |
-| AIGC商业产品实习生-国际化 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7523068361303935239/detail) |
-| AIGC商业产品实习生-国际化 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7497166212713351432/detail) |
-| AIGC商业产品实习生-国际化 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7525348347533068552/detail) |
+| AIGC商业产品经理实习生-国际化 🆕<br>**2 个团队在招** | 上海 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7516809943816325384/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7498320552189380882/detail">入口2</a></details> |
+| AIGC商业产品实习生-国际化 🆕<br>**3 个团队在招** | 上海 | 见官网 | 2026-10-27 | <details><summary>展开 3 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7523068361303935239/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7497166212713351432/detail">入口2</a><br><a href="https://jobs.bytedance.com/campus/position/7525348347533068552/detail">入口3</a></details> |
 | Aime策略产品实习生-Aime 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7655186893026281781/detail) |
 | Aime产品实习生 - Aime 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7641979186526456069/detail) |
 | Aime产品实习生-TRAE 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7593021539598928133/detail) |
 | Code Agent训练产品实习生 - AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7630739190515763509/detail) |
 | Code Agent训练产品实习生-AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7630740257210370357/detail) |
 | Feed产品实习生（跨语言AI方向）-TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7612480968992065797/detail) |
-| LLM/VLM模型训练产品实习生 - AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7594469374153541941/detail) |
-| LLM/VLM模型训练产品实习生 - AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7630736849905240373/detail) |
 | LLM大模型评测产品经理实习生-AI创新业务 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7621492392957135157/detail) |

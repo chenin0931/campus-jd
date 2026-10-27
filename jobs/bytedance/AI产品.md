@@ -1,10 +1,9 @@
-# 字节跳动 · 校招 · AI产品（166）
+# 字节跳动 · 校招 · AI产品（162 个岗位，去重后 152）
 
-数据周 2026-W44，生成于 2026-10-27。截止“见官网”表示官网未注明。🆕 = 本周新增。[返回总览](../../README.md)
+数据周 2026-W44，生成于 2026-10-27。截止“见官网”表示官网未注明。🆕 = 本周新增。标题和城市相同的岗位合并为一行，点“展开”看各团队的投递入口。[返回总览](../../README.md)
 
-| 岗位 | 城市 | 截止 | 首次出现 | 链接 |
+| 岗位 | 城市 | 截止 | 首次出现 | 投递 |
 |---|---|---|---|---|
-| 产品经理（供应链平台） - AI算力基础设施 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667824983506553141/detail) |
 | 垂类Agent产品经理 - TikTok 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7691185619025103157/detail) |
 | 达人产品经理（AI方向） - TikTok生活服务 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7684119291016743221/detail) |
 | 大模型策略产品经理 - TikTok 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7669652440381688069/detail) |
@@ -16,8 +15,7 @@
 | 抖音资讯策略产品经理（抖音AI产品人才校招） - 抖音内容运营 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667862948278503733/detail) |
 | 豆包AI大模型产品解决方案 - 火山方舟 🆕 | 北京/上海/杭州/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667579728820259125/detail) |
 | 富文本编辑器AI产品经理（抖音AI产品人才校招） - 抖音运营 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667541378700642565/detail) |
-| 激励策略产品经理（抖音AI产品人才校招） - 抖音增长 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667799990534965557/detail) |
-| 激励策略产品经理（抖音AI产品人才校招） - 抖音增长 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7694611250031380789/detail) |
+| 激励策略产品经理（抖音AI产品人才校招） - 抖音增长 🆕<br>**2 个团队在招** | 北京/上海 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7667799990534965557/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7694611250031380789/detail">入口2</a></details> |
 | 激励策略产品经理（抖音AI产品人才校招） - 抖音直播 🆕 | 北京/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7698435490204649733/detail) |
 | 技术产品经理（智能经营Agent方向） - 中国交易与广告 🆕 | 北京/上海/成都 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7666738811180583173/detail) |
 | 技术产品经理（AI数据应用方向） - 中国交易与广告 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7665984513700399413/detail) |
@@ -27,8 +25,6 @@
 | 内容推荐AI策略产品经理（抖音AI产品人才校招） - 抖音生态 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667529028438264117/detail) |
 | 内容治理AI产品经理（抖音AI产品人才校招） - 抖音社区治理 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667806455349807413/detail) |
 | 品牌广告产品经理（抖音AI产品人才校招） - 抖音品牌营销与星图达人 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667836114694539525/detail) |
-| 平台产品经理 - AI算力基础设施 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7697184525931628853/detail) |
-| 评测产品经理 - AI Platform 🆕 | 上海/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667889560824154373/detail) |
 | 评论内容AI策略产品经理（抖音AI产品人才校招） - 抖音生态 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667524798360488245/detail) |
 | 商品产品经理（AI方向） - TikTok Shop 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668334624594970933/detail) |
 | 商业化产品经理（抖音AI产品人才校招） - 抖音音乐 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667767484251670789/detail) |
@@ -43,10 +39,8 @@
 | 营销Agent产品 - 剪映CapCut 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667165034336340229/detail) |
 | 用户产品经理（抖音AI产品人才校招） - 抖音音乐 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7698987068773861685/detail) |
 | 用户体验判责策略产品经理（AI Agent方向） - 抖音电商 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668368427569481989/detail) |
-| 用户增长投放经理（抖音AI产品人才校招） - 抖音 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7683416908864080181/detail) |
+| 用户增长投放经理（抖音AI产品人才校招） - 抖音 🆕<br>**2 个团队在招** | 北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7683416908864080181/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7667840474459392309/detail">入口2</a></details> |
 | 用户增长投放经理（抖音AI产品人才校招） - 抖音 🆕 | 北京/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667856152113711413/detail) |
-| 用户增长投放经理（抖音AI产品人才校招） - 抖音 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667840474459392309/detail) |
-| 云存储产品经理 - AI算力基础设施 🆕 | 北京/杭州 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7664887854501398837/detail) |
 | 增长策略产品经理（抖音AI产品人才校招） - 抖音增长 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667800960324618501/detail) |
 | 智能产品经理 - 体验与服务 🆕 | 成都/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7680771602925979957/detail) |
 | 智能营销与增长产品经理 - TikTok Shop 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668648008907360517/detail) |
@@ -56,15 +50,10 @@
 | AI策略产品经理（抖音AI产品人才校招） - 抖音 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667796578648082741/detail) |
 | AI策略产品经理（抖音AI产品人才校招） - 抖音搜索 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667766805872740661/detail) |
 | AI策略产品经理（抖音AI产品人才校招） - 抖音UGC 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667854518877604149/detail) |
-| AI产品交互设计师 - 集团信息系统 🆕 | 广州/北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7682755032220289333/detail) |
-| AI产品交互设计师 - 集团信息系统 🆕 | 广州/北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7680204909073189173/detail) |
-| AI产品经理 - 抖音电商 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667590063169341701/detail) |
-| AI产品经理 - 抖音电商 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667887015312345397/detail) |
-| AI产品经理 - 抖音电商 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7677588589015615749/detail) |
-| AI产品经理 - 抖音电商 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667519570013915445/detail) |
+| AI产品交互设计师 - 集团信息系统 🆕<br>**2 个团队在招** | 广州/北京/上海 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7682755032220289333/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7680204909073189173/detail">入口2</a></details> |
+| AI产品经理 - 抖音电商 🆕<br>**4 个团队在招** | 上海/北京 | 见官网 | 2026-10-27 | <details><summary>展开 4 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7667590063169341701/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7667887015312345397/detail">入口2</a><br><a href="https://jobs.bytedance.com/campus/position/7677588589015615749/detail">入口3</a><br><a href="https://jobs.bytedance.com/campus/position/7667519570013915445/detail">入口4</a></details> |
 | AI产品经理 - 抖音电商 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668020290616101125/detail) |
-| AI产品经理 - 抖音生活服务 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668609729397049653/detail) |
-| AI产品经理 - 抖音生活服务 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7670005064061012229/detail) |
+| AI产品经理 - 抖音生活服务 🆕<br>**2 个团队在招** | 上海/北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7668609729397049653/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7670005064061012229/detail">入口2</a></details> |
 | AI产品经理 - 飞书&豆包办公任务 🆕 | 上海/杭州/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7670111236810656005/detail) |
 | AI产品经理 - 风控 🆕 | 杭州/深圳/北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668640548827777333/detail) |
 | AI产品经理 - 广告业务 🆕 | 上海/北京/杭州/深圳 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7665590441061697797/detail) |
@@ -95,9 +84,7 @@
 | AI产品经理（感知Agent平台方向） - TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667854722217232693/detail) |
 | AI产品经理（供给方向） - 抖音电商 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667523662756972853/detail) |
 | AI产品经理（供给增长方向） - 抖音电商 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667523818755492149/detail) |
-| AI产品经理（广告策略方向） - 抖音生活服务 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668562355290818869/detail) |
-| AI产品经理（广告策略方向） - 抖音生活服务 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668562640176105733/detail) |
-| AI产品经理（广告策略方向） - 抖音生活服务 🆕 | 上海/北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667181554880760117/detail) |
+| AI产品经理（广告策略方向） - 抖音生活服务 🆕<br>**3 个团队在招** | 北京/上海 | 见官网 | 2026-10-27 | <details><summary>展开 3 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7668562355290818869/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7668562640176105733/detail">入口2</a><br><a href="https://jobs.bytedance.com/campus/position/7667181554880760117/detail">入口3</a></details> |
 | AI产品经理（国际化广告方向） - 销售运营管理平台 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7668253978782779701/detail) |
 | AI产品经理（合规方向） - 集团信息系统 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667890409590884661/detail) |
 | AI产品经理（核心人事方向） - 集团信息系统 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667800958913054981/detail) |
@@ -109,8 +96,7 @@
 | AI产品经理（空间智能方向） - Corporate Services 🆕 | 北京/上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7697134944271337733/detail) |
 | AI产品经理（模板方向） - 剪映CapCut 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667166191815674165/detail) |
 | AI产品经理（模型训练策略方向） - AI数据与安全 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7677444792511482165/detail) |
-| AI产品经理（内容安全方向） - 剪映CapCut 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667482967157131573/detail) |
-| AI产品经理（内容安全方向） - 剪映CapCut 🆕 | 北京 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667530498277329157/detail) |
+| AI产品经理（内容安全方向） - 剪映CapCut 🆕<br>**2 个团队在招** | 北京 | 见官网 | 2026-10-27 | <details><summary>展开 2 个投递入口</summary><a href="https://jobs.bytedance.com/campus/position/7667482967157131573/detail">入口1</a><br><a href="https://jobs.bytedance.com/campus/position/7667530498277329157/detail">入口2</a></details> |
 | AI产品经理（内容安全方向） - TikTok 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7667851657409677621/detail) |
 | AI产品经理（内容电商B端/商家达人撮合方向） - TikTok Shop 🆕 | 北京/珠海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7669623331367241989/detail) |
 | AI产品经理（内容电商B端联盟经营服务方向） - TikTok Shop 🆕 | 上海 | 见官网 | 2026-10-27 | [投递](https://jobs.bytedance.com/campus/position/7669624308369344773/detail) |
