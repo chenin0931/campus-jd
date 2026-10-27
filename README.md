@@ -45,6 +45,7 @@ site/slices/{company}/{campus|intern}/{category}/{city}.md   主切片，超 8KB
 site/by-city/{city}/{campus|intern}-{category}.md            跨公司按城市
 site/changes/{week}.md        本周新增/下架
 site/jobs/{company}-{postId}.md   岗位详情（job_type、status、要求、投递链接）
+site/companies/{company}.md 公司总览；site/by-year/{yy}/ 按届别
 skill/SKILL.md + campus-jd-skill.zip   给 agent 的 skill（<BASE_URL> 占位，主 Pages，备 jsDelivr）
 ```
 slug：category `ai-product|product|operations`；城市为拼音（`beijing`、`shanghai`…，未登记城市归 `other`）。

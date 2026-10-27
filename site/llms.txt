@@ -9,11 +9,16 @@
 4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。
 4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。
 5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。
+6. 只指定公司、没给城市：先读 companies/{company}.md（公司总览，含各城市切片链接），不要读 index.json。
+7. 只给了届别：读 by-year/{yy}/{campus|intern}-{category}.md（只含官网明确写了届别的岗位）。
+8. 城市写到区县（如「深圳南山」「北京海淀」）按所属城市 slug 读；不在下面枚举里的城市/公司就是库里没有，直接说没有，不要编。
 
 ## 路径模板
 - slices/{company}/{campus|intern}/{category}/{city}.md
 - by-city/{city}/{campus|intern}-{category}.md
 - changes/2026-W44.md（本周新增/下架）
+- companies/{company}.md（公司总览）
+- by-year/{yy}/{campus|intern}-{category}.md（按届别，yy 如 27、28）
 - jobs/{company}-{postId}.md
 - index.json（全部文件清单与计数）
 
@@ -21,6 +26,8 @@
 - category: ai-product=AI产品, product=产品, operations=运营
 - job_type: campus=校招, intern=实习
 - city: beijing=北京(1725), shanghai=上海(979), shenzhen=深圳(279), hangzhou=杭州(225), other=其他城市(98), guangzhou=广州(82), chengdu=成都(77), wuhan=武汉(44), nanjing=南京(20), xian=西安(13), hongkong=香港(11), shenyang=沈阳(8), zhuhai=珠海(7), suzhou=苏州(7), chongqing=重庆(7), zhengzhou=郑州(7), suqian=宿迁(6), jinan=济南(5), xiamen=厦门(5), singapore=新加坡(4), kunming=昆明(4), qingdao=青岛(4), tianjin=天津(4), nanchang=南昌(4), dalian=大连(3), nanning=南宁(3), lanzhou=兰州(3), ningbo=宁波(3), hefei=合肥(3), harbin=哈尔滨(3), changsha=长沙(3), tokyo=东京(2), chengmai=澄迈(1)
+
+- by-year: 26, 27, 28, 29（有届别列表的届）
 
 ## 公司（校招/实习 岗位数）
 - alibaba=阿里巴巴：校招 33，实习 0

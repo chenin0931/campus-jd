@@ -114,6 +114,29 @@ for (const [cyS, v] of Object.entries(cityAll)) for (const [jt, ts] of Object.en
     group(l.sort((a, b) => a.company_slug.localeCompare(b.company_slug) || byTitle(a, b))), true, l.length);
   index.by_city.push({ city: cyS, city_name: cityName(cyS), job_type: ts, category: cs, count: l.length, pages });
 }
+// companies/{company}.md：公司总览（类型×类别×城市 计数与切片链接），只指定公司时先读它
+index.company_pages = [];
+for (const co of companies) {
+  const f = `companies/${co}.md`, ss = index.slices.filter(s => s.company === co), c = index.companies[co];
+  const lines = [`# ${names[co]} 总览（在招 ${c.total}：校招 ${c.campus}，实习 ${c.intern}）`, '', NOTE, '', '没列出的 类型×类别 组合就是没有岗位，不要再猜路径。', ''];
+  for (const [jt, ts] of Object.entries(TYPES)) for (const [cn, cs] of Object.entries(CATS)) {
+    const l = ss.filter(s => s.job_type === ts && s.category === cs).sort((a, b) => b.count - a.count); if (!l.length) continue;
+    const n = jobs.filter(j => j.company_slug === co && j.job_type === jt && j.category === cn).length;
+    lines.push(`- ${jt}·${cn}（${n}）：` + l.map(s => `[${s.city_name} ${s.count}](${rel(f, s.pages[0])})`).join(' · '));
+  }
+  lines.push('', `[总目录](${rel(f, 'llms.txt')})`, '');
+  out(f, lines.join('\n'), 0); index.company_pages.push(f);
+}
+// by-year/{yy}/{campus|intern}-{category}.md：官网明确写了该届别的岗位（未注明届别的不在这里）
+index.by_year = [];
+const years = [...new Set(jobs.flatMap(j => j.grad_year || []).map(String))].sort();
+for (const y of years) for (const [jt, ts] of Object.entries(TYPES)) for (const [c, cs] of Object.entries(CATS)) {
+  const l = jobs.filter(j => j.job_type === jt && j.category === c && (j.grad_year || []).map(String).includes(y)); if (!l.length) continue;
+  const base = `by-year/${y.slice(2)}/${ts}-${cs}`;
+  const pages = paged(base, `${y.slice(2)}届 · ${jt} · ${c} · 官网明确写了该届别的岗位（${l.length} 个）`, NOTE + '\n\n注意：大量岗位官网没写届别，不在本列表里，但不代表不招该届；可再按城市读 by-city 并在详情页核对。',
+    group(l.sort((a, b) => a.company_slug.localeCompare(b.company_slug) || byTitle(a, b))), true, l.length);
+  index.by_year.push({ year: y, job_type: ts, category: cs, count: l.length, pages });
+}
 // changes/{week}.md
 { const nw = jobs.filter(j => j.is_new);
   const rows = [...nw.map(j => ({ ...j, title: '🆕 ' + j.title, ids: [j.id], is_new: false })), ...removed.map(j => ({ ...j, title: '❌下架 ' + j.title, ids: [j.id] }))];
@@ -138,10 +161,11 @@ const cnt = (co, ts, cs) => index.slices.filter(s => s.company === co && s.job_t
 const cityCounts = Object.entries(cityAll).map(([k, v]) => [k, cityName(k), v.l.length]).sort((a, b) => b[2] - a[2]);
 const llms = [`# 大厂 AI产品/产品/运营 校招·实习 JD 库`, '',
   `> 每周一由 GitHub Actions 预计算的静态切片。数据周 ${cur}，${today} 生成。在招 ${jobs.length}，本周新增 ${jobs.filter(j => j.is_new).length}，下架 ${removed.length}。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。`, '',
-  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。', '4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。', '5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。', '',
-  '## 路径模板', '- slices/{company}/{campus|intern}/{category}/{city}.md', '- by-city/{city}/{campus|intern}-{category}.md', `- changes/${cur}.md（本周新增/下架）`, '- jobs/{company}-{postId}.md', '- index.json（全部文件清单与计数）', '',
+  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。', '4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。', '5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。', '6. 只指定公司、没给城市：先读 companies/{company}.md（公司总览，含各城市切片链接），不要读 index.json。', '7. 只给了届别：读 by-year/{yy}/{campus|intern}-{category}.md（只含官网明确写了届别的岗位）。', '8. 城市写到区县（如「深圳南山」「北京海淀」）按所属城市 slug 读；不在下面枚举里的城市/公司就是库里没有，直接说没有，不要编。', '',
+  '## 路径模板', '- slices/{company}/{campus|intern}/{category}/{city}.md', '- by-city/{city}/{campus|intern}-{category}.md', `- changes/${cur}.md（本周新增/下架）`, '- companies/{company}.md（公司总览）', '- by-year/{yy}/{campus|intern}-{category}.md（按届别，yy 如 27、28）', '- jobs/{company}-{postId}.md', '- index.json（全部文件清单与计数）', '',
   '## 枚举', `- category: ai-product=AI产品, product=产品, operations=运营`, '- job_type: campus=校招, intern=实习',
   `- city: ${cityCounts.map(([k, n, c]) => `${k}=${n}(${c})`).join(', ')}`, '',
+  `- by-year: ${years.map(y=>y.slice(2)).join(', ')}（有届别列表的届）`, '',
   '## 公司（校招/实习 岗位数）', ...companies.map(co => `- ${co}=${names[co]}：校招 ${index.companies[co].campus}，实习 ${index.companies[co].intern}`), ''].join('\n');
 out('llms.txt', llms, 0);
 index.files = written.length + 1;
