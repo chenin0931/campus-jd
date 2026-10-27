@@ -1,11 +1,12 @@
-# 北京 · 校招 · 运营 · 全部公司（353 个岗位）（第 5/8 页）
+# 北京 · 校招 · 运营 · 全部公司（354 个岗位）（第 5/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 173](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AI数据运营（视频通话方向） - AI数据与安全 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7683513087236688181.md) |
 | 字节跳动 | AI数据运营业务分析师 - TikTok 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670573605801019701.md) |
 | 字节跳动 | AI数据运营业务分析师 - TikTok 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669700354150533429.md) |
 | 字节跳动 | AI搜索策略运营经理（抖音AI产品人才校招） - 抖音搜索 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667764424112933125.md) |
@@ -44,6 +45,5 @@
 | 京东 | 内容运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9066.md) |
 | 京东 | 平台运营 〔27届〕 | 北京/成都/廊坊 | 2026-10-27 | [详情](../../jobs/jd-9077.md) |
 | 京东 | 人事运营 〔27届〕 | 北京/成都/天津/宿迁/南昌/杭州/三亚 | 2026-10-27 | [详情](../../jobs/jd-9250.md) |
-| 京东 | 商家运营 〔27届〕 | 北京/成都 | 2026-10-27 | [详情](../../jobs/jd-9063.md) |
 
 [上一页](campus-ops-p4.md) · [下一页](campus-ops-p6.md) · [总目录](../../llms.txt)

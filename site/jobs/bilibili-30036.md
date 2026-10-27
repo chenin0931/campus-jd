@@ -3,7 +3,7 @@
 - id: bilibili-30036
 - 公司: 哔哩哔哩
 - job_type: 实习
-- 类别: 运营
+- 类别: 市场
 - region: 国内
 - 城市: 上海
 - status: active

@@ -1,12 +1,11 @@
-# 北京 · 实习 · 分析 · 全部公司（235 个岗位）（第 5/5 页）
+# 北京 · 实习 · 分析 · 全部公司（233 个岗位）（第 5/5 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 142](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
-| 滴滴 | 战略与决策支持部-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-8c0fbcee-21c0-4bcd-8dd2-b200c3b2e84d.md) |
 | 滴滴 | 战略与商业分析部——商业分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-970beaab-91b7-4ecc-9c1a-8c32da763012.md) |
 | 滴滴 | 专车业务增长-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-4fc9abc7-c706-4dcc-b0c6-f918bf256a18.md) |
 | 滴滴 | Intl Data Science（2）-数据科学实习生 ⚠️链接待核 | 北京 | 2026-10-27 | [详情](../../jobs/didi-a95f4aab-8c3d-49df-b10f-e9c569ffe630.md) |
@@ -49,7 +48,6 @@
 | 腾讯 | 用户研究（2个团队） | 深圳/北京 | 2026-10-27 | [1](../../jobs/tencent-1177660287764272128.md) [2](../../jobs/tencent-1210646470286783490.md) |
 | 小红书 | 机审策略(AI方向)实习 〔≥3个月，每周≥4天〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20620.md) |
 | 小红书 | 数据科学与分析实习生（社区流量） 〔≥6个月〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20098.md) |
-| 小红书 | 小红书海外内容安全策略实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22203.md) |
 | 小红书 | AI 模型应用实习生（数据方向） | 北京 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22516.md) |
 | 小米 | 经营分析实习生 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7686317679854750003.md) |
 | 小米 | 具身大数据实习生 | 北京 | 2026-10-27 | [详情](../../jobs/xiaomi-7550612491794155819.md) |

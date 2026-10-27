@@ -1,11 +1,12 @@
-# 上海 · 实习 · 市场 · 全部公司（89 个岗位）（第 2/2 页）
+# 上海 · 实习 · 市场 · 全部公司（92 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [米哈游 11](../../slices/mihoyo/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/intern/marketing/shanghai.md) · [米哈游 13](../../slices/mihoyo/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | 营销产品实习生（Agent方向） - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700792600462346501.md) |
 | 字节跳动 | 营销大促实习生 - 抖音电商运营 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7680481131736893749.md) |
 | 字节跳动 | 营销活动实习生 - 抖音电商运营 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698624042448357637.md) |
 | 字节跳动 | 营销数据产品实习生-广告度量信号与隐私保护 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7573555280237529397.md) |
@@ -24,6 +25,7 @@
 | 美团 | 公共事务 | 上海 | 2026-10-27 | [详情](../../jobs/meituan-3620337309.md) |
 | 美团 | 营销产品经理实习生 〔≥6个月〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/meituan-3148133809.md) |
 | 米哈游 | 公共事务实习生 〔28届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7719.md) |
+| 米哈游 | 官方宣发内容编导实习生-崩坏：星穹铁道 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7565.md) |
 | 米哈游 | 国际化品牌实习生-绝区零（线下活动和整合营销方向） 〔28/29届 · 每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9544.md) |
 | 米哈游 | 国际化品牌实习生（内容生态方向）-绝区零 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8889.md) |
 | 米哈游 | 国际化市场品牌实习-崩坏：星穹铁道 〔28/29届 · 每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9077.md) |
@@ -32,6 +34,7 @@
 | 米哈游 | 品牌线下实习生-崩坏：因缘精灵 〔28/29届 · ≥5个月，每周≥3天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8979.md) |
 | 米哈游 | 社媒传播实习生-崩坏：因缘精灵 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-5810.md) |
 | 米哈游 | 市场内容实习生（前瞻节目制作）-绝区零 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9541.md) |
+| 米哈游 | 视频编导实习生 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-8466.md) |
 | 米哈游 | 视频设计实习生（后期制作） 〔28/29届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-7935.md) |
 | 米哈游 | AIGC实习生（市场营销方向） 〔27/28届 · ≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9653.md) |
 | 网易 | 本地化营销（西语）（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/netease-76972.md) [2](../../jobs/netease-78483.md) |
@@ -48,8 +51,5 @@
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1224067387964684288.md) |
 | 腾讯 | 腾讯营销管培生 | 深圳/北京/上海 | 2026-10-27 | [详情](../../jobs/tencent-1226875613710029824.md) |
 | 小红书 | 公共事务实习生 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21832.md) |
-| 小红书 | 广告业务支持实习生（2个团队） 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/xiaohongshu-22542.md) [2](../../jobs/xiaohongshu-21833.md) |
-| 小红书 | 品牌投放实习生（抖音短视频方向） 〔28/29届 · ≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22635.md) |
-| 小红书 | 杂志编辑部剪辑实习生（音视频剪辑） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/xiaohongshu-13651.md) |
 
-[上一页](intern-marketing.md) · [总目录](../../llms.txt)
+[上一页](intern-marketing.md) · [下一页](intern-marketing-p3.md) · [总目录](../../llms.txt)

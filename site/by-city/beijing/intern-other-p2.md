@@ -1,8 +1,8 @@
-# 北京 · 实习 · 其他 · 全部公司（135 个岗位）（第 2/3 页）
+# 北京 · 实习 · 其他 · 全部公司（132 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 55](../../slices/bytedance/intern/other/beijing.md) · [网易 20](../../slices/netease/intern/other/beijing.md) · [百度 18](../../slices/baidu/intern/other/beijing.md) · [小米 18](../../slices/xiaomi/intern/other/beijing.md) · [滴滴 6](../../slices/didi/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [美团 4](../../slices/meituan/intern/other/beijing.md) · [京东 3](../../slices/jd/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [腾讯 2](../../slices/tencent/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 52](../../slices/bytedance/intern/other/beijing.md) · [网易 20](../../slices/netease/intern/other/beijing.md) · [百度 18](../../slices/baidu/intern/other/beijing.md) · [小米 18](../../slices/xiaomi/intern/other/beijing.md) · [滴滴 6](../../slices/didi/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [美团 4](../../slices/meituan/intern/other/beijing.md) · [京东 3](../../slices/jd/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [腾讯 2](../../slices/tencent/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -23,8 +23,6 @@
 | 字节跳动 | AI美学实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7311983583903680795.md) |
 | 字节跳动 | AI模型效果实习生-抖音 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7303747036569471242.md) |
 | 字节跳动 | AI时尚实习生 - 广告业务 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7643771005284600069.md) |
-| 字节跳动 | AI视频编导实习生 - Gauth | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7700935210406791477.md) |
-| 字节跳动 | AIGC短剧编导实习生-TikTok（2个团队） 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7651930013014165765.md) [2](../../jobs/bytedance-7610738067548948789.md) |
 | 字节跳动 | AIGC短剧编剧实习生 - TikTok 〔≥5个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7645607551613028613.md) |
 | 字节跳动 | DPM实习生 - 国际化广告战略 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7698260619503831301.md) |
 | 字节跳动 | IDC成本合约实习生 - DCE | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7680412039055919413.md) |
@@ -51,5 +49,8 @@
 | 美团 | 无人车业务部-模型部署优化实习生 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4104268126.md) |
 | 美团 | Keemart-Logistics Product（运输方向） 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4680953116.md) |
 | 米哈游 | LLM Pretrain Data实习生 〔28/29届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/mihoyo-8458.md) |
+| 网易 | 党务实习生 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78391.md) |
+| 网易 | 短视频品类实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79138.md) |
+| 网易 | 韩语业务实习生 〔26/27届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78875.md) |
 
 [上一页](intern-other.md) · [下一页](intern-other-p3.md) · [总目录](../../llms.txt)

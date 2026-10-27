@@ -21,13 +21,13 @@
 - 实习·产品（40）：[北京 36](../slices/xiaomi/intern/product/beijing.md) · [武汉 1](../slices/xiaomi/intern/product/wuhan.md) · [南京 1](../slices/xiaomi/intern/product/nanjing.md) · [新加坡 1](../slices/xiaomi/intern/product/singapore.md) · 另 1 城（1 个）见 index.json slices
 - 实习·运营（47）：[北京 36](../slices/xiaomi/intern/ops/beijing.md) · [其他城市 4](../slices/xiaomi/intern/ops/other.md) · [南京 3](../slices/xiaomi/intern/ops/nanjing.md) · [武汉 2](../slices/xiaomi/intern/ops/wuhan.md) · 另 2 城（2 个）见 index.json slices
 - 实习·商务（5）：[北京 5](../slices/xiaomi/intern/business/beijing.md)
-- 实习·市场（12）：[北京 8](../slices/xiaomi/intern/marketing/beijing.md) · [武汉 2](../slices/xiaomi/intern/marketing/wuhan.md) · [其他城市 2](../slices/xiaomi/intern/marketing/other.md)
+- 实习·市场（13）：[北京 8](../slices/xiaomi/intern/marketing/beijing.md) · [武汉 2](../slices/xiaomi/intern/marketing/wuhan.md) · [其他城市 2](../slices/xiaomi/intern/marketing/other.md) · [南京 1](../slices/xiaomi/intern/marketing/nanjing.md)
 - 实习·销售（37）：[其他城市 27](../slices/xiaomi/intern/sales/other.md) · [北京 2](../slices/xiaomi/intern/sales/beijing.md) · [上海 2](../slices/xiaomi/intern/sales/shanghai.md) · [西安 2](../slices/xiaomi/intern/sales/xian.md) · 另 14 城（16 个）见 index.json slices
 - 实习·设计（9）：[北京 6](../slices/xiaomi/intern/design/beijing.md) · [上海 3](../slices/xiaomi/intern/design/shanghai.md)
 - 实习·职能（74）：[北京 52](../slices/xiaomi/intern/corporate/beijing.md) · [其他城市 9](../slices/xiaomi/intern/corporate/other.md) · [上海 4](../slices/xiaomi/intern/corporate/shanghai.md) · [武汉 3](../slices/xiaomi/intern/corporate/wuhan.md) · 另 5 城（6 个）见 index.json slices
 - 实习·项目管理（7）：[北京 7](../slices/xiaomi/intern/pm/beijing.md)
 - 实习·分析（8）：[北京 6](../slices/xiaomi/intern/analysis/beijing.md) · [上海 1](../slices/xiaomi/intern/analysis/shanghai.md) · [南京 1](../slices/xiaomi/intern/analysis/nanjing.md)
 - 实习·策划（1）：[北京 1](../slices/xiaomi/intern/planning/beijing.md)
-- 实习·其他（37）：[北京 18](../slices/xiaomi/intern/other/beijing.md) · [其他城市 8](../slices/xiaomi/intern/other/other.md) · [上海 4](../slices/xiaomi/intern/other/shanghai.md) · [南京 3](../slices/xiaomi/intern/other/nanjing.md) · 另 3 城（4 个）见 index.json slices
+- 实习·其他（36）：[北京 18](../slices/xiaomi/intern/other/beijing.md) · [其他城市 8](../slices/xiaomi/intern/other/other.md) · [上海 4](../slices/xiaomi/intern/other/shanghai.md) · [南京 2](../slices/xiaomi/intern/other/nanjing.md) · 另 3 城（4 个）见 index.json slices
 
 [总目录](../llms.txt)

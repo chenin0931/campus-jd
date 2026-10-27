@@ -3,7 +3,7 @@
 - id: mihoyo-9150
 - 公司: 米哈游
 - job_type: 校招
-- 类别: 其他
+- 类别: 市场
 - region: 国内
 - 城市: 上海
 - status: active

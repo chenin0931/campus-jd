@@ -3,7 +3,7 @@
 - id: xiaohongshu-22203
 - 公司: 小红书
 - job_type: 实习
-- 类别: 分析
+- 类别: 运营
 - region: 国内
 - 城市: 北京
 - status: active

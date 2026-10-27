@@ -47,7 +47,7 @@
   {
     "company": "蔚来",
     "title": "校招-数据分析",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -271,87 +271,6 @@
   },
   {
     "company": "蔚来",
-    "title": "蔚来AGI超星计划-敢想敢研，自成课题",
-    "category": "其他",
-    "city": [
-      "上海",
-      "北京",
-      "新加坡",
-      "圣何塞"
-    ],
-    "requirements": "请同学在简历当中附带课题相关介绍以用于内部评估",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7638947328871450890/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7638947328871450890/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "蔚来AGI超星计划-Autonomy Operating System - 企业级自主智能操作系统",
-    "category": "其他",
-    "city": [
-      "上海"
-    ],
-    "requirements": "- 学历：2027 届博士（优先）或硕士，计算机/AI/自动化/运筹学/数学等相关专业优先\n- 必备能力：扎实的数学基础（概率统计、优化、图论）；熟练 Python 及 PyTorch/TensorFlow；深入理解机器学习/深度学习/强化学习；有独立算法建模和系统开发经验；能快速阅读前沿论文并将业务问题转化为技术问题。\n加分项（满足任一即可）:\n- 决策智能：因果推断、优化算法（线性规划/遗传算法/强化学习）、供应链优化\n- 多 Agent：多 Agent 强化学习、LLM Agent 框架（LangChain / AutoGen）、任务规划\n- 时间序列：预测模型（Prophet/LSTM/Transformer）、异常检测、金融风控\n- 知识图谱：Neo4j、图神经网络（GCN/GAT/GraphSAGE）、知识推理\n- 学术成果：顶会论文、Kaggle 获奖、GitHub 开源贡献",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7638946017148160297/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7638946017148160297/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "蔚来AGI超星计划-组织知识协同系统",
-    "category": "其他",
-    "city": [
-      "上海",
-      "北京"
-    ],
-    "requirements": "- 精通深度学习原理，对Transformer、大语言模型有扎实的理论基础和实践经验；\n- 强大的系统性思维与问题定义能力；\n- 精通并有主流大模型的相关训练和使用工作经验，深入了解主流Agent框架和应用；\n- （加分）在国内外顶尖实验室或者模型团队经历；\n- （加分）重度使用claude、cursor、codex等相关AI工具开发者优先；\n- 学历：硕士及以上在读；\n- 实习时长：6个月以上。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7638945857585809700/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7638945857585809700/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "蔚来AGI超星计划-Harness OS",
-    "category": "其他",
-    "city": [
-      "上海",
-      "北京"
-    ],
-    "requirements": "- 对实时数据库、高效搜索算法、数据压缩、矢量数据存储等方面有深入研究并有相关项目经验\n- 对沙箱技术以及OS的隔离机制(如Cgroup, name space)、安全访问机制等有深入理解\n- 对去中心化组网协议、任务分发、高效并行处理框架有深入理解并有相关项目经验\n- 熟悉主流的大模型架构和算法\n- 了解智能辅助驾驶、车控、多模态人机交互的主要工作机制、数据流处理等方面的知识优先\n- 硕士及以上在读，计算机和人工智能相关专业，有已发表的相关顶会论文优选。\n- 实习时长：不少于6个月",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7638943961831409947/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7638943961831409947/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "蔚来AGI超星计划-物理世界基座模型预研",
-    "category": "其他",
-    "city": [
-      "上海",
-      "北京"
-    ],
-    "requirements": "- 以第一作者发表过五篇及以上CCF-A类期刊/会议 或 相等权重高技术影响力论文/竞赛；且具备单篇论文之上，对多模态基座或世界模型的体系化认知能力；\n- （加分）在国内外顶尖高校实验室或企业核心模型团队驱动过密集算力进行模型Scaling；\n- 学历不限，实习时长6个月以上。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7638941907657984297/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7638941907657984297/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
     "title": "校招-蔚来顾问-运城",
     "category": "销售",
     "city": [
@@ -382,23 +301,8 @@
   },
   {
     "company": "蔚来",
-    "title": "校招-NSC售后技师（机电）-徐州",
-    "category": "销售",
-    "city": [
-      "徐州"
-    ],
-    "requirements": "1、2027届应届生，大专及以上学历；\n2、新能源汽车技术、汽车维修、钣金、喷漆等相关专业优先； \n3、良好的学习能力，愿意学习和尝试新知识；\n4、良好的团队协作精神，敬业、吃苦耐劳愿意与人分享和承担；\n5、拥有C1及以上驾驶证优先录用；\n6、本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7676071805102278954/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7676071805102278954/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
     "title": "校招-蔚来金融sparks",
-    "category": "其他",
+    "category": "职能",
     "city": [
       "上海"
     ],
@@ -855,23 +759,8 @@
   },
   {
     "company": "蔚来",
-    "title": "校招-NSC售后技师（机电）-温州",
-    "category": "销售",
-    "city": [
-      "温州"
-    ],
-    "requirements": "1、2027届应届生，大专及以上学历；\n2、新能源汽车技术、汽车维修等相关专业优先； \n3、良好的学习能力，愿意学习和尝试新知识；\n4、良好的团队协作精神，敬业、吃苦耐劳，愿意与人分享，勇于承担责任；\n5、拥有C1及以上驾驶证优先录用；\n6、本岗位将邀请您提前参与带薪实习体验，快人一步融入NIO，表现优异者可直发校招正式Offer！\"",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7686402307306555684/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7686402307306555684/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-温州",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "温州"
     ],
@@ -931,7 +820,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-蔚来顾问-万州",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "重庆"
     ],
@@ -991,7 +880,7 @@
   {
     "company": "蔚来",
     "title": "校招-悦享出行收益管理专员",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -1006,7 +895,7 @@
   {
     "company": "蔚来",
     "title": "校招-数据科学",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -1051,7 +940,7 @@
   {
     "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-西安",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "西安"
     ],
@@ -1066,7 +955,7 @@
   {
     "company": "蔚来",
     "title": "校招-售后服务（服务支持）-北京",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "北京"
     ],
@@ -2807,7 +2696,7 @@
   {
     "company": "蔚来",
     "title": "校招-销售业务数据分析实习生-成都",
-    "category": "销售",
+    "category": "分析",
     "city": [
       "成都"
     ],
@@ -4232,7 +4121,7 @@
   {
     "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-西安",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "西安"
     ],
@@ -5252,7 +5141,7 @@
   {
     "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-徐州",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "徐州"
     ],
@@ -5417,7 +5306,7 @@
   {
     "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-昆明",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "昆明"
     ],
@@ -5432,7 +5321,7 @@
   {
     "company": "蔚来",
     "title": "校招-服务中心督导-成都",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "成都"
     ],
@@ -5447,7 +5336,7 @@
   {
     "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-东莞",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "东莞"
     ],
@@ -5462,7 +5351,7 @@
   {
     "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-扬州",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "扬州"
     ],
@@ -5477,7 +5366,7 @@
   {
     "company": "蔚来",
     "title": "校招-NSC售后服务（服务代表）-南京",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "南京"
     ],
@@ -5492,7 +5381,7 @@
   {
     "company": "蔚来",
     "title": "校招-售后服务（服务支持）-济南",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "济南"
     ],
@@ -6181,36 +6070,6 @@
   },
   {
     "company": "蔚来",
-    "title": "校招-NSC售后技师（机电）-东莞",
-    "category": "销售",
-    "city": [
-      "东莞"
-    ],
-    "requirements": "\"1、2027届应届生，大专及以上学历；\n2、新能源汽车技术、汽车维修等相关专业优先； \n3、良好的学习能力，愿意学习和尝试新知识；\n4、良好的团队协作精神，敬业、吃苦耐劳，愿意与人分享，勇于承担责任；\n5、拥有C1及以上驾驶证优先录用；\n6、本岗位将邀请您提前参与带薪实习体验，快人一步融入NIO，表现优异者可直发校招正式Offer！\"",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7676071805102655786/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7676071805102655786/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "校招-NSC售后技师（机电）-南京",
-    "category": "销售",
-    "city": [
-      "南京"
-    ],
-    "requirements": "1、2027届应届生，大专及以上学历；\n2、新能源汽车技术、汽车维修、钣金、喷漆等相关专业优先； \n3、良好的学习能力，愿意学习和尝试新知识；\n4、良好的团队协作精神，敬业、吃苦耐劳愿意与人分享和承担；\n5、拥有C1及以上驾驶证优先录用；\n6、本岗位将邀请您提前参与带薪实习体验，快人一步，融入NIO，表现优异者可直发校招正式Offer！",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7676069952524962102/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7676069952524962102/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
     "title": "校招-大区运营管理（储备）",
     "category": "运营",
     "city": [
@@ -6333,7 +6192,7 @@
   {
     "company": "蔚来",
     "title": "校招-项目管理",
-    "category": "其他",
+    "category": "项目管理",
     "city": [
       "上海"
     ],
@@ -6348,7 +6207,7 @@
   {
     "company": "蔚来",
     "title": "校招-商务管理",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "上海"
     ],
@@ -6438,7 +6297,7 @@
   {
     "company": "蔚来",
     "title": "校招-数据分析",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -6589,7 +6448,7 @@
   {
     "company": "蔚来",
     "title": "校招-市场洞察分析",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -6770,7 +6629,7 @@
   {
     "company": "蔚来",
     "title": "校招-品牌管理",
-    "category": "其他",
+    "category": "市场",
     "city": [
       "上海"
     ],
@@ -6800,7 +6659,7 @@
   {
     "company": "蔚来",
     "title": "校招-商务拓展",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "上海"
     ],
@@ -6815,7 +6674,7 @@
   {
     "company": "蔚来",
     "title": "校招-数据分析与策略",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海",
       "武汉"
@@ -6921,7 +6780,7 @@
   {
     "company": "蔚来",
     "title": "校招-能源合作拓展",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "上海"
     ],
@@ -6999,7 +6858,7 @@
   {
     "company": "蔚来",
     "title": "校招-能源合作拓展",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "苏州"
     ],
@@ -7014,7 +6873,7 @@
   {
     "company": "蔚来",
     "title": "校招-能源合作拓展",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "南京"
     ],
@@ -7044,7 +6903,7 @@
   {
     "company": "蔚来",
     "title": "校招-能源合作拓展",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "青岛"
     ],
@@ -7075,7 +6934,7 @@
   {
     "company": "蔚来",
     "title": "校招-能源合作拓展",
-    "category": "其他",
+    "category": "商务",
     "city": [
       "广州",
       "深圳"
@@ -7106,7 +6965,7 @@
   {
     "company": "蔚来",
     "title": "校招-业务分析",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -7121,7 +6980,7 @@
   {
     "company": "蔚来",
     "title": "校招-工程基建项目管理",
-    "category": "其他",
+    "category": "项目管理",
     "city": [
       "上海"
     ],
@@ -7151,7 +7010,7 @@
   {
     "company": "蔚来",
     "title": "校招-数据分析（区域管理支持）",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -7182,7 +7041,7 @@
   {
     "company": "蔚来",
     "title": "校招-过程质量",
-    "category": "其他",
+    "category": "供应链",
     "city": [
       "上海"
     ],
@@ -7212,7 +7071,7 @@
   {
     "company": "蔚来",
     "title": "校招-数字座舱产品设计师",
-    "category": "产品",
+    "category": "设计",
     "city": [
       "上海"
     ],
@@ -7363,7 +7222,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-乐道顾问-常州",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "常州"
     ],
@@ -7378,7 +7237,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-乐道顾问-无锡",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "无锡"
     ],
@@ -7393,7 +7252,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-乐道顾问-湛江",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "湛江"
     ],
@@ -7408,7 +7267,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-乐道顾问-阳江",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "阳江"
     ],
@@ -7423,7 +7282,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-乐道顾问-肇庆",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "肇庆"
     ],
@@ -7453,7 +7312,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-蔚来顾问-常州",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "常州"
     ],
@@ -7468,7 +7327,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-乐道顾问-南通",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "南通"
     ],
@@ -7483,7 +7342,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-蔚来顾问-嘉兴",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "嘉兴"
     ],
@@ -7498,7 +7357,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-蔚来顾问-南充",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "南充"
     ],
@@ -7513,7 +7372,7 @@
   {
     "company": "蔚来",
     "title": "校招实习-蔚来顾问-无锡",
-    "category": "其他",
+    "category": "销售",
     "city": [
       "无锡"
     ],
@@ -7527,128 +7386,8 @@
   },
   {
     "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "贵阳"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633343357209643318/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633343357209643318/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "福州"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633343347537643812/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633343347537643812/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "徐州"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633343338029500691/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633343338029500691/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "南通"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633343338029189395/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633343338029189395/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "南京"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633343338028566803/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633343338028566803/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "济南"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633343338028255507/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633343338028255507/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "宁波"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633342496588646719/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633342496588646719/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-NSC机电技师",
-    "category": "其他",
-    "city": [
-      "上海"
-    ],
-    "requirements": "1. 27届大专及以上学历；\n2. 熟练使用各种办公软件；\n3. 持c1及以上驾照，驾驶技术熟练者优先；\n4. 良好的沟通与组织协调能力，优秀的服务意识和良好的抗压能力；\n5. 持有行业认可的车辆维修资格证＆低压电工证优先；\n6. 认可蔚来汽车的创业公司文化，具备创业公司需要的心理素质；\n7. 良好的自我管理能力及自我学习能力。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7633342496588335423/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7633342496588335423/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
     "title": "实习-AI产品经理",
-    "category": "其他",
+    "category": "AI产品",
     "city": [
       "合肥",
       "上海"
@@ -7664,7 +7403,7 @@
   {
     "company": "蔚来",
     "title": "实习-AI平台产品经理",
-    "category": "其他",
+    "category": "AI产品",
     "city": [
       "上海"
     ],
@@ -7679,7 +7418,7 @@
   {
     "company": "蔚来",
     "title": "实习-领域应用产品经理",
-    "category": "其他",
+    "category": "产品",
     "city": [
       "上海"
     ],
@@ -7694,7 +7433,7 @@
   {
     "company": "蔚来",
     "title": "实习-AI 数据产品经理",
-    "category": "其他",
+    "category": "AI产品",
     "city": [
       "上海"
     ],
@@ -7709,7 +7448,7 @@
   {
     "company": "蔚来",
     "title": "实习-AI 应用产品经理",
-    "category": "其他",
+    "category": "AI产品",
     "city": [
       "上海"
     ],
@@ -7724,7 +7463,7 @@
   {
     "company": "蔚来",
     "title": "实习-PMO",
-    "category": "其他",
+    "category": "项目管理",
     "city": [
       "上海"
     ],
@@ -7739,7 +7478,7 @@
   {
     "company": "蔚来",
     "title": "实习-产品经理（AI应用）",
-    "category": "其他",
+    "category": "AI产品",
     "city": [
       "上海"
     ],
@@ -7769,7 +7508,7 @@
   {
     "company": "蔚来",
     "title": "实习-AI代码分析",
-    "category": "其他",
+    "category": "分析",
     "city": [
       "上海"
     ],
@@ -7783,53 +7522,8 @@
   },
   {
     "company": "蔚来",
-    "title": "实习-智能辅助驾驶端到端规划模型 ",
-    "category": "其他",
-    "city": [
-      "北京"
-    ],
-    "requirements": "计算机科学、人工智能、自动化、机器人等相关专业 硕士及以上学历；\n扎实的 深度学习 基础，熟悉 Transformer、自回归模型、Attention 机制；\n熟练使用 PyTorch，有大规模分布式训练经验（DDP / MPI）；\n熟悉智能辅助驾驶规划或预测领域，了解轨迹表征（Frenet / Cartesian）、碰撞检测、运动学约束等；\n良好的编程能力（Python 为主，C++ 加分），代码质量意识强；\n有独立阅读、复现前沿论文的能力。\n优先条件有 强化学习（RLHF / PPO / GRPO） 在规划或生成任务中的实际应用经验；有 自回归轨迹生成、Tokenization（VQ-VAE / PCA 量化）相关经验；熟悉模型部署与优化（TorchScript / TVM / ONNX）；有 nuScenes / Waymo / 内部数据集上规划任务的 benchmark 经验；在 CVPR / NeurIPS / ICRA / CoRL / RSS 等顶会发表过相关论文。",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7627062640640968969/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7627062640640968969/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-规划模型实习生",
-    "category": "其他",
-    "city": [
-      "北京"
-    ],
-    "requirements": "必备条件：\n- 本科及以上学历，计算机、自动化、计算机视觉、人工智能等相关专业；\n- 熟悉Linux平台下的开发工作，具备良好的工程实践能力；\n- 扎实的Python开发能力，能高效实现算法与工具；- 具备计算机视觉或智能辅助驾驶相关的项目或科研经验，熟悉PyTorch，有深度学习调优经验。\n加分项：\n- 高里程驾驶经验，对实际驾驶场景有深刻理解；- 熟练使用大语言模型辅助问题解决与效率提升；\n- 有规控、轨迹预测、意图识别、强化学习、LLM、VLM等相关经验；\n- 有相关领域顶级会议或期刊论文发表；- 熟悉C++开发，具备跨语言开发能力。\n我们期待你与我们一起，用前沿技术推动智能辅助驾驶的革新与落地！",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7627060723788712228/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7627060723788712228/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
-    "title": "实习-规划模型实习生",
-    "category": "其他",
-    "city": [
-      "北京"
-    ],
-    "requirements": "必备条件：\n- 本科及以上学历，计算机、自动化、计算机视觉、人工智能等相关专业；\n- 熟悉Linux平台下的开发工作，具备良好的工程实践能力；\n- 扎实的Python开发能力，能高效实现算法与工具；- 具备计算机视觉或智能辅助驾驶相关的项目或科研经验，熟悉PyTorch，有深度学习调优经验。\n加分项：\n- 高里程驾驶经验，对实际驾驶场景有深刻理解；- 熟练使用大语言模型辅助问题解决与效率提升；\n- 有规控、轨迹预测、意图识别、强化学习、LLM、VLM等相关经验；\n- 有相关领域顶级会议或期刊论文发表；- 熟悉C++开发，具备跨语言开发能力。\n我们期待你与我们一起，用前沿技术推动智能辅助驾驶的革新与落地！",
-    "deadline": null,
-    "apply_url": "https://nio.jobs.feishu.cn/campus/position/7627060197643897097/detail",
-    "source_url": "https://nio.jobs.feishu.cn/campus/position/7627060197643897097/detail",
-    "fetched_at": "2026-10-27T17:10:46+08:00",
-    "job_type": "实习",
-    "link_status": "正常"
-  },
-  {
-    "company": "蔚来",
     "title": "实习-项目运营实习生（校招方向）",
-    "category": "其他",
+    "category": "运营",
     "city": [
       "上海"
     ],

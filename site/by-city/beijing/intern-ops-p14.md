@@ -1,11 +1,13 @@
-# 北京 · 实习 · 运营 · 全部公司（716 个岗位）（第 14/16 页）
+# 北京 · 实习 · 运营 · 全部公司（718 个岗位）（第 14/17 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 314](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 71](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 36](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [京东 20](../../slices/jd/intern/ops/beijing.md) · [小红书 18](../../slices/xiaohongshu/intern/ops/beijing.md) · [腾讯 12](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 315](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 71](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 36](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [京东 20](../../slices/jd/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [腾讯 12](../../slices/tencent/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 美团 | 点位策略运营 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4480738203.md) |
+| 美团 | 服务运营实习生 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3099774305.md) |
 | 美团 | 供给运营实习生(AI搜方向) 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-3967378319.md) |
 | 美团 | 光年之外 - AI 浏览器-产品运营实习生 〔≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4278962780.md) |
 | 美团 | 机器人-数据运营 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4524949771.md) |
@@ -49,7 +51,5 @@
 | 网易 | 浪潮运营实习生（2个团队） | 北京 | 2026-10-27 | [1](../../jobs/netease-78777.md) [2](../../jobs/netease-78213.md) |
 | 网易 | 内容策略运营实习生（云上工作室） 〔27/28届 · ≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77877.md) |
 | 网易 | 内容分发运营实习生 〔27/28届 · ≥6个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-77138.md) |
-| 网易 | 内容运营实习生（8个团队） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-79463.md) [2](../../jobs/netease-74092.md) [3](../../jobs/netease-79393.md) [4](../../jobs/netease-78869.md) [5](../../jobs/netease-78868.md) [6](../../jobs/netease-77461.md) [7](../../jobs/netease-78463.md) [8](../../jobs/netease-78284.md) |
-| 网易 | 内容运营实习生（北京） 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79517.md) |
 
 [上一页](intern-ops-p13.md) · [下一页](intern-ops-p15.md) · [总目录](../../llms.txt)

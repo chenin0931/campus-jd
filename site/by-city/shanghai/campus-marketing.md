@@ -1,8 +1,8 @@
-# 上海 · 校招 · 市场 · 全部公司（38 个岗位）
+# 上海 · 校招 · 市场 · 全部公司（41 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[米哈游 9](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 5](../../slices/bytedance/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [网易 2](../../slices/netease/campus/marketing/shanghai.md) · [拼多多 2](../../slices/pinduoduo/campus/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 10](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 5](../../slices/bytedance/campus/marketing/shanghai.md) · [网易 4](../../slices/netease/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [拼多多 2](../../slices/pinduoduo/campus/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -34,7 +34,9 @@
 | 米哈游 | 国际化市场品牌（韩） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9079.md) |
 | 米哈游 | 国际化市场品牌（韩）- 线下活动与周边方向 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9095.md) |
 | 米哈游 | 市场营销策划（统招） 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9191.md) |
+| 米哈游 | 视频编导 〔27届〕 | 上海 | 2026-10-27 | [详情](../../jobs/mihoyo-9150.md) |
 | 网易 | 品牌管理培训生（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4745.md) [2](../../jobs/netease-4898.md) |
+| 网易 | 游戏视频编导（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4744.md) [2](../../jobs/netease-4899.md) |
 | 拼多多 | 市场管培生（上海） 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-ba49c098-6493-4b55-a4d5-3af01d362fc7.md) |
 | 拼多多 | 视频创意制作（上海） ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/pinduoduo-h73c2dd97b2.md) |
 | 腾讯 | 市场营销 | 深圳/北京/上海/广州 | 2026-10-27 | [详情](../../jobs/tencent-1282707375417304064.md) |

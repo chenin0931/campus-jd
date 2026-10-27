@@ -1,8 +1,8 @@
-# 北京 · 校招 · 分析 · 全部公司（108 个岗位）（第 1/3 页）
+# 北京 · 校招 · 分析 · 全部公司（107 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 63](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [京东 6](../../slices/jd/campus/analysis/beijing.md) · [阿里巴巴 4](../../slices/alibaba/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/campus/analysis/beijing.md) · [滴滴 3](../../slices/didi/campus/analysis/beijing.md) · [腾讯 3](../../slices/tencent/campus/analysis/beijing.md) · [小米 3](../../slices/xiaomi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 62](../../slices/bytedance/campus/analysis/beijing.md) · [快手 14](../../slices/kuaishou/campus/analysis/beijing.md) · [京东 6](../../slices/jd/campus/analysis/beijing.md) · [阿里巴巴 4](../../slices/alibaba/campus/analysis/beijing.md) · [百度 4](../../slices/baidu/campus/analysis/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/campus/analysis/beijing.md) · [滴滴 3](../../slices/didi/campus/analysis/beijing.md) · [腾讯 3](../../slices/tencent/campus/analysis/beijing.md) · [小米 3](../../slices/xiaomi/campus/analysis/beijing.md) · [美团 2](../../slices/meituan/campus/analysis/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/beijing.md) · [网易 1](../../slices/netease/campus/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -29,7 +29,6 @@
 | 字节跳动 | 抖音视频安全治理策略 - 抖音社区治理（2个团队） 〔27届〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7668252175541389621.md) [2](../../jobs/bytedance-7668252612533750021.md) |
 | 字节跳动 | 抖音账号治理策略 - 抖音社区治理 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668280649552464181.md) |
 | 字节跳动 | 抖音AI创新策略经理 - 抖音内容运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668288833977747765.md) |
-| 字节跳动 | 短剧内容安全策略 - 内容质量与数据服务平台 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7687455038013425973.md) |
 | 字节跳动 | 房产策略分析 - Corporate Services 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7668337442022148357.md) |
 | 字节跳动 | 风险策略 - 抖音电商 〔27届〕 | 上海/北京 | 2026-10-27 | [详情](../../jobs/bytedance-7667419801941592373.md) |
 | 字节跳动 | 服务策略 - 体验与服务 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7670124452865378565.md) |
@@ -47,5 +46,6 @@
 | 字节跳动 | 数据分析师 - 抖音音乐 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7682681391491025205.md) |
 | 字节跳动 | 数据分析师 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669707798918007045.md) |
 | 字节跳动 | 数据分析师 - 今日头条 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7669712338309089589.md) |
+| 字节跳动 | 数据分析师（国际化广告数据科学方向） - 国际化广告数据科学 〔27届〕 | 北京/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7668154340578298117.md) |
 
 [下一页](campus-analysis-p2.md) · [总目录](../../llms.txt)

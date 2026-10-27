@@ -28,7 +28,7 @@ const RULES = [
   ['供应链', /物料|(^|[^A-Za-z])PMC([^A-Za-z]|$)|品质|(?<!内容|模型|数据)质量|供应链|物流|仓储|备件|供应管理|质控|质检|(?<!人才|专项|星|实习|招聘|培养|管培|校招|北斗|启航|领航|英才)计划(?!精英|生)/],
   // 模型评测/标注岗归 AI产品（先于审计等职能词）
   ['AI产品', /评测|标注|语料|\bEval\w*/i],
-  ['商务', /\bPartnerships?\b|商务|(^|[^A-Za-z])BD([^A-Za-z]|$)|商业化|渠道|合作|招商|拓展|采销|采购|投资|投融资|战略|Business Development/i],
+  ['商务', /\bPartnerships?\b|商务|(^|[^A-Za-z])BD([^A-Za-z]|$)|商业化|渠道|合作|招商|拓展|采销|采购|投资|战略|Business Development/i],
   ['职能', /招聘|雇主品牌/],
   ['市场', /市场|营销|品牌|公关|(^|[^A-Za-z])PR([^A-Za-z]|$)|广告|媒介|增长|Marketing|公共事务|政府事务|政府关系|技术传播|SEO|视频剪辑|视频创意|视频制作|创意制作|新媒体|校园大使|\b(Growth|Community|Content)\b/i],
   ['销售', /销售|客户经理|大客户|售前|售后|客户成功|顾问|规划师|直营管理|新零售|解决方案|\b(Sales|Accounts?|Retail)\b|(^|[^A-Za-z])KA([^A-Za-z]|$)/i],
@@ -101,6 +101,10 @@ function classify(title) {
   if (/传播|后期制作/.test(h)) return '市场';
   if (/语料/.test(h)) return 'AI产品';  // 大模型语料岗与评测/标注同口径
   if (h.includes('产品') || (/\bProducts?\b/i.test(h) && !/\bDesigner\b/i.test(h))) return AI.test(h) ? 'AI产品' : '产品';  // 英文：AI Product→AI产品，Product Manager→产品
+  // 验收后补词（2026-10-27，§3.10）：编导→市场；生态发展→商务；仅「安全协作」「内容安全」→运营（泛「协作」不算）
+  if (/编导/.test(h)) return '市场';
+  if (/生态发展/.test(h)) return '商务';
+  if (/安全协作|内容安全/.test(h)) return '运营';
   for (const [c, re] of RULES) if (re.test(h)) return c;
   // 兜底：落到「其他」的标题若含技术课题词（模型训练/推理/架构/安全/多模态/智能体等），按技术岗排除
   if (TECH_OTHER.test(title)) return null;
@@ -111,12 +115,15 @@ function classify(title) {
 // JD 描述第二道把关（§10）：仅当标题岗位段不含业务词且有描述时，按强技术信号排除；Python/SQL 等弱信号不算；无描述只按标题
 const BIZ_WORD = /物料|PMC|Eval|产品|运营|销售|市场|营销|品牌|公关|传播|商务|拓展|渠道|BD|设计|美术|视觉|策划|企划|分析|数据科学|洞察|研究|咨询|招聘|HR|人力|财务|会计|审计|法务|合规|行政|秘书|采购|供应链|物流|质量|品质|项目|PM|客服|编辑|内容|评测|标注|语料|转写|发行|管培|培训生|助理|顾问|战略|投资|Product|Operation|Sales|Marketing|Design|Artist|Analy|Business|Recruit|Finance|Legal|Account|Growth|Community|Content/i;
 const JD_STRONG = /研究型人才|博士生科研|后端开发|后端工程|Golang|Go语言|Java开发|C\+\+开发|SolidWorks|机械设计|\bRTL\b|Verilog|FPGA|CUDA|嵌入式开发|驱动开发|(?:博士|PhD).{0,30}(?:研究|论文)|(?:顶会|一作).{0,10}论文|(?:发表|发表过).{0,15}(?:CVPR|NeurIPS|ICML|ICLR|ACL|AAAI)/i;
+const JD_ELEC = /电力电子|电力传动|电驱(动)?|电机(与电器|控制|设计)?|控制工程|电气工程/;
 function jdTech(title, req) {
   if (!req || !String(req).trim()) return false;
   const segs = cleanTitle(title).replace(/【[^】]*】|\[[^\]]*\]/g, '').split(/\s*[-－—–―‒]+\s*/).map(x => x.trim()).filter(Boolean);
   const h = segs.find(x => ROLE.test(x)) || segs[0] || '';
   // 课题制岗位（描述以「课题背景/课题要求/课题挑战」组织，如腾讯青云计划）是科研课题，不论标题词都排除
   const tp = String(req).match(/课题(背景|要求|挑战)/); if (tp) return tp[0];
+  // 电力电子/电驱/电机/控制工程等工科强信号（§10，验收后补）：岗位段除「设计」「培训生/管培生」外无业务词、且不是视觉类设计（UI/UX/视觉/交互/平面/美术/设计师/工业设计/产品设计）时也排除（如「系统设计培训生」）
+  const el = String(req).match(JD_ELEC); if (el && !/专业不限/.test(String(req)) && !/UI|UX|视觉|交互|平面|美术|设计师|工业设计|产品设计/i.test(h) && !BIZ_WORD.test(h.replace(/设计|培训生|管培生/g, ''))) return el[0];
   if (BIZ_WORD.test(h)) return false;
   const m = String(req).match(JD_STRONG); return m ? m[0] : false;
 }

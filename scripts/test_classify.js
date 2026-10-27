@@ -60,6 +60,9 @@ for (const [t, want] of cases) { const got = classify(t); if (got !== want) { ba
 { // §11 海外岗后处理：纯海外删、多城市去海外、港澳台保留
   { const { dropSocial } = require('./lib/common'); const r = dropSocial([{ title: '运营专员', job_type: '社招' }, { title: '运营实习生', job_type: '社招' }, { title: 'Marketing Internship', job_type: '社招' }, { title: 'Sales Intern', job_type: '社招' }, { title: 'International Sales', job_type: '社招' }, { title: '运营', job_type: '校招' }]);
     if (JSON.stringify(r.map(j => j.title + '/' + j.job_type)) !== JSON.stringify(['运营实习生/实习', 'Marketing Internship/实习', 'Sales Intern/实习', '运营/校招'])) { bad++; console.log('FAIL 社招', JSON.stringify(r)); } }
+  { const { classify, classifyJob } = require('./lib/common'); const T = [[classify('投融资实习生（具身智能）'), '职能'], [classify('视频编导实习生'), '市场'], [classify('具身生态发展经理-觅蜂子公司'), '商务'], [classify('安全协作实习生'), '运营'], [classify('内容安全审核实习生'), '运营'], [classify('团队协作专员'), '其他'],
+      [classifyJob('【27届校招】系统设计培训生', '控制工程、电气工程、电力电子与电力传动相关专业；具备车辆工程及电驱动系统基本理论知识'), null], [classifyJob('UI设计实习生', '熟悉Figma，有电机产品界面设计经验优先'), '设计'], [classifyJob('电驱产品经理', '电力电子背景优先'), '产品'], [classifyJob('【27届校招】建设服务培训生', '专业不限，电气工程、工商管理等相关专业优先'), '项目管理']];
+    T.forEach(([g, w], i) => { if (g !== w) { bad++; console.log('FAIL 验收后修订', i, g, w); } }); }
   const { tagRegion, isOverseas } = require('./lib/overseas'); const eq = (a, b) => JSON.stringify(a) === JSON.stringify(b);
   const r = tagRegion([{ title: 'a', city: ['吉隆坡'] }, { title: 'b', city: ['北京', '新加坡', 'US-California'] }, { title: 'c', city: ['香港', '台北', '澳门'] }, { title: 'd', city: ['Malaysia-Kuala Lumpur'] }, { title: 'e', city: ['澄迈县', '城市见官网'] }, { title: 'f', city: [] }]);
   if (r.length !== 6 || !eq(r.map(j => j.region), ['海外', '国内', '国内', '海外', '国内', '国内']) || !eq(r[1].city, ['北京', '新加坡', 'US-California']) || !eq(r[1].overseas_cities, ['新加坡', 'US-California'])) { bad++; console.log('FAIL region', JSON.stringify(r)); }

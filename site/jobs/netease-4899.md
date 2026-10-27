@@ -3,7 +3,7 @@
 - id: netease-4899
 - 公司: 网易（网易互娱）
 - job_type: 校招
-- 类别: 其他
+- 类别: 市场
 - region: 国内
 - 城市: 杭州、上海、广州
 - status: active

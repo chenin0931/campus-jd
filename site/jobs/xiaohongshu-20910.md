@@ -3,7 +3,7 @@
 - id: xiaohongshu-20910
 - 公司: 小红书
 - job_type: 实习
-- 类别: 其他
+- 类别: 运营
 - region: 国内
 - 城市: 上海
 - status: active

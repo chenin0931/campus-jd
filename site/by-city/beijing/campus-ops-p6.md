@@ -1,11 +1,12 @@
-# 北京 · 校招 · 运营 · 全部公司（353 个岗位）（第 6/8 页）
+# 北京 · 校招 · 运营 · 全部公司（354 个岗位）（第 6/8 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 173](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 22](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 京东 | 商家运营 〔27届〕 | 北京/成都 | 2026-10-27 | [详情](../../jobs/jd-9063.md) |
 | 京东 | 线下业态规划运营 〔27届〕 | 北京 | 2026-10-27 | [详情](../../jobs/jd-9082.md) |
 | 京东 | 销售运营 〔27届〕 | 上海/-香港/呼和浩特/北京/成都/合肥/济南/青岛/广州/深圳/南宁/乌鲁木齐/南京/苏州/南昌/石家庄/郑州/杭州/武汉/长沙/兰州/厦门/沈阳/西安/哈尔滨 | 2026-10-27 | [详情](../../jobs/jd-9052.md) |
 | 京东 | 医生经纪人 〔27届〕 | 上海/北京/广州 | 2026-10-27 | [详情](../../jobs/jd-9317.md) |
@@ -62,6 +63,5 @@
 | 美团 | 沟通和关怀AI运营（企业文化） | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4695030498.md) |
 | 美团 | 廉正AI运营岗 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4695038327.md) |
 | 美团 | 履约策略运营岗 | 北京 | 2026-10-27 | [详情](../../jobs/meituan-4694828673.md) |
-| 美团 | 门店管理储备岗 | 杭州/宁波/无锡/北京/苏州/天津/上海/石家庄/成都/珠海/济南/青岛/广州/深圳/武汉/合肥/南京/沈阳/南宁/西安/太原/长沙/重庆/东莞/中山/南昌/江门/郑州/佛山 | 2026-10-27 | [详情](../../jobs/meituan-4697361084.md) |
 
 [上一页](campus-ops-p5.md) · [下一页](campus-ops-p7.md) · [总目录](../../llms.txt)

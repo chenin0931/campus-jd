@@ -1,8 +1,8 @@
-# 杭州 · 校招 · 其他 · 全部公司（10 个岗位）
+# 杭州 · 校招 · 其他 · 全部公司（8 个岗位）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[阿里巴巴 5](../../slices/alibaba/campus/other/hangzhou.md) · [网易 2](../../slices/netease/campus/other/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/campus/other/hangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/hangzhou.md) · [美团 1](../../slices/meituan/campus/other/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 5](../../slices/alibaba/campus/other/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/campus/other/hangzhou.md) · [快手 1](../../slices/kuaishou/campus/other/hangzhou.md) · [美团 1](../../slices/meituan/campus/other/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -14,6 +14,5 @@
 | 蚂蚁集团 | 客户体验 | 杭州 | 2026-10-27 | [详情](../../jobs/antgroup-260721011006033.md) |
 | 快手 | 游戏投放优化师 | 广州/杭州 | 2026-10-27 | [详情](../../jobs/kuaishou-13593.md) |
 | 美团 | 食杂零售管培生 〔27届〕 | 厦门/杭州/北京/成都/广州 | 2026-10-27 | [详情](../../jobs/meituan-4694966493.md) |
-| 网易 | 游戏视频编导（2个团队） | 杭州/上海/广州 | 2026-10-27 | [1](../../jobs/netease-4744.md) [2](../../jobs/netease-4899.md) |
 
 [总目录](../../llms.txt)

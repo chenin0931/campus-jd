@@ -42305,7 +42305,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-10-27"
   },
   "netease-77261": {
    "first_seen": "2026-10-27",

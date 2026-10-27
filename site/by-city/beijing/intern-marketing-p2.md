@@ -1,11 +1,13 @@
-# 北京 · 实习 · 市场 · 全部公司（105 个岗位）（第 2/3 页）
+# 北京 · 实习 · 市场 · 全部公司（108 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 39](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 16](../../slices/didi/intern/marketing/beijing.md) · [网易 16](../../slices/netease/intern/marketing/beijing.md) · [百度 8](../../slices/baidu/intern/marketing/beijing.md) · [小米 8](../../slices/xiaomi/intern/marketing/beijing.md) · [美团 7](../../slices/meituan/intern/marketing/beijing.md) · [腾讯 5](../../slices/tencent/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [京东 2](../../slices/jd/intern/marketing/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 42](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 16](../../slices/didi/intern/marketing/beijing.md) · [网易 16](../../slices/netease/intern/marketing/beijing.md) · [百度 8](../../slices/baidu/intern/marketing/beijing.md) · [小米 8](../../slices/xiaomi/intern/marketing/beijing.md) · [美团 7](../../slices/meituan/intern/marketing/beijing.md) · [腾讯 5](../../slices/tencent/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [京东 2](../../slices/jd/intern/marketing/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
+| 字节跳动 | AIGC短剧编导实习生-TikTok（2个团队） 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/bytedance-7651930013014165765.md) [2](../../jobs/bytedance-7610738067548948789.md) |
+| 字节跳动 | AIGC视频制作实习生 - 中国公共关系 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7473049175820568840.md) |
 | 字节跳动 | B端整合营销实习生-TikTok生活服务 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7602912204656544005.md) |
 | 字节跳动 | PR实习生 - 中国公共关系 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7688661294886619445.md) |
 | 字节跳动 | PR实习生-抖音 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | [详情](../../jobs/bytedance-7655167138380663045.md) |
@@ -48,8 +50,5 @@
 | 网易 | 视频剪辑实习生（含AI方向） 〔≥3个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-76296.md) |
 | 网易 | 视频剪辑与后期制作实习生（2个团队） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [1](../../jobs/netease-78959.md) [2](../../jobs/netease-78066.md) |
 | 网易 | 娱乐-视频后期制作实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-79245.md) |
-| 网易 | AI视频制作 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78418.md) |
-| 网易 | PUSH增长组实习生 〔≥4个月〕 | 北京 | 2026-10-27 | [详情](../../jobs/netease-78446.md) |
-| 腾讯 | 公共事务 | 北京/重庆/成都/香港 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102080.md) |
 
 [上一页](intern-marketing.md) · [下一页](intern-marketing-p3.md) · [总目录](../../llms.txt)

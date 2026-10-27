@@ -1,8 +1,8 @@
-# 上海 · 实习 · 市场 · 全部公司（89 个岗位）（第 1/2 页）
+# 上海 · 实习 · 市场 · 全部公司（92 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
 
-按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 12](../../slices/bilibili/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [米哈游 11](../../slices/mihoyo/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/intern/marketing/shanghai.md) · [米哈游 13](../../slices/mihoyo/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 详情 |
 |---|---|---|---|---|
@@ -19,6 +19,7 @@
 | 哔哩哔哩 | 游戏内容营销实习生（CCG） 〔27届 · ≥3个月〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-28127.md) |
 | 哔哩哔哩 | 整合营销实习生 〔26届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-25572.md) |
 | 哔哩哔哩 | AI科技组市场实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-29604.md) |
+| 哔哩哔哩 | AIGC内容创意与编导实习生（流量生态部） 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | [详情](../../jobs/bilibili-30036.md) |
 | 字节跳动 | 产品营销实习生-飞书 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7475625924534520082.md) |
 | 字节跳动 | 产品营销实习生-飞书商业化（2个团队） 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [1](../../jobs/bytedance-7485296242769299730.md) [2](../../jobs/bytedance-7483114204313389319.md) |
 | 字节跳动 | 达人营销策略实习生 - 抖音电商运营 〔每周≥5天〕 | 杭州/上海 | 2026-10-27 | [详情](../../jobs/bytedance-7698935678747265285.md) |
@@ -46,6 +47,5 @@
 | 字节跳动 | 行业内容营销实习生-飞书商业化 〔≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7371278957234440499.md) |
 | 字节跳动 | 行业营销实习生 - 抖音电商运营 〔≥4个月〕 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7678526697503197493.md) |
 | 字节跳动 | 营销策略实习生 - 抖音电商运营 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700820118566144309.md) |
-| 字节跳动 | 营销产品实习生（Agent方向） - 抖音电商 | 上海 | 2026-10-27 | [详情](../../jobs/bytedance-7700792600462346501.md) |
 
 [下一页](intern-marketing-p2.md) · [总目录](../../llms.txt)
