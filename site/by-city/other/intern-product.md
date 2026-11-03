@@ -35,7 +35,7 @@
 | 理想汽车 | 销售产品实习生-伊犁 〔26届 · ≥4个月〕 ⚠️链接待核 | 乌鲁木齐 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-249899.md) |
 | 理想汽车 | 销售产品实习生-银川 〔26届 · ≥4个月〕 ⚠️链接待核 | 银川 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-67193.md) |
 | 理想汽车 | 销售产品实习生-榆林 〔26届 · ≥4个月〕 ⚠️链接待核 | 榆林 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-168425.md) |
-| 月之暗面 | 产品实习生 〔≥4个月〕 ⚠️链接待核 | 城市见官网 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-ea359ab7-2508-45b1-8e5d-2d93403d58e4.md) |
+| 月之暗面 | 产品实习生 〔≥4个月〕 | 城市见官网 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-ea359ab7-2508-45b1-8e5d-2d93403d58e4.md) |
 | 腾讯 | Product Manager Intern 108260 🌏海外 | Netherlands-Amsterdam | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-108260.md) |
 | 腾讯 | Product Manager Intern, User Acqusition 108259 🌏海外 | Netherlands-Amsterdam | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-108259.md) |
 | 腾讯 | Tencent Cloud CPaaS Product Management Intern 108019 🌏海外 | US-California | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-108019.md) |

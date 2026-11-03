@@ -12,7 +12,7 @@
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
 - 最近抓取: 2026-11-03
 - 截止: 以官网为准
-- 投递: https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5d7fcf2f-1fc8-4fe2-bb4a-1a76a3c28f30（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5d7fcf2f-1fc8-4fe2-bb4a-1a76a3c28f30
 
 ## 岗位要求
 

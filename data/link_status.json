@@ -40607,5 +40607,2325 @@
   "code": "manual-browser-verified",
   "checked_at": "2026-10-27T19:30:00+08:00",
   "verified_at": "2026-10-27"
+ },
+ "01ai-7698965797247240458": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "01ai-7667861775141275958": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "HTTP 200; 页面: 零一智能，万物赋能 首页 职位 登录 该职位已下线 查看工作机会"
+ },
+ "01ai-7667504757090732298": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "01ai-7664909153768638783": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "01ai-7663407604228245814": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "01ai-7640037085303474458": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "01ai-7399851193384536330": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7700957131827317035": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7700863209935538473": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7700814700834228506": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7699392934458132799": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7697152038936987946": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7696848066816772394": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7696848039147096358": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7696846128196864265": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7696734456086006043": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7694918347862919451": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7690916335445920009": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "HTTP 200; 页面: 登录 该职位已下线 查看工作机会"
+ },
+ "agibot-7690829841441507634": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7687587597858703642": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7684100838114199862": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "HTTP 200; 页面: 登录 该职位已下线 查看工作机会"
+ },
+ "agibot-7684092897458080026": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7684090126435895593": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7683803101066086662": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7675585167205878059": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_001.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7674242376987592998": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7673710085365664063": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7673479382657665334": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7673472974649870635": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7673466913317964041": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7673052918846097670": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7673050209807157550": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7673049300544801033": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7667103593904834852": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "HTTP 200; 页面: 登录 该职位已下线 查看工作机会"
+ },
+ "agibot-7667103472642459945": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "HTTP 200; 页面: 登录 该职位已下线 查看工作机会"
+ },
+ "agibot-7667101846171650313": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "HTTP 200; 页面: 登录 该职位已下线 查看工作机会"
+ },
+ "agibot-7667099219865651507": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "链接是在招详情页，但官网标题与库里不同，需人工看标题: 登录 【共创】产品与用户运营--觅蜂子公司 上海校招正式职能职位 ID：A131183 职位描述 1、负责对接内部算法研发应用等团队，结合各方数据需求，搭建标准化场景库并构建对应采集标准；科技拆解非本体场景任务数据需求并输出采集规范与验收标"
+ },
+ "agibot-7667091617207994643": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7667089185840990515": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662639834146736438": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662631659598580022": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662631480590059830": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662626400138217766": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662294756617799972": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662290681059051795": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662282616817305899": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662276817160210751": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662276316720728326": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662275578045516074": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662275362185054510": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662270138897320233": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662269174601632054": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662258779404388650": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662258368527436095": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662207553685850410": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662204093176662318": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662199615492835630": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662016205608536347": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662010776262314286": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7662002600786594054": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7661986870742763782": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7661986650445596970": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7661949108362643775": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7661937145099225371": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7655218477665913130": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7654170276192487689": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7647799552854640934": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7625444021725776174": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7624485773874956607": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "agibot-7517537220057499923": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "ai2robotics-7674881129581807922": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "aisphere-7664936805020584198": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "HTTP 200; 页面: 招聘官网 登录 该职位已下线 查看工作机会"
+ },
+ "aisphere-7641887296179243315": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "aisphere-7599625887147624710": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_002.json",
+  "notes": "标题一致，页面在招"
+ },
+ "astribot-1c5480f6-c309-4300-b4a5-045c20d550cf": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "astribot-681f3c2c-aac4-4fb4-aa89-664a304dbe5d": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "astribot-86bc3a67-acbb-42d6-90aa-06bb40306454": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "astribot-5984b0fa-a29a-4fca-a24b-f6e74adf7c59": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "astribot-1a6d0d06-ab46-4532-828d-acda0906182f": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "astribot-9cce6048-943b-4638-9a7f-e2e8398c25bd": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "biren-0591365e-6e83-46e6-acad-de446d66fe27": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "biren-eaf25d67-32dd-47cb-9aa2-f0e4e76def9e": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "biren-224c9c29-d9a7-4764-b691-a1491fdc8bdf": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "biren-f6e11190-7ec9-40dc-93a2-19f77f07b822": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "biren-2d8e3deb-77c5-421b-9218-931b9af30e65": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "dexmal-7638820497903683846": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "dexmal-7657833888471501119": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "dexmal-7626261765630888211": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "dexmal-7611739066459736326": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "dexmal-7701163772887763254": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "feixiang-1d19a81e-a899-4322-a087-c6bd3c566e32": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "flexiv-7600237312325060915": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "页面未见城市:上海;"
+ },
+ "galaxea-galaxea-ai": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "页面未见城市:深圳;"
+ },
+ "galbot-871534bd-e15c-41b2-86ed-a83414778813": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "galbot-fccf7511-7b69-483c-b32d-c07857da18d8": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "galbot-5ef13984-9f50-49ac-bbda-72c174dadea2": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "galbot-9a85c6bc-f484-42f5-b88f-adfdd8f01aa8": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "lightwheel-7696762708297140534": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "lightwheel-7678628533900871962": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "lightwheel-7644061491776653631": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "lightwheel-7637395515751729454": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "lightwheel-7625110117608638746": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "limx-7543097982943054119": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "manifold-7701168478858660132": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "页面未见城市:深圳;"
+ },
+ "manifold-7686853085784443187": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "manus-439d03b4-6328-4ce0-89c0-bf5229bd5321": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "manus-6de39807-9426-4b87-8f78-d6340d992758": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "HTTP 200; 页面打开但未出现该标题: careers 首页 开放职位 中 / EN 探索职位 首页 开放职位 职位详情 Product / 我们正在招聘 用户增长实习生 实习 Product 分享职"
+ },
+ "manus-b46136a6-ba06-43d3-be7d-5cbcd9069b40": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7700896712055556393": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7699798664067205385": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7699798591377033513": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7699396279949150500": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "链接是在招详情页，但官网标题与库里不同，需人工看标题: 面壁智能校招官网 首页 职位 面壁智能社招官网 登录 活动/设计实习生-品牌 北京校招实习市场与销售 - 公共关系职位 ID：A249785 职位描述 设计实习生 【你将做什么】 1. 参与公司品牌视觉体系的建设与落地：从技术发布的 Key"
+ },
+ "modelbest-7699006832242051382": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7698638357937064255": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7696873200756607282": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7696445804798282010": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "HTTP 200; 页面: 面壁智能校招官网 首页 职位 面壁智能社招官网 登录 该职位已下线 查看工作机会"
+ },
+ "modelbest-7695613731863234843": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "HTTP 200; 页面: 面壁智能校招官网 首页 职位 面壁智能社招官网 登录 该职位已下线 查看工作机会"
+ },
+ "modelbest-7689002578553866542": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7677499254704916778": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7671209200165472553": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7666005936401746195": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7658196001635617078": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7654845908853197075": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7654844886274296110": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7654842395997505819": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_003.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7649645598602332435": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7646697491979815206": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "modelbest-7593196030596122922": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-8b97d540-493d-4b3c-bcc6-d8ec003e701d": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-6f3f3929-8c41-41a1-8b18-fc5e156a986d": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "链接是在招详情页，但官网标题与库里不同，需人工看标题: 校园招聘 首页 关于我们 更多 登录 急 增长创意实习生 分享 实习|运营类/Operation|北京市 发布于 2026-10-17 申请职位 首页/职位列表/职位详情 急 增长创意实习生 分享 实习|运营类/Operation|北京市"
+ },
+ "moonshot-f287f352-5561-4d86-bb85-552b0283854c": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-569f5aad-3f68-41ba-ab5d-720e4148bda7": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-e86ad62a-2eff-4b5f-926a-affe280ceabf": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "HTTP 304; 页面: 校园招聘 首页 关于我们 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 急 Agent Produc"
+ },
+ "moonshot-e008269e-bb88-48bc-a3ed-9e10b737b53c": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-fade7234-e9ab-47bd-9844-401b8fedbf01": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "HTTP 304; 页面: 校园招聘 首页 关于我们 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 急 Agent Produc"
+ },
+ "moonshot-24952815-e0f3-403c-b01c-b796cb2abc43": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "HTTP 304; 页面: 校园招聘 首页 关于我们 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 急 Agent Produc"
+ },
+ "moonshot-d2e41303-71be-44f2-bcde-199d2e15d9d2": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "HTTP 304; 页面: 校园招聘 首页 关于我们 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 急 Agent Produc"
+ },
+ "moonshot-4328d1e4-53ee-43d6-97fb-924aa230198e": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-ea359ab7-2508-45b1-8e5d-2d93403d58e4": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-cc69eeba-26be-4f32-8dbc-f6bc369c8fd3": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-83c7d619-4b46-4fc7-9490-9b5d0171a5a7": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-f8dfdbf3-eb0c-4403-89c2-21d854c8c47a": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-e6d9887a-bb3c-415e-8e6a-7a0ff13cf202": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-5bc8847c-3b26-4c02-ae08-6b490e5a540b": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-46eee6a1-4d51-432c-8bc0-e00aa5793ce3": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-ac794113-4a1c-410f-9d31-f46c30d28a06": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-a736b23a-d152-4e8f-abf6-cb954db8be4c": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-f9088589-0c05-4cc1-8c3e-46f140557939": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-e6cb9f10-00f0-46c4-bbde-6611bb1b06e4": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-f68a944c-ddff-44a9-9ed1-018b0d006afe": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-e45fe698-18e5-468e-97bf-315305172df2": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-ea2fbf09-7e1e-4b0c-9222-be6ed1a88af6": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-edeae654-2dcd-4584-90d0-b2702379501e": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-8d387967-c233-4e5d-b7b1-6c13a9a36fd2": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-c3f01bba-856e-4d74-a07b-45e2d39108eb": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-08b3139e-40da-442b-b5a2-e5477055ead3": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-a544ada9-5ab6-409d-a698-168a96f6b19a": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-7b87fe4e-9fed-48c5-b7fd-c27287830d08": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "HTTP 304; 页面: 校园招聘 首页 关于我们 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 急 Agent Produc"
+ },
+ "moonshot-02a21c93-472c-4873-896a-54ef0fcc500b": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-aa2cd5d8-df6e-4ba1-b6e1-b0cc90b8320c": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-a32e2360-c23c-4705-8491-ce7594f8f411": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-b4f8c82b-d4ce-455f-9e5c-e7cce2b60e0a": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-8d1a2a91-514f-485d-a5fd-317c696e20a0": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-4e150423-d852-4b64-b0c2-313ac73168ba": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "HTTP 304; 页面: 校园招聘 首页 关于我们 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 急 Agent Produc"
+ },
+ "moonshot-8afd0f3a-b3e4-40a8-a900-0588ab774f92": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-5d7fcf2f-1fc8-4fe2-bb4a-1a76a3c28f30": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-728d3859-c92d-4c24-ae79-0839829fbdbb": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-f56009ba-1cb5-42ac-a04f-b6c97904eb3a": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-646a6e5d-e998-4680-92b0-65b4087c1f7c": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_009.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-e1bf1d68-21e2-4f44-941f-d3c8bc7274ec": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-b6ee016c-9359-462d-a63f-2387c2f1074a": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-56c68aef-8f49-4ca9-84d7-f0a581f51fd4": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-aecbf4b8-f5f7-4dbc-93fd-fea5e0965686": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-f3911361-2265-41e6-9ca6-7baf6d8a2a86": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-c285bd12-cf03-44f6-9e7a-1d4a24d79f77": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_004.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-c5bdb01b-a715-404f-9d54-de008e7e7f87": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-9e43aafe-32e5-4864-a02e-3b5b26e18533": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-b54071d5-6426-4cc2-8bb9-2b12b8e93788": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-e952e0c8-d6c8-4090-8d6c-7c143620d1e4": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-317f920b-9efe-4d09-ba7d-7fe44b1c447c": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-4c19d213-48c5-44b1-9702-447a49b710a6": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-a24d5b49-c733-4c1e-865a-9467cb8d4eaa": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-60f14c35-5905-4020-9a96-c6bfe8e19d0b": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-a08b2bc7-89b8-4840-b6b9-39e22b4de1ec": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "moonshot-74098f86-e8c8-4fbd-a590-4e4eeca457c5": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "shengshu-7698965126002919731": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "HTTP 200; 页面: 生数科技招聘官网 首页 职位 校招官网 登录 该职位已下线 查看工作机会"
+ },
+ "shengshu-7696810175290722579": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "shengshu-7694882372702406950": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "HTTP 200; 页面: 生数科技招聘官网 首页 职位 校招官网 登录 该职位已下线 查看工作机会"
+ },
+ "shengshu-7694512278909815081": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "shengshu-7694170898395711795": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "shengshu-7687430606934870323": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "HTTP 200; 页面: 生数科技招聘官网 首页 职位 校招官网 登录 该职位已下线 查看工作机会"
+ },
+ "shengshu-7686424818195384582": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "shengshu-7680777984093309230": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "HTTP 200; 页面: 生数科技招聘官网 首页 职位 校招官网 登录 该职位已下线 查看工作机会"
+ },
+ "shengshu-7680777482055928090": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "HTTP 200; 页面: 生数科技招聘官网 首页 职位 校招官网 登录 该职位已下线 查看工作机会"
+ },
+ "shengshu-7660453086549412134": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "shengshu-7652758550867314950": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "shengshu-7651528201969666345": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "HTTP 200; 页面: 生数科技招聘官网 首页 职位 校招官网 登录 该职位已下线 查看工作机会"
+ },
+ "shengshu-7539749881783617818": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7699808803794077994": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7685610816712067355": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7685608542334208283": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672683554694236442": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672221151125506342": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672038113417791787": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672037561573919014": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672037554481629466": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672035440761735467": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672033022140959003": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7672031985867295002": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7667851033058773290": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7650429456456911155": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7650426822765513003": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7650421910710438190": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7650421804276631859": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "spiritai-7648937369583880457": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-5c284b31-800d-4213-86dc-c811604dcdfa": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-46dcf396-74a1-4f27-9847-71c834352d64": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-9d83bd6e-aaf2-41eb-a5a1-acdf21e1f691": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-5adf4dc5-77e0-415b-bcf3-21de61a16528": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-38407e0b-85e3-47b8-b8de-e58904f3825e": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-9253cd06-26d0-4a44-8fa4-c15acf6ad26e": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-eafbec45-299c-4417-bf0b-cb90f086fc2b": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-5d1e260a-c5c6-46ba-bcfa-51665219324c": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "HTTP 304; 页面: 首页 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 27届-IoT云服务软件开发工程师 27届-Io"
+ },
+ "stepfun-530ac2b6-8f6e-4c0f-b465-8ed30c0f3bd9": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-917dd6f4-ea42-498f-a3d4-722545bd3477": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_005.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-01ee48e6-aac8-4b17-9749-29af5de17fcd": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-76839c2b-4beb-411a-9d62-fb0006cfb25e": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-8f8ab7dc-b13b-40f4-8405-2696eecff52b": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-f9386042-928a-4528-abdf-5b053eae359a": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-8f4d792c-74c5-4e18-a737-530d0f04e586": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-649b5f68-0a2e-4516-9d33-5887b3236428": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-a9c431d7-fe76-4946-9863-abfd7e2bae41": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-e879ccb0-21ca-4c30-a5a1-0f24487ae820": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-63448758-5eec-4e0d-9892-2c001c7b7321": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-26c2b85f-25e8-4d1f-ba28-3f61eb4d39b5": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-3badadae-de73-4c79-8442-5bc692f63906": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-ac9fcbeb-4d7b-4d5c-84a8-548b6479d017": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-56c7f2d1-2c51-49bc-a4aa-b27f494f3509": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "HTTP 304; 页面: 首页 更多 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 27届-IoT云服务软件开发工程师 27届-Io"
+ },
+ "stepfun-035f092f-e000-4b43-be39-82c7a4349b30": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-a2eeb736-8112-4e68-9778-956a4f4c8c52": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-a6b28dd1-7751-45c2-b81d-b73f9bae3f41": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-c1a5b263-8267-4749-8faf-188a871d6226": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-fffe6d6e-0a46-49ec-95d1-3999dc928cab": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-a333ff7b-8f37-47fe-9248-98a7a3e769ec": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-aa9ce111-4424-4394-a3fb-a9d2ed0a8834": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-43974087-c5b2-4ac4-9aaf-d78da8cc1090": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-1330cdab-b0a8-43bb-9367-e5351d7e73ee": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-ac605fdf-a0d5-419e-9da2-37c33cac1d3e": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-082e8295-2e5a-420a-a2c8-f3ee3f2e9658": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-1f809d2c-a53d-4643-bc07-2f4f074ce716": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-1dab8250-e8b2-4605-9c5e-c2de7de74612": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "stepfun-622a5308-f86d-4d62-bfa2-73c838ae0cdc": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "tezign-7598372681066481983": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "tezign-7555048527836678443": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "tezign-7365751376670411045": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "tezign-7303536544526436635": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "tezign-7267429666813053195": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "uisee-0b67a0cf-7818-4a4e-99ef-e59195a08cd3": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "uisee-d6238af4-6f7d-48f6-a927-da416cbff32b": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "uisee-829db240-d20b-43f8-8fc2-c8937e3dfd05": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "uisee-0a091af0-044d-428c-99da-f0011429a42d": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "uisee-8b99c36b-324f-411d-afae-7f0b3cb6098d": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7686006824650950931": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7682711165768075570": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7680546907894450470": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7677812349520775434": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7676100737927317810": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7667173872476080427": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7665627819136928006": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7659980051718719754": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7652245108025198858": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7641575900195227958": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7641206934682831145": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7634126124523555115": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7628156373439940890": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_006.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7625833884836677926": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7605131674825509146": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7545485100995283210": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "x2robot-7527569321943746855": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-b86d1df0-c4a7-48a2-b567-a4060c00b3d4": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-2ffd6b99-8e1f-4ea6-b43e-84f00c0a84ed": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_008.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-8d25148b-7efe-4969-bbaa-441974e960b1": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-064f7a26-b809-42f3-95da-99879f8a588f": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-6329db56-5044-461d-ae4b-722fbc854b44": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-3a3b5dff-4ed6-4486-8c76-02febfe3a59a": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-8642282f-65e1-422c-8f1b-773811971176": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-d63a4102-9c39-4256-a3cb-c549d984dfd0": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-4bfef9e2-f21d-4b12-b957-c1eb65eb3699": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
+ },
+ "yuaiweiwu-44ce0a1c-8484-486d-a287-4e0ea2e7cb0a": {
+  "status": "invalid",
+  "code": "manual-browser-not-found",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "HTTP 200; 页面: 社会招聘 首页 热招职位 登录 首页/职位列表/职位详情 抱歉，该职位已停止招聘，去看看其他机会吧！ 查看其他职位 最新职位 急 模型语言学专家 急 主播（高中"
+ },
+ "yuaiweiwu-dd1da7f3-2749-4e90-838e-3cf43220ce49": {
+  "status": "ok",
+  "code": "manual-browser-verified",
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:18:30+08:00",
+  "source_file": "staging/2026-W44/link_check/初创_007.json",
+  "notes": "标题一致，页面在招"
  }
 }

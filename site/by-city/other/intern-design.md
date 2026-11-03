@@ -15,7 +15,7 @@
 | 理想汽车 | 文案创意设计实习生 ⚠️链接待核 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-226843.md) |
 | 理想汽车 | 用户体验实习生（2个团队） ⚠️链接待核 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [1](../../jobs/lixiang-166868.md) [2](../../jobs/lixiang-153865.md) |
 | 理想汽车 | UX设计实习生 ⚠️链接待核 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-55893.md) |
-| 阶跃星辰 | Model–System Co-Design （实习生） ⚠️链接待核 | 城市见官网 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/stepfun-1dab8250-e8b2-4605-9c5e-c2de7de74612.md) |
+| 阶跃星辰 | Model–System Co-Design （实习生） | 城市见官网 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/stepfun-1dab8250-e8b2-4605-9c5e-c2de7de74612.md) |
 | 腾讯 | AI-Native Game Design Intern 108252 🌏海外 | United Kingdom-London | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-108252.md) |
 | 腾讯 | Game UI & Tools Intern (AI Focus) 108251 🌏海外 | United Kingdom-London | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-108251.md) |
 
