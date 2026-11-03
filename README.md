@@ -145,7 +145,7 @@ site/by-city/{city}/{campus|intern}-{category}.md            跨公司按城市
 site/changes/{week}.md        本周新增/下架
 site/jobs/{company}-{postId}.md   岗位详情（job_type、status、要求、投递链接）
 site/companies/{company}.md 公司总览；site/by-year/{yy}/ 按届别
-skill/SKILL.md + campus-jd-skill.zip   给 agent 的 skill（主 Pages，备 jsDelivr；仓库地址占位见下方「维护者」）
+skill/SKILL.md + campus-jd-skill.zip   给 agent 的 skill（主 Pages，备 jsDelivr）
 ```
 slug：category `ai-product|product|ops|business|marketing|sales|design|corporate|pm|analysis|planning|supply|other`（排除法：技术岗以外全收，规则见 scripts/reference/CLASSIFIER.md）；城市为拼音（`beijing`、`shanghai`…，未登记城市归 `other`）。
 
