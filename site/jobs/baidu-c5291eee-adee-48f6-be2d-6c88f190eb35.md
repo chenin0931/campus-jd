@@ -8,7 +8,8 @@
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/GRADUATE/c5291eee-adee-48f6-be2d-6c88f190eb35
 

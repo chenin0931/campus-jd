@@ -11,6 +11,8 @@ const { postId } = require('./lib/site');
 const a = args(), week = a.week || '2026-W44', ROOT = path.join(__dirname, '..'), OUT = path.join(ROOT, 'data', week);
 const SRC = [['全网', path.join(ROOT, 'staging', `${week}-wt`)], ['初创', path.join(ROOT, 'staging', week, 'startups_node')]];
 const normUrl = u => String(u || '').trim().replace(/^http:/, 'https:').replace(/[#?].*$/, x => x.startsWith('?') ? x : '').replace(/\/$/, '');
+// 初创来源里不算初创的公司 → 归全网（运营助手 2026-11-03 定）
+const TO_QW = new Set(['weibo', 'shopee', 'zhihu']);
 const coKey = s => String(s || '').replace(/[（(].*?[)）]/g, '').trim();
 let seen = { pid: new Set(), tc: new Set(), url: new Set(), t: new Set() };
 const add = (slug, j, S = seen) => { const c = [...normCities(j.city)].sort().join('/'); S.pid.add(slug + '|' + postId(j.apply_url)); S.tc.add(coKey(j.company) + '|' + j.title.trim() + '|' + c); S.url.add(normUrl(j.apply_url) + '|' + j.title.trim()); S.t.add(slug + '|' + j.title.trim()); };
@@ -35,9 +37,9 @@ for (const [ds, dir] of SRC) for (const f of fs.readdirSync(dir).filter(f => f.e
   L = tagRegion(L).flatMap(j => { const d = dupOf(slug, j); if (d) { r.dup[d] = (r.dup[d] || 0) + 1; return []; } add(slug, j, mine); return [j]; });
   for (const k of Object.keys(seen)) mine[k].forEach(x => seen[k].add(x));
   L = L.map(j => { const { link_status, id, project, ...k } = j; const ok = link_status === '正常' && k.source !== 'manual-browser';
-    return { ...k, dataset: ds, link_check: ok ? '正常' : '待核' }; });
+    return { ...k, dataset: TO_QW.has(slug) ? '全网' : ds, link_check: ok ? '正常' : '待核' }; });
   r.kept = L.length; if (!L.length || a['dry-run']) continue;
-  const file = path.join(OUT, existing.has(slug) ? `${slug}@${ds}.json` : `${slug}.json`);
+  const file = path.join(OUT, existing.has(slug) ? `${slug}@${TO_QW.has(slug) ? '全网' : ds}.json` : `${slug}.json`);
   fs.writeFileSync(file, JSON.stringify(L, null, 2) + '\n');
 }
 console.log(JSON.stringify(rep));

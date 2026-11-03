@@ -8,7 +8,8 @@
 - 城市: 北京市、上海
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://career.honor.com/SU60eea919bef57c1023f6fe78/pb/posDetail.html?postId=6aa8e6affea5e04bda6703a2&postType=campus（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 

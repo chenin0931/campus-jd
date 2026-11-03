@@ -1,10 +1,10 @@
-# 大厂非技术岗（产品/运营/商务/市场/销售/设计/职能/项目管理/分析/策划/供应链）校招·实习 JD 库（每周更新）
+# 大厂、互联网公司和 AI 初创的校招与实习非技术岗 JD 库（产品/运营/商务/市场/销售/设计/职能/项目管理/分析/策划/供应链，每周更新）
 
-GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在服务端算好按**公司 × 校招/实习 × 类别 × 城市**切分的小文件（每个 ≤8KB），发布到 GitHub Pages。学生的 AI 助手（WorkBuddy 等）装上 skill 后，只需 fetch 两三个小文件就能回答“上海有哪些 AI 产品实习”。
+收录大厂、互联网公司和 AI 初创官网公开的校招与实习非技术岗。GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位（全网和 AI 初创两组暂时沿用最近一次抓取，标抓取日期），在服务端算好按**公司 × 校招/实习 × 类别 × 城市**切分的小文件（每个 ≤8KB），发布到 GitHub Pages。学生的 AI 助手（WorkBuddy 等）装上 skill 后，只需 fetch 两三个小文件就能回答“上海有哪些 AI 产品实习”。
 
 ## 总览
 <!-- overview:start -->
-数据周 **2026-W44**（2026-10-27 生成）· 在招 **9228** · 本周新增 **0** · 下架 **0**
+数据周 **2026-W44**（2026-11-03 生成）· 在招 **9228** · 本周新增 **0** · 下架 **0**
 
 | 公司 | 校招 | 实习 | 合计 |
 |---|---:|---:|---:|
@@ -119,6 +119,8 @@ GitHub Actions 每周一自动抓取各大厂校招官网的公开岗位，在�
 - **❌疑似下架**：公司官网已经查不到这个岗位，大概率招满或关闭了。
 - **🌏海外**：工作地点在海外（港澳台算国内）。
 - **🆕**：本周新增的岗位。
+- **抓取日期**：每个岗位都写了我们最近一次在官网看到它的日期（列表里的「抓取」一列，详情里的「最近抓取」）。
+- **⏳可能已下架**：这条岗位超过 14 天没在官网重新看到（全网、AI 初创和手动更新的公司暂时不是每周自动抓），可能已经关了。投递前先去官网确认，这种岗位也不会标 🆕。
 - 截止日期大多数公司没写，一律以官网为准，建议尽早投。
 
 ### 常见问题
@@ -162,7 +164,7 @@ node scripts/package_skill.js --check       # 只校验 zip 是否与 SKILL.md �
 - **拼多多是手动来源**（`source: manual-browser`）：官网接口要 anti_content 风控令牌，写不了抓取器，也不能自动校验；每次浏览器人工逐条核对后在 `data/link_status.json` 记 `code: manual-browser-verified` 和 `verified_at`，14 天内显示为已核对，超期自动回到「链接待核」，`requirements` 可为 null。站点公司总览、切片和 llms.txt 标「手动更新 · 最后更新 YYYY-MM-DD」，超过 14 天加过期警告。
   - 每周怎么更新：用浏览器按正常访客打开 careers.pddglobalhr.com 应届生/实习列表，按 `data/schema.json` 抄成 `staging/<周>/pinduoduo.json`（`source` 写 `manual-browser`、`link_status` 写「链接待核」、`fetched_at` 写抄录时间），核对分类和城市（省级写「广东省」、全国多地写「全国多地」，原文放 `city_note`）后移到 `data/<周>/pinduoduo.json`，再跑 `node scripts/build.js`。
   - 某周没放新文件时，build 自动沿用最近一周的手动文件，岗位保持 active，不会记成下架；要真正下架某条，就在新的手动文件里删掉它。
-- 全网 12 家 + AI 初创 27 家（2026-W44 由 `scripts/merge_staging.js` 从 staging 合并，`dataset` 字段区分 大厂/全网/初创，文件名 `<slug>@<数据集>.json`）暂无周跑抓取器：build 像手动来源一样沿用最近一周的文件，链接未核的标 ⚠️链接待核。
+- 全网 15 家（含从初创挪来的微博、Shopee、知乎，见 `merge_staging.js` 的 `TO_QW`）+ AI 初创 24 家（2026-W44 由 `scripts/merge_staging.js` 从 staging 合并，`dataset` 字段区分 大厂/全网/初创，文件名 `<slug>@<数据集>.json`）暂无周跑抓取器：build 像手动来源一样沿用最近一周的文件，链接未核的标 ⚠️链接待核；沿用数据按 `fetched_at` 超过 14 天（`node scripts/build.js --today YYYY-MM-DD` 可模拟日期）标 ⏳可能已下架、不算新增。人工核验结果按 `staging/<周>/link_check_format.md` 交到 `staging/<周>/link_check/`，`node scripts/import_link_check.js` 读进 `data/link_status.json`（ok/fixed→已核验，fixed 用 new_url 替换链接；not_found→❌疑似下架；unverifiable→待核；都 14 天有效）。
 - 大厂 19 家都有 Node 抓取器（`scripts/fetchers/<slug>.js`），weekly.yml 逐个跑 `scripts/fetchers/*.js`，无需 Python。2026-10-27 新增网易（campus.163.com / campus.game.163.com / hr.163.com 三个域名）、滴滴（列表接口 AES-CBC 加密，用 Node 内置 crypto 按 necromancer 解密，同 reference/dd.py）、B站（串行，请求间隔 ≥1.5s）、得物（飞书 website-path 578078）、OPPO、米哈游、携程（id 保留 MJ 前缀，英文城市转中文）、vivo、华为（浏览器 UA）。抓取结果与 data/2026-W44 对比：id 集合一致（网易少 1 条为官网当天下架）。
 - 只想试跑不写 data：`node scripts/fetchers/didi.js --out /tmp/x`。
 - `scripts/reference/*.py` 是最初的探索脚本，仅供参考。

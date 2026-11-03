@@ -12,8 +12,8 @@ const MAX = 8 * 1024; // 单文件上限（字节）
 const weeks = fs.readdirSync(DATA).filter(d => /^\d{4}-W\d{2}$/.test(d)).sort();
 if (!weeks.length) { console.error('data/ 下没有周目录'); process.exit(1); }
 const cur = weeks.at(-1), prev = weeks.at(-2) || null;
-const today = process.env.BUILD_DATE || new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 10);
-const issues = [];
+const _ti = process.argv.indexOf('--today'), today = (_ti > 0 && process.argv[_ti + 1]) || process.env.BUILD_DATE || new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 10);
+const issues = [], FRESH_DAYS = 14;
 const linkStatus = fs.existsSync(path.join(DATA, 'link_status.json')) ? JSON.parse(fs.readFileSync(path.join(DATA, 'link_status.json'), 'utf8')) : {};
 
 function load(w, only) {
@@ -62,7 +62,13 @@ let st = fs.existsSync(STATE) ? JSON.parse(fs.readFileSync(STATE, 'utf8')) : {};
 if (!st.jobs) { const old = st.first_seen || {}; st = { jobs: {} };
   for (const j of [...prevMap.values(), ...curMap.values()]) if (old[j.apply_url]) st.jobs[j.id] = { first_seen: old[j.apply_url] }; }
 for (const [id, j] of curMap) { const s = st.jobs[id] ||= { first_seen: today }; s.last_seen = today; s.last_week = cur; s.status = 'active'; delete s.removed_at;
-  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = j.source === 'manual-browser' ? (manualFresh(linkStatus[id], today) ? 'ok' : 'unverified') : (linkStatus[id]?.status || (j.link_check === '待核' ? 'unverified' : 'unchecked')); j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
+  j.first_seen = s.first_seen; j.status = 'active'; j.is_new = prev ? !prevMap.has(id) : false; j.link_status = linkStatus[id]?.code?.startsWith('manual-browser') ? (manualFresh(linkStatus[id], today) ? 'ok' : manualFresh({ ...linkStatus[id], status: 'ok', code: 'manual-browser-verified' }, today) && linkStatus[id].status === 'invalid' ? 'invalid' : 'unverified')
+    : j.source === 'manual-browser' ? 'unverified' : (linkStatus[id]?.status || (j.link_check === '待核' ? 'unverified' : 'unchecked'));
+  if (j.link_status === 'ok' && linkStatus[id]?.new_url) j.apply_url = linkStatus[id].new_url;  // 人工核验 fixed：用官网详情页新链接（id 不变）
+  // 新鲜度：沿用数据（全网/初创/手动来源）超过 14 天没重新抓到 → 可能已下架，且不算新增
+  j.fetched = String(j.fetched_at || '').slice(0, 10) || null; j.carried = j.dataset !== '大厂' || j.source === 'manual-browser';
+  j.fetch_age = j.fetched ? Math.round((Date.parse(today) - Date.parse(j.fetched)) / 864e5) : null;
+  j.maybe_gone = j.carried && (j.fetch_age === null || j.fetch_age > FRESH_DAYS); if (j.maybe_gone) j.is_new = false; j.grad_year = gradYear(j); j.intern_duration = internDuration(j); }
 const removed = [];
 for (const [id, s] of Object.entries(st.jobs)) if (!curMap.has(id) && s.status === 'active') { s.status = 'removed'; s.removed_at = today; if (prevMap.has(id)) removed.push({ ...prevMap.get(id), status: 'removed', first_seen: s.first_seen }); }
 st.updated_at = today; st.week = cur;
@@ -72,22 +78,22 @@ const jobs = [...curMap.values()];
 // ---------- 渲染 ----------
 const esc = s => String(s ?? '').replace(/\|/g, '/').replace(/\s*\n\s*/g, ' ').trim();
 const tag = j => { const a = [j.grad_year ? j.grad_year.map(y => String(y).slice(2)).join('/') + '届' : '', j.intern_duration || ''].filter(Boolean); return a.length ? ` 〔${a.join(' · ')}〕` : ''; };
-const flag = j => (j.region === '海外' ? ' 🌏海外' : '') + (j.is_new ? ' 🆕' : '') + (j.link_status === 'invalid' ? ' ❌疑似下架' : j.link_status === 'unverified' ? ' ⚠️链接待核' : '');
+const flag = j => (j.region === '海外' ? ' 🌏海外' : '') + (j.is_new && !j.maybe_gone ? ' 🆕' : '') + (j.maybe_gone ? ' ⏳可能已下架' : '') + (j.link_status === 'invalid' ? ' ❌疑似下架' : j.link_status === 'unverified' ? ' ⚠️链接待核' : '');
 const rel = (from, to) => path.relative(path.dirname(from), to).split(path.sep).join('/');
 // 同标题+同城市合并为一行（多个团队在招）
 function group(l) { const m = new Map(), seenId = new Set();
   for (const j of l) { if (seenId.has(j.id)) continue; seenId.add(j.id); const k = j.company_slug + '|' + j.title + '|' + [...j.city].sort().join('/'); (m.get(k) || m.set(k, []).get(k)).push(j); }
-  return [...m.values()].map(g => ({ ...g[0], ids: g.map(x => x.id), is_new: g.some(x => x.is_new), link_status: g.every(x => x.link_status === 'unverified') ? 'unverified' : g[0].link_status }));
+  return [...m.values()].map(g => ({ ...g[0], ids: g.map(x => x.id), is_new: g.some(x => x.is_new), maybe_gone: g.every(x => x.maybe_gone), fetched: g.map(x => x.fetched).filter(Boolean).sort().at(-1) || g[0].fetched, link_status: g.every(x => x.link_status === 'unverified') ? 'unverified' : g[0].link_status }));
 }
 const written = []; // {path, bytes, count}
 function out(rp, text, count) { const f = path.join(SITE, rp); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, text); written.push({ path: rp, bytes: Buffer.byteLength(text), count }); }
 // 分页写列表：每页 ≤ MAX 字节；返回页路径
 function paged(base, title, note, rows, withCo, count) {
-  const head = withCo ? '| 公司 | 岗位 | 城市 | 首次出现 | 详情 |\n|---|---|---|---|---|' : '| 岗位 | 城市 | 首次出现 | 详情 |\n|---|---|---|---|';
+  const head = withCo ? '| 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |\n|---|---|---|---|---|---|' : '| 岗位 | 城市 | 首次出现 | 抓取 | 详情 |\n|---|---|---|---|---|';
   const pages = []; let cur = [];
   const render = (rs, i, n, file) => [`# ${title}${n > 1 ? `（第 ${i}/${n} 页）` : ''}`, '', note, '', head,
     ...rs.map(g => { const links = g.ids.map((id, k) => `[${g.ids.length > 1 ? k + 1 : '详情'}](${rel(file, `jobs/${id}.md`)})`).join(' ');
-      return `| ${withCo ? esc(g.company) + ' | ' : ''}${esc(g.title)}${g.ids.length > 1 ? `（${g.ids.length}个团队）` : ''}${tag(g)}${flag(g)} | ${esc(g.city.length > 12 ? g.city.slice(0, 12).join('/') + ` 等 ${g.city.length} 城` : g.city.join('/'))} | ${g.first_seen} | ${links} |`; }),
+      return `| ${withCo ? esc(g.company) + ' | ' : ''}${esc(g.title)}${g.ids.length > 1 ? `（${g.ids.length}个团队）` : ''}${tag(g)}${flag(g)} | ${esc(g.city.length > 12 ? g.city.slice(0, 12).join('/') + ` 等 ${g.city.length} 城` : g.city.join('/'))} | ${g.first_seen} | ${g.fetched || '-'} | ${links} |`; }),
     '', '{{NAV}}', ''].join('\n');
   const fname = i => `${base}${i > 1 ? `-p${i}` : ''}.md`;
   for (const r of rows) { const t = [...cur, r]; if (cur.length && Buffer.byteLength(render(t, 99, 99, fname(99))) > MAX - 300) { pages.push(cur); cur = [r]; } else cur = t; }
@@ -97,7 +103,7 @@ function paged(base, title, note, rows, withCo, count) {
     out(f, render(rs, i, pages.length, f).replace('{{NAV}}', nav), k === 0 ? count : 0); });
   return pages.map((_, k) => fname(k + 1));
 }
-const NOTE = `数据周 ${cur}，生成 ${today}（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。`;
+const NOTE = `数据周 ${cur}，生成 ${today}（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。`;
 
 // 历史 changes/ 保留（其余全部重建）
 const CH = path.join(SITE, 'changes'), oldChanges = fs.existsSync(CH) ? fs.readdirSync(CH).filter(f => !f.startsWith(cur)).map(f => [f, fs.readFileSync(path.join(CH, f), 'utf8')]) : [];
@@ -110,6 +116,7 @@ const names = Object.fromEntries(jobs.map(j => [j.company_slug, j.company]));
 // 数据集（大厂/全网/初创）：公司按其岗位最多的数据集归类；index.datasets 给每个数据集的岗位数、公司数、「其他」占比
 const DS = ['大厂', '全网', '初创'], coDs = {};
 for (const co of new Set(jobs.map(j => j.company_slug))) { const n = {}; jobs.filter(j => j.company_slug === co).forEach(j => n[j.dataset] = (n[j.dataset] || 0) + 1); coDs[co] = DS.find(d => n[d] === Math.max(...Object.values(n))); }
+index.maybe_gone = jobs.filter(j => j.maybe_gone).length; index.fresh_days = FRESH_DAYS;
 index.datasets = Object.fromEntries(DS.map(d => { const l = jobs.filter(j => j.dataset === d); return [d, { jobs: l.length, companies: Object.values(coDs).filter(x => x === d).length, other: l.filter(j => j.category === '其他').length, other_pct: l.length ? +(100 * l.filter(j => j.category === '其他').length / l.length).toFixed(1) : 0 }]; }));
 // 跨来源重复（同公司+标题+城市+链接 出现在不同数据集）→ 校验报错
 { const m = new Map(); for (const j of jobs) { const k = [j.company_slug, j.title.trim(), [...j.city].sort().join('/'), j.apply_url].join('|'); const d = m.get(k); if (d && d !== j.dataset) issues.push(`跨来源重复：${k}`); else m.set(k, j.dataset); } }
@@ -185,8 +192,8 @@ const cache = {}; const findOld = id => { for (const w of [...weeks].reverse()) 
 const detail = (j, s) => { const f = `jobs/${j.id}.md`; out(f, [`# ${j.title}`, '',
   `- id: ${j.id}`, `- 公司: ${j.company}${j.business_unit.length ? `（${j.business_unit.join('、')}）` : ''}`, `- job_type: ${j.job_type}`, `- 类别: ${j.category}`, `- region: ${j.region || '国内'}${j.overseas_cities ? `（另含海外城市：${j.overseas_cities.join('、')}）` : ''}`,
   `- 城市: ${j.city.join('、') || '未知'}${j.city_note ? '（' + j.city_note + '）' : ''}`, ...(j.source === 'manual-browser' ? [`- 来源: ${manualTag(j.company_slug) || '手动更新'}`] : []), `- status: ${s.status}${s.status === 'removed' ? `（${s.removed_at} 起未在官网出现，勿投）` : ''}`,
-  `- 届别 grad_year: ${j.grad_year ? j.grad_year.join('、') + '届' : '未注明'}`, ...(j.job_type === '实习' ? [`- 实习时长 intern_duration: ${j.intern_duration || '未注明'}`] : []), `- 首次出现: ${s.first_seen}　最近出现: ${s.last_seen || '-'}`, `- 截止: ${j.deadline || '以官网为准'}`,
-  `- 投递: ${j.apply_url}${(linkStatus[j.id]?.status) === 'invalid' ? '（❌疑似下架：官网详情接口查不到该岗位）' : (linkStatus[j.id]?.status === 'unverified' || j.link_status === 'unverified') ? '（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）' : ''}`, '',
+  `- 届别 grad_year: ${j.grad_year ? j.grad_year.join('、') + '届' : '未注明'}`, ...(j.job_type === '实习' ? [`- 实习时长 intern_duration: ${j.intern_duration || '未注明'}`] : []), `- 首次出现: ${s.first_seen}　最近出现: ${s.last_seen || '-'}`, `- 最近抓取: ${j.fetched || '未知'}${j.maybe_gone ? `（⏳可能已下架：已 ${j.fetch_age ?? '?'} 天没从官网重新抓到，投递前请到官网确认）` : ''}`, `- 截止: ${j.deadline || '以官网为准'}`,
+  `- 投递: ${j.apply_url}${j.link_status === 'invalid' ? '（❌疑似下架：官网查不到该岗位）' : j.link_status === 'unverified' ? '（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）' : ''}`, '',
   '## 岗位要求', '', String(j.requirements || (j.source === 'manual-browser' ? '（手动抄录未含岗位要求，请点上面的投递链接到官网查看）' : '（官网未提供）')).trim(), '', ...(j.entry_requirements ? ['## 所属方向通用要求', '', '（官网该子岗位未单列要求，以下为所属方向的通用要求）', '', String(j.entry_requirements).trim(), ''] : []), `[总目录](${rel(f, 'llms.txt')})`, ''].join('\n'), 1); };
 for (const j of jobs) detail(j, st.jobs[j.id]);
 for (const [id, s] of Object.entries(st.jobs)) if (s.status === 'removed') { const j = findOld(id); if (j) detail(j, s); }
@@ -195,9 +202,9 @@ index.jobs = written.filter(w => w.path.startsWith('jobs/')).length;
 // llms.txt（总目录，~3KB）
 const cnt = (co, ts, cs) => index.slices.filter(s => s.company === co && s.job_type === ts && s.category === cs).length;
 const cityCounts = Object.entries(cityAll).map(([k, v]) => [k, cityName(k), v.l.length]).sort((a, b) => b[2] - a[2]);
-const llms = [`# 大厂非技术岗 校招·实习 JD 库`, '',
+const llms = [`# 大厂、互联网公司和 AI 初创的校招与实习非技术岗 JD 库`, '',
   `> 每周一由 GitHub Actions 预计算的静态切片。数据周 ${cur}，${today} 生成。在招 ${jobs.length}，本周新增 ${jobs.filter(j => j.is_new).length}，下架 ${removed.length}。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。`, '',
-  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。', '4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。', '5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。', '6. 只指定公司、没给城市：先读 companies/{company}.md（公司总览，含各城市切片链接），不要读 index.json。', '7. 只给了届别：读 by-year/{yy}/{campus|intern}-{category}.md（只含官网明确写了届别的岗位）。', '7a. 详情页若有「所属方向通用要求」一节：那是官网该子岗位所属方向的通用要求（entry_requirements），不是本岗位专属要求，引用时要这样标明。', '7b. 公司后标了「手动更新 · 最后更新 YYYY-MM-DD」的（如拼多多）：超过 14 天没更新要提醒用户数据可能已过期；岗位要求为空时引导用户点官网链接自己看。', '7c. 只要海外岗或只要国内岗：读 by-region/{overseas|domestic}/{campus|intern}-{category}.md；列表里标 🌏海外 的是海外岗（region=海外，港澳台算国内）。', '8. 城市写到区县（如「深圳南山」「北京海淀」）按所属城市 slug 读；city 只列前 20，其余见 index.json 的 by_city；都不在的城市/公司就是库里没有，直接说没有，不要编。', '',
+  '## 怎么读', '1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。', '2. 列表里每行有 [详情] 链接 → jobs/{id}.md（含 job_type、status、岗位要求、投递链接）。', '3. 不要猜路径；路径不在下面或 index.json 里就是没有岗位。', '4. by-city 文件多页时，第 1 页开头有「按公司」分布及各公司切片链接：先按用户偏好的公司缩小，或只读前 1～2 页并告诉用户总数。', '4b. 岗位名后的〔27届 · ≥3个月，每周≥4天〕是从官网字段或要求正文抽取的届别/实习时长，未标即未注明；仅作初筛，详情页核对。', '5. 用户同时要校招和实习、多个城市时，每个组合各读一个文件（例：北京+上海 × 校招+实习 = 4 个文件）。', '6. 只指定公司、没给城市：先读 companies/{company}.md（公司总览，含各城市切片链接），不要读 index.json。', '7. 只给了届别：读 by-year/{yy}/{campus|intern}-{category}.md（只含官网明确写了届别的岗位）。', '7a. 详情页若有「所属方向通用要求」一节：那是官网该子岗位所属方向的通用要求（entry_requirements），不是本岗位专属要求，引用时要这样标明。', '7b. 公司后标了「手动更新 · 最后更新 YYYY-MM-DD」的（如拼多多）：超过 14 天没更新要提醒用户数据可能已过期；岗位要求为空时引导用户点官网链接自己看。', '7d. 每行「抓取」列=最近一次从官网抓到的日期；标 ⏳可能已下架 的是沿用数据（全网/初创/手动来源）超过 14 天没重新抓到，可能已关闭，不算新增，推荐时要提醒用户先到官网确认。', '7c. 只要海外岗或只要国内岗：读 by-region/{overseas|domestic}/{campus|intern}-{category}.md；列表里标 🌏海外 的是海外岗（region=海外，港澳台算国内）。', '8. 城市写到区县（如「深圳南山」「北京海淀」）按所属城市 slug 读；city 只列前 20，其余见 index.json 的 by_city；都不在的城市/公司就是库里没有，直接说没有，不要编。', '',
   '## 路径模板', '- slices/{company}/{campus|intern}/{category}/{city}.md', '- by-city/{city}/{campus|intern}-{category}.md', `- changes/${cur}.md（本周新增/下架）`, '- companies/{company}.md（公司总览）', '- by-year/{yy}/{campus|intern}-{category}.md（按届别，yy 如 27、28）', '- by-region/{domestic|overseas}/{campus|intern}-{category}.md（region 筛选）', '- jobs/{company}-{postId}.md', '- index.json（全部文件清单与计数）', '',
   '## 枚举', `- category: ai-product=AI产品, product=产品, ops=运营, business=商务, marketing=市场, sales=销售, design=设计, corporate=职能, pm=项目管理, analysis=分析, planning=策划, supply=供应链, other=其他`, '- job_type: campus=校招, intern=实习', `- region: domestic=国内(${index.region_counts.domestic}), overseas=海外(${index.region_counts.overseas})`,
   `- city（前 20）: ${cityCounts.slice(0, 20).map(([k, n, c]) => `${k}=${n}(${c})`).join(', ')}`, '',

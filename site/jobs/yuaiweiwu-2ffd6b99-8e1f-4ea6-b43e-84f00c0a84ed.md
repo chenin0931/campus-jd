@@ -8,7 +8,8 @@
 - 城市: 西安
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/campus-recruitment/yuaiweiwu/145290#/job/2ffd6b99-8e1f-4ea6-b43e-84f00c0a84ed（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 

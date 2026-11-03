@@ -8,7 +8,8 @@
 - 城市: 深圳
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/GRADUATE/faba69b8-0b55-413e-bc5e-e2998da3e085
 

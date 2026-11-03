@@ -9,7 +9,8 @@
 - status: active
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/INTERN/4a1a40ba-31e6-4eaf-8b2f-543e25ba529a
 

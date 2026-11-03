@@ -1,20 +1,20 @@
 # 其他城市 · 实习 · 商务 · 全部公司（17 个岗位）
 
-数据周 2026-W44，生成 2026-10-27（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网详情接口查不到，请到官网核实。截止日期以官网为准。
+数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
 按公司：[华为 8](../../slices/huawei/intern/business/other.md) · [腾讯 6](../../slices/tencent/intern/business/other.md) · [滴滴 1](../../slices/didi/intern/business/other.md) · [理想汽车 1](../../slices/lixiang/intern/business/other.md) · [腾讯音乐 1](../../slices/tme/intern/business/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
-| 公司 | 岗位 | 城市 | 首次出现 | 详情 |
-|---|---|---|---|---|
-| 滴滴 | 战略部-战略实习生（1） ⚠️链接待核 | 城市见官网 | 2026-10-27 | [详情](../../jobs/didi-33235e85-c03e-452e-a05b-ee67b45666e9.md) |
-| 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都 等 30 城 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
-| 理想汽车 | 海外渠道实习生 ⚠️链接待核 | 北京顺义区 | 2026-10-27 | [详情](../../jobs/lixiang-158158.md) |
-| 腾讯 | Business Development Intern 107011 🌏海外 | Malaysia-Kuala Lumpur | 2026-10-27 | [详情](../../jobs/tencent-107011.md) |
-| 腾讯 | Business Development Intern 107012 🌏海外 | Thailand-Bangkok | 2026-10-27 | [详情](../../jobs/tencent-107012.md) |
-| 腾讯 | Business Development Intern, KOL Endorsements & Partnerships 107822 🌏海外 | France-Paris | 2026-10-27 | [详情](../../jobs/tencent-107822.md) |
-| 腾讯 | TCI KR_Business Development Intern 107790 🌏海外 | S.Korea-Seoul | 2026-10-27 | [详情](../../jobs/tencent-107790.md) |
-| 腾讯 | Tencent Cloud - Business Development Interns (Malaysia) 107835 🌏海外 | Malaysia-Kuala Lumpur | 2026-10-27 | [详情](../../jobs/tencent-107835.md) |
-| 腾讯 | Tencent Cloud Business Development Intern - United States 108152 🌏海外 | US-California | 2026-10-27 | [详情](../../jobs/tencent-108152.md) |
-| 腾讯音乐 | 商务拓展 ⚠️链接待核 | 深圳市/北京市/广州 | 2026-10-27 | [详情](../../jobs/tme-14402.md) |
+| 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
+|---|---|---|---|---|---|
+| 滴滴 | 战略部-战略实习生（1） ⚠️链接待核 | 城市见官网 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-33235e85-c03e-452e-a05b-ee67b45666e9.md) |
+| 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都 等 30 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
+| 理想汽车 | 海外渠道实习生 ⚠️链接待核 | 北京顺义区 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-158158.md) |
+| 腾讯 | Business Development Intern 107011 🌏海外 | Malaysia-Kuala Lumpur | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107011.md) |
+| 腾讯 | Business Development Intern 107012 🌏海外 | Thailand-Bangkok | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107012.md) |
+| 腾讯 | Business Development Intern, KOL Endorsements & Partnerships 107822 🌏海外 | France-Paris | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107822.md) |
+| 腾讯 | TCI KR_Business Development Intern 107790 🌏海外 | S.Korea-Seoul | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107790.md) |
+| 腾讯 | Tencent Cloud - Business Development Interns (Malaysia) 107835 🌏海外 | Malaysia-Kuala Lumpur | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107835.md) |
+| 腾讯 | Tencent Cloud Business Development Intern - United States 108152 🌏海外 | US-California | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-108152.md) |
+| 腾讯音乐 | 商务拓展 ⚠️链接待核 | 深圳市/北京市/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tme-14402.md) |
 
 [总目录](../../llms.txt)

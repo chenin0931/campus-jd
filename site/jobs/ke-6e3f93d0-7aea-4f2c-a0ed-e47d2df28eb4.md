@@ -9,7 +9,8 @@
 - status: active
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: ≥9个月
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://campus.ke.com/intern/detail?jobAdId=6e3f93d0-7aea-4f2c-a0ed-e47d2df28eb4（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 

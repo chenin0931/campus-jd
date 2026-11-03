@@ -151,8 +151,8 @@ if (a.probe) (async () => { const seen = new Set();
 else (async () => {
   let i = 0; const now = new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 19) + '+08:00', today = a.today || now.slice(0, 10), dry = !!a['dry-run'];
   // 人工核验条目：有效期内原样保留（不联网、不重置）；超期 → 待核（保留 verified_at 供追溯）
-  const manualStep = t => { const e = res[t.id]; if (e?.code !== 'manual-browser-verified') return null;
-    return manualFresh(e, today) ? e : { status: 'unverified', code: 'manual-verify-expired', verified_at: e.verified_at, checked_at: now }; };
+  const manualStep = t => { const e = res[t.id]; if (!e?.code?.startsWith('manual-browser')) return null;
+    return manualFresh({ ...e, status: 'ok', code: 'manual-browser-verified' }, today) ? e : { status: 'unverified', code: 'manual-verify-expired', verified_at: e.verified_at, checked_at: now }; };
   await Promise.all(Array.from({ length: N }, async () => { while (i < todo.length) { const t = todo[i++]; const m = manualStep(t);
     if (m) res[t.id] = m; else if (!dry) res[t.id] = { ...(await check(t.url, t.slug)), checked_at: now }; } }));
   if (dry) { const sum = {}; for (const t of todo) { const k = t.slug + ':' + (res[t.id]?.status || 'none') + ':' + (res[t.id]?.code || '-'); sum[k] = (sum[k] || 0) + 1; }

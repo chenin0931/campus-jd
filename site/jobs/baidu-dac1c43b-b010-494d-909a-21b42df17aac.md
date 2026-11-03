@@ -8,7 +8,8 @@
 - 城市: 北京
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/GRADUATE/dac1c43b-b010-494d-909a-21b42df17aac
 

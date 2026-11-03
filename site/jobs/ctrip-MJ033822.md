@@ -9,7 +9,8 @@
 - status: active
 - 届别 grad_year: 2027、2028届
 - 实习时长 intern_duration: ≥3个月，每周≥5天
-- 首次出现: 2026-10-27　最近出现: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://careers.ctrip.com/#/experienced/job-detail/MJ033822
 
