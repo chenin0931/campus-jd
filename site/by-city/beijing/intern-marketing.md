@@ -1,12 +1,12 @@
-# 北京 · 实习 · 市场 · 全部公司（147 个岗位）（第 1/5 页）
+# 北京 · 实习 · 市场 · 全部公司（146 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 42](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 16](../../slices/didi/intern/marketing/beijing.md) · [网易 16](../../slices/netease/intern/marketing/beijing.md) · [百度 8](../../slices/baidu/intern/marketing/beijing.md) · [爱奇艺 8](../../slices/iqiyi/intern/marketing/beijing.md) · [小米 8](../../slices/xiaomi/intern/marketing/beijing.md) · [美团 7](../../slices/meituan/intern/marketing/beijing.md) · [面壁智能 5](../../slices/modelbest/intern/marketing/beijing.md) · [腾讯 5](../../slices/tencent/intern/marketing/beijing.md) · [贝壳 4](../../slices/ke/intern/marketing/beijing.md) · [千寻智能 4](../../slices/spiritai/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [理想汽车 3](../../slices/lixiang/intern/marketing/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/marketing/beijing.md) · [腾讯音乐 3](../../slices/tme/intern/marketing/beijing.md) · [京东 2](../../slices/jd/intern/marketing/beijing.md) · [MiniMax 2](../../slices/minimax/intern/marketing/beijing.md) · [小鹏汽车 2](../../slices/xpeng/intern/marketing/beijing.md) · [360 1](../../slices/360/intern/marketing/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/marketing/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/marketing/beijing.md) · [生数科技 1](../../slices/shengshu/intern/marketing/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/marketing/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 42](../../slices/bytedance/intern/marketing/beijing.md) · [滴滴 16](../../slices/didi/intern/marketing/beijing.md) · [网易 16](../../slices/netease/intern/marketing/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/marketing/beijing.md) · [百度 8](../../slices/baidu/intern/marketing/beijing.md) · [小米 8](../../slices/xiaomi/intern/marketing/beijing.md) · [美团 7](../../slices/meituan/intern/marketing/beijing.md) · [面壁智能 5](../../slices/modelbest/intern/marketing/beijing.md) · [腾讯 5](../../slices/tencent/intern/marketing/beijing.md) · [贝壳 4](../../slices/ke/intern/marketing/beijing.md) · [千寻智能 4](../../slices/spiritai/intern/marketing/beijing.md) · [快手 3](../../slices/kuaishou/intern/marketing/beijing.md) · [理想汽车 3](../../slices/lixiang/intern/marketing/beijing.md) · [京东 2](../../slices/jd/intern/marketing/beijing.md) · [MiniMax 2](../../slices/minimax/intern/marketing/beijing.md) · [生数科技 2](../../slices/shengshu/intern/marketing/beijing.md) · [小鹏汽车 2](../../slices/xpeng/intern/marketing/beijing.md) · [360 1](../../slices/360/intern/marketing/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/marketing/beijing.md) · [Manus 1](../../slices/manus/intern/marketing/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/marketing/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/marketing/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/marketing/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/marketing/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 360 | 市场实习生（北京）-4575(J12073) 〔≥3个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-9fecb2b1-d1e9-4d48-a3f1-82e70e10dfa1.md) |
+| 360 | 市场实习生（北京）-4575(J12073) 〔≥3个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-9fecb2b1-d1e9-4d48-a3f1-82e70e10dfa1.md) |
 | 百度 | 百度健康品牌市场实习生（J106332） 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-f27bc9f8-8f4c-4d3b-aa84-f05e66d17147.md) |
 | 百度 | 百度智能云PR实习生（J86498） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-1588c6fd-cb5f-4ea7-b82a-1bcec5da17d3.md) |
 | 百度 | 短漫剧发行实习生（J106334） 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-6e46f237-072d-46bc-87f3-f01415771cec.md) |
@@ -37,6 +37,5 @@
 | 字节跳动 | 市场营销实习生（消费行业）-飞书商业化 〔≥6个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7339819822639171890.md) |
 | 字节跳动 | 市场与品牌营销实习生（即梦AI） - 剪映CapCut 〔≥5个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7440138086706907410.md) |
 | 字节跳动 | 投放增长实习生-TikTok 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7660012825197726005.md) |
-| 字节跳动 | 行业增长策略实习生-飞书 〔≥6个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7376523269853743370.md) |
 
 [下一页](intern-marketing-p2.md) · [总目录](../../llms.txt)

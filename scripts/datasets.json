@@ -1,0 +1,106 @@
+{
+  "_note": "全网/初创周跑抓取配置（scripts/fetch_datasets.js）。初创与微博/Shopee/知乎沿用 startups.json 的 feishu/moka 段；这里放全网其余公司和非飞书/Moka 的初创。type=feishu|moka 同 startups.json 字段；其余 type 见 fetchers/lib/others.js。file 缺省 = slug（大厂同公司的增量写 <slug>@全网）。manual=只能人工录入，抓取器不碰，build 沿用旧文件。",
+  "全网": [
+    {
+      "slug": "360",
+      "type": "zhiye",
+      "company": "360",
+      "host": "360campus.zhiye.com",
+      "portalId": "5b8c86d8-430d-4e3e-a429-18ecda10a55c"
+    },
+    {
+      "slug": "iflytek",
+      "type": "zhiye",
+      "company": "科大讯飞",
+      "host": "iflytek.zhiye.com",
+      "portalId": "6e2235dc-4b88-4698-b96a-5a73c705d8db"
+    },
+    {
+      "slug": "ke",
+      "type": "zhiye",
+      "company": "贝壳",
+      "host": "campus.ke.com",
+      "portalId": "605d7a6c-833c-4f3c-98aa-c15b301d8721"
+    },
+    {
+      "slug": "honor",
+      "type": "honor",
+      "company": "荣耀",
+      "suite": "SU60eea919bef57c1023f6fe78"
+    },
+    {
+      "slug": "iqiyi",
+      "type": "feishu",
+      "company": "爱奇艺",
+      "domain": "https://careers.iqiyi.com",
+      "websitePath": "intern",
+      "mode": "all"
+    },
+    {
+      "slug": "minimax",
+      "type": "feishu",
+      "company": "MiniMax",
+      "domain": "https://vrfi1sk8a0.jobs.feishu.cn",
+      "websitePath": "379481",
+      "mode": "all"
+    },
+    {
+      "slug": "nio",
+      "type": "feishu",
+      "company": "蔚来",
+      "domain": "https://nio.jobs.feishu.cn",
+      "websitePath": "campus",
+      "mode": "all"
+    },
+    {
+      "slug": "sensetime",
+      "type": "feishu",
+      "company": "商汤科技",
+      "domain": "https://sensetime.jobs.feishu.cn",
+      "websitePath": "edu",
+      "mode": "all"
+    },
+    {
+      "slug": "xpeng",
+      "type": "feishu",
+      "company": "小鹏汽车",
+      "domain": "https://xiaopeng.jobs.feishu.cn",
+      "websitePath": "campus",
+      "mode": "all"
+    },
+    {
+      "slug": "tme",
+      "type": "tme",
+      "company": "腾讯音乐"
+    },
+    {
+      "slug": "lixiang",
+      "type": "lixiang",
+      "company": "理想汽车"
+    },
+    {
+      "slug": "lenovo",
+      "type": "lenovo",
+      "company": "联想"
+    },
+    {
+      "slug": "jd",
+      "file": "jd@全网",
+      "type": "jdx",
+      "company": "京东"
+    }
+  ],
+  "初创": [
+    {
+      "slug": "manus",
+      "type": "manus",
+      "company": "Manus"
+    },
+    {
+      "slug": "galaxea",
+      "type": "manual",
+      "reason": "星海图无可用公开接口，manual-browser 人工录入"
+    }
+  ],
+  "_manual_note": "拼多多（大厂 pinduoduo.json，source=manual-browser）不在本配置：官网无公开岗位接口，继续人工录入；见 README「人工维护」"
+}

@@ -10,7 +10,7 @@
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: ≥3个月
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 最近抓取: 2026-11-03
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/campus-recruitment/yinhetongyong/165930#/job/5ef13984-9f50-49ac-bbda-72c174dadea2（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 

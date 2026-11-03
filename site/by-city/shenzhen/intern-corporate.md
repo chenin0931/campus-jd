@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 职能 · 全部公司（59 个岗位）（第 1/2 页）
+# 深圳 · 实习 · 职能 · 全部公司（60 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 18](../../slices/bytedance/intern/corporate/shenzhen.md) · [腾讯 18](../../slices/tencent/intern/corporate/shenzhen.md) · [腾讯音乐 6](../../slices/tme/intern/corporate/shenzhen.md) · [自变量机器人 4](../../slices/x2robot/intern/corporate/shenzhen.md) · [华为 3](../../slices/huawei/intern/corporate/shenzhen.md) · [商汤科技 3](../../slices/sensetime/intern/corporate/shenzhen.md) · [京东 2](../../slices/jd/intern/corporate/shenzhen.md) · [美团 2](../../slices/meituan/intern/corporate/shenzhen.md) · [逐际动力 1](../../slices/limx/intern/corporate/shenzhen.md) · [理想汽车 1](../../slices/lixiang/intern/corporate/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 18](../../slices/bytedance/intern/corporate/shenzhen.md) · [腾讯 18](../../slices/tencent/intern/corporate/shenzhen.md) · [腾讯音乐 7](../../slices/tme/intern/corporate/shenzhen.md) · [自变量机器人 5](../../slices/x2robot/intern/corporate/shenzhen.md) · [华为 3](../../slices/huawei/intern/corporate/shenzhen.md) · [京东 2](../../slices/jd/intern/corporate/shenzhen.md) · [美团 2](../../slices/meituan/intern/corporate/shenzhen.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/shenzhen.md) · [逐际动力 1](../../slices/limx/intern/corporate/shenzhen.md) · [理想汽车 1](../../slices/lixiang/intern/corporate/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -27,13 +27,12 @@
 | 华为 | 涉外律师 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-31334.md) |
 | 京东 | 风控 〔27届〕 | 北京/天津/深圳/宿迁 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4972.md) |
 | 京东 | 人力资源（专业方向） 〔27届〕 | 上海/北京/济南/广州/深圳/宿迁/苏州/石家庄/郑州/海口/武汉/长沙 等 15 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4964.md) |
-| 逐际动力 | 法务实习生 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/limx-7543097982943054119.md) |
-| 理想汽车 | 间接采购实习生（深圳） 〔27届 · 每周≥3天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-07961.md) |
+| 逐际动力 | 法务实习生 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/limx-7543097982943054119.md) |
+| 理想汽车 | 间接采购实习生（深圳） 〔27届 · 每周≥3天〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-07961.md) |
 | 美团 | HR招聘实习生 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4611399961.md) |
 | 美团 | Keeta-HR实习生（招聘） 〔≥3个月〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-2955109555.md) |
-| 商汤科技 | 财务实习生 〔≥6个月〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7699070470679284010.md) |
-| 商汤科技 | 雇主品牌设计实习生 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7669625106155604265.md) |
-| 商汤科技 | 校招HR实习生 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7665659021178063142.md) |
+| 商汤科技 | 财务实习生 〔≥6个月〕 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7699070470679284010.md) |
+| 商汤科技 | 校招HR实习生 〔≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7665659021178063142.md) |
 | 腾讯 | 财经线培训生-分析类 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1226671919517307904.md) |
 | 腾讯 | 财经线培训生-专业类 | 深圳/香港 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1226671880397034496.md) |
 | 腾讯 | 采购商务管理（2个团队） | 深圳 | 2026-10-27 | 2026-10-27 | [1](../../jobs/tencent-1226585684903864320.md) [2](../../jobs/tencent-1237050782143247360.md) |
@@ -47,5 +46,6 @@
 | 腾讯 | AI-HR培训生（创意方向） | 深圳/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938816.md) |
 | 腾讯 | AI-HR培训生（分析方向） | 深圳/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938817.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 深圳/北京/上海/广州/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938819.md) |
+| 腾讯 | AI-HR培训生（技术&应用方向） | 深圳/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938818.md) |
 
 [下一页](intern-corporate-p2.md) · [总目录](../../llms.txt)

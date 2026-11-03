@@ -1,8 +1,8 @@
-# 北京 · 实习 · 商务 · 全部公司（82 个岗位）（第 2/3 页）
+# 北京 · 实习 · 商务 · 全部公司（83 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 31](../../slices/bytedance/intern/business/beijing.md) · [百度 10](../../slices/baidu/intern/business/beijing.md) · [网易 7](../../slices/netease/intern/business/beijing.md) · [滴滴 5](../../slices/didi/intern/business/beijing.md) · [小米 5](../../slices/xiaomi/intern/business/beijing.md) · [京东 4](../../slices/jd/intern/business/beijing.md) · [腾讯 4](../../slices/tencent/intern/business/beijing.md) · [快手 3](../../slices/kuaishou/intern/business/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/business/beijing.md) · [360 2](../../slices/360/intern/business/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/business/beijing.md) · [银河通用 1](../../slices/galbot/intern/business/beijing.md) · [华为 1](../../slices/huawei/intern/business/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/business/beijing.md) · [美团 1](../../slices/meituan/intern/business/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/business/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 31](../../slices/bytedance/intern/business/beijing.md) · [百度 10](../../slices/baidu/intern/business/beijing.md) · [网易 7](../../slices/netease/intern/business/beijing.md) · [滴滴 5](../../slices/didi/intern/business/beijing.md) · [小米 5](../../slices/xiaomi/intern/business/beijing.md) · [京东 4](../../slices/jd/intern/business/beijing.md) · [腾讯 4](../../slices/tencent/intern/business/beijing.md) · [快手 3](../../slices/kuaishou/intern/business/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/business/beijing.md) · [360 2](../../slices/360/intern/business/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/business/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/business/beijing.md) · [银河通用 1](../../slices/galbot/intern/business/beijing.md) · [华为 1](../../slices/huawei/intern/business/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/business/beijing.md) · [美团 1](../../slices/meituan/intern/business/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | 滴滴 | 战略部-战略实习生（2个团队） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/didi-a763e0cc-92d8-4823-9b8d-4471f4adfd91.md) [2](../../jobs/didi-4f9518c5-f1b9-46c2-82c0-4286cfc810d4.md) |
 | 滴滴 | 战略合作部-战略实习生（1） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-3464aec7-c662-48e7-bd1e-92710bd6890d.md) |
 | 滴滴 | 战略实习生-战略合作部-MJ020614 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-f8cc5ce7-db88-452d-8cb3-6aff2e483231.md) |
-| 银河通用 | 战略投资部实习生 〔≥3个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/galbot-5ef13984-9f50-49ac-bbda-72c174dadea2.md) |
+| 银河通用 | 战略投资部实习生 〔≥3个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/galbot-5ef13984-9f50-49ac-bbda-72c174dadea2.md) |
 | 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都 等 30 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
 | 京东 | 商务拓展 〔27届〕 | 北京/广州/南宁/杭州/兰州/重庆 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4952.md) |
 | 京东 | 商务拓展（金融） 〔27届〕 | 北京/天津 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6744.md) |
@@ -25,13 +25,13 @@
 | 快手 | 【留用实习】海外战略分析师 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11410.md) |
 | 快手 | 【留用实习】商务拓展专员 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11488.md) |
 | 快手 | 【留用实习】商务拓展专员-音乐方向 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-12491.md) |
-| 理想汽车 | 战略投资实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-209193.md) |
+| 理想汽车 | 战略投资实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-209193.md) |
 | 美团 | 医药健康-战略规划实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3716178859.md) |
-| 面壁智能 | 产业战略与投资实习生 〔≥3个月，每周≥3天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/modelbest-7699006832242051382.md) |
-| 面壁智能 | 基础模型战略实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/modelbest-7646697491979815206.md) |
-| 月之暗面 | 全球校园AI技术拓展实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-f3911361-2265-41e6-9ca6-7baf6d8a2a86.md) |
-| 月之暗面 | AI商务拓展实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-c285bd12-cf03-44f6-9e7a-1d4a24d79f77.md) |
-| 月之暗面 | AI战略实习生 〔≥6个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-728d3859-c92d-4c24-ae79-0839829fbdbb.md) |
+| 面壁智能 | 产业战略与投资实习生 〔≥3个月，每周≥3天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/modelbest-7699006832242051382.md) |
+| 面壁智能 | 基础模型战略实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/modelbest-7646697491979815206.md) |
+| 月之暗面 | 全球校园AI技术拓展实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-f3911361-2265-41e6-9ca6-7baf6d8a2a86.md) |
+| 月之暗面 | AI商务拓展实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-c285bd12-cf03-44f6-9e7a-1d4a24d79f77.md) |
+| 月之暗面 | AI战略实习生 〔≥6个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-728d3859-c92d-4c24-ae79-0839829fbdbb.md) |
 | 网易 | 工作室商务实习生（云上工作室） 〔27/28届 · ≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78313.md) |
 | 网易 | 商业化视频策划实习生（网易文创谈心社） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-74897.md) |
 | 网易 | 投资实习生（AI与具身智能方向） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-75374.md) |
@@ -43,6 +43,7 @@
 | 腾讯 | 投资分析 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1155545119882220544.md) |
 | 腾讯 | 投资分析 | 深圳/北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1226875884628486144.md) |
 | 腾讯 | 投资分析(技术方向) | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1155545119882220545.md) |
-| 腾讯音乐 | 哆咪嗦工作室音乐内容拓展及推广实习生 〔≥6个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tme-14631.md) |
+| 腾讯音乐 | 哆咪嗦工作室音乐内容拓展及推广实习生 〔≥6个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14631.md) |
+| 腾讯音乐 | 商务拓展 ⚠️链接待核 | 深圳/北京/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14402.md) |
 
 [上一页](intern-business.md) · [下一页](intern-business-p3.md) · [总目录](../../llms.txt)

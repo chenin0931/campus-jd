@@ -2,7 +2,7 @@
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[网易 4](../../slices/netease/intern/business/guangzhou.md) · [京东 2](../../slices/jd/intern/business/guangzhou.md) · [小红书 2](../../slices/xiaohongshu/intern/business/guangzhou.md) · [华为 1](../../slices/huawei/intern/business/guangzhou.md) · [腾讯 1](../../slices/tencent/intern/business/guangzhou.md) · [小鹏汽车 1](../../slices/xpeng/intern/business/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 4](../../slices/netease/intern/business/guangzhou.md) · [京东 2](../../slices/jd/intern/business/guangzhou.md) · [小红书 2](../../slices/xiaohongshu/intern/business/guangzhou.md) · [华为 1](../../slices/huawei/intern/business/guangzhou.md) · [腾讯 1](../../slices/tencent/intern/business/guangzhou.md) · [腾讯音乐 1](../../slices/tme/intern/business/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | 网易 | 内容拓展实习生 〔≥6个月〕 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-77971.md) |
 | 网易 | 音乐商务实习生（AI音乐方向） 〔27/28届 · ≥6个月，每周≥4天〕 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78396.md) |
 | 腾讯 | 商务拓展 | 深圳/北京/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1200889496565214209.md) |
+| 腾讯音乐 | 商务拓展 ⚠️链接待核 | 深圳/北京/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14402.md) |
 | 小红书 | 小红书商业化手机数码CBD实习生 〔≥6个月〕 | 广州/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22825.md) |
 | 小红书 | 小红书商业化CBD实习生 〔≥6个月，每周≥5天〕 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22819.md) |
-| 小鹏汽车 | 平台合作实习生 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xpeng-7668448288744016174.md) |
 
 [总目录](../../llms.txt)

@@ -5,7 +5,7 @@
 没列出的 类型×类别 组合就是没有岗位，不要再猜路径。
 
 - 实习·AI产品（1）：[北京 1](../slices/manus/intern/ai-product/beijing.md)
-- 实习·运营（1）：[北京 1](../slices/manus/intern/ops/beijing.md)
+- 实习·市场（1）：[北京 1](../slices/manus/intern/marketing/beijing.md)
 - 实习·设计（1）：[北京 1](../slices/manus/intern/design/beijing.md)
 
 [总目录](../llms.txt)

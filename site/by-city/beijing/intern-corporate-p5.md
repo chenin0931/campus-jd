@@ -1,18 +1,19 @@
-# 北京 · 实习 · 职能 · 全部公司（289 个岗位）（第 5/8 页）
+# 北京 · 实习 · 职能 · 全部公司（293 个岗位）（第 5/8 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [360 4](../../slices/360/intern/corporate/beijing.md) · [生数科技 3](../../slices/shengshu/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [月之暗面 2](../../slices/moonshot/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/corporate/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [360 5](../../slices/360/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [面壁智能 3](../../slices/modelbest/intern/corporate/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/beijing.md) · [生数科技 2](../../slices/shengshu/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 滴滴 | 专车事业部-HRBP实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-f1b19458-9553-4dbf-891c-e3078e21e597.md) |
 | 滴滴 | 资金部-资金实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-506b4570-9628-4984-a936-1db03ffaea12.md) |
 | 滴滴 | 总部招聘-招聘实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-64ba3f59-385c-431d-b2dc-d2707027a03f.md) |
 | 滴滴 | 总能企技HR-HRBP实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-7db6a753-9cb4-4da1-94fd-05aedc947893.md) |
 | 滴滴 | 总能企技HR-HRBP实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-f4354b27-b547-4959-be60-edef51f7e927.md) |
 | 滴滴 | MPT-HRBP实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-5a6b9c47-6db6-4ff5-9a57-d1e33350fc6f.md) |
-| 爱奇艺 | 人力资源实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7699032925849405734.md) |
-| 爱奇艺 | 人力资源信息化实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7389955917733955859.md) |
+| 爱奇艺 | 平面设计实习生（人力资源部） ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/iqiyi-7560626873295391012.md) |
+| 爱奇艺 | 人力资源信息化实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7389955917733955859.md) |
 | 京东 | 财务结算 〔26届〕 | 上海/北京/济南/广州/宿迁/郑州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-5853.md) |
 | 京东 | 法务 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4968.md) |
 | 京东 | 法务支持 〔26/27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9183.md) |
@@ -26,8 +27,8 @@
 | 京东 | 行政 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4984.md) |
 | 京东 | 招标采购 〔27届〕 | 上海/北京/广州/苏州/杭州/武汉/西安 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4988.md) |
 | 京东 | 资金管理 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4982.md) |
-| 贝壳 | 法务专员（反垄断合规方向）【实习】(J72344) 〔≥9个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/ke-d8715af6-8495-4955-a159-de469cb8d28b.md) |
-| 贝壳 | 招聘与人才策略【实习】(J72902) 〔≥9个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/ke-99ee907e-ce95-42ba-996e-311b36d51a79.md) |
+| 贝壳 | 法务专员（反垄断合规方向）【实习】(J72344) 〔≥9个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/ke-d8715af6-8495-4955-a159-de469cb8d28b.md) |
+| 贝壳 | 招聘与人才策略【实习】(J72902) 〔≥9个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/ke-99ee907e-ce95-42ba-996e-311b36d51a79.md) |
 | 快手 | 【留用实习】采购专员 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11296.md) |
 | 快手 | 【留用实习】法务专员-知识产权方向 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13943.md) |
 | 快手 | 【留用实习】HR-生态用工COE | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-12498.md) |
@@ -35,14 +36,13 @@
 | 快手 | 【留用实习】HR-AI超级个体方向 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-12371.md) |
 | 快手 | 【留用实习】HR-BP类 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11270.md) |
 | 快手 | 【暑期实习】人力资源-HRBP | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-6268.md) |
-| 理想汽车 | 财务实习生-2027届 〔27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-132335.md) |
-| 理想汽车 | 采购实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-167673.md) |
-| 理想汽车 | 间接采购实习生 〔27届 · 每周≥3天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-234064.md) |
-| 理想汽车 | 间接采购实习生（北京） 〔27届 · 每周≥3天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-222330.md) |
-| 理想汽车 | 招聘实习生（可转正） 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-28191.md) |
-| 理想汽车 | HR招聘实习生-软件研发 〔27/28届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-230050.md) |
-| 理想汽车 | HRBP实习生（职能领域） 〔27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-238770.md) |
+| 理想汽车 | 财务实习生-2027届 〔27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-132335.md) |
+| 理想汽车 | 采购实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-167673.md) |
+| 理想汽车 | 间接采购实习生 〔27届 · 每周≥3天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-234064.md) |
+| 理想汽车 | 间接采购实习生（北京） 〔27届 · 每周≥3天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-222330.md) |
+| 理想汽车 | HR实习生（HR/HRBP）(可转正) 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-28191.md) |
+| 理想汽车 | HR招聘实习生-软件研发 〔27/28届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-230050.md) |
+| 理想汽车 | HRBP实习生（职能领域） 〔27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-238770.md) |
 | 美团 | 海外招聘实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4184803526.md) |
-| 美团 | 技术招聘实习生（高招方向） 〔27/29届 · ≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4827552583.md) |
 
 [上一页](intern-corporate-p4.md) · [下一页](intern-corporate-p6.md) · [总目录](../../llms.txt)

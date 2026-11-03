@@ -4,6 +4,6 @@
 
 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|
-| 【2027 Campus Recruitment】Business Development Performance Specialist 🌏海外 | 奥斯陆 | 2026-10-27 | 2026-10-27 | [详情](../../../../jobs/xpeng-7694273954051033398.md) |
+| 【2027 Campus Recruitment】Business Development Performance Specialist 🌏海外 | 奥斯陆 | 2026-10-27 | 2026-11-03 | [详情](../../../../jobs/xpeng-7694273954051033398.md) |
 
 [总目录](../../../../llms.txt)

@@ -1,14 +1,14 @@
-# 上海 · 校招 · 商务 · 全部公司（31 个岗位）
+# 上海 · 校招 · 商务 · 全部公司（30 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 6](../../slices/bytedance/campus/business/shanghai.md) · [蔚来 4](../../slices/nio/campus/business/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/business/shanghai.md) · [美团 3](../../slices/meituan/campus/business/shanghai.md) · [阶跃星辰 3](../../slices/stepfun/campus/business/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/business/shanghai.md) · [携程 2](../../slices/ctrip/campus/business/shanghai.md) · [华为 2](../../slices/huawei/campus/business/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/business/shanghai.md) · [京东 1](../../slices/jd/campus/business/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/business/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/business/shanghai.md) · [小米 1](../../slices/xiaomi/campus/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 6](../../slices/bytedance/campus/business/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/business/shanghai.md) · [美团 3](../../slices/meituan/campus/business/shanghai.md) · [阶跃星辰 3](../../slices/stepfun/campus/business/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/business/shanghai.md) · [携程 2](../../slices/ctrip/campus/business/shanghai.md) · [华为 2](../../slices/huawei/campus/business/shanghai.md) · [蔚来 2](../../slices/nio/campus/business/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/business/shanghai.md) · [京东 1](../../slices/jd/campus/business/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/business/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/business/shanghai.md) · [腾讯音乐 1](../../slices/tme/campus/business/shanghai.md) · [小米 1](../../slices/xiaomi/campus/business/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 智元机器人 | 【共创】商务接待客户专员 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/agibot-7662275362185054510.md) |
-| 智元机器人 | 具身生态发展经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/agibot-7673466913317964041.md) |
-| 智元机器人 | 商务接待客户专员 ⚠️链接待核 | 上海/北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/agibot-7655218477665913130.md) |
+| 智元机器人 | 【共创】商务接待客户专员 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/agibot-7662275362185054510.md) |
+| 智元机器人 | 具身生态发展经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/agibot-7673466913317964041.md) |
+| 智元机器人 | 商务接待客户专员 ⚠️链接待核 | 上海/北京/深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/agibot-7655218477665913130.md) |
 | 阿里巴巴 | 动漫商业化IP授权 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/alibaba-199907780008.md) |
 | 阿里巴巴 | 海外演出商务拓展 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/alibaba-199908200001.md) |
 | 字节跳动 | 代理合作伙伴 - Global Business Solutions 〔27届〕 | 上海/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667464074172958981.md) |
@@ -25,14 +25,13 @@
 | 美团 | 大客户合作岗 〔27届〕 | 杭州/北京/石家庄/上海/迪拜/广州/成都/武汉/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697233231.md) |
 | 美团 | 战略与投资分析师 | 北京/上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4694877891.md) |
 | 米哈游 | 国际化市场商务 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-9183.md) |
-| 蔚来 | 校招-电力市场商务管培生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7673027171800467738.md) |
-| 蔚来 | 校招-能源合作拓展 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7673027171800172826.md) |
-| 蔚来 | 校招-商务管理 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7673028696327883014.md) |
-| 蔚来 | 校招-商务拓展 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7673027188023429427.md) |
+| 蔚来 | 校招-电力市场商务管培生 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7673027171800467738.md) |
+| 蔚来 | 校招-能源合作拓展 〔27届〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7673027171800172826.md) |
 | 拼多多 | 商务管培生（上海） 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/pinduoduo-1f5cd170-a847-4e85-836e-79b24efc3ed5.md) |
-| 阶跃星辰 | 27届-海外渠道经理 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/stepfun-76839c2b-4beb-411a-9d62-fb0006cfb25e.md) |
-| 阶跃星辰 | 27届-渠道经理 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/stepfun-8f8ab7dc-b13b-40f4-8405-2696eecff52b.md) |
-| 阶跃星辰 | 27届-AI终端商业化策略 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/stepfun-917dd6f4-ea42-498f-a3d4-722545bd3477.md) |
+| 阶跃星辰 | 27届-海外渠道经理 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/stepfun-76839c2b-4beb-411a-9d62-fb0006cfb25e.md) |
+| 阶跃星辰 | 27届-渠道经理 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/stepfun-8f8ab7dc-b13b-40f4-8405-2696eecff52b.md) |
+| 阶跃星辰 | 27届-AI终端商业化策略 〔27届〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/stepfun-917dd6f4-ea42-498f-a3d4-722545bd3477.md) |
+| 腾讯音乐 | 商务拓展（AI 硬件方向） ⚠️链接待核 | 深圳/上海/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-15094.md) |
 | 小红书 | 【2027校招】科技投资 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22198.md) |
 | 小红书 | 【2027校招】战略 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22196.md) |
 | 小米 | 投资专员 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924409896618249.md) |

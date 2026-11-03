@@ -1,8 +1,8 @@
-# 北京 · 校招 · 设计 · 全部公司（102 个岗位）（第 1/3 页）
+# 北京 · 校招 · 设计 · 全部公司（101 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 34](../../slices/bytedance/campus/design/beijing.md) · [快手 17](../../slices/kuaishou/campus/design/beijing.md) · [小米 15](../../slices/xiaomi/campus/design/beijing.md) · [理想汽车 12](../../slices/lixiang/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [百度 2](../../slices/baidu/campus/design/beijing.md) · [联想 2](../../slices/lenovo/campus/design/beijing.md) · [腾讯 2](../../slices/tencent/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/campus/design/beijing.md) · [快手 17](../../slices/kuaishou/campus/design/beijing.md) · [小米 15](../../slices/xiaomi/campus/design/beijing.md) · [理想汽车 11](../../slices/lixiang/campus/design/beijing.md) · [阿里巴巴 9](../../slices/alibaba/campus/design/beijing.md) · [京东 3](../../slices/jd/campus/design/beijing.md) · [美团 3](../../slices/meituan/campus/design/beijing.md) · [百度 2](../../slices/baidu/campus/design/beijing.md) · [腾讯 2](../../slices/tencent/campus/design/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/design/beijing.md) · [华为 1](../../slices/huawei/campus/design/beijing.md) · [联想 1](../../slices/lenovo/campus/design/beijing.md) · [腾讯音乐 1](../../slices/tme/campus/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|

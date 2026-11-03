@@ -1,12 +1,12 @@
-# 北京 · 校招 · 商务 · 全部公司（61 个岗位）（第 1/2 页）
+# 北京 · 校招 · 商务 · 全部公司（60 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 16](../../slices/bytedance/campus/business/beijing.md) · [小米 10](../../slices/xiaomi/campus/business/beijing.md) · [理想汽车 5](../../slices/lixiang/campus/business/beijing.md) · [百度 4](../../slices/baidu/campus/business/beijing.md) · [京东 4](../../slices/jd/campus/business/beijing.md) · [快手 4](../../slices/kuaishou/campus/business/beijing.md) · [美团 4](../../slices/meituan/campus/business/beijing.md) · [华为 2](../../slices/huawei/campus/business/beijing.md) · [腾讯 2](../../slices/tencent/campus/business/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/business/beijing.md) · [知乎 2](../../slices/zhihu/campus/business/beijing.md) · [智元机器人 1](../../slices/agibot/campus/business/beijing.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/beijing.md) · [携程 1](../../slices/ctrip/campus/business/beijing.md) · [贝壳 1](../../slices/ke/campus/business/beijing.md) · [联想 1](../../slices/lenovo/campus/business/beijing.md) · [网易 1](../../slices/netease/campus/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 16](../../slices/bytedance/campus/business/beijing.md) · [小米 10](../../slices/xiaomi/campus/business/beijing.md) · [理想汽车 5](../../slices/lixiang/campus/business/beijing.md) · [百度 4](../../slices/baidu/campus/business/beijing.md) · [京东 4](../../slices/jd/campus/business/beijing.md) · [快手 4](../../slices/kuaishou/campus/business/beijing.md) · [美团 4](../../slices/meituan/campus/business/beijing.md) · [华为 2](../../slices/huawei/campus/business/beijing.md) · [腾讯 2](../../slices/tencent/campus/business/beijing.md) · [小红书 2](../../slices/xiaohongshu/campus/business/beijing.md) · [智元机器人 1](../../slices/agibot/campus/business/beijing.md) · [阿里巴巴 1](../../slices/alibaba/campus/business/beijing.md) · [携程 1](../../slices/ctrip/campus/business/beijing.md) · [贝壳 1](../../slices/ke/campus/business/beijing.md) · [联想 1](../../slices/lenovo/campus/business/beijing.md) · [网易 1](../../slices/netease/campus/business/beijing.md) · [知乎 1](../../slices/zhihu/campus/business/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 智元机器人 | 商务接待客户专员 ⚠️链接待核 | 上海/北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/agibot-7655218477665913130.md) |
+| 智元机器人 | 商务接待客户专员 ⚠️链接待核 | 上海/北京/深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/agibot-7655218477665913130.md) |
 | 阿里巴巴 | 海外演出商务拓展 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/alibaba-199908200001.md) |
 | 百度 | 北京-商务拓展专员(J100717) | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-0f7b69e8-55e9-4984-bd76-88de2513ab85.md) |
 | 百度 | 北京-投资经理(J100758) | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-45cd8aa8-587a-4cfe-a8d0-5290376e6427.md) |
@@ -33,16 +33,16 @@
 | 京东 | 商务拓展 〔27届〕 | 北京/成都/济南/广州/南昌/郑州/海口/厦门/重庆 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9065.md) |
 | 京东 | 商务拓展（金融） 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9039.md) |
 | 京东 | 战略 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9054.md) |
-| 贝壳 | 产业生态研究（海外合作方向）【2027届秋招】(J72706) 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/ke-4d7c9990-fc6e-4b90-b855-a572d5359fcc.md) |
+| 贝壳 | 产业生态研究（海外合作方向）【2027届秋招】(J72706) 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/ke-4d7c9990-fc6e-4b90-b855-a572d5359fcc.md) |
 | 快手 | 海外战略分析师 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9819.md) |
 | 快手 | 学术合作专员 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9747.md) |
 | 快手 | 战略分析师 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9827.md) |
 | 快手 | HR-组织战略分析师 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-10771.md) |
-| 联想 | 战略分析 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2380.md) |
-| 理想汽车 | 大客户拓展（电力/石化和商业/高速）（2个团队） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/lixiang-91375.md) [2](../../jobs/lixiang-54299.md) |
-| 理想汽车 | 高级战略管理专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-48444.md) |
-| 理想汽车 | 高级AI战略管理专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-111076.md) |
-| 理想汽车 | 战略投资专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-31403.md) |
+| 联想 | 战略分析 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2380.md) |
+| 理想汽车 | 大客户拓展（电力/石化和商业/高速）（2个团队） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [1](../../jobs/lixiang-91375.md) [2](../../jobs/lixiang-54299.md) |
+| 理想汽车 | 高级战略管理专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-48444.md) |
+| 理想汽车 | 高级AI战略管理专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-111076.md) |
+| 理想汽车 | 战略投资专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-31403.md) |
 | 美团 | 城市大客户商务合作专员 | 合肥/杭州/南京/北京/苏州/天津/上海/西安/成都/昆明/长沙/重庆 等 18 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697264948.md) |
 
 [下一页](campus-business-p2.md) · [总目录](../../llms.txt)

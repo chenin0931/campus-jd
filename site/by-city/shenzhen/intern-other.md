@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 其他 · 全部公司（22 个岗位）
+# 深圳 · 实习 · 其他 · 全部公司（23 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 9](../../slices/bytedance/intern/other/shenzhen.md) · [美团 3](../../slices/meituan/intern/other/shenzhen.md) · [腾讯 2](../../slices/tencent/intern/other/shenzhen.md) · [腾讯音乐 2](../../slices/tme/intern/other/shenzhen.md) · [百度 1](../../slices/baidu/intern/other/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/other/shenzhen.md) · [华为 1](../../slices/huawei/intern/other/shenzhen.md) · [京东 1](../../slices/jd/intern/other/shenzhen.md) · [自变量机器人 1](../../slices/x2robot/intern/other/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/other/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 9](../../slices/bytedance/intern/other/shenzhen.md) · [美团 3](../../slices/meituan/intern/other/shenzhen.md) · [腾讯音乐 3](../../slices/tme/intern/other/shenzhen.md) · [腾讯 2](../../slices/tencent/intern/other/shenzhen.md) · [百度 1](../../slices/baidu/intern/other/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/other/shenzhen.md) · [华为 1](../../slices/huawei/intern/other/shenzhen.md) · [京东 1](../../slices/jd/intern/other/shenzhen.md) · [自变量机器人 1](../../slices/x2robot/intern/other/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/other/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -23,9 +23,10 @@
 | 美团 | 具身本体测评（实习） | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4603932411.md) |
 | 腾讯 | 法律/行业/产业研究 | 深圳/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1226957123230246912.md) |
 | 腾讯 | 设施设备管理 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1165235572529633280.md) |
-| 腾讯音乐 | AI创意视频实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tme-14974.md) |
-| 腾讯音乐 | QQ音乐艺人统筹实习生 〔≥6个月〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tme-14674.md) |
-| 自变量机器人 | SSC-实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/x2robot-7667173872476080427.md) |
+| 腾讯音乐 | 生态管理 ⚠️链接待核 | 深圳/北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14849.md) |
+| 腾讯音乐 | AI创意视频实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14974.md) |
+| 腾讯音乐 | QQ音乐艺人统筹实习生 〔≥6个月〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14674.md) |
+| 自变量机器人 | SSC-实习生 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/x2robot-7667173872476080427.md) |
 | 小米 | 国际运输实习生 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7614056108613208358.md) |
 
 [总目录](../../llms.txt)

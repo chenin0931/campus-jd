@@ -1,11 +1,15 @@
-# 北京 · 实习 · 产品 · 全部公司（453 个岗位）（第 9/12 页）
+# 北京 · 实习 · 产品 · 全部公司（454 个岗位）（第 9/13 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 滴滴 | 地图事业部（9）-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-c593686d-c812-4085-a6ab-3a2c72bb9502.md) |
+| 滴滴 | 国际化产品/用户与策略产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-e65aadc6-cc41-4c41-8615-46b1ff9da895.md) |
+| 滴滴 | 国际事业群IBG-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-7f143382-ef44-4bd6-b94b-e7036b9a7546.md) |
+| 滴滴 | 国际事业群IBG（1）-B端产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-97faff24-12ae-4c8a-aa1a-4e0ef457407f.md) |
 | 滴滴 | 国际事业群IBG（16）-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-ff1f7271-10ad-4362-917b-97deaf11950f.md) |
 | 滴滴 | 国际事业群IBG（25）-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-a1f56fa3-fad1-401c-b74b-224a5f945f1f.md) |
 | 滴滴 | 国际事业群IBG（26）-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-5892a120-d60a-4a72-8fcd-d1ad4694d128.md) |
@@ -35,9 +39,5 @@
 | 滴滴 | Business Platform Product/B端产品实习 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-4b535eeb-e7dc-459c-ba9d-5f02a1804742.md) |
 | 滴滴 | Fintech Data Intelligence-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-10c0d277-a0e1-4a25-91bf-fefad94b52f4.md) |
 | 滴滴 | Food SaaS Business-产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-573fe1b1-7ac0-463b-b5d2-8b76e7c66015.md) |
-| 滴滴 | IBG Food-产品实习生（天空之城） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-a64eaac8-5c69-43b0-9779-1428432300f1.md) |
-| 滴滴 | IBG Food（2）产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-f93699af-b54f-413f-a0c4-e25e70375e33.md) |
-| 滴滴 | Intl Product-产品实习生（JP） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-77bd4f25-0f1a-4832-914a-d5cb60cbd889.md) |
-| 滴滴 | MJ020593 国际事业群IBG（43）产品实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-1981655e-32a6-4546-a9c6-282b68dc141a.md) |
 
 [上一页](intern-product-p8.md) · [下一页](intern-product-p10.md) · [总目录](../../llms.txt)

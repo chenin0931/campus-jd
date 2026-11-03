@@ -2,18 +2,17 @@
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 82](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 3](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/intern/corporate/shanghai.md) · [智元机器人 1](../../slices/agibot/intern/corporate/shanghai.md) · [爱奇艺 1](../../slices/iqiyi/intern/corporate/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/corporate/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md) · [商汤科技 1](../../slices/sensetime/intern/corporate/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/intern/corporate/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/intern/corporate/shanghai.md) · [小红书 20](../../slices/xiaohongshu/intern/corporate/shanghai.md) · [哔哩哔哩 18](../../slices/bilibili/intern/corporate/shanghai.md) · [滴滴 12](../../slices/didi/intern/corporate/shanghai.md) · [米哈游 7](../../slices/mihoyo/intern/corporate/shanghai.md) · [携程 4](../../slices/ctrip/intern/corporate/shanghai.md) · [美团 4](../../slices/meituan/intern/corporate/shanghai.md) · [小米 4](../../slices/xiaomi/intern/corporate/shanghai.md) · [京东 3](../../slices/jd/intern/corporate/shanghai.md) · [网易 3](../../slices/netease/intern/corporate/shanghai.md) · [腾讯 3](../../slices/tencent/intern/corporate/shanghai.md) · [智元机器人 1](../../slices/agibot/intern/corporate/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/corporate/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/corporate/shanghai.md) · [拼多多 1](../../slices/pinduoduo/intern/corporate/shanghai.md) · [商汤科技 1](../../slices/sensetime/intern/corporate/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/intern/corporate/shanghai.md) · [腾讯音乐 1](../../slices/tme/intern/corporate/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/corporate/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
 | 滴滴 | 战略业务事业群-金融策略模型实习生 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-b70de9a4-4645-4e53-9c18-5ce3bbfb4552.md) |
 | 滴滴 | IBG Fintech-金融策略模型实习生（2个团队） ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [1](../../jobs/didi-2ac6d9c9-d137-49a0-aa10-58a19c7734a3.md) [2](../../jobs/didi-281ad597-2e9b-45fa-9023-35a582371006.md) |
 | 滴滴 | IBG Fintech-金融策略模型实习生（3） ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-10137ab8-36f7-4226-90ae-94fb51a7ac85.md) |
-| 爱奇艺 | HR实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7670045815364372742.md) |
 | 京东 | 财务结算 〔26届〕 | 上海/北京/济南/广州/宿迁/郑州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-5853.md) |
 | 京东 | 人力资源（专业方向） 〔27届〕 | 上海/北京/济南/广州/深圳/宿迁/苏州/石家庄/郑州/海口/武汉/长沙 等 15 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4964.md) |
 | 京东 | 招标采购 〔27届〕 | 上海/北京/广州/苏州/杭州/武汉/西安 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4988.md) |
-| 理想汽车 | HRBP实习生 〔26/27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-27057.md) |
+| 理想汽车 | HRBP实习生 〔26/27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-27057.md) |
 | 美团 | 美团招聘实习生-酒旅业务线 〔≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3598204228.md) |
 | 美团 | 招聘实习生 〔≥3个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4584510770.md) |
 | 美团 | HR招聘实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4843578726.md) |
@@ -25,16 +24,17 @@
 | 米哈游 | 行政综合COE实习生 〔28届 · 每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-7846.md) |
 | 米哈游 | 招聘HR实习生 〔27/28届 · ≥4个月，每周≥3天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-7141.md) |
 | 米哈游 | 综合采购实习生 〔28届 · 每周≥3天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-9623.md) |
-| 月之暗面 | 行政实习生 〔27/28届 · ≥6个月，每周≥5天〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-cc69eeba-26be-4f32-8dbc-f6bc369c8fd3.md) |
+| 月之暗面 | 行政实习生 〔27/28届 · ≥6个月，每周≥5天〕 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-cc69eeba-26be-4f32-8dbc-f6bc369c8fd3.md) |
 | 网易 | 税务实习生（上海） 〔≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78615.md) |
 | 网易 | 招聘实习生 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-74381.md) |
 | 网易 | HRSSC实习生（数据组） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-28520.md) |
 | 拼多多 | HR实习生 〔≥3个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/pinduoduo-8999575e-951d-43ad-b262-2abb1a920787.md) |
-| 商汤科技 | 招聘实习生 〔27届 · ≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7698989974104328475.md) |
-| 阶跃星辰 | 人力资源实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/stepfun-aa9ce111-4424-4394-a3fb-a9d2ed0a8834.md) |
+| 商汤科技 | 招聘实习生 〔27届 · ≥5个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7698989974104328475.md) |
+| 阶跃星辰 | 人力资源实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京/上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/stepfun-aa9ce111-4424-4394-a3fb-a9d2ed0a8834.md) |
 | 腾讯 | 项目实习生-人力资源 | 深圳/北京/上海/广州/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1216462959187228672.md) |
 | 腾讯 | AI-HR培训生（分析方向） | 深圳/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938817.md) |
 | 腾讯 | AI-HR培训生（沟通方向） | 深圳/北京/上海/广州/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1216462959547938819.md) |
+| 腾讯音乐 | HRSSC实习生 〔≥2个月，每周≥5天〕 ⚠️链接待核 | 上海 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/tme-15116.md) |
 | 小红书 | 采购中台实习生（技术方向） 〔≥8个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21849.md) |
 | 小红书 | 海外财务BP实习生 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20770.md) |
 | 小红书 | 会务接待实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21794.md) |

@@ -1,14 +1,14 @@
-# 上海 · 校招 · 产品 · 全部公司（137 个岗位）（第 1/4 页）
+# 上海 · 校招 · 产品 · 全部公司（135 个岗位）（第 1/4 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [蔚来 11](../../slices/nio/campus/product/shanghai.md) · [阶跃星辰 4](../../slices/stepfun/campus/product/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [商汤科技 2](../../slices/sensetime/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [Shopee 1](../../slices/shopee/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 82](../../slices/bytedance/campus/product/shanghai.md) · [得物 18](../../slices/dewu/campus/product/shanghai.md) · [蔚来 9](../../slices/nio/campus/product/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/product/shanghai.md) · [百度 3](../../slices/baidu/campus/product/shanghai.md) · [阶跃星辰 3](../../slices/stepfun/campus/product/shanghai.md) · [腾讯 3](../../slices/tencent/campus/product/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/campus/product/shanghai.md) · [滴滴 2](../../slices/didi/campus/product/shanghai.md) · [商汤科技 2](../../slices/sensetime/campus/product/shanghai.md) · [携程 1](../../slices/ctrip/campus/product/shanghai.md) · [京东 1](../../slices/jd/campus/product/shanghai.md) · [米哈游 1](../../slices/mihoyo/campus/product/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/product/shanghai.md) · [Shopee 1](../../slices/shopee/campus/product/shanghai.md) · [腾讯音乐 1](../../slices/tme/campus/product/shanghai.md) · [小红书 1](../../slices/xiaohongshu/campus/product/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/campus/product/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 智元机器人 | 具身产品经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/agibot-7662290681059051795.md) |
-| 智元机器人 | 具身生态产品经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/agibot-7673472974649870635.md) |
-| 智元机器人 | 云服务产品经理 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/agibot-7662269174601632054.md) |
+| 智元机器人 | 具身产品经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/agibot-7662290681059051795.md) |
+| 智元机器人 | 具身生态产品经理-觅蜂子公司 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/agibot-7673472974649870635.md) |
+| 智元机器人 | 云服务产品经理 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/agibot-7662269174601632054.md) |
 | 百度 | 上海-策略产品经理(J100673) | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-b1537e9d-99b2-4f5c-a546-559d5c5a8718.md) |
 | 百度 | 上海-商业产品经理(J100706) | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-b7532741-3f9d-4ee6-9446-a76b5413eb17.md) |
 | 百度 | 上海-用户产品经理(J101084) | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-950150b6-f8d8-454e-8cc8-88a2b046e96a.md) |
@@ -41,6 +41,5 @@
 | 字节跳动 | 广告投放策略产品经理 - 抖音生活服务 〔27届〕 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7669642616797268229.md) |
 | 字节跳动 | 国际化短剧产品经理 - 番茄小说 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7669663349547534597.md) |
 | 字节跳动 | 国际商家金融产品经理 - 国际支付 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7673452190275619125.md) |
-| 字节跳动 | 国际消费金融产品经理 - 国际支付 〔27届〕 | 上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667894678415788341.md) |
 
 [下一页](campus-product-p2.md) · [总目录](../../llms.txt)

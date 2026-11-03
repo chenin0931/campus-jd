@@ -1,12 +1,12 @@
-# 北京 · 实习 · 其他 · 全部公司（157 个岗位）（第 1/4 页）
+# 北京 · 实习 · 其他 · 全部公司（168 个岗位）（第 1/5 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 52](../../slices/bytedance/intern/other/beijing.md) · [网易 20](../../slices/netease/intern/other/beijing.md) · [百度 18](../../slices/baidu/intern/other/beijing.md) · [小米 18](../../slices/xiaomi/intern/other/beijing.md) · [爱奇艺 8](../../slices/iqiyi/intern/other/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/other/beijing.md) · [滴滴 6](../../slices/didi/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [京东 4](../../slices/jd/intern/other/beijing.md) · [美团 4](../../slices/meituan/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [腾讯 2](../../slices/tencent/intern/other/beijing.md) · [360 1](../../slices/360/intern/other/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [贝壳 1](../../slices/ke/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md) · [MiniMax 1](../../slices/minimax/intern/other/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/other/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/other/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/other/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/other/beijing.md) · [知乎 1](../../slices/zhihu/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 52](../../slices/bytedance/intern/other/beijing.md) · [网易 20](../../slices/netease/intern/other/beijing.md) · [百度 18](../../slices/baidu/intern/other/beijing.md) · [小米 18](../../slices/xiaomi/intern/other/beijing.md) · [爱奇艺 15](../../slices/iqiyi/intern/other/beijing.md) · [滴滴 6](../../slices/didi/intern/other/beijing.md) · [理想汽车 6](../../slices/lixiang/intern/other/beijing.md) · [小红书 5](../../slices/xiaohongshu/intern/other/beijing.md) · [京东 4](../../slices/jd/intern/other/beijing.md) · [美团 4](../../slices/meituan/intern/other/beijing.md) · [生数科技 3](../../slices/shengshu/intern/other/beijing.md) · [快手 2](../../slices/kuaishou/intern/other/beijing.md) · [MiniMax 2](../../slices/minimax/intern/other/beijing.md) · [腾讯 2](../../slices/tencent/intern/other/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/other/beijing.md) · [360 1](../../slices/360/intern/other/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/other/beijing.md) · [华为 1](../../slices/huawei/intern/other/beijing.md) · [贝壳 1](../../slices/ke/intern/other/beijing.md) · [米哈游 1](../../slices/mihoyo/intern/other/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/other/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/other/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/other/beijing.md) · [知乎 1](../../slices/zhihu/intern/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 360 | 安全服务实习生（北京）-5167(J12201) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-75810b79-8bf4-481f-885d-7c7e1dbd5c41.md) |
+| 360 | 安全服务实习生（北京）-5167(J12201) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-75810b79-8bf4-481f-885d-7c7e1dbd5c41.md) |
 | 百度 | 百度健康用研实习生（J106152） 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-845dfab9-5533-4bcb-91e4-5f197de88e1b.md) |
 | 百度 | 产运实习生（J95390） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-6c1aed49-9d60-40a4-b4eb-9cf2f5ab4567.md) |
 | 百度 | 创作者实习（J106730） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-5448a053-31d5-4740-9fea-71d00afae518.md) |
@@ -37,6 +37,5 @@
 | 字节跳动 | 量子化学方向实习生-Seed | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7210233702680922424.md) |
 | 字节跳动 | 内部沟通实习生 - 内部沟通 〔≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7686105194774923573.md) |
 | 字节跳动 | 培训实习生-商业化安全 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7473338342776867079.md) |
-| 字节跳动 | 企业效能实习生 - 飞书商业化 〔≥4个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7613588855234791685.md) |
 
 [下一页](intern-other-p2.md) · [总目录](../../llms.txt)

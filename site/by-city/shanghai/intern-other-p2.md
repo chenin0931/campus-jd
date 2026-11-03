@@ -1,8 +1,8 @@
-# 上海 · 实习 · 其他 · 全部公司（89 个岗位）（第 2/3 页）
+# 上海 · 实习 · 其他 · 全部公司（91 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 37](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 21](../../slices/bilibili/intern/other/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 5](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/other/shanghai.md) · [MiniMax 1](../../slices/minimax/intern/other/shanghai.md) · [蔚来 1](../../slices/nio/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 37](../../slices/bytedance/intern/other/shanghai.md) · [哔哩哔哩 21](../../slices/bilibili/intern/other/shanghai.md) · [小红书 9](../../slices/xiaohongshu/intern/other/shanghai.md) · [米哈游 5](../../slices/mihoyo/intern/other/shanghai.md) · [得物 4](../../slices/dewu/intern/other/shanghai.md) · [网易 4](../../slices/netease/intern/other/shanghai.md) · [小米 4](../../slices/xiaomi/intern/other/shanghai.md) · [MiniMax 3](../../slices/minimax/intern/other/shanghai.md) · [百度 1](../../slices/baidu/intern/other/shanghai.md) · [华为 1](../../slices/huawei/intern/other/shanghai.md) · [理想汽车 1](../../slices/lixiang/intern/other/shanghai.md) · [蔚来 1](../../slices/nio/intern/other/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -28,23 +28,23 @@
 | 得物 | 【研究型实习生】生成式重排 〔28/29届 · ≥3个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/dewu-7623712087755966771.md) |
 | 得物 | 实习生【上海】 〔26届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/dewu-7566577510222956851.md) |
 | 华为 | 消费者管理培训生 | 沈阳/福州/西安/杭州/武汉/成都/北京/上海/广州/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-31495.md) |
-| 理想汽车 | 系统需求实习生 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-162889.md) |
+| 理想汽车 | 系统需求实习生 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-162889.md) |
 | 米哈游 | 绑定实习生（Max/Maya） 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-7956.md) |
 | 米哈游 | 场景模型实习生 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-7908.md) |
 | 米哈游 | 角色模型实习生（二次元NPR/次世代PBR） 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-9081.md) |
 | 米哈游 | LLM Pretrain Data实习生 〔28/29届〕 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-8458.md) |
 | 米哈游 | SD材质实习生（程序化贴图） 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-7909.md) |
-| MiniMax | 服务器系统实习生 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7508644072077674778.md) |
+| MiniMax | AI 安全实习生 ⚠️链接待核 | 北京/上海 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/minimax-7655771634666522923.md) |
+| MiniMax | AI for Science 实习生 〔≥3个月〕 ⚠️链接待核 | 上海 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/minimax-7701670374345656619.md) |
+| MiniMax | 服务器系统实习生 | 北京/上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7508644072077674778.md) |
 | 网易 | 互动影游文案实习生 〔27/28届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78806.md) |
 | 网易 | 游戏测评实习生-行业研究 〔26/27届 · ≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78223.md) |
 | 网易 | 游戏测评实习生（AI游戏测评） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-79377.md) |
 | 网易 | AI互动剧实习生 〔27/28届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78621.md) |
-| 蔚来 | 实习-AI模型使用（Safety服务方向） | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7633337667149203753.md) |
+| 蔚来 | 实习-AI模型使用（Safety服务方向） | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7633337667149203753.md) |
 | 小红书 | 潮流服饰实习生-平台专家 〔27届 · ≥6个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22771.md) |
 | 小红书 | 国际化高招实习生 〔27/28届 · ≥3个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21238.md) |
 | 小红书 | 国际化PE实习生 〔≥3个月，每周≥4天〕 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21331.md) |
 | 小红书 | 交通出行行业平台专家实习生 〔≥6个月〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21805.md) |
-| 小红书 | 小红书电商实习生-家具类目 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22663.md) |
-| 小红书 | 小红书商业部美护平台专家实习生 〔≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20769.md) |
 
 [上一页](intern-other.md) · [下一页](intern-other-p3.md) · [总目录](../../llms.txt)

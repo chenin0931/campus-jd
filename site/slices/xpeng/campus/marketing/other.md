@@ -4,7 +4,7 @@
 
 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|
-| 【2027 Campus Recruitment】Marketing associate - Ballerup 🌏海外 | 巴勒鲁普 | 2026-10-27 | 2026-10-27 | [详情](../../../../jobs/xpeng-7694269150558538034.md) |
-| 【2027 Campus Recruitment】Marketing Specialist 🌏海外 | 伦敦 | 2026-10-27 | 2026-10-27 | [详情](../../../../jobs/xpeng-7694276494218774825.md) |
+| 【2027 Campus Recruitment】Marketing associate - Ballerup 🌏海外 | 巴勒鲁普 | 2026-10-27 | 2026-11-03 | [详情](../../../../jobs/xpeng-7694269150558538034.md) |
+| 【2027 Campus Recruitment】Marketing Specialist 🌏海外 | 伦敦 | 2026-10-27 | 2026-11-03 | [详情](../../../../jobs/xpeng-7694276494218774825.md) |
 
 [总目录](../../../../llms.txt)

@@ -9,7 +9,7 @@
 - status: active
 - 届别 grad_year: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 最近抓取: 2026-11-03
 - 截止: 以官网为准
 - 投递: https://iflytek.zhiye.com/campus/detail?jobAdId=6736c4ce-d48c-4a0e-a796-4a3553cda15b（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 

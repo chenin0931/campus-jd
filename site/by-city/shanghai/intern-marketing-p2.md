@@ -1,8 +1,8 @@
-# 上海 · 实习 · 市场 · 全部公司（107 个岗位）（第 2/3 页）
+# 上海 · 实习 · 市场 · 全部公司（106 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/intern/marketing/shanghai.md) · [米哈游 13](../../slices/mihoyo/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [MiniMax 7](../../slices/minimax/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [小鹏汽车 3](../../slices/xpeng/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [商汤科技 2](../../slices/sensetime/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md) · [爱奇艺 1](../../slices/iqiyi/intern/marketing/shanghai.md) · [面壁智能 1](../../slices/modelbest/intern/marketing/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 41](../../slices/bytedance/intern/marketing/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/intern/marketing/shanghai.md) · [米哈游 13](../../slices/mihoyo/intern/marketing/shanghai.md) · [网易 12](../../slices/netease/intern/marketing/shanghai.md) · [MiniMax 7](../../slices/minimax/intern/marketing/shanghai.md) · [小红书 5](../../slices/xiaohongshu/intern/marketing/shanghai.md) · [小鹏汽车 3](../../slices/xpeng/intern/marketing/shanghai.md) · [京东 2](../../slices/jd/intern/marketing/shanghai.md) · [美团 2](../../slices/meituan/intern/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/intern/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/marketing/shanghai.md) · [滴滴 1](../../slices/didi/intern/marketing/shanghai.md) · [面壁智能 1](../../slices/modelbest/intern/marketing/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/marketing/shanghai.md) · [商汤科技 1](../../slices/sensetime/intern/marketing/shanghai.md) · [腾讯音乐 1](../../slices/tme/intern/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -27,7 +27,6 @@
 | 字节跳动 | SEO&GEO内容增长实习生 - 飞书商业化 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7681130110305175813.md) |
 | 字节跳动 | US商家内容活动营销实习生 - TikTok Shop 〔≥4个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7700870200119314693.md) |
 | 滴滴 | 网约车平台公司-市场实习生 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-eafff473-5290-469b-8ffc-95cb0f885a54.md) |
-| 爱奇艺 | 媒介实习生（上海） 〔≥4个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7417719137370114355.md) |
 | 京东 | 公共事务 〔27届〕 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4992.md) |
 | 京东 | 市场营销 〔27届〕 | 上海/北京/合肥/深圳/南京/香港 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4944.md) |
 | 美团 | 公共事务 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3620337309.md) |
@@ -43,5 +42,6 @@
 | 米哈游 | 社媒传播实习生-崩坏：因缘精灵 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-5810.md) |
 | 米哈游 | 市场内容实习生（前瞻节目制作）-绝区零 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-9541.md) |
 | 米哈游 | 视频编导实习生 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-8466.md) |
+| 米哈游 | 视频设计实习生（后期制作） 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-7935.md) |
 
 [上一页](intern-marketing.md) · [下一页](intern-marketing-p3.md) · [总目录](../../llms.txt)

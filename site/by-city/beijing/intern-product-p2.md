@@ -1,11 +1,12 @@
-# 北京 · 实习 · 产品 · 全部公司（453 个岗位）（第 2/12 页）
+# 北京 · 实习 · 产品 · 全部公司（454 个岗位）（第 2/13 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 百度 | 数字人语音产品实习生（J88887） 〔26届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-c0c66881-94c8-4aa6-b330-e20836ec65b6.md) |
 | 百度 | 搜索策略产品（J105355） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-cbead737-ed4b-4c7d-aa5f-a08d2625fe9e.md) |
 | 百度 | 搜索策略产品经理实习生（J106177） 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-1fec7cde-f812-4a5a-a254-e0e6c6af3ebb.md) |
 | 百度 | 搜索产品经理实习生（旅游方向）（J85579）（2个团队） 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/baidu-8ce32f53-4f8a-4873-a08e-be0f82e0466c.md) [2](../../jobs/baidu-6f5e55ba-2b87-4068-a64f-0e572aeb78a2.md) |
@@ -37,6 +38,5 @@
 | 百度 | PC端功能产品实习生（J104889） 〔≥6个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-1a0f241a-029d-4a7d-b712-745e927c5756.md) |
 | 字节跳动 | 策略产品（内容标签方向）实习生 - 抖音UGC 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7624110476470569221.md) |
 | 字节跳动 | 策略产品（内容质量方向）实习生 - 今日头条 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7683125162023864629.md) |
-| 字节跳动 | 策略产品实习生-财经业务（2个团队） 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/bytedance-7596954037016054069.md) [2](../../jobs/bytedance-7599546915902458165.md) |
 
 [上一页](intern-product.md) · [下一页](intern-product-p3.md) · [总目录](../../llms.txt)

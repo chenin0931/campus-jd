@@ -2,6 +2,7 @@
 // 通用飞书招聘抓取器。配置见 scripts/startups.json 的 feishu 段：{slug, company, domain, websitePath, mode}
 //   mode=campus        只收校招/实习 recruit_type（跳过社招）
 //   mode=social_intern 社招门户：标题或 recruit_type 含「实习」才收，job_type=实习
+//   mode=all           全网旧口径（reference/fsco.py）：recruit_type 含「实习」→实习，父类社招→社招（后处理只留标题含实习的），其余→校招
 //   mode=text          recruit_type 为空：先查详情接口，仍无则按标题+详情文本（实习/校招/应届/27届）判断
 // 排除与归类都交给 common.classify()（全标题排除 + 岗位段归类，见 CLASSIFIER.md）；不在本文件另写关键词。
 // 用法：node scripts/fetchers/lib/feishu.js [--only slug] [--out dir]
@@ -32,7 +33,8 @@ async function fetchCompany(c) {
   const h = await session(c), L = await list(c, h), now = nowIso(), out = [], stat = { raw: L.length, noType: 0, excluded: 0 };
   for (const j of L) {
     let { par, nm } = rtOf(j), jt = null;
-    if (c.mode === 'social_intern') jt = /实习/.test(nm + par + j.title) ? '实习' : null;
+    if (c.mode === 'all') jt = /实习/.test(nm) ? '实习' : (/社招/.test(par) ? '社招' : '校招');
+    else if (c.mode === 'social_intern') jt = /实习/.test(nm + par + j.title) ? '实习' : null;
     else if (c.mode === 'text') {
       let d = null;
       if (!par && !nm) { d = await detail(c, h, j.id); ({ par, nm } = rtOf(d)); }

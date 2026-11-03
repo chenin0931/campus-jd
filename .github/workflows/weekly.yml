@@ -25,7 +25,7 @@ jobs:
           node-version: 20
       - id: week
         run: echo "week=$(TZ=Asia/Shanghai date +%G-W%V)" >> "$GITHUB_OUTPUT"
-      - name: Fetch（大厂 19 家 Node 抓取器；全网/初创文件由 build 沿用上周，各公司独立，单家失败不影响其他家，失败的保留旧数据；滴滴解密用 Node 内置 crypto，无需 Python）
+      - name: Fetch 大厂（scripts/fetchers/*.js，各公司独立，单家失败不影响其他家，失败的保留旧数据；滴滴解密用 Node 内置 crypto，无需 Python）
         run: |
           mkdir -p data/${{ steps.week.outputs.week }}
           failed=""
@@ -39,6 +39,12 @@ jobs:
             [ -f "$prev/$c.json" ] && cp "$prev/$c.json" "data/${{ steps.week.outputs.week }}/$c.json"
           done
           echo "FAILED=$failed" >> "$GITHUB_ENV"
+      - name: Fetch 全网 + 初创（scripts/fetch_datasets.js，须在大厂之后：要和本周大厂文件去重；单家失败不写文件 → build 沿用旧文件并保留旧 fetched_at，超 14 天标「⏳可能已下架」；星海图为人工录入，不抓）
+        run: |
+          node scripts/fetch_datasets.js --week ${{ steps.week.outputs.week }} 2>/tmp/ds.err || true
+          cat /tmp/ds.err >&2
+          ds=$(sed -n 's/^失败 [0-9]* 家（沿用旧文件）：//p' /tmp/ds.err)
+          [ -n "$ds" ] && echo "FAILED=$FAILED $ds" >> "$GITHUB_ENV" || true
       - name: Check links（优先官网按 id 查详情接口，其次格式/HTTP 校验）
         run: node scripts/check_links.js
         continue-on-error: true

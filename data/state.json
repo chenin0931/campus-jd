@@ -51010,7 +51010,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "01ai-7667504757090732298": {
    "first_seen": "2026-10-27",
@@ -51358,7 +51359,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "agibot-7690829841441507634": {
    "first_seen": "2026-10-27",
@@ -51376,7 +51378,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "agibot-7684092897458080026": {
    "first_seen": "2026-10-27",
@@ -51454,19 +51457,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "agibot-7667103472642459945": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "agibot-7667101846171650313": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "agibot-7667099219865651507": {
    "first_seen": "2026-10-27",
@@ -51682,7 +51688,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "aisphere-7641887296179243315": {
    "first_seen": "2026-10-27",
@@ -52222,7 +52229,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7699742034638784819": {
    "first_seen": "2026-10-27",
@@ -52240,7 +52248,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7698636945152510258": {
    "first_seen": "2026-10-27",
@@ -52324,7 +52333,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7664498705391929642": {
    "first_seen": "2026-10-27",
@@ -52402,7 +52412,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7625932712075921707": {
    "first_seen": "2026-10-27",
@@ -52468,13 +52479,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7576229131286464806": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7571410898280007982": {
    "first_seen": "2026-10-27",
@@ -52546,7 +52559,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7512284830148921610": {
    "first_seen": "2026-10-27",
@@ -52594,7 +52608,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7451560553376893195": {
    "first_seen": "2026-10-27",
@@ -52612,7 +52627,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7417665573443701042": {
    "first_seen": "2026-10-27",
@@ -52660,7 +52676,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7390273739705764132": {
    "first_seen": "2026-10-27",
@@ -52696,7 +52713,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "iqiyi-7389223571232573732": {
    "first_seen": "2026-10-27",
@@ -52930,7 +52948,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "ke-4952214f-7fd7-499c-ba15-0fa6d5d511df": {
    "first_seen": "2026-10-27",
@@ -53068,7 +53087,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "lenovo-2371": {
    "first_seen": "2026-10-27",
@@ -53152,7 +53172,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "lenovo-2400": {
    "first_seen": "2026-10-27",
@@ -53968,13 +53989,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "lixiang-99328": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "lixiang-167167": {
    "first_seen": "2026-10-27",
@@ -54094,7 +54117,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "lixiang-249220": {
    "first_seen": "2026-10-27",
@@ -55432,7 +55456,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "lixiang-170760": {
    "first_seen": "2026-10-27",
@@ -55906,13 +55931,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "modelbest-7695613731863234843": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "modelbest-7689002578553866542": {
    "first_seen": "2026-10-27",
@@ -56008,7 +56035,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "moonshot-e008269e-bb88-48bc-a3ed-9e10b737b53c": {
    "first_seen": "2026-10-27",
@@ -56020,19 +56048,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "moonshot-24952815-e0f3-403c-b01c-b796cb2abc43": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "moonshot-d2e41303-71be-44f2-bcde-199d2e15d9d2": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "moonshot-4328d1e4-53ee-43d6-97fb-924aa230198e": {
    "first_seen": "2026-10-27",
@@ -56158,7 +56189,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "moonshot-02a21c93-472c-4873-896a-54ef0fcc500b": {
    "first_seen": "2026-10-27",
@@ -56194,7 +56226,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "moonshot-8afd0f3a-b3e4-40a8-a900-0588ab774f92": {
    "first_seen": "2026-10-27",
@@ -56428,7 +56461,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7700898453307803945": {
    "first_seen": "2026-10-27",
@@ -56626,7 +56660,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7686066492459583798": {
    "first_seen": "2026-10-27",
@@ -56698,7 +56733,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7680913547954161947": {
    "first_seen": "2026-10-27",
@@ -56722,7 +56758,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7680808052996245802": {
    "first_seen": "2026-10-27",
@@ -57076,7 +57113,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7676072400807397668": {
    "first_seen": "2026-10-27",
@@ -57652,7 +57690,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7676072214306851091": {
    "first_seen": "2026-10-27",
@@ -58144,7 +58183,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7676072053423081747": {
    "first_seen": "2026-10-27",
@@ -58192,7 +58232,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7676072031503829302": {
    "first_seen": "2026-10-27",
@@ -58474,7 +58515,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7676071932388133161": {
    "first_seen": "2026-10-27",
@@ -58804,7 +58846,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673027376419277102": {
    "first_seen": "2026-10-27",
@@ -58924,7 +58967,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673027205643995402": {
    "first_seen": "2026-10-27",
@@ -58984,7 +59028,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673027188022839603": {
    "first_seen": "2026-10-27",
@@ -59116,7 +59161,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673027148605212938": {
    "first_seen": "2026-10-27",
@@ -59128,7 +59174,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673027111498959113": {
    "first_seen": "2026-10-27",
@@ -59152,19 +59199,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673026973983508782": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673026973983213870": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7673026967621798182": {
    "first_seen": "2026-10-27",
@@ -59206,7 +59256,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7649667487960992054": {
    "first_seen": "2026-10-27",
@@ -59236,19 +59287,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7649667313683368228": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7637061746729257242": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "nio-7637061730245347593": {
    "first_seen": "2026-10-27",
@@ -59404,7 +59458,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "sensetime-7681199705376606500": {
    "first_seen": "2026-10-27",
@@ -59434,7 +59489,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "sensetime-7665903373330680070": {
    "first_seen": "2026-10-27",
@@ -59488,7 +59544,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "sensetime-7659597712514550054": {
    "first_seen": "2026-10-27",
@@ -59536,13 +59593,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "shengshu-7698965126002919731": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "shengshu-7696810175290722579": {
    "first_seen": "2026-10-27",
@@ -59554,7 +59613,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "shengshu-7694512278909815081": {
    "first_seen": "2026-10-27",
@@ -59572,7 +59632,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "shengshu-7686424818195384582": {
    "first_seen": "2026-10-27",
@@ -59584,13 +59645,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "shengshu-7680777482055928090": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "shengshu-7660453086549412134": {
    "first_seen": "2026-10-27",
@@ -59608,7 +59671,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "shengshu-7539749881783617818": {
    "first_seen": "2026-10-27",
@@ -59890,7 +59954,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "stepfun-530ac2b6-8f6e-4c0f-b465-8ed30c0f3bd9": {
    "first_seen": "2026-10-27",
@@ -59980,7 +60045,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "stepfun-035f092f-e000-4b43-be39-82c7a4349b30": {
    "first_seen": "2026-10-27",
@@ -60484,13 +60550,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-15013": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-15109": {
    "first_seen": "2026-10-27",
@@ -60508,7 +60576,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14674": {
    "first_seen": "2026-10-27",
@@ -60520,7 +60589,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14130": {
    "first_seen": "2026-10-27",
@@ -60532,19 +60602,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-15099": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14330": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14998": {
    "first_seen": "2026-10-27",
@@ -60562,7 +60635,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14782": {
    "first_seen": "2026-10-27",
@@ -60586,7 +60660,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14375": {
    "first_seen": "2026-10-27",
@@ -60598,19 +60673,22 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14315": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14251": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14561": {
    "first_seen": "2026-10-27",
@@ -60628,13 +60706,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14103": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "tme-14997": {
    "first_seen": "2026-10-27",
@@ -60952,7 +61032,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "xpeng-7696861282938751259": {
    "first_seen": "2026-10-27",
@@ -61390,7 +61471,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "xpeng-7675272804484876554": {
    "first_seen": "2026-10-27",
@@ -61564,7 +61646,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "xpeng-7667137566747724083": {
    "first_seen": "2026-10-27",
@@ -61684,13 +61767,15 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "xpeng-7663476492252645673": {
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "xpeng-7663476492252301609": {
    "first_seen": "2026-10-27",
@@ -61876,7 +61961,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "xpeng-7658239806305224969": {
    "first_seen": "2026-10-27",
@@ -61888,7 +61974,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "xpeng-7658239801045141810": {
    "first_seen": "2026-10-27",
@@ -62674,7 +62761,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "yuaiweiwu-dd1da7f3-2749-4e90-838e-3cf43220ce49": {
    "first_seen": "2026-10-27",
@@ -62686,7 +62774,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "zhihu-cdeb354b-9245-478e-96fa-0ff2508b3c36": {
    "first_seen": "2026-10-27",
@@ -62758,7 +62847,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "zhihu-f85917e6-ae7c-42a8-b08a-33ac318db190": {
    "first_seen": "2026-10-27",
@@ -62840,6 +62930,654 @@
   },
   "zhihu-30c2c3e1-9f85-4f9f-b657-e85c7bf9110e": {
    "first_seen": "2026-10-27",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "01ai-7702374478232504585": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "360-3f245140-a65d-4161-8f37-a3e9db5ba861": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "agibot-7683808930061945138": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "agibot-7662273651827755307": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iflytek-06d1bbe2-2e7e-4b6b-851b-4fdf3b530eb5": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7703853760065947931": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7703541216621742345": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7703394880026298643": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7686757849007081770": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7701666935499770138": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7701628443579353385": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7701621667084568851": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7667114451808504083": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7657852956712798527": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7656631815491619123": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7654065425379100955": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7644922317407914283": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7631487451613251878": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7631433587673499930": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7613612953053448494": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7576128947772672302": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7560626873295391012": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7550592976566847771": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7511916326862440723": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7504599913126578483": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7420267262277847359": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7416723691381573926": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "iqiyi-7390317319581141260": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9434": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9432": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9430": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "ke-d173a4ce-0afa-4121-a895-f489d873a6f6": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "ke-7ee8dcb1-8c94-4065-bcea-17969b0e9e0a": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "ke-f4b6105c-70fc-4e5a-b73d-0bc7ef79d34f": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "ke-e33beeb1-803a-40b4-a622-a0c77e6e2544": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "ke-6848d776-50c5-455d-a0c7-299dfd90d9eb": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "ke-3207275c-62e3-41bc-b673-995d95376ffe": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "ke-b371deef-46b0-49e0-8cfa-8ba476754fa3": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "lenovo-2410": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "limx-7703865896917567754": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "lixiang-58758": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "lixiang-72469": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "lixiang-169661": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "minimax-7701670374345656619": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "minimax-7655771634666522923": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "modelbest-7702359628118624554": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "modelbest-7702069352662075691": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "modelbest-7699798107504953663": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "modelbest-7670858811145488667": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "moonshot-50596607-03f8-49c7-b2f3-a273fdca2361": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "moonshot-55c3db52-e8c5-4104-97e1-d6a426492f17": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "moonshot-ab4d7038-b4ac-4f76-8b6f-9a4b3db0dc43": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "moonshot-08fd410e-1b44-4e3b-b15e-265d0fa18699": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7703872255453563179": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7703813992209451315": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7701606923389372691": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7703838911873648939": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7702003690081585435": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7701998181558765867": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7702401527760341290": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7702291479276308762": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7702284571610040586": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7677556593110649134": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7673028724599032083": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7673027250324900142": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "nio-7673027221095942451": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "sensetime-7703848878777207081": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "sensetime-7703847448439851300": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "sensetime-7701551413386250534": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7703397394143529243": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7702451452232354111": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7702450778589546803": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7702448106008873225": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7702448106008561929": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7702435499314923814": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7701917222571526442": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7701300930297579785": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "shengshu-7699820446678681906": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-15115": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14764": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14579": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14903": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14345": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14453": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14768": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-15116": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-15111": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-15112": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-15114": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14811": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "tme-14920": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "x2robot-7703472306286627091": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "x2robot-7683724798854433030": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7703818998018279690": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7703754738135075115": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7701989283654175039": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7701640838094620970": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7701640223312054537": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7701600057929828651": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7701312181262731547": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7673331296663636266": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7663476455758891305": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7663443995359578374": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7658239791138720050": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7658239728122169651": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "xpeng-7658239571716917513": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "zhihu-95403327-d4b9-4041-a4a0-d903b335d66d": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "zhihu-ab7eba42-6c0d-4ccc-960e-622b0e4a59e9": {
+   "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
    "status": "active"

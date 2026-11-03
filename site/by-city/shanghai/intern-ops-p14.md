@@ -1,11 +1,12 @@
-# 上海 · 实习 · 运营 · 全部公司（541 个岗位）（第 14/16 页）
+# 上海 · 实习 · 运营 · 全部公司（542 个岗位）（第 14/16 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 290](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 103](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 45](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 17](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 10](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [MiniMax 5](../../slices/minimax/intern/ops/shanghai.md) · [爱奇艺 4](../../slices/iqiyi/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [蔚来 3](../../slices/nio/intern/ops/shanghai.md) · [商汤科技 3](../../slices/sensetime/intern/ops/shanghai.md) · [光轮智能 2](../../slices/lightwheel/intern/ops/shanghai.md) · [特赞 2](../../slices/tezign/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/ops/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 290](../../slices/bytedance/intern/ops/shanghai.md) · [哔哩哔哩 103](../../slices/bilibili/intern/ops/shanghai.md) · [小红书 45](../../slices/xiaohongshu/intern/ops/shanghai.md) · [米哈游 17](../../slices/mihoyo/intern/ops/shanghai.md) · [滴滴 13](../../slices/didi/intern/ops/shanghai.md) · [美团 13](../../slices/meituan/intern/ops/shanghai.md) · [京东 10](../../slices/jd/intern/ops/shanghai.md) · [网易 9](../../slices/netease/intern/ops/shanghai.md) · [腾讯 7](../../slices/tencent/intern/ops/shanghai.md) · [携程 6](../../slices/ctrip/intern/ops/shanghai.md) · [爱奇艺 6](../../slices/iqiyi/intern/ops/shanghai.md) · [MiniMax 5](../../slices/minimax/intern/ops/shanghai.md) · [百度 3](../../slices/baidu/intern/ops/shanghai.md) · [商汤科技 3](../../slices/sensetime/intern/ops/shanghai.md) · [光轮智能 2](../../slices/lightwheel/intern/ops/shanghai.md) · [蔚来 2](../../slices/nio/intern/ops/shanghai.md) · [特赞 2](../../slices/tezign/intern/ops/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/shanghai.md) · [快手 1](../../slices/kuaishou/intern/ops/shanghai.md) · [月之暗面 1](../../slices/moonshot/intern/ops/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/intern/ops/shanghai.md) · [小米 1](../../slices/xiaomi/intern/ops/shanghai.md) · [小鹏汽车 1](../../slices/xpeng/intern/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 米哈游 | 开发者运营实习生（千星奇域方向）-原神 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-8944.md) |
 | 米哈游 | 内容生态实习生- 崩坏：因缘精灵 〔28/29届 · ≥5个月，每周≥3天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-7925.md) |
 | 米哈游 | 内容生态实习生-崩坏：星穹铁道 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-8409.md) |
 | 米哈游 | 内容运营实习生 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-8779.md) |
@@ -17,12 +18,12 @@
 | 米哈游 | 游戏运营实习生（AI方向） - 崩坏：星穹铁道 + 崩坏：因缘精灵 〔28/29届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-8090.md) |
 | 米哈游 | Agent 策略运营实习生 〔28/29届 · ≥6个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-9625.md) |
 | 米哈游 | AI 创新运营实习生 〔27/28届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-8616.md) |
-| MiniMax | 安全运营实习生 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7640039643669072169.md) |
-| MiniMax | AI开放平台运营实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7566935487341201705.md) |
-| MiniMax | AIGC产品运营实习-Talkie增长方向 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7644861707151657266.md) |
-| MiniMax | AIGC产品运营实习生 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7573946707743033638.md) |
-| MiniMax | KOL运营- AIGC增长 〔28/29届 · ≥6个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7639272753229842715.md) |
-| 月之暗面 | AI-native 活动与内容运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-08b3139e-40da-442b-b5a2-e5477055ead3.md) |
+| MiniMax | 安全运营实习生 〔27届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7640039643669072169.md) |
+| MiniMax | AI开放平台运营实习生 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7566935487341201705.md) |
+| MiniMax | AIGC产品运营实习-Talkie增长方向 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7644861707151657266.md) |
+| MiniMax | AIGC产品运营实习生 | 上海/北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7573946707743033638.md) |
+| MiniMax | KOL运营- AIGC增长 〔28/29届 · ≥6个月〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7639272753229842715.md) |
+| 月之暗面 | AI-native 活动与内容运营实习生 ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-08b3139e-40da-442b-b5a2-e5477055ead3.md) |
 | 网易 | 社区运营实习生岗 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78753.md) |
 | 网易 | 投放运营实习生 〔27/28届 · ≥3个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-75812.md) |
 | 网易 | 游戏测评实习生（UGC内容生产）-游戏美术AI方向 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78681.md) |
@@ -31,13 +32,12 @@
 | 网易 | 运营策划日常实习生（产品运营方向）（2个团队） 〔≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [1](../../jobs/netease-79125.md) [2](../../jobs/netease-79127.md) |
 | 网易 | 运营实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78616.md) |
 | 网易 | AI视频运营实习生（视觉制作方向） 〔27/28届 · ≥4个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-79519.md) |
-| 蔚来 | 实习-项目运营实习生（校招方向） 〔28/29届 · ≥3个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7165784944990603551.md) |
-| 蔚来 | 校招-交付运营（交付体验师）-上海 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7676072062800824639.md) |
-| 蔚来 | 校招-新媒体运营（主播）-上海 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7676072062800529727.md) |
-| 商汤科技 | 大模型品牌运营实习生 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7699039891330812170.md) |
-| 商汤科技 | 云服务维保运营实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7663076462543587594.md) |
-| 商汤科技 | AI 产品运营实习生（产品+增长+内容方向） 〔≥3个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7682724690758338835.md) |
-| 阶跃星辰 | 运营实习生（专家访谈运营 ） ⚠️链接待核 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/stepfun-fffe6d6e-0a46-49ec-95d1-3999dc928cab.md) |
+| 蔚来 | 实习-项目运营实习生（校招方向） 〔28/29届 · ≥3个月〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7165784944990603551.md) |
+| 蔚来 | 校招-交付运营（交付体验师）-上海 〔27届〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7676072062800824639.md) |
+| 商汤科技 | 大模型品牌运营实习生 〔≥6个月，每周≥5天〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7699039891330812170.md) |
+| 商汤科技 | 云服务维保运营实习生 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7663076462543587594.md) |
+| 商汤科技 | AI 产品运营实习生（产品+增长+内容方向） 〔≥3个月〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7682724690758338835.md) |
+| 阶跃星辰 | 运营实习生（专家访谈运营 ） ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/stepfun-fffe6d6e-0a46-49ec-95d1-3999dc928cab.md) |
 | 腾讯 | 产品运营 | 深圳/北京/上海/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1212816229455368192.md) |
 | 腾讯 | 产品运营 | 深圳/北京/上海/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1218257147532668928.md) |
 | 腾讯 | 内容创作 | 深圳/北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1224696469513274368.md) |

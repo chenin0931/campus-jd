@@ -1,16 +1,17 @@
-# 北京 · 实习 · AI产品 · 全部公司（257 个岗位）（第 1/9 页）
+# 北京 · 实习 · AI产品 · 全部公司（260 个岗位）（第 1/9 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 144](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 35](../../slices/baidu/intern/ai-product/beijing.md) · [美团 14](../../slices/meituan/intern/ai-product/beijing.md) · [月之暗面 13](../../slices/moonshot/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/intern/ai-product/beijing.md) · [爱奇艺 3](../../slices/iqiyi/intern/ai-product/beijing.md) · [贝壳 3](../../slices/ke/intern/ai-product/beijing.md) · [360 2](../../slices/360/intern/ai-product/beijing.md) · [MiniMax 2](../../slices/minimax/intern/ai-product/beijing.md) · [商汤科技 2](../../slices/sensetime/intern/ai-product/beijing.md) · [生数科技 2](../../slices/shengshu/intern/ai-product/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/ai-product/beijing.md) · [零一万物 1](../../slices/01ai/intern/ai-product/beijing.md) · [智平方 1](../../slices/ai2robotics/intern/ai-product/beijing.md) · [爱诗科技 1](../../slices/aisphere/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [光轮智能 1](../../slices/lightwheel/intern/ai-product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/ai-product/beijing.md) · [Manus 1](../../slices/manus/intern/ai-product/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/ai-product/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md) · [小鹏汽车 1](../../slices/xpeng/intern/ai-product/beijing.md) · [知乎 1](../../slices/zhihu/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 144](../../slices/bytedance/intern/ai-product/beijing.md) · [百度 35](../../slices/baidu/intern/ai-product/beijing.md) · [美团 14](../../slices/meituan/intern/ai-product/beijing.md) · [月之暗面 13](../../slices/moonshot/intern/ai-product/beijing.md) · [小红书 10](../../slices/xiaohongshu/intern/ai-product/beijing.md) · [小米 10](../../slices/xiaomi/intern/ai-product/beijing.md) · [贝壳 4](../../slices/ke/intern/ai-product/beijing.md) · [蚂蚁集团 3](../../slices/antgroup/intern/ai-product/beijing.md) · [爱奇艺 3](../../slices/iqiyi/intern/ai-product/beijing.md) · [360 2](../../slices/360/intern/ai-product/beijing.md) · [零一万物 2](../../slices/01ai/intern/ai-product/beijing.md) · [MiniMax 2](../../slices/minimax/intern/ai-product/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/ai-product/beijing.md) · [商汤科技 2](../../slices/sensetime/intern/ai-product/beijing.md) · [生数科技 2](../../slices/shengshu/intern/ai-product/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/ai-product/beijing.md) · [智平方 1](../../slices/ai2robotics/intern/ai-product/beijing.md) · [爱诗科技 1](../../slices/aisphere/intern/ai-product/beijing.md) · [快手 1](../../slices/kuaishou/intern/ai-product/beijing.md) · [光轮智能 1](../../slices/lightwheel/intern/ai-product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/ai-product/beijing.md) · [Manus 1](../../slices/manus/intern/ai-product/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/ai-product/beijing.md) · [腾讯 1](../../slices/tencent/intern/ai-product/beijing.md) · [小鹏汽车 1](../../slices/xpeng/intern/ai-product/beijing.md) · [知乎 1](../../slices/zhihu/intern/ai-product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 零一万物 | 哈萨克语 / 俄语实习生（Kazakh / Russian Transcription Intern） 〔≥3个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/01ai-7698965797247240458.md) |
-| 360 | AI产品实习生（北京）-4872(J12150) 〔≥6个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-667aeffb-8a09-413e-a9fd-707e44d254f1.md) |
-| 360 | AI产品实习生（北京）-4883(J12024) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-5db2d7b7-448e-4624-bb92-f96321a7a392.md) |
-| 智平方 | 产品实习生（具身智能软件平台方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/ai2robotics-7674881129581807922.md) |
-| 爱诗科技 | AI视频产品实习生 〔28/29届 · ≥4个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/aisphere-7599625887147624710.md) |
+| 零一万物 | 印尼语（Indonesian Transcription Intern） ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/01ai-7702374478232504585.md) |
+| 零一万物 | 哈萨克语 / 俄语实习生（Kazakh / Russian Transcription Intern） 〔≥3个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/01ai-7698965797247240458.md) |
+| 360 | AI产品实习生（北京）-4872(J12150) 〔≥6个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-667aeffb-8a09-413e-a9fd-707e44d254f1.md) |
+| 360 | AI产品实习生（北京）-4883(J12024) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-5db2d7b7-448e-4624-bb92-f96321a7a392.md) |
+| 智平方 | 产品实习生（具身智能软件平台方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/ai2robotics-7674881129581807922.md) |
+| 爱诗科技 | AI视频产品实习生 〔28/29届 · ≥4个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/aisphere-7599625887147624710.md) |
 | 蚂蚁集团 | 大模型评测研究实习生 | 北京/上海/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/antgroup-25071405708425.md) |
 | 蚂蚁集团 | 智能体评测工程实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/antgroup-260911012023291.md) |
 | 蚂蚁集团 | 智能体评测理论实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/antgroup-260914012045227.md) |
@@ -35,6 +36,5 @@
 | 百度 | AI 数据产品实习生（语音方向）（J102273） 〔≥6个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-6f945b3c-2223-4b20-aeb5-aae1953dbe46.md) |
 | 百度 | AI agent产品经理（J106863） 〔27/28届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-94ab1ee2-45c7-4522-8292-f971fb496c2b.md) |
 | 百度 | AI产品经理（J106764） 〔28/29届 · ≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-88eaf53d-b89d-4b9a-96c6-6b22791474ac.md) |
-| 百度 | AI产品经理实习生（J106390） 〔≥6个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-bd0f07c8-9087-4499-bc3b-1a57c15aa0cc.md) |
 
 [下一页](intern-ai-product-p2.md) · [总目录](../../llms.txt)

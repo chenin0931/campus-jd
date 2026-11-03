@@ -1,8 +1,8 @@
-# 广州 · 校招 · 运营 · 全部公司（94 个岗位）（第 1/3 页）
+# 广州 · 校招 · 运营 · 全部公司（100 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[小鹏汽车 45](../../slices/xpeng/campus/ops/guangzhou.md) · [京东 12](../../slices/jd/campus/ops/guangzhou.md) · [字节跳动 11](../../slices/bytedance/campus/ops/guangzhou.md) · [阿里巴巴 8](../../slices/alibaba/campus/ops/guangzhou.md) · [美团 6](../../slices/meituan/campus/ops/guangzhou.md) · [得物 3](../../slices/dewu/campus/ops/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/ops/guangzhou.md) · [网易 2](../../slices/netease/campus/ops/guangzhou.md) · [携程 1](../../slices/ctrip/campus/ops/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/ops/guangzhou.md) · [理想汽车 1](../../slices/lixiang/campus/ops/guangzhou.md) · [蔚来 1](../../slices/nio/campus/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小鹏汽车 48](../../slices/xpeng/campus/ops/guangzhou.md) · [京东 12](../../slices/jd/campus/ops/guangzhou.md) · [字节跳动 11](../../slices/bytedance/campus/ops/guangzhou.md) · [阿里巴巴 8](../../slices/alibaba/campus/ops/guangzhou.md) · [美团 6](../../slices/meituan/campus/ops/guangzhou.md) · [得物 3](../../slices/dewu/campus/ops/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/ops/guangzhou.md) · [腾讯音乐 3](../../slices/tme/campus/ops/guangzhou.md) · [网易 2](../../slices/netease/campus/ops/guangzhou.md) · [携程 1](../../slices/ctrip/campus/ops/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/ops/guangzhou.md) · [理想汽车 1](../../slices/lixiang/campus/ops/guangzhou.md) · [蔚来 1](../../slices/nio/campus/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -36,13 +36,13 @@
 | 京东 | 客服管理储备 〔27届〕 | 上海/成都/大同/广州/宿迁/武汉 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9323.md) |
 | 京东 | 客户运营 〔27届〕 | 上海/昆明/北京/成都/广州/深圳/石家庄/郑州/厦门 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9318.md) |
 | 京东 | 门店督导 〔27届〕 | 上海/昆明/呼和浩特/北京/成都/天津/合肥/济南/东莞/佛山/广州/南宁 等 28 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9307.md) |
-| 京东 | 物流运营 〔27届〕 ⚠️链接待核 | 上海/昆明/北京/成都/天津/合肥/德州/济南/青岛/太原/广州/深圳 等 34 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9107.md) |
+| 京东 | 物流运营 〔27届〕 ⚠️链接待核 | 上海/昆明/北京/成都/天津/合肥/德州/济南/青岛/太原/广州/深圳 等 34 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9107.md) |
 | 京东 | 销售运营 〔27届〕 | 上海/-香港/呼和浩特/北京/成都/合肥/济南/青岛/广州/深圳/南宁/乌鲁木齐 等 25 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9052.md) |
-| 京东 | 药房管理储备 〔27届〕 ⚠️链接待核 | 上海/北京/成都/天津/广州/深圳/南京/杭州/武汉/重庆 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9285.md) |
+| 京东 | 药房管理储备 〔27届〕 ⚠️链接待核 | 上海/北京/成都/天津/广州/深圳/南京/杭州/武汉/重庆 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9285.md) |
 | 京东 | 医生经纪人 〔27届〕 | 上海/北京/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9317.md) |
 | 京东 | 营销运营 〔27届〕 | 上海/北京/天津/广州/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9129.md) |
 | 快手 | 游戏运营 | 杭州/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13592.md) |
-| 理想汽车 | 【2027届】服务储备管理-广州市 〔27届〕 ⚠️链接待核 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-245716.md) |
+| 理想汽车 | 【2027届】服务储备管理-广州市 〔27届〕 ⚠️链接待核 | 广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-245716.md) |
 | 美团 | 仓储管理储备岗 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4799524538.md) |
 
 [下一页](campus-ops-p2.md) · [总目录](../../llms.txt)

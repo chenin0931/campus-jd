@@ -1,11 +1,13 @@
-# 北京 · 校招 · 运营 · 全部公司（394 个岗位）（第 8/11 页）
+# 北京 · 校招 · 运营 · 全部公司（397 个岗位）（第 8/11 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 24](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [理想汽车 10](../../slices/lixiang/campus/ops/beijing.md) · [新浪/微博 7](../../slices/weibo/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [知乎 6](../../slices/zhihu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [贝壳 3](../../slices/ke/campus/ops/beijing.md) · [联想 3](../../slices/lenovo/campus/ops/beijing.md) · [360 2](../../slices/360/campus/ops/beijing.md) · [蔚来 2](../../slices/nio/campus/ops/beijing.md) · [腾讯音乐 2](../../slices/tme/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/ops/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 24](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [理想汽车 10](../../slices/lixiang/campus/ops/beijing.md) · [新浪/微博 7](../../slices/weibo/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [知乎 6](../../slices/zhihu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [贝壳 4](../../slices/ke/campus/ops/beijing.md) · [联想 4](../../slices/lenovo/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [腾讯音乐 3](../../slices/tme/campus/ops/beijing.md) · [360 2](../../slices/360/campus/ops/beijing.md) · [蔚来 2](../../slices/nio/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/ops/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 快手 | 内容运营-二次元内容 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13283.md) |
+| 快手 | 内容运营-游戏 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9792.md) |
 | 快手 | 内容运营-运动 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13255.md) |
 | 快手 | 渠道销售运营-生活服务 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11042.md) |
 | 快手 | 渠道运营 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9796.md) |
@@ -24,19 +26,20 @@
 | 快手 | 用户运营-直播公会运营（2个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/kuaishou-12562.md) [2](../../jobs/kuaishou-13344.md) |
 | 快手 | HR-福利活动运营 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11915.md) |
 | 快手 | HR-流程与运营类 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-10775.md) |
-| 联想 | 产品运营 〔27届〕 ⚠️链接待核 | 北京/深圳/天津 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2364.md) |
-| 联想 | 人力资源-薪酬福利与运营方向 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2388.md) |
-| 联想 | 战略运营 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2412.md) |
-| 理想汽车 | 【2027届】服务储备管理-北京市 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-151395.md) |
-| 理想汽车 | 门店运营-陈列设计岗（平面/空间） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-114049.md) |
-| 理想汽车 | 门店运营-体验运营岗 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-86244.md) |
-| 理想汽车 | 销售运营专员（家充业务） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-159045.md) |
-| 理想汽车 | 业务运营专员 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-259131.md) |
-| 理想汽车 | 阵地运营 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-33920.md) |
-| 理想汽车 | 知识运营 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-92196.md) |
-| 理想汽车 | 直播运营专员 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-147304.md) |
-| 理想汽车 | 转化运营专员 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-27260.md) |
-| 理想汽车 | 自动驾驶能力运营产品经理（AI能力运营方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-23069.md) |
+| 联想 | 电商运营-AI方向 〔27届〕 ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/lenovo-2410.md) |
+| 联想 | 产品运营 〔27届〕 ⚠️链接待核 | 北京/深圳/天津 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2364.md) |
+| 联想 | 人力资源-薪酬福利与运营方向 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2388.md) |
+| 联想 | 战略运营 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2412.md) |
+| 理想汽车 | 【2027届】服务储备管理-北京市 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-151395.md) |
+| 理想汽车 | 门店运营-陈列设计岗（平面/空间） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-114049.md) |
+| 理想汽车 | 门店运营-体验运营岗 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-86244.md) |
+| 理想汽车 | 销售运营专员（家充业务） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-159045.md) |
+| 理想汽车 | 业务运营专员 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-259131.md) |
+| 理想汽车 | 阵地运营 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-33920.md) |
+| 理想汽车 | 知识运营 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-92196.md) |
+| 理想汽车 | 直播运营专员 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-147304.md) |
+| 理想汽车 | 转化运营专员 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-27260.md) |
+| 理想汽车 | 自动驾驶能力运营产品经理（AI能力运营方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-23069.md) |
 | 美团 | 财务培训生(财务运营方向) | 北京/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697298859.md) |
 | 美团 | 策略运营 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697302855.md) |
 | 美团 | 产品运营岗 | 杭州/北京/科威特城/香港/上海/西安/利雅得/广州/哈尔滨/武汉/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4696454382.md) |
@@ -45,8 +48,5 @@
 | 美团 | 沟通和关怀AI运营（企业文化） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4695030498.md) |
 | 美团 | 廉正AI运营岗 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4695038327.md) |
 | 美团 | 履约策略运营岗 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4694828673.md) |
-| 美团 | 门店管理储备岗 | 杭州/宁波/无锡/北京/苏州/天津/上海/石家庄/成都/珠海/济南/青岛 等 29 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697361084.md) |
-| 美团 | 人力资源数字化与AI产品经理 （人力运营） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4739169757.md) |
-| 美团 | 商品运营岗 | 北京/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4694862636.md) |
 
 [上一页](campus-ops-p7.md) · [下一页](campus-ops-p9.md) · [总目录](../../llms.txt)

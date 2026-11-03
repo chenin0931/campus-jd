@@ -1,11 +1,18 @@
-# 北京 · 实习 · 产品 · 全部公司（453 个岗位）（第 11/12 页）
+# 北京 · 实习 · 产品 · 全部公司（454 个岗位）（第 11/13 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 美团 | 费控产品实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4840877697.md) |
+| 美团 | 广告产品实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3969981032.md) |
+| 美团 | 美团平台数据产品-AI方向实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4138099640.md) |
+| 美团 | 美团平台搜索工具产品实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4377847854.md) |
+| 美团 | 内容中台产品经理（实习） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3661397768.md) |
+| 美团 | 渠道增长产品实习 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4362239277.md) |
+| 美团 | 商家供给产品经理 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4457054728.md) |
 | 美团 | 商家中心产品实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4249891076.md) |
 | 美团 | 搜索产品实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3955033511.md) |
 | 美团 | 搜推导购产品实习生 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4150674945.md) |
@@ -17,19 +24,20 @@
 | 美团 | 自动驾驶产品实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4468835980.md) |
 | 美团 | 自动驾驶软件-产品实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4686144199.md) |
 | 美团 | Keeta结算产品实习生 〔≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4757565057.md) |
-| 月之暗面 | Kimi 金融产品实习生（PM & Harness 方向） 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-a736b23a-d152-4e8f-abf6-cb954db8be4c.md) |
-| 月之暗面 | Kimi 音频模型与语音产品实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-74098f86-e8c8-4fbd-a590-4e4eeca457c5.md) |
-| 月之暗面 | KimiCode 产品实习生（2个团队） 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/moonshot-46eee6a1-4d51-432c-8bc0-e00aa5793ce3.md) [2](../../jobs/moonshot-ac794113-4a1c-410f-9d31-f46c30d28a06.md) |
+| 月之暗面 | Kimi 金融产品实习生（PM & Harness 方向） 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-a736b23a-d152-4e8f-abf6-cb954db8be4c.md) |
+| 月之暗面 | Kimi 音频模型与语音产品实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/moonshot-74098f86-e8c8-4fbd-a590-4e4eeca457c5.md) |
+| 月之暗面 | KimiCode 产品实习生（2个团队） 〔≥4个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [1](../../jobs/moonshot-46eee6a1-4d51-432c-8bc0-e00aa5793ce3.md) [2](../../jobs/moonshot-ac794113-4a1c-410f-9d31-f46c30d28a06.md) |
 | 网易 | 产品经理实习生（3个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/netease-79332.md) [2](../../jobs/netease-78375.md) [3](../../jobs/netease-77371.md) |
 | 网易 | 产品实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-79175.md) |
 | 网易 | 内容产品经理实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-77413.md) |
 | 网易 | 社区产品实习生 〔≥6个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-76071.md) |
-| 商汤科技 | 产品实习生，云平台 〔27/28届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7686679216117795078.md) |
+| 商汤科技 | 产品实习生，云平台 〔27/28届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7686679216117795078.md) |
 | 腾讯 | 产品策划 | 深圳/北京/上海/广州/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1188988696721092608.md) |
 | 腾讯 | 产品策划 | 深圳/北京/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1212183855952704514.md) |
 | 腾讯 | 产品体验设计 | 深圳/北京/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1224696067023896576.md) |
 | 腾讯 | 技术产品经理 | 深圳/北京/上海/成都/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1224696104600437761.md) |
 | 腾讯 | CSIG技术产品商务培训生 | 西安/深圳/北京/上海/广州/杭州/南京/厦门/香港 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1153452731391100929.md) |
+| 腾讯音乐 | 产品策划 ⚠️链接待核 | 深圳/北京/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14488.md) |
 | 小红书 | 规则策略产品实习生 〔≥5个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20130.md) |
 | 小红书 | 国际化产品经理实习生 〔≥6个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20594.md) |
 | 小红书 | 搜索推荐产品实习生 〔27/28届 · ≥5个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22211.md) |
@@ -37,12 +45,5 @@
 | 小红书 | 小红书创新产品实习生｜记录工具方向 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-21314.md) |
 | 小红书 | 小红书社区产品实习生 - 发布/互动反馈方向 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22245.md) |
 | 小红书 | 小红书搜索产品实习生 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22672.md) |
-| 小红书 | 业务平台产品实习生 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22640.md) |
-| 小红书 | 账号风控产品实习生 〔28/29届 · ≥6个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-20264.md) |
-| 小红书 | 直播策略产品实习生 - 流量策略方向 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22528.md) |
-| 小红书 | 直播产品实习生 | 北京/上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaohongshu-22258.md) |
-| 小米 | 产品经理 〔27/28届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7683345927349193014.md) |
-| 小米 | 产品经理-实习 〔≥6个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7605898417445341503.md) |
-| 小米 | 产品经理-实习-2027届 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7661885577650948379.md) |
 
 [上一页](intern-product-p10.md) · [下一页](intern-product-p12.md) · [总目录](../../llms.txt)

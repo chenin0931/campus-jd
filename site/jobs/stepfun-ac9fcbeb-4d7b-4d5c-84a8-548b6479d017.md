@@ -9,7 +9,7 @@
 - status: active
 - 届别 grad_year: 2027届
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 最近抓取: 2026-11-03
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/campus-recruitment/step/94905#/job/ac9fcbeb-4d7b-4d5c-84a8-548b6479d017（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 

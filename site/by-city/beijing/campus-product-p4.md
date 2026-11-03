@@ -2,7 +2,7 @@
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 101](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [联想 3](../../slices/lenovo/campus/product/beijing.md) · [商汤科技 3](../../slices/sensetime/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [原力灵机 1](../../slices/dexmal/campus/product/beijing.md) · [贝壳 1](../../slices/ke/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md) · [蔚来 1](../../slices/nio/campus/product/beijing.md) · [Shopee 1](../../slices/shopee/campus/product/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/product/beijing.md) · [阶跃星辰 1](../../slices/stepfun/campus/product/beijing.md) · [知乎 1](../../slices/zhihu/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 101](../../slices/bytedance/campus/product/beijing.md) · [小米 40](../../slices/xiaomi/campus/product/beijing.md) · [快手 29](../../slices/kuaishou/campus/product/beijing.md) · [百度 5](../../slices/baidu/campus/product/beijing.md) · [滴滴 4](../../slices/didi/campus/product/beijing.md) · [京东 4](../../slices/jd/campus/product/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/product/beijing.md) · [腾讯 4](../../slices/tencent/campus/product/beijing.md) · [联想 3](../../slices/lenovo/campus/product/beijing.md) · [阿里巴巴 2](../../slices/alibaba/campus/product/beijing.md) · [贝壳 2](../../slices/ke/campus/product/beijing.md) · [商汤科技 2](../../slices/sensetime/campus/product/beijing.md) · [原力灵机 1](../../slices/dexmal/campus/product/beijing.md) · [美团 1](../../slices/meituan/campus/product/beijing.md) · [Shopee 1](../../slices/shopee/campus/product/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/product/beijing.md) · [阶跃星辰 1](../../slices/stepfun/campus/product/beijing.md) · [腾讯音乐 1](../../slices/tme/campus/product/beijing.md) · [知乎 1](../../slices/zhihu/campus/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | 京东 | 技术产品经理 〔27届〕 | 上海/北京/成都/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9085.md) |
 | 京东 | 金融产品经理 〔27届〕 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9122.md) |
 | 京东 | 物流产品服务 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9080.md) |
-| 贝壳 | 数据产品经理【2027届秋招】(J72383) 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/ke-fc6895ff-627b-403d-8d37-7198bdac4128.md) |
+| 贝壳 | 策略产品经理【2027届秋招】(J73043) 〔27届〕 ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/ke-e33beeb1-803a-40b4-a622-a0c77e6e2544.md) |
+| 贝壳 | 数据产品经理【2027届秋招】(J72383) 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/ke-fc6895ff-627b-403d-8d37-7198bdac4128.md) |
 | 快手 | 策略产品经理（2个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/kuaishou-13191.md) [2](../../jobs/kuaishou-9700.md) |
 | 快手 | 策略产品经理-大模型数据 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13500.md) |
 | 快手 | 策略产品经理-商业化方向（2个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/kuaishou-9701.md) [2](../../jobs/kuaishou-13247.md) |
@@ -34,18 +35,16 @@
 | 快手 | 数据产品经理（2个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/kuaishou-13325.md) [2](../../jobs/kuaishou-9733.md) |
 | 快手 | 用户产品经理 | 北京/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13299.md) |
 | 快手 | 用户产品经理 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9734.md) |
-| 联想 | 产品经理-AI方向 〔27届〕 ⚠️链接待核 | 北京/天津 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2362.md) |
-| 联想 | 互联网产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2363.md) |
-| 联想 | 软件产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2405.md) |
-| 理想汽车 | 穿戴机器人-硬件产品 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-126313.md) |
-| 理想汽车 | 理想同学App产品经理 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-98366.md) |
-| 理想汽车 | 内外饰产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-121589.md) |
-| 理想汽车 | 助理产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-130763.md) |
+| 联想 | 产品经理-AI方向 〔27届〕 ⚠️链接待核 | 北京/天津 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2362.md) |
+| 联想 | 互联网产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2363.md) |
+| 联想 | 软件产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2405.md) |
+| 理想汽车 | 穿戴机器人-硬件产品 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-126313.md) |
+| 理想汽车 | 理想同学App产品经理 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-98366.md) |
+| 理想汽车 | 内外饰产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-121589.md) |
+| 理想汽车 | 助理产品经理 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-130763.md) |
 | 美团 | 产品经理岗 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697314739.md) |
-| 蔚来 | 校招-数字产品-NOMI 体验经理 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/nio-7673026973983213870.md) |
-| 商汤科技 | 【27届校招】产品经理-大装置 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7659594497475545354.md) |
-| 商汤科技 | 【27届校招】SenseCore 平台产品经理-大装置 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7659599231297521929.md) |
-| 商汤科技 | 【27届校招】Token服务平台产品经理-大装置 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/sensetime-7659597712514550054.md) |
-| Shopee | （27届秋招）技术产品经理(TPM)-北京 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/shopee-22113ef8-036d-457d-8afe-fdd092b383ba.md) |
+| 商汤科技 | 【27届校招】产品经理-大装置 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7659594497475545354.md) |
+| 商汤科技 | 【27届校招】Token服务平台产品经理-大装置 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7659597712514550054.md) |
+| Shopee | （27届秋招）技术产品经理(TPM)-北京 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/shopee-22113ef8-036d-457d-8afe-fdd092b383ba.md) |
 
 [上一页](campus-product-p3.md) · [下一页](campus-product-p5.md) · [总目录](../../llms.txt)

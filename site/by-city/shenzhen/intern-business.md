@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 商务 · 全部公司（10 个岗位）
+# 深圳 · 实习 · 商务 · 全部公司（11 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 3](../../slices/bytedance/intern/business/shenzhen.md) · [华为 3](../../slices/huawei/intern/business/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/business/shenzhen.md) · [百度 1](../../slices/baidu/intern/business/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 3](../../slices/bytedance/intern/business/shenzhen.md) · [华为 3](../../slices/huawei/intern/business/shenzhen.md) · [腾讯 3](../../slices/tencent/intern/business/shenzhen.md) · [百度 1](../../slices/baidu/intern/business/shenzhen.md) · [腾讯音乐 1](../../slices/tme/intern/business/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -16,5 +16,6 @@
 | 腾讯 | 商务拓展 | 深圳/北京/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1200889496565214209.md) |
 | 腾讯 | 商务拓展 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1228831632895911936.md) |
 | 腾讯 | 投资分析 | 深圳/北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1226875884628486144.md) |
+| 腾讯音乐 | 商务拓展 ⚠️链接待核 | 深圳/北京/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14402.md) |
 
 [总目录](../../llms.txt)

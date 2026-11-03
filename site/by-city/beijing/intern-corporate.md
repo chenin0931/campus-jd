@@ -1,16 +1,17 @@
-# 北京 · 实习 · 职能 · 全部公司（289 个岗位）（第 1/8 页）
+# 北京 · 实习 · 职能 · 全部公司（293 个岗位）（第 1/8 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [360 4](../../slices/360/intern/corporate/beijing.md) · [生数科技 3](../../slices/shengshu/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [月之暗面 2](../../slices/moonshot/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/corporate/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [360 5](../../slices/360/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [面壁智能 3](../../slices/modelbest/intern/corporate/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/beijing.md) · [生数科技 2](../../slices/shengshu/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 零一万物 | 投融资实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/01ai-7399851193384536330.md) |
-| 360 | 采购实习生（北京）-4460(J11988) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-ab417f74-2a01-4778-bf50-a1010dc899e0.md) |
-| 360 | 税务实习生（北京）-3838(J12490) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-4de76ef5-4cba-4e96-8acc-b74c93d3d400.md) |
-| 360 | 税务实习生（北京）-4293(J11981) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-bbd3a0b7-27d2-4a08-8d85-2a35af6b9f30.md) |
-| 360 | 助理安全实习生（漏洞挖掘与利用）（北京）-4938(J12281) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-74309cff-4a25-47ba-91b4-150239b6cde6.md) |
+| 零一万物 | 投融资实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/01ai-7399851193384536330.md) |
+| 360 | HR运营实习生（北京）-5355(J12411) ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/360-3f245140-a65d-4161-8f37-a3e9db5ba861.md) |
+| 360 | 采购实习生（北京）-4460(J11988) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-ab417f74-2a01-4778-bf50-a1010dc899e0.md) |
+| 360 | 税务实习生（北京）-3838(J12490) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-4de76ef5-4cba-4e96-8acc-b74c93d3d400.md) |
+| 360 | 税务实习生（北京）-4293(J11981) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-bbd3a0b7-27d2-4a08-8d85-2a35af6b9f30.md) |
+| 360 | 助理安全实习生（漏洞挖掘与利用）（北京）-4938(J12281) ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-74309cff-4a25-47ba-91b4-150239b6cde6.md) |
 | 百度 | 大模型行业研究及规划助理（J106083） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-f8b9ece0-c31b-4cc1-af33-023e7efdffc1.md) |
 | 百度 | 法务实习生（J82283） 〔≥5个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-b8692b8c-8fa8-4583-af48-e78e0a3caad3.md) |
 | 百度 | 昆仑芯-HR招聘实习生(J12063) 〔26/27届 · ≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-c4995a4a-d3f6-45e6-b1c0-e0b1bf0da3a0.md) |
@@ -35,6 +36,5 @@
 | 字节跳动 | 法务实习生-中国法务 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7221159713273645371.md) |
 | 字节跳动 | 法务实习生-专利方向 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7205134670744652088.md) |
 | 字节跳动 | 风控策略实习生-财经业务 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7597278516148832565.md) |
-| 字节跳动 | 风控策略实习生-国际支付（2个团队） 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/bytedance-7620786224986900789.md) [2](../../jobs/bytedance-7611073748368116021.md) |
 
 [下一页](intern-corporate-p2.md) · [总目录](../../llms.txt)

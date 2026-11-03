@@ -1,8 +1,8 @@
-# 上海 · 校招 · 分析 · 全部公司（78 个岗位）（第 1/2 页）
+# 上海 · 校招 · 分析 · 全部公司（79 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 42](../../slices/bytedance/campus/analysis/shanghai.md) · [蔚来 13](../../slices/nio/campus/analysis/shanghai.md) · [滴滴 4](../../slices/didi/campus/analysis/shanghai.md) · [携程 3](../../slices/ctrip/campus/analysis/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/analysis/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/campus/analysis/shanghai.md) · [京东 2](../../slices/jd/campus/analysis/shanghai.md) · [美团 2](../../slices/meituan/campus/analysis/shanghai.md) · [米哈游 2](../../slices/mihoyo/campus/analysis/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/shanghai.md) · [得物 1](../../slices/dewu/campus/analysis/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/analysis/shanghai.md) · [Shopee 1](../../slices/shopee/campus/analysis/shanghai.md) · [腾讯 1](../../slices/tencent/campus/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 42](../../slices/bytedance/campus/analysis/shanghai.md) · [蔚来 12](../../slices/nio/campus/analysis/shanghai.md) · [滴滴 4](../../slices/didi/campus/analysis/shanghai.md) · [携程 3](../../slices/ctrip/campus/analysis/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/analysis/shanghai.md) · [蚂蚁集团 2](../../slices/antgroup/campus/analysis/shanghai.md) · [京东 2](../../slices/jd/campus/analysis/shanghai.md) · [美团 2](../../slices/meituan/campus/analysis/shanghai.md) · [米哈游 2](../../slices/mihoyo/campus/analysis/shanghai.md) · [腾讯音乐 2](../../slices/tme/campus/analysis/shanghai.md) · [小红书 2](../../slices/xiaohongshu/campus/analysis/shanghai.md) · [得物 1](../../slices/dewu/campus/analysis/shanghai.md) · [拼多多 1](../../slices/pinduoduo/campus/analysis/shanghai.md) · [Shopee 1](../../slices/shopee/campus/analysis/shanghai.md) · [腾讯 1](../../slices/tencent/campus/analysis/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|

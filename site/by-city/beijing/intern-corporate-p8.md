@@ -1,11 +1,16 @@
-# 北京 · 实习 · 职能 · 全部公司（289 个岗位）（第 8/8 页）
+# 北京 · 实习 · 职能 · 全部公司（293 个岗位）（第 8/8 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [360 4](../../slices/360/intern/corporate/beijing.md) · [生数科技 3](../../slices/shengshu/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [月之暗面 2](../../slices/moonshot/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/corporate/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 13](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [360 5](../../slices/360/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [面壁智能 3](../../slices/modelbest/intern/corporate/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/beijing.md) · [生数科技 2](../../slices/shengshu/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 小米 | 国际部招聘实习生 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7445141312175358060.md) |
+| 小米 | 国际校招雇主品牌实习生（人力资源方向） 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7618949364152928566.md) |
+| 小米 | 国际招聘实习生 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7619229908720339210.md) |
+| 小米 | 海外招聘实习生（3个团队） 〔≥3个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/xiaomi-7615914922379938091.md) [2](../../jobs/xiaomi-7588057126959139122.md) [3](../../jobs/xiaomi-7527247855557656684.md) |
+| 小米 | 交付履约采购助理 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7695681188183378186.md) |
 | 小米 | 内控 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7698188817248995594.md) |
 | 小米 | 内控实习生 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7673336644220815643.md) |
 | 小米 | 企业文化专员 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7699328093149088026.md) |
@@ -32,6 +37,6 @@
 | 小米 | ESG报告实习生 〔≥11个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7700951912799815990.md) |
 | 小米 | HRBP实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7622853442826160410.md) |
 | 小米 | HRBP实习生-2027届 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7696113242590021924.md) |
-| 与爱为舞 | HR实习生（招聘） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/yuaiweiwu-dd1da7f3-2749-4e90-838e-3cf43220ce49.md) |
+| 与爱为舞 | HR实习生（招聘） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/yuaiweiwu-dd1da7f3-2749-4e90-838e-3cf43220ce49.md) |
 
 [上一页](intern-corporate-p7.md) · [总目录](../../llms.txt)

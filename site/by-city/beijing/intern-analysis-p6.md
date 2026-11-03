@@ -1,14 +1,11 @@
-# 北京 · 实习 · 分析 · 全部公司（246 个岗位）（第 6/7 页）
+# 北京 · 实习 · 分析 · 全部公司（247 个岗位）（第 6/7 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [360 3](../../slices/360/intern/analysis/beijing.md) · [MiniMax 3](../../slices/minimax/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/analysis/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/analysis/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/analysis/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/analysis/beijing.md) · [知乎 1](../../slices/zhihu/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [360 3](../../slices/360/intern/analysis/beijing.md) · [MiniMax 3](../../slices/minimax/intern/analysis/beijing.md) · [生数科技 3](../../slices/shengshu/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/analysis/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/analysis/beijing.md) · [知乎 1](../../slices/zhihu/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 滴滴 | New Business Transaction-数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-50998855-0169-4fc4-a194-3943038079fd.md) |
-| 滴滴 | PMO-专业咨询实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-bb095812-df50-4a93-9b05-6ab929878e75.md) |
-| 爱奇艺 | 海外会员策略实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7698265399821175067.md) |
 | 京东 | 财务经营分析 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4974.md) |
 | 京东 | 商业分析 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4946.md) |
 | 京东 | 数据分析 〔27届〕 | 北京/济南/广州/乌鲁木齐/石家庄/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4948.md) |
@@ -17,7 +14,7 @@
 | 快手 | 【留用实习】数据分析师 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11509.md) |
 | 快手 | 【留用实习】数据分析师-风控治理方向 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11510.md) |
 | 快手 | 【留用实习】数据科学家 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11512.md) |
-| 理想汽车 | AI应用工程实习生（Agent 与数据方向）—北京 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lixiang-245666.md) |
+| 理想汽车 | AI应用工程实习生（Agent 与数据方向）—北京 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-245666.md) |
 | 美团 | 【2027】Keeta-商业分析实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4692043330.md) |
 | 美团 | 【无人车北斗实习】世界模型实习生（感知数据生成方向） | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4499868041.md) |
 | 美团 | 阿联酋履约商业分析实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4747953767.md) |
@@ -38,15 +35,18 @@
 | 美团 | Keeta-阿联酋商业分析实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4360796338.md) |
 | 美团 | Keeta-商业分析实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4601660687.md) |
 | 美团 | Keeta商分经管中心项目实习生 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3349134267.md) |
-| MiniMax | 大模型数据采集实习生 〔26/27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7514653361226008844.md) |
-| MiniMax | 大模型数据实习生-声音 〔≥3个月，每周≥3天〕 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7683070096784918830.md) |
-| MiniMax | DBA数据库实习生 〔26届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/minimax-7498620051928172827.md) |
-| 面壁智能 | 具身智能数据平台实习生（Infra） 〔≥6个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/modelbest-7695613731863234843.md) |
-| 月之暗面 | 数据基建与数据分析实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/moonshot-4e150423-d852-4b64-b0c2-313ac73168ba.md) |
+| MiniMax | 大模型数据采集实习生 〔26/27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7514653361226008844.md) |
+| MiniMax | 大模型数据实习生-声音 〔≥3个月，每周≥3天〕 | 上海/北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7683070096784918830.md) |
+| MiniMax | DBA数据库实习生 〔26届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/minimax-7498620051928172827.md) |
 | 网易 | 安全策略交付实习生（北京 有转正机会） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-63348.md) |
 | 网易 | 用户研究实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-78151.md) |
+| 生数科技 | 流式视频生成数据策略实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/shengshu-7699820446678681906.md) |
+| 生数科技 | 流式视频生成数据策略实习生S1 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/shengshu-7703397394143529243.md) |
+| 生数科技 | 数据策略实习生（音频） ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/shengshu-7701917222571526442.md) |
 | 腾讯 | 安全策略 | 深圳/北京/广州/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1226957086077102081.md) |
 | 腾讯 | 商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1224067393358393344.md) |
 | 腾讯 | 商业分析 | 深圳/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1227032278660950016.md) |
+| 腾讯 | 项目实习生-商业分析 | 深圳/北京/上海/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1225871633341097984.md) |
+| 腾讯 | 用户研究（2个团队） | 深圳/北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/tencent-1177660287764272128.md) [2](../../jobs/tencent-1210646470286783490.md) |
 
 [上一页](intern-analysis-p5.md) · [下一页](intern-analysis-p7.md) · [总目录](../../llms.txt)

@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 设计 · 全部公司（42 个岗位）
+# 深圳 · 校招 · 设计 · 全部公司（44 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 13](../../slices/bytedance/campus/design/shenzhen.md) · [腾讯 13](../../slices/tencent/campus/design/shenzhen.md) · [OPPO 5](../../slices/oppo/campus/design/shenzhen.md) · [vivo 3](../../slices/vivo/campus/design/shenzhen.md) · [快手 2](../../slices/kuaishou/campus/design/shenzhen.md) · [华为 1](../../slices/huawei/campus/design/shenzhen.md) · [京东 1](../../slices/jd/campus/design/shenzhen.md) · [联想 1](../../slices/lenovo/campus/design/shenzhen.md) · [美团 1](../../slices/meituan/campus/design/shenzhen.md) · [Shopee 1](../../slices/shopee/campus/design/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/campus/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 13](../../slices/bytedance/campus/design/shenzhen.md) · [腾讯 13](../../slices/tencent/campus/design/shenzhen.md) · [OPPO 5](../../slices/oppo/campus/design/shenzhen.md) · [vivo 3](../../slices/vivo/campus/design/shenzhen.md) · [快手 2](../../slices/kuaishou/campus/design/shenzhen.md) · [腾讯音乐 2](../../slices/tme/campus/design/shenzhen.md) · [华为 1](../../slices/huawei/campus/design/shenzhen.md) · [京东 1](../../slices/jd/campus/design/shenzhen.md) · [联想 1](../../slices/lenovo/campus/design/shenzhen.md) · [美团 1](../../slices/meituan/campus/design/shenzhen.md) · [Shopee 1](../../slices/shopee/campus/design/shenzhen.md) · [小红书 1](../../slices/xiaohongshu/campus/design/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -23,14 +23,14 @@
 | 京东 | 创意设计师 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9061.md) |
 | 快手 | 美化设计师 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9960.md) |
 | 快手 | UX设计师 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9954.md) |
-| 联想 | 计算机视觉 〔27届〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/lenovo-2333.md) |
+| 联想 | 计算机视觉 〔27届〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2333.md) |
 | 美团 | 体验设计师 | 北京/上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697273246.md) |
 | OPPO | 动效设计师 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/oppo-1834.md) |
 | OPPO | 交互设计师 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/oppo-1836.md) |
 | OPPO | 营销创意设计师 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/oppo-1801.md) |
 | OPPO | 影像效果设计师 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/oppo-1772.md) |
 | OPPO | UI视觉设计师（软件产品方向） 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/oppo-1832.md) |
-| Shopee | （27届秋招）支付产品设计师 - 深圳 〔27届〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/shopee-e183e323-5c39-45ba-a329-857d75d3e828.md) |
+| Shopee | （27届秋招）支付产品设计师 - 深圳 〔27届〕 ⚠️链接待核 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/shopee-e183e323-5c39-45ba-a329-857d75d3e828.md) |
 | 腾讯 | 2D场景设计 | 深圳/上海/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1282707391506654209.md) |
 | 腾讯 | 2D角色设计 | 深圳/上海/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1282707391506654208.md) |
 | 腾讯 | 3D场景设计 | 深圳/上海/广州/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1282707392714613761.md) |
@@ -44,6 +44,8 @@
 | 腾讯 | 游戏动效设计(UI向) | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1294711245765017600.md) |
 | 腾讯 | 游戏宣发视觉设计 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1283878418584511488.md) |
 | 腾讯 | 游戏GUI视觉设计 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1283878428566955008.md) |
+| 腾讯音乐 | 交互设计 ⚠️链接待核 | 深圳/北京/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-15043.md) |
+| 腾讯音乐 | 视觉设计 ⚠️链接待核 | 深圳/上海/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-11734.md) |
 | vivo | 艺术创意设计师-27届秋招 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/vivo-9fd64b7a-bb24-4abe-88e0-6b3b89d5a198.md) |
 | vivo | UI设计师-27届秋招 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/vivo-907b0d69-a36f-4fc6-a7db-7bab4ff8eeeb.md) |
 | vivo | UI设计师（IOT方向）-27届秋招 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/vivo-d1a07e04-04b5-4939-9b5c-8f8c715c668c.md) |

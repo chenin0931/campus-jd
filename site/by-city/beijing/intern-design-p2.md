@@ -1,11 +1,12 @@
-# 北京 · 实习 · 设计 · 全部公司（111 个岗位）（第 2/3 页）
+# 北京 · 实习 · 设计 · 全部公司（114 个岗位）（第 2/4 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 34](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [爱奇艺 5](../../slices/iqiyi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/design/beijing.md) · [360 2](../../slices/360/intern/design/beijing.md) · [理想汽车 2](../../slices/lixiang/intern/design/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/design/beijing.md) · [爱诗科技 1](../../slices/aisphere/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md) · [贝壳 1](../../slices/ke/intern/design/beijing.md) · [Manus 1](../../slices/manus/intern/design/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 34](../../slices/bytedance/intern/design/beijing.md) · [滴滴 15](../../slices/didi/intern/design/beijing.md) · [百度 11](../../slices/baidu/intern/design/beijing.md) · [快手 10](../../slices/kuaishou/intern/design/beijing.md) · [小米 6](../../slices/xiaomi/intern/design/beijing.md) · [爱奇艺 5](../../slices/iqiyi/intern/design/beijing.md) · [美团 5](../../slices/meituan/intern/design/beijing.md) · [腾讯 4](../../slices/tencent/intern/design/beijing.md) · [小红书 4](../../slices/xiaohongshu/intern/design/beijing.md) · [京东 3](../../slices/jd/intern/design/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/design/beijing.md) · [360 2](../../slices/360/intern/design/beijing.md) · [理想汽车 2](../../slices/lixiang/intern/design/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/design/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/design/beijing.md) · [爱诗科技 1](../../slices/aisphere/intern/design/beijing.md) · [华为 1](../../slices/huawei/intern/design/beijing.md) · [贝壳 1](../../slices/ke/intern/design/beijing.md) · [Manus 1](../../slices/manus/intern/design/beijing.md) · [生数科技 1](../../slices/shengshu/intern/design/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/design/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 字节跳动 | 视觉设计实习生（AI漫剧方向） - 广告业务 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7673124783312570629.md) |
 | 字节跳动 | 视频后期设计实习生-广告 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7353140455461325082.md) |
 | 字节跳动 | 室内设计实习生 - Corporate Services（2个团队） 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/bytedance-7668297647706343685.md) [2](../../jobs/bytedance-7677499638644001077.md) |
 | 字节跳动 | 数据技术（GUI Agent方向）实习生 - AI数据与安全 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7649303455514085637.md) |
@@ -33,15 +34,13 @@
 | 滴滴 | 设计部（7）-设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-2a001f64-b386-42d5-9b78-50cb3e033eb3.md) |
 | 滴滴 | 设计部（9）-海外设计实习生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-fa7ecf1b-7d3d-431e-b482-cb47cc4baaa6.md) |
 | 华为 | ID与UX设计师 | 苏州/东莞/南京/西安/杭州/武汉/成都/北京/上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-30857.md) |
-| 爱奇艺 | 设计实习生（2个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/iqiyi-7514657839323957523.md) [2](../../jobs/iqiyi-7389554876001323305.md) |
-| 爱奇艺 | 设计实习生（电商业务） 〔28届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7571410898280007982.md) |
-| 爱奇艺 | AIGC导演实习生（视觉方向） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7621090035219695908.md) |
-| 爱奇艺 | AIGC动画制片实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iqiyi-7649947819154983204.md) |
+| 爱奇艺 | 美术设计实习生 ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/iqiyi-7657852956712798527.md) |
+| 爱奇艺 | 设计实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7514657839323957523.md) |
+| 爱奇艺 | 设计实习生（电商业务） 〔28届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7571410898280007982.md) |
+| 爱奇艺 | AIGC导演实习生（视觉方向） | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7621090035219695908.md) |
+| 爱奇艺 | AIGC动画制片实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7649947819154983204.md) |
 | 京东 | 创意设计师 〔27届〕 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6742.md) |
 | 京东 | 交互设计师 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4960.md) |
 | 京东 | 视觉设计师 〔27届〕 | 上海/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4958.md) |
-| 贝壳 | 视觉设计【实习】(J72644) 〔≥9个月〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/ke-588c8029-3019-453d-bbff-4431cc64e83e.md) |
-| 快手 | 【留用实习】插画设计师 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11314.md) |
-| 快手 | 【留用实习】创意设计师 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11320.md) |
 
 [上一页](intern-design.md) · [下一页](intern-design-p3.md) · [总目录](../../llms.txt)

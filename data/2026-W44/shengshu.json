@@ -1,16 +1,152 @@
 [
   {
     "company": "生数科技",
-    "title": "财务实习生",
-    "category": "职能",
+    "title": "流式视频生成数据策略实习生S1",
+    "category": "分析",
     "city": [
       "北京"
     ],
-    "requirements": "1、学历与专业背景：本科及以上在校生，财务类相关专业；\n2、职业素养：具备认真负责、细致严谨的处事习惯，拥有较强的沟通理解能力与学习能力，积极进取，主观能动性强；\n3、技能要求：熟练使用 EXCEL 等办公软件。",
+    "requirements": "1、本科及以上在读，影视编导、数字媒体、动画、视觉传达、摄影、计算机、数据科学、人工智能等相关专业优先。\n2、具备较强的视频审美与内容判断力，能从镜头语言、表演与情绪表达角度评价视频质量，能做出专业判断。\n3、有影视制作、视频编辑、视频数据运营、内容评测或质控相关经验；有模型内容评测或 AI 视频标注 SOP 制定经验者优先。\n4、能把主观判断转化为可执行标准，能将“看着假、哪里出戏”等模糊判断拆解为可解释、可复用、可传递给标注团队的规则。\n5、熟练使用 Excel/表格工具，具备基础数据处理能力；有 Python/SQL 基础者优先。\n6、沟通协作能力强，责任心强，保密意识好，能够遵守视频素材、主播形象与版权合规要求。\n7、每周至少实习 4 天，连续实习 3 个月以上，能尽快到岗者优先。\n\n加分项\n1、熟练使用 AI 编程或办公自动化工具，能将重复质检工作沉淀为小流程或小工具。\n2、熟悉主流视频生成模型，了解数字人、实时互动生成方向的行业现状与痛点，并有独立认知。\n3、熟悉剪映、Premiere、达芬奇等基础剪辑工具，能快速核验素材质量。\n4、对直播、短视频、数字人内容有较强感知，能判断主播表现是否自然、稳定、适合训练。\n5、有项目文档输出经验，能撰写采集规范、质检报告、交付说明。",
     "deadline": null,
-    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7698965126002919731/detail",
-    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7698965126002919731/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7703397394143529243/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7703397394143529243/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "视频生成美学实习生（广告营销方向）",
+    "category": "市场",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 本科及以上在读学生，广告、传播、影视、视觉设计、市场营销或相关专业优先。\n2. 对广告与商业影像有兴趣，具备基础审美和品牌意识，能够初步分析广告的创意、产品表达与画面特点。\n3. 具备案例检索、素材筛选和资料整理能力，熟练使用常用表格与文档工具，记录准确、表达清晰。\n4. 对 AI 视频生成有兴趣，具备良好的学习与协作能力；英文案例检索能力加分。\n加分项：有广告 Agency、品牌内容或视觉设计实习经历，或参与过广告案例研究、素材整理、AI 广告生成项目。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7702451452232354111/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7702451452232354111/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "视频生成美学实习生（3D 及游戏方向）",
+    "category": "其他",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 本科及以上在读学生，动画、游戏美术、数字媒体、影视 CG、设计或相关专业优先。\n2. 对游戏美术或三维视觉有持续兴趣，了解角色、场景、材质灯光等至少一个方向，具备基础审美与作品分析能力。\n3. 具备内容检索、素材筛选和资料整理能力。\n4. 对 AI 视频或 3D 生成有兴趣，工作细致，具备良好的学习与协作能力。\n加分项：使用过 Unreal Engine、Unity、Blender、Maya 等任一种工具，或有课程作品、游戏项目、资产整理及 AIGC 实践经验；英文资料检索能力加分。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7702450778589546803/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7702450778589546803/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "视频生成美学实习生（社媒内容方向）",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 本科及以上在读学生，专业不限，传播、广告、影视、数字媒体等相关专业优先。\n2. 熟悉抖音、TikTok、小红书、Instagram、YouTube 等平台中的至少一种，持续关注优质内容与创作者。\n3. 具备基础内容审美与判断能力，能说明作品和创作者的特点；具备检索、筛选及资料整理能力。\n4. 对 AI 视频生成及专业素材建设有兴趣，细致负责，表达清晰，具备良好的学习与协作能力。\n加分项：有创作者研究、内容运营、社媒案例整理或账号实践经验；熟悉多个平台、海外社媒或具备英文检索能力。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7702448106008873225/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7702448106008873225/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "视频生成美学实习生（音频及 MV 方向）",
+    "category": "其他",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 本科及以上在读学生，音乐、录音艺术、声音设计、影视、数字媒体或相关专业优先。\n2. 对 MV、演唱、配音、配乐、音乐制作等至少一个方向有兴趣与基础，具备基本的音乐或视听判断能力。\n3. 具备作品检索、素材筛选和资料整理能力，能够清楚描述素材的声音或音画特点。\n4. 对 AI 音视频生成有兴趣，工作细致，具备良好的学习与沟通协作能力。\n加分项：有演唱、乐器、配音、剪辑、录音或音乐制作等课程、社团或个人项目经验，使用过相关 AI 创作工具。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7702448106008561929/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7702448106008561929/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "视频生成美学实习生（影视动画方向）",
+    "category": "设计",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 本科及以上在读学生，影视、动画、导演、传媒或相关专业优先。\n2. 对影视或动画有持续兴趣与内容积累，了解基础视听语言，能够对作品的风格、镜头或叙事表达进行初步分析。\n3. 具备资料检索、信息核验和整理能力，能清楚记录素材特点与推荐理由；具备英文资料阅读与检索能力者优先。\n4. 对 AI 视频生成及素材研究有兴趣，细致负责，能根据反馈调整工作，具备良好的沟通与协作能力。\n加分项：有个人片单、观影记录、字幕组审校、课程研究、素材整理或 AIGC 影像实践经验。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7702435499314923814/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7702435499314923814/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "数据策略实习生（音频）",
+    "category": "分析",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1、作曲、电子音乐制作、录音艺术、音乐工程等相关专业背景，具备编曲、混音实操经验；\n2、熟悉各类音乐风格，广泛了解常见乐器音色与演奏特征；\n3、扎实掌握音频基础概念，熟悉音质评判、响度、单声道、立体声、声场等音频相关知识（熟悉Dolby Atmos优先）；\n4、具备良好文字表达能力，描述逻辑清晰、用词专业准确；\n5、工作细心踏实，有责任心，执行力强，能够严格遵守标注规范，有音频标注、音频审听、音乐评测相关经验优先；\n6、能够稳定投入标注工作，理解 AI 数据集标注对内容质量的要求。\n7、加分项：有 Suno、Udio 等音乐生成使用经验，以及各种AI Agent提效工具使用经验优先。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7701917222571526442/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7701917222571526442/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "员工关系实习生",
+    "category": "其他",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1、本科及以上学历，人力资源管理、工商管理等相关专业优先；\n2、每周可实习3个工作日以上，能连续实习 3 个月及以上者优先；\n3、熟练掌握Office等办公软件，具备基础的数据整理与分析能力；\n4、具体极强的责任心及细心度，对数据信息敏感，能严格把控工作准确性。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7701300930297579785/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7701300930297579785/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "生数科技",
+    "title": "流式视频生成数据策略实习生",
+    "category": "分析",
+    "city": [
+      "北京"
+    ],
+    "requirements": "职位要求\n1、本科及以上在读，影视编导、数字媒体、动画、视觉传达、摄影、计算机、数据科学、人工智能等相关专业优先。\n2、具备较强的视频审美与内容判断力，能从镜头语言、表演与情绪表达角度评价视频质量，并对数字人表演的口型、表情、眼神、肢体自然度做出专业判断。\n3、有影视制作、视频编辑、视频数据运营、内容评测或质控相关经验；有数字人、虚拟主播、口播、动捕/表捕内容评测或 AI 视频标注 SOP 制定经验者优先。\n4、能把主观判断转化为可执行标准，能将“看着假、哪里出戏”等模糊判断拆解为可解释、可复用、可传递给标注团队的规则。\n5、熟练使用 Excel/表格工具，具备基础数据处理能力；有 Python/SQL 基础者优先。\n6、沟通协作能力强，责任心强，保密意识好，能够遵守视频素材、主播形象与版权合规要求。\n7、每周至少实习 4 天，连续实习 3 个月以上，能尽快到岗者优先。\n加分项\n1、熟练使用 AI 编程或办公自动化工具，能将重复质检工作沉淀为小流程或小工具。\n2、熟悉主流视频生成模型，了解数字人、实时互动生成方向的行业现状与痛点，并有独立认知。\n3、熟悉剪映、Premiere、达芬奇等基础剪辑工具，能快速核验素材质量。\n4、对直播、短视频、数字人内容有较强感知，能判断主播表现是否自然、稳定、适合训练。\n5、有项目文档输出经验，能撰写采集规范、质检报告、交付说明。\n你将获得\n1、参与流式视频生成核心数据策略项目，直接接触数字人模型训练数据闭环。\n2、系统学习 AIGC 数据采集、质检、评测、切片、标注和交付全流程。\n3、在真实业务场景中锻炼内容标准制定、样本管理、跨团队协作和模型效果评估能力。\n4、表现优秀者可获得转正或长期合作机会。",
+    "deadline": null,
+    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7699820446678681906/detail",
+    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7699820446678681906/detail",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",
@@ -27,24 +163,7 @@
     "deadline": null,
     "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7696810175290722579/detail",
     "source_url": "https://shengshu.jobs.feishu.cn/index/position/7696810175290722579/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
-    "job_type": "实习",
-    "region": "国内",
-    "dataset": "初创",
-    "link_check": "待核"
-  },
-  {
-    "company": "生数科技",
-    "title": "CSM实习生",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、本科及以上在读学生，专业不限；\n2、熟练使用办公软件：Excel、Word、PPT等；\n3、具备一定的数据分析能力：能够理解和解读基本的业务数据，如客户使用数据、业务指标数据等，通过数据发现问题和趋势；\n4、良好的沟通能力：具备较强的口头和书面表达能力，能够与团队成员进行有效的沟通，准确理解对方需求并清晰表达自己的观点；\n5、较强的学习能力：对新知识、新技能有强烈的学习意愿和能力；\n6、团队协作精神：能够与部门的同事合作，积极配合团队完成任务，具有良好的团队意识和协作能力。",
-    "deadline": null,
-    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7694882372702406950/detail",
-    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7694882372702406950/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",
@@ -61,7 +180,7 @@
     "deadline": null,
     "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7694512278909815081/detail",
     "source_url": "https://shengshu.jobs.feishu.cn/index/position/7694512278909815081/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",
@@ -78,24 +197,7 @@
     "deadline": null,
     "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7694170898395711795/detail",
     "source_url": "https://shengshu.jobs.feishu.cn/index/position/7694170898395711795/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
-    "job_type": "实习",
-    "region": "国内",
-    "dataset": "初创",
-    "link_check": "待核"
-  },
-  {
-    "company": "生数科技",
-    "title": "海外AI产品运营实习生-D",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、英文表达流利，了解海外用户偏好；\n2、关注海内外AI前沿资讯，对陪伴类产品有了解加分；\n3、熟练使用ai生图、生视频工具加分；\n4、有基本的数据分析能力，数据结果导向，能够透过细节看本质，具备清晰可落地的思考逻辑；\n5、base北京，尽快到岗。\n\n硬性要求：英语CET-6 650分以上，雅思6.5及以上",
-    "deadline": null,
-    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7687430606934870323/detail",
-    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7687430606934870323/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",
@@ -112,41 +214,7 @@
     "deadline": null,
     "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7686424818195384582/detail",
     "source_url": "https://shengshu.jobs.feishu.cn/index/position/7686424818195384582/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
-    "job_type": "实习",
-    "region": "国内",
-    "dataset": "初创",
-    "link_check": "待核"
-  },
-  {
-    "company": "生数科技",
-    "title": "海外运营实习生",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、 中文、日语均可作为工作语言，具备良好的跨语言沟通与书面表达能力；\n2、对AI产品(AIGC、Al视频生成等)有基本了解，有短视频制作、Al视频创作经验，有互联网、AI产品相关实习经验优先；\n3、熟悉日本ACG行业和文化，对二次元创作生态有一定理解；\n4、具有社媒运营或用户运营经验者优先，有过日本市场推广或社群运营的相关经验;\n5、具备良好的沟通能力和执行力，可保证稳定的工作时间。",
-    "deadline": null,
-    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7680777984093309230/detail",
-    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7680777984093309230/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
-    "job_type": "实习",
-    "region": "国内",
-    "dataset": "初创",
-    "link_check": "待核"
-  },
-  {
-    "company": "生数科技",
-    "title": "海外产品运营实习生（英语）",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、27年及以后毕业，本科及以上学历，影视、动画、导演/导剪、戏文、编导、数媒等相关专业；\n2、具备基础视频剪辑能力，熟悉 PR/Final Cut等剪辑工具；\n3、能够使用AI工具，懂Prompt基本逻辑，有AI相关实习/项目经验者优先；\n4、英语可以作为工作语言，性格开朗，喜欢冲浪，热点敏感，对内容创作有热情；\n5、熟悉中外互联网，了解主流社交平台（Discord、Twitter、TikTok、Youtub）；\n6、熟悉Agent 、画布、具有vibe coding能力者优先。",
-    "deadline": null,
-    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7680777482055928090/detail",
-    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7680777482055928090/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",
@@ -163,7 +231,7 @@
     "deadline": null,
     "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7660453086549412134/detail",
     "source_url": "https://shengshu.jobs.feishu.cn/index/position/7660453086549412134/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",
@@ -180,24 +248,7 @@
     "deadline": null,
     "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7652758550867314950/detail",
     "source_url": "https://shengshu.jobs.feishu.cn/index/position/7652758550867314950/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
-    "job_type": "实习",
-    "region": "国内",
-    "dataset": "初创",
-    "link_check": "待核"
-  },
-  {
-    "company": "生数科技",
-    "title": "用户运营",
-    "category": "运营",
-    "city": [
-      "北京"
-    ],
-    "requirements": "1、实习期 4 个月以上；\n2、本科或研究生在读，专业不限；有海外学习或跨文化沟通经验者优先；\n3、熟悉视频剪辑工具（如剪映、Premiere）或AI视频工具（如Runway、Pika、Vidu等）是加分项；\n4、具备基础文案能力，能写简短的活动帖/社群话术；\n5、细心、有耐心，善于与人沟通，对用户反馈能及时响应。",
-    "deadline": null,
-    "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7651528201969666345/detail",
-    "source_url": "https://shengshu.jobs.feishu.cn/index/position/7651528201969666345/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",
@@ -214,7 +265,7 @@
     "deadline": null,
     "apply_url": "https://shengshu.jobs.feishu.cn/index/position/7539749881783617818/detail",
     "source_url": "https://shengshu.jobs.feishu.cn/index/position/7539749881783617818/detail",
-    "fetched_at": "2026-10-27T18:19:20+08:00",
+    "fetched_at": "2026-11-03T19:10:09+08:00",
     "job_type": "实习",
     "region": "国内",
     "dataset": "初创",

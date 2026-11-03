@@ -1,14 +1,13 @@
-# 北京 · 实习 · 项目管理 · 全部公司（49 个岗位）（第 2/2 页）
+# 北京 · 实习 · 项目管理 · 全部公司（48 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 21](../../slices/bytedance/intern/pm/beijing.md) · [小米 7](../../slices/xiaomi/intern/pm/beijing.md) · [美团 6](../../slices/meituan/intern/pm/beijing.md) · [百度 4](../../slices/baidu/intern/pm/beijing.md) · [滴滴 2](../../slices/didi/intern/pm/beijing.md) · [京东 2](../../slices/jd/intern/pm/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/pm/beijing.md) · [360 1](../../slices/360/intern/pm/beijing.md) · [零一万物 1](../../slices/01ai/intern/pm/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/pm/beijing.md) · [网易 1](../../slices/netease/intern/pm/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/pm/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 21](../../slices/bytedance/intern/pm/beijing.md) · [小米 7](../../slices/xiaomi/intern/pm/beijing.md) · [美团 6](../../slices/meituan/intern/pm/beijing.md) · [百度 4](../../slices/baidu/intern/pm/beijing.md) · [滴滴 2](../../slices/didi/intern/pm/beijing.md) · [京东 2](../../slices/jd/intern/pm/beijing.md) · [360 1](../../slices/360/intern/pm/beijing.md) · [流形空间 1](../../slices/manifold/intern/pm/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/pm/beijing.md) · [网易 1](../../slices/netease/intern/pm/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/pm/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/pm/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 千寻智能 | 商业化项目管理实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/spiritai-7685608542334208283.md) |
-| 腾讯音乐 | 车载音乐项目管理 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tme-14891.md) |
-| 腾讯音乐 | 腾讯音乐人演出项目实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tme-14251.md) |
+| 千寻智能 | 商业化项目管理实习生 〔≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/spiritai-7685608542334208283.md) |
+| 腾讯音乐 | 车载音乐项目管理 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14891.md) |
 | 小米 | 车联网项目经理实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7524396173412958317.md) |
 | 小米 | 软件项目经理实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7605478636774918436.md) |
 | 小米 | 项目管理实习生 〔≥4个月，每周≥5天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7657163588175857962.md) |

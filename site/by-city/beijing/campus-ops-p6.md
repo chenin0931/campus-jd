@@ -1,8 +1,8 @@
-# 北京 · 校招 · 运营 · 全部公司（394 个岗位）（第 6/11 页）
+# 北京 · 校招 · 运营 · 全部公司（397 个岗位）（第 6/11 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 24](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [理想汽车 10](../../slices/lixiang/campus/ops/beijing.md) · [新浪/微博 7](../../slices/weibo/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [知乎 6](../../slices/zhihu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [贝壳 3](../../slices/ke/campus/ops/beijing.md) · [联想 3](../../slices/lenovo/campus/ops/beijing.md) · [360 2](../../slices/360/campus/ops/beijing.md) · [蔚来 2](../../slices/nio/campus/ops/beijing.md) · [腾讯音乐 2](../../slices/tme/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/ops/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 24](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [理想汽车 10](../../slices/lixiang/campus/ops/beijing.md) · [新浪/微博 7](../../slices/weibo/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [知乎 6](../../slices/zhihu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [贝壳 4](../../slices/ke/campus/ops/beijing.md) · [联想 4](../../slices/lenovo/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [腾讯音乐 3](../../slices/tme/campus/ops/beijing.md) · [360 2](../../slices/360/campus/ops/beijing.md) · [蔚来 2](../../slices/nio/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/ops/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | 滴滴 | 27届秋招-运力运营顾问（北京） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-dc53db79-3cb8-43a5-9961-a0373f04c2eb.md) |
 | 滴滴 | 27届秋招-AI Operation Analyst（国际化外卖） 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-3972818a-f7bb-442c-9bd9-fa2dfbe76aef.md) |
 | 华为 | 产品运营经理 | 东莞/南京/杭州/北京/上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-38425.md) |
-| 科大讯飞 | 零售运营(J13419) ⚠️链接待核 | 合肥/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/iflytek-f32c3d6f-dff3-4050-bec7-8704f6f984e9.md) |
+| 科大讯飞 | 零售运营(J13419) ⚠️链接待核 | 合肥/北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iflytek-f32c3d6f-dff3-4050-bec7-8704f6f984e9.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/-香港/北京/成都/广州/深圳/乌鲁木齐/日本/南京/苏州/郑州/宁波 等 17 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9222.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳/宿迁 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9119.md) |
 | 京东 | 店长储备 〔27届〕 | 上海/昆明/北京/长春/成都/天津/合肥/宿州/淮南/滁州/芜湖/蚌埠 等 41 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9357.md) |

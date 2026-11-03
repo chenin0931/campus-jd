@@ -1,12 +1,11 @@
-# 北京 · 实习 · 分析 · 全部公司（246 个岗位）（第 4/7 页）
+# 北京 · 实习 · 分析 · 全部公司（247 个岗位）（第 4/7 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [360 3](../../slices/360/intern/analysis/beijing.md) · [MiniMax 3](../../slices/minimax/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/analysis/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/analysis/beijing.md) · [面壁智能 1](../../slices/modelbest/intern/analysis/beijing.md) · [月之暗面 1](../../slices/moonshot/intern/analysis/beijing.md) · [知乎 1](../../slices/zhihu/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 141](../../slices/bytedance/intern/analysis/beijing.md) · [百度 27](../../slices/baidu/intern/analysis/beijing.md) · [美团 21](../../slices/meituan/intern/analysis/beijing.md) · [滴滴 19](../../slices/didi/intern/analysis/beijing.md) · [腾讯 6](../../slices/tencent/intern/analysis/beijing.md) · [小米 6](../../slices/xiaomi/intern/analysis/beijing.md) · [京东 4](../../slices/jd/intern/analysis/beijing.md) · [快手 4](../../slices/kuaishou/intern/analysis/beijing.md) · [360 3](../../slices/360/intern/analysis/beijing.md) · [MiniMax 3](../../slices/minimax/intern/analysis/beijing.md) · [生数科技 3](../../slices/shengshu/intern/analysis/beijing.md) · [小红书 3](../../slices/xiaohongshu/intern/analysis/beijing.md) · [网易 2](../../slices/netease/intern/analysis/beijing.md) · [腾讯音乐 2](../../slices/tme/intern/analysis/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/analysis/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/analysis/beijing.md) · [知乎 1](../../slices/zhihu/intern/analysis/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 字节跳动 | 数据分析运营实习生-TikTok安全产品 〔27届 · ≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7624099337807038773.md) |
 | 字节跳动 | 数据科学（安全产品方向）实习生-TikTok | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7659284938604644661.md) |
 | 字节跳动 | 数据科学（产品分析）实习生 - TikTok Shop 〔≥6个月，每周≥5天〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7673441181340829957.md) |
 | 字节跳动 | 数据科学（搜推）实习生 - TikTok Shop | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7687815326490773765.md) |
@@ -39,5 +38,7 @@
 | 字节跳动 | 校招人才策略实习生-人力与管理部 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7611799789552453893.md) |
 | 字节跳动 | 营销数据科学实习生 - TikTok Shop | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7680812639971002677.md) |
 | 字节跳动 | 用户研究实习生-经营办公室（用户研究） 〔每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7541233422347798791.md) |
+| 字节跳动 | 用户增长数据分析实习生-TikTok产品 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7602848498828986677.md) |
+| 字节跳动 | 战略/经营分析实习生 - 国际支付 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7626232264976107781.md) |
 
 [上一页](intern-analysis-p3.md) · [下一页](intern-analysis-p5.md) · [总目录](../../llms.txt)

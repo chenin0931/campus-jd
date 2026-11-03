@@ -1,13 +1,11 @@
-# 上海 · 校招 · 运营 · 全部公司（375 个岗位）（第 3/11 页）
+# 上海 · 校招 · 运营 · 全部公司（380 个岗位）（第 3/11 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 163](../../slices/bytedance/campus/ops/shanghai.md) · [得物 78](../../slices/dewu/campus/ops/shanghai.md) · [蔚来 22](../../slices/nio/campus/ops/shanghai.md) · [京东 16](../../slices/jd/campus/ops/shanghai.md) · [智元机器人 15](../../slices/agibot/campus/ops/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/ops/shanghai.md) · [携程 11](../../slices/ctrip/campus/ops/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/ops/shanghai.md) · [美团 9](../../slices/meituan/campus/ops/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/ops/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/shanghai.md) · [快手 4](../../slices/kuaishou/campus/ops/shanghai.md) · [阶跃星辰 4](../../slices/stepfun/campus/ops/shanghai.md) · [腾讯 4](../../slices/tencent/campus/ops/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ops/shanghai.md) · [网易 2](../../slices/netease/campus/ops/shanghai.md) · [小鹏汽车 2](../../slices/xpeng/campus/ops/shanghai.md) · [百度 1](../../slices/baidu/campus/ops/shanghai.md) · [滴滴 1](../../slices/didi/campus/ops/shanghai.md) · [华为 1](../../slices/huawei/campus/ops/shanghai.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/shanghai.md) · [理想汽车 1](../../slices/lixiang/campus/ops/shanghai.md) · [商汤科技 1](../../slices/sensetime/campus/ops/shanghai.md) · [小米 1](../../slices/xiaomi/campus/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 163](../../slices/bytedance/campus/ops/shanghai.md) · [得物 78](../../slices/dewu/campus/ops/shanghai.md) · [蔚来 23](../../slices/nio/campus/ops/shanghai.md) · [京东 16](../../slices/jd/campus/ops/shanghai.md) · [智元机器人 13](../../slices/agibot/campus/ops/shanghai.md) · [哔哩哔哩 13](../../slices/bilibili/campus/ops/shanghai.md) · [携程 11](../../slices/ctrip/campus/ops/shanghai.md) · [米哈游 11](../../slices/mihoyo/campus/ops/shanghai.md) · [美团 9](../../slices/meituan/campus/ops/shanghai.md) · [拼多多 6](../../slices/pinduoduo/campus/ops/shanghai.md) · [腾讯音乐 6](../../slices/tme/campus/ops/shanghai.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/shanghai.md) · [快手 4](../../slices/kuaishou/campus/ops/shanghai.md) · [阶跃星辰 4](../../slices/stepfun/campus/ops/shanghai.md) · [腾讯 4](../../slices/tencent/campus/ops/shanghai.md) · [阿里巴巴 2](../../slices/alibaba/campus/ops/shanghai.md) · [网易 2](../../slices/netease/campus/ops/shanghai.md) · [小鹏汽车 2](../../slices/xpeng/campus/ops/shanghai.md) · [百度 1](../../slices/baidu/campus/ops/shanghai.md) · [滴滴 1](../../slices/didi/campus/ops/shanghai.md) · [华为 1](../../slices/huawei/campus/ops/shanghai.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/shanghai.md) · [理想汽车 1](../../slices/lixiang/campus/ops/shanghai.md) · [商汤科技 1](../../slices/sensetime/campus/ops/shanghai.md) · [小米 1](../../slices/xiaomi/campus/ops/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 字节跳动 | 广告产品运营 - 国际化电商广告 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7668247298219018501.md) |
-| 字节跳动 | 广告产品运营 - 国际化商业安全 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7668229503697619253.md) |
 | 字节跳动 | 广告履约运营 - 商业化 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7669688946746165557.md) |
 | 字节跳动 | 国际商业化产品运营 - Pangle 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667845384858618117.md) |
 | 字节跳动 | 合规运营 - 国际支付 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667889676602149125.md) |
@@ -39,5 +37,7 @@
 | 字节跳动 | 内容运营 - 抖音电商 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667935633642080565.md) |
 | 字节跳动 | 内容运营（热点策划方向） - 抖音生活服务 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7673822066950539525.md) |
 | 字节跳动 | 内容质量管理 - TikTok 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7675710536562280757.md) |
+| 字节跳动 | 内容质量与评估 - TikTok 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7680934779415677189.md) |
+| 字节跳动 | 内容质量与评估（阿拉伯语方向） - TikTok 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7680937803145726213.md) |
 
 [上一页](campus-ops-p2.md) · [下一页](campus-ops-p4.md) · [总目录](../../llms.txt)

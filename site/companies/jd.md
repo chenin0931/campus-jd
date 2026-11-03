@@ -1,4 +1,4 @@
-# 京东 总览（在招 157：校招 85，实习 72）
+# 京东 总览（在招 160：校招 88，实习 72）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
@@ -14,7 +14,7 @@
 - 校招·项目管理（3）：[北京 3](../slices/jd/campus/pm/beijing.md) · [其他城市 3](../slices/jd/campus/pm/other.md) · [上海 1](../slices/jd/campus/pm/shanghai.md) · [昆明 1](../slices/jd/campus/pm/kunming.md) · 另 11 城（11 个）见 index.json slices
 - 校招·分析（6）：[北京 6](../slices/jd/campus/analysis/beijing.md) · [其他城市 4](../slices/jd/campus/analysis/other.md) · [上海 2](../slices/jd/campus/analysis/shanghai.md) · [南京 2](../slices/jd/campus/analysis/nanjing.md) · 另 11 城（11 个）见 index.json slices
 - 校招·供应链（3）：[其他城市 7](../slices/jd/campus/supply/other.md) · [北京 3](../slices/jd/campus/supply/beijing.md) · [上海 2](../slices/jd/campus/supply/shanghai.md) · [合肥 2](../slices/jd/campus/supply/hefei.md) · 另 17 城（20 个）见 index.json slices
-- 校招·其他（14）：[其他城市 270](../slices/jd/campus/other/other.md) · [北京 14](../slices/jd/campus/other/beijing.md) · [广州 5](../slices/jd/campus/other/guangzhou.md) · [上海 4](../slices/jd/campus/other/shanghai.md) · 另 29 城（73 个）见 index.json slices
+- 校招·其他（17）：[其他城市 270](../slices/jd/campus/other/other.md) · [北京 14](../slices/jd/campus/other/beijing.md) · [广州 5](../slices/jd/campus/other/guangzhou.md) · [南通 5](../slices/jd/campus/other/nantong.md) · 另 29 城（75 个）见 index.json slices
 - 实习·产品（4）：[北京 4](../slices/jd/intern/product/beijing.md) · [深圳 2](../slices/jd/intern/product/shenzhen.md) · [广州 1](../slices/jd/intern/product/guangzhou.md) · [上海 1](../slices/jd/intern/product/shanghai.md) · 另 2 城（2 个）见 index.json slices
 - 实习·运营（24）：[北京 21](../slices/jd/intern/ops/beijing.md) · [其他城市 18](../slices/jd/intern/ops/other.md) · [上海 10](../slices/jd/intern/ops/shanghai.md) · [深圳 10](../slices/jd/intern/ops/shenzhen.md) · 另 24 城（79 个）见 index.json slices
 - 实习·商务（4）：[北京 4](../slices/jd/intern/business/beijing.md) · [广州 2](../slices/jd/intern/business/guangzhou.md) · [成都 1](../slices/jd/intern/business/chengdu.md) · [南宁 1](../slices/jd/intern/business/nanning.md) · 另 4 城（4 个）见 index.json slices

@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 运营 · 全部公司（156 个岗位）（第 3/5 页）
+# 深圳 · 实习 · 运营 · 全部公司（159 个岗位）（第 3/5 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 74](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 19](../../slices/tencent/intern/ops/shenzhen.md) · [腾讯音乐 14](../../slices/tme/intern/ops/shenzhen.md) · [百度 11](../../slices/baidu/intern/ops/shenzhen.md) · [京东 10](../../slices/jd/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [商汤科技 2](../../slices/sensetime/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md) · [星海图 1](../../slices/galaxea/intern/ops/shenzhen.md) · [自变量机器人 1](../../slices/x2robot/intern/ops/shenzhen.md) · [小鹏汽车 1](../../slices/xpeng/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 74](../../slices/bytedance/intern/ops/shenzhen.md) · [腾讯 19](../../slices/tencent/intern/ops/shenzhen.md) · [腾讯音乐 16](../../slices/tme/intern/ops/shenzhen.md) · [百度 11](../../slices/baidu/intern/ops/shenzhen.md) · [京东 10](../../slices/jd/intern/ops/shenzhen.md) · [哔哩哔哩 7](../../slices/bilibili/intern/ops/shenzhen.md) · [OPPO 6](../../slices/oppo/intern/ops/shenzhen.md) · [美团 4](../../slices/meituan/intern/ops/shenzhen.md) · [滴滴 2](../../slices/didi/intern/ops/shenzhen.md) · [商汤科技 2](../../slices/sensetime/intern/ops/shenzhen.md) · [vivo 2](../../slices/vivo/intern/ops/shenzhen.md) · [小红书 2](../../slices/xiaohongshu/intern/ops/shenzhen.md) · [星海图 1](../../slices/galaxea/intern/ops/shenzhen.md) · [自变量机器人 1](../../slices/x2robot/intern/ops/shenzhen.md) · [小鹏汽车 1](../../slices/xpeng/intern/ops/shenzhen.md) · [知乎 1](../../slices/zhihu/intern/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | 京东 | 供应链运营 〔27届〕 | 北京/深圳/苏州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9149.md) |
 | 京东 | 平台运营 〔27届〕 | 上海/北京/深圳/宿迁 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4922.md) |
 | 京东 | 商家运营 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4930.md) |
-| 京东 | 物流运营 〔27届〕 ⚠️链接待核 | 上海/北京/成都/合肥/德州/太原/广州/深圳/乌鲁木齐/南京/宿迁/苏州 等 22 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4864.md) |
+| 京东 | 物流运营 〔27届〕 ⚠️链接待核 | 上海/北京/成都/合肥/德州/太原/广州/深圳/乌鲁木齐/南京/宿迁/苏州 等 22 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4864.md) |
 | 京东 | 销售运营 〔27届〕 | 上海/昆明/北京/长春/成都/合肥/济南/青岛/广州/深圳/乌鲁木齐/郑州 等 18 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6740.md) |
 | 京东 | 药房储备店长 〔26届〕 | 上海/北京/天津/合肥/广州/深圳/南京/杭州/武汉/重庆 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-5837.md) |
 | 京东 | 营销运营 〔27届〕 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9140.md) |

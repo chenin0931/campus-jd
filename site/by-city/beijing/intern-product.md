@@ -1,14 +1,14 @@
-# 北京 · 实习 · 产品 · 全部公司（453 个岗位）（第 1/12 页）
+# 北京 · 实习 · 产品 · 全部公司（454 个岗位）（第 1/13 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 207](../../slices/bytedance/intern/product/beijing.md) · [百度 64](../../slices/baidu/intern/product/beijing.md) · [滴滴 59](../../slices/didi/intern/product/beijing.md) · [小米 36](../../slices/xiaomi/intern/product/beijing.md) · [美团 25](../../slices/meituan/intern/product/beijing.md) · [快手 12](../../slices/kuaishou/intern/product/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/product/beijing.md) · [爱奇艺 9](../../slices/iqiyi/intern/product/beijing.md) · [网易 6](../../slices/netease/intern/product/beijing.md) · [腾讯 5](../../slices/tencent/intern/product/beijing.md) · [知乎 5](../../slices/zhihu/intern/product/beijing.md) · [京东 4](../../slices/jd/intern/product/beijing.md) · [月之暗面 4](../../slices/moonshot/intern/product/beijing.md) · [零一万物 2](../../slices/01ai/intern/product/beijing.md) · [360 1](../../slices/360/intern/product/beijing.md) · [贝壳 1](../../slices/ke/intern/product/beijing.md) · [理想汽车 1](../../slices/lixiang/intern/product/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/product/beijing.md) · [腾讯音乐 1](../../slices/tme/intern/product/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 零一万物 | 产品实习生 〔27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/01ai-7640037085303474458.md) |
-| 零一万物 | 产品实习生（产品研究与用户体验方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/01ai-7667504757090732298.md) |
-| 360 | 产品实习生（北京）-4553(J11338) 〔25届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/360-929213e4-8c01-4a4f-a162-bbc497ff87c2.md) |
+| 零一万物 | 产品实习生 〔27届 · ≥3个月，每周≥4天〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/01ai-7640037085303474458.md) |
+| 零一万物 | 产品实习生（产品研究与用户体验方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/01ai-7667504757090732298.md) |
+| 360 | 产品实习生（北京）-4553(J11338) 〔25届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/360-929213e4-8c01-4a4f-a162-bbc497ff87c2.md) |
 | 百度 | 百度 - 搜索产品经理实习生（J79492）（2个团队） 〔≥4个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/baidu-3faa8c71-ec0e-4a89-90eb-202a2118d050.md) [2](../../jobs/baidu-113bfe98-fcbf-43c7-90ec-39e4f7d36faf.md) |
 | 百度 | 百度APP产品实习生（多端方向）（J105995） 〔≥3个月〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-7d5b645f-43db-4274-a801-1766a27a8e09.md) |
 | 百度 | 采购供应链实习产品经理（J81453） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-6c52d32f-203b-44f7-83c5-548edfcedc95.md) |
@@ -40,6 +40,5 @@
 | 百度 | 汽车搜索产品经理（实习）（J105082） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-51faa6ae-9ec9-4d4f-bd54-4b5ccebd9726.md) |
 | 百度 | 视觉搜索产品实习生（J80952） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-d872401e-3b9c-4662-a4cf-b5048bd0ffa9.md) |
 | 百度 | 数据安全产品经理（实习生）（J95445） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-7f7fb777-531a-4379-8b45-4e860485fc3a.md) |
-| 百度 | 数字人语音产品实习生（J88887） 〔26届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-c0c66881-94c8-4aa6-b330-e20836ec65b6.md) |
 
 [下一页](intern-product-p2.md) · [总目录](../../llms.txt)

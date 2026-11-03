@@ -5,6 +5,6 @@
 没列出的 类型×类别 组合就是没有岗位，不要再猜路径。
 
 - 实习·AI产品（1）：[深圳 1](../slices/manifold/intern/ai-product/shenzhen.md)
-- 实习·项目管理（1）：[深圳 1](../slices/manifold/intern/pm/shenzhen.md)
+- 实习·项目管理（1）：[北京 1](../slices/manifold/intern/pm/beijing.md)
 
 [总目录](../llms.txt)
