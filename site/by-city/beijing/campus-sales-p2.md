@@ -1,11 +1,13 @@
-# 北京 · 校招 · 销售 · 全部公司（53 个岗位）（第 2/2 页）
+# 北京 · 校招 · 销售 · 全部公司（54 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 27](../../slices/bytedance/campus/sales/beijing.md) · [小米 6](../../slices/xiaomi/campus/sales/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/sales/beijing.md) · [京东 3](../../slices/jd/campus/sales/beijing.md) · [快手 3](../../slices/kuaishou/campus/sales/beijing.md) · [百度 2](../../slices/baidu/campus/sales/beijing.md) · [联想 2](../../slices/lenovo/campus/sales/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/sales/beijing.md) · [蔚来 1](../../slices/nio/campus/sales/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/sales/beijing.md) · [腾讯 1](../../slices/tencent/campus/sales/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 27](../../slices/bytedance/campus/sales/beijing.md) · [小米 6](../../slices/xiaomi/campus/sales/beijing.md) · [京东 4](../../slices/jd/campus/sales/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/sales/beijing.md) · [快手 3](../../slices/kuaishou/campus/sales/beijing.md) · [百度 2](../../slices/baidu/campus/sales/beijing.md) · [联想 2](../../slices/lenovo/campus/sales/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/sales/beijing.md) · [蔚来 1](../../slices/nio/campus/sales/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/sales/beijing.md) · [腾讯 1](../../slices/tencent/campus/sales/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 京东 | 解决方案 〔27届〕 | 上海/北京/成都/济南/广州/杭州/兰州/厦门/重庆 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9070.md) |
+| 京东 | 渠道销售 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9130.md) |
 | 快手 | 商业化广告销售 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9753.md) |
 | 快手 | 商业化渠道销售 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9754.md) |
 | 快手 | 商业化KA销售 | 上海/广州/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9752.md) |

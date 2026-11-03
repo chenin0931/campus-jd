@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 销售 · 全部公司（28 个岗位）
+# 深圳 · 校招 · 销售 · 全部公司（29 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 16](../../slices/bytedance/campus/sales/shenzhen.md) · [百度 2](../../slices/baidu/campus/sales/shenzhen.md) · [腾讯 2](../../slices/tencent/campus/sales/shenzhen.md) · [智元机器人 1](../../slices/agibot/campus/sales/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shenzhen.md) · [京东 1](../../slices/jd/campus/sales/shenzhen.md) · [联想 1](../../slices/lenovo/campus/sales/shenzhen.md) · [蔚来 1](../../slices/nio/campus/sales/shenzhen.md) · [商汤科技 1](../../slices/sensetime/campus/sales/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/sales/shenzhen.md) · [小鹏汽车 1](../../slices/xpeng/campus/sales/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 16](../../slices/bytedance/campus/sales/shenzhen.md) · [百度 2](../../slices/baidu/campus/sales/shenzhen.md) · [京东 2](../../slices/jd/campus/sales/shenzhen.md) · [腾讯 2](../../slices/tencent/campus/sales/shenzhen.md) · [智元机器人 1](../../slices/agibot/campus/sales/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shenzhen.md) · [联想 1](../../slices/lenovo/campus/sales/shenzhen.md) · [蔚来 1](../../slices/nio/campus/sales/shenzhen.md) · [商汤科技 1](../../slices/sensetime/campus/sales/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/sales/shenzhen.md) · [小鹏汽车 1](../../slices/xpeng/campus/sales/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | 字节跳动 | 国际AI增长销售 - 火山引擎 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7680144862659922181.md) |
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 北京/上海/成都/武汉/深圳/杭州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667154545639246085.md) |
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667544823326509365.md) |
-| 京东 | 大客户销售 〔27届〕 | 上海/昆明/北京/长春/成都/广州/深圳/南昌/杭州/武汉/大连/沈阳 等 13 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9079.md) |
+| 京东 | 销售拓展 〔27届〕 | 上海/昆明/北京/长春/乐山/成都/天津/银川/合肥/济南/太原/东莞 等 81 城 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9394.md) |
+| 京东 | 大客户销售 〔27届〕 | 上海/昆明/北京/长春/成都/广州/深圳/南昌/杭州/武汉/大连/沈阳 等 13 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9079.md) |
 | 联想 | 销售-to B方向 〔27届〕 ⚠️链接待核 | 海口/北京/深圳/天津/无锡 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2377.md) |
 | 蔚来 | 校招正式-蔚来顾问（25/26可投）-深圳 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7676071840900630838.md) |
 | 商汤科技 | 【27届校招】售前解决方案经理-大装置 〔27届〕 | 北京/上海/深圳/成都 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7659351910298274054.md) |

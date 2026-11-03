@@ -1,8 +1,8 @@
-# 上海 · 校招 · 销售 · 全部公司（49 个岗位）（第 1/2 页）
+# 上海 · 校招 · 销售 · 全部公司（50 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 30](../../slices/bytedance/campus/sales/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/sales/shanghai.md) · [百度 2](../../slices/baidu/campus/sales/shanghai.md) · [科大讯飞 2](../../slices/iflytek/campus/sales/shanghai.md) · [京东 2](../../slices/jd/campus/sales/shanghai.md) · [腾讯 2](../../slices/tencent/campus/sales/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/sales/shanghai.md) · [携程 1](../../slices/ctrip/campus/sales/shanghai.md) · [得物 1](../../slices/dewu/campus/sales/shanghai.md) · [快手 1](../../slices/kuaishou/campus/sales/shanghai.md) · [蔚来 1](../../slices/nio/campus/sales/shanghai.md) · [商汤科技 1](../../slices/sensetime/campus/sales/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/campus/sales/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 30](../../slices/bytedance/campus/sales/shanghai.md) · [智元机器人 3](../../slices/agibot/campus/sales/shanghai.md) · [京东 3](../../slices/jd/campus/sales/shanghai.md) · [百度 2](../../slices/baidu/campus/sales/shanghai.md) · [科大讯飞 2](../../slices/iflytek/campus/sales/shanghai.md) · [腾讯 2](../../slices/tencent/campus/sales/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/shanghai.md) · [哔哩哔哩 1](../../slices/bilibili/campus/sales/shanghai.md) · [携程 1](../../slices/ctrip/campus/sales/shanghai.md) · [得物 1](../../slices/dewu/campus/sales/shanghai.md) · [快手 1](../../slices/kuaishou/campus/sales/shanghai.md) · [蔚来 1](../../slices/nio/campus/sales/shanghai.md) · [商汤科技 1](../../slices/sensetime/campus/sales/shanghai.md) · [阶跃星辰 1](../../slices/stepfun/campus/sales/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|

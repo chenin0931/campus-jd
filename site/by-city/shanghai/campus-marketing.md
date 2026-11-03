@@ -1,8 +1,8 @@
-# 上海 · 校招 · 市场 · 全部公司（51 个岗位）（第 1/2 页）
+# 上海 · 校招 · 市场 · 全部公司（52 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[米哈游 10](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 5](../../slices/bytedance/campus/marketing/shanghai.md) · [网易 4](../../slices/netease/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [蔚来 3](../../slices/nio/campus/marketing/shanghai.md) · [阶跃星辰 3](../../slices/stepfun/campus/marketing/shanghai.md) · [智元机器人 2](../../slices/agibot/campus/marketing/shanghai.md) · [拼多多 2](../../slices/pinduoduo/campus/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [科大讯飞 1](../../slices/iflytek/campus/marketing/shanghai.md) · [京东 1](../../slices/jd/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md) · [MiniMax 1](../../slices/minimax/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[米哈游 10](../../slices/mihoyo/campus/marketing/shanghai.md) · [哔哩哔哩 8](../../slices/bilibili/campus/marketing/shanghai.md) · [字节跳动 5](../../slices/bytedance/campus/marketing/shanghai.md) · [网易 4](../../slices/netease/campus/marketing/shanghai.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/shanghai.md) · [蔚来 3](../../slices/nio/campus/marketing/shanghai.md) · [阶跃星辰 3](../../slices/stepfun/campus/marketing/shanghai.md) · [智元机器人 2](../../slices/agibot/campus/marketing/shanghai.md) · [京东 2](../../slices/jd/campus/marketing/shanghai.md) · [拼多多 2](../../slices/pinduoduo/campus/marketing/shanghai.md) · [腾讯 2](../../slices/tencent/campus/marketing/shanghai.md) · [阿里巴巴 1](../../slices/alibaba/campus/marketing/shanghai.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shanghai.md) · [百度 1](../../slices/baidu/campus/marketing/shanghai.md) · [得物 1](../../slices/dewu/campus/marketing/shanghai.md) · [科大讯飞 1](../../slices/iflytek/campus/marketing/shanghai.md) · [美团 1](../../slices/meituan/campus/marketing/shanghai.md) · [MiniMax 1](../../slices/minimax/campus/marketing/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | 字节跳动 | 营销工具产品经理（AI方向） - TikTok Shop 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7675675169187219717.md) |
 | 得物 | 【27届校招】社区&增长法务BP 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/dewu-7670376394703046962.md) |
 | 科大讯飞 | 品牌经理-策略与运营（海外方向）(J14486) ⚠️链接待核 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iflytek-a0d15fb0-829d-46c2-9661-219578ed7ebb.md) |
-| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9043.md) |
+| 京东 | 市场营销 〔27届〕 | 上海/北京/广州/深圳/武汉/沈阳 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9073.md) |
+| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9043.md) |
 | 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海 等 36 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | 米哈游 | 东南亚品牌策略岗 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-9464.md) |
 | 米哈游 | 国际化市场公关 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-9089.md) |
@@ -44,6 +45,5 @@
 | 蔚来 | 校招-技术营销策略 ⚠️链接待核 | 上海 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/nio-7673027221095942451.md) |
 | 蔚来 | 校招-电力市场技术管培生 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7673027180082891018.md) |
 | 蔚来 | 校招-品牌管理 〔27届〕 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7673027188024035635.md) |
-| 拼多多 | 市场管培生（上海） 〔27届〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/pinduoduo-ba49c098-6493-4b55-a4d5-3af01d362fc7.md) |
 
 [下一页](campus-marketing-p2.md) · [总目录](../../llms.txt)

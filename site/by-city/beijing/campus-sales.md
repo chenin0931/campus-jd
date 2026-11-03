@@ -1,8 +1,8 @@
-# 北京 · 校招 · 销售 · 全部公司（53 个岗位）（第 1/2 页）
+# 北京 · 校招 · 销售 · 全部公司（54 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 27](../../slices/bytedance/campus/sales/beijing.md) · [小米 6](../../slices/xiaomi/campus/sales/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/sales/beijing.md) · [京东 3](../../slices/jd/campus/sales/beijing.md) · [快手 3](../../slices/kuaishou/campus/sales/beijing.md) · [百度 2](../../slices/baidu/campus/sales/beijing.md) · [联想 2](../../slices/lenovo/campus/sales/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/sales/beijing.md) · [蔚来 1](../../slices/nio/campus/sales/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/sales/beijing.md) · [腾讯 1](../../slices/tencent/campus/sales/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 27](../../slices/bytedance/campus/sales/beijing.md) · [小米 6](../../slices/xiaomi/campus/sales/beijing.md) · [京东 4](../../slices/jd/campus/sales/beijing.md) · [理想汽车 4](../../slices/lixiang/campus/sales/beijing.md) · [快手 3](../../slices/kuaishou/campus/sales/beijing.md) · [百度 2](../../slices/baidu/campus/sales/beijing.md) · [联想 2](../../slices/lenovo/campus/sales/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/sales/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/sales/beijing.md) · [蔚来 1](../../slices/nio/campus/sales/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/sales/beijing.md) · [腾讯 1](../../slices/tencent/campus/sales/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/sales/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -36,8 +36,7 @@
 | 字节跳动 | 云与AI咨询销售 - 火山引擎 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7668260451848702261.md) |
 | 字节跳动 | 云与AI咨询销售（汽车行业线） - 火山引擎（2个团队） 〔27届〕 | 北京/上海 | 2026-10-27 | 2026-10-27 | [1](../../jobs/bytedance-7694957404425832757.md) [2](../../jobs/bytedance-7694611254162524469.md) |
 | 科大讯飞 | 客户经理（大量HC）(J13416) ⚠️链接待核 | 合肥/北京/南京/广州市/深圳/成都/武汉/石家庄/上海/杭州/郑州/济南/昆明 等 20 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iflytek-38203de4-99e6-4a78-97c0-f32f50a0039c.md) |
-| 京东 | 大客户销售 〔27届〕 | 上海/昆明/北京/长春/成都/广州/深圳/南昌/杭州/武汉/大连/沈阳 等 13 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9079.md) |
-| 京东 | 解决方案 〔27届〕 | 上海/北京/成都/济南/广州/杭州/兰州/厦门/重庆 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9070.md) |
-| 京东 | 渠道销售 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9130.md) |
+| 京东 | 销售拓展 〔27届〕 | 上海/昆明/北京/长春/乐山/成都/天津/银川/合肥/济南/太原/东莞 等 81 城 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9394.md) |
+| 京东 | 大客户销售 〔27届〕 | 上海/昆明/北京/长春/成都/广州/深圳/南昌/杭州/武汉/大连/沈阳 等 13 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9079.md) |
 
 [下一页](campus-sales-p2.md) · [总目录](../../llms.txt)

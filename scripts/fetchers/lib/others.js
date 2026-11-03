@@ -81,17 +81,4 @@ async function manus() {
   return { jobs, stat: { raw: L.length } };
 }
 
-// 京东全网增量（jd@全网）：同 fetchers/jd.js 的 campus.jd.com 接口，但不做标题预筛；与 jd.json 去重后只剩大厂抓取器没收的
-async function jdx() {
-  const now = nowIso(), L = [];
-  const city = x => [...new Set((x.requirementVoList || []).flatMap(r => { const v = r.workCity; return typeof v === 'string' ? v.split(/[,，、]/) : Array.isArray(v) ? v.map(c => typeof c === 'string' ? c : c.name || '') : []; }).filter(Boolean))].sort();
-  // pageIndex 从 0 开始（reference/jd.py）。大厂 fetchers/jd.js 从 1 开始，每类漏首页 10 条——全网那 7 条就是这里来的，修 jd.js 时要同时删掉 jd@全网
-  for (const type of ['present', 'internship']) for (let p = 0; ; p++) {
-    const b = (await request(`https://campus.jd.com/api/wx/position/page?type=${type}`, { method: 'POST', headers: JSONH,
-      body: { pageSize: 10, pageIndex: p, parameter: { positionName: '', planIdList: [], jobDirectionCodeList: [], workCityCodeList: [], positionDeptList: [] } } })).body;
-    L.push(...(b.items || []).map(x => ({ ...x, _intern: type === 'internship' }))); if (!b.items?.length || (p + 1) * 10 >= b.totalNumber) break;
-  }
-  const jobs = L.map(x => rec('京东', x.positionName, city(x), x.qualification, `https://campus.jd.com/#/details?id=${x.publishId}`, x._intern || /实习/.test(x.positionName) ? '实习' : '校招', now));
-  return { jobs, stat: { raw: L.length } };
-}
-module.exports = { zhiye, honor, tme, lixiang, lenovo, manus, jdx };
+module.exports = { zhiye, honor, tme, lixiang, lenovo, manus };

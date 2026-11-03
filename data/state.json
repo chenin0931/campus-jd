@@ -37234,7 +37234,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "jd-9057": {
    "first_seen": "2026-10-27",
@@ -37396,7 +37397,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "jd-9035": {
    "first_seen": "2026-10-27",
@@ -37545,7 +37547,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "jd-6371": {
    "first_seen": "2026-10-27",
@@ -63577,6 +63580,72 @@
    "status": "active"
   },
   "zhihu-ab7eba42-6c0d-4ccc-960e-622b0e4a59e9": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9394": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9073": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9076": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9441": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9427": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-5873": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9136": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-5835": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9439": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9390": {
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "last_week": "2026-W44",
+   "status": "active"
+  },
+  "jd-9383": {
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",

@@ -1,12 +1,13 @@
-# 北京 · 校招 · 其他 · 全部公司（76 个岗位）（第 2/2 页）
+# 北京 · 校招 · 其他 · 全部公司（77 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[京东 14](../../slices/jd/campus/other/beijing.md) · [阿里巴巴 13](../../slices/alibaba/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [科大讯飞 4](../../slices/iflytek/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [理想汽车 3](../../slices/lixiang/campus/other/beijing.md) · [腾讯 3](../../slices/tencent/campus/other/beijing.md) · [联想 2](../../slices/lenovo/campus/other/beijing.md) · [网易 2](../../slices/netease/campus/other/beijing.md) · [蔚来 1](../../slices/nio/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md) · [知乎 1](../../slices/zhihu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 15](../../slices/jd/campus/other/beijing.md) · [阿里巴巴 13](../../slices/alibaba/campus/other/beijing.md) · [小米 11](../../slices/xiaomi/campus/other/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/other/beijing.md) · [美团 7](../../slices/meituan/campus/other/beijing.md) · [科大讯飞 4](../../slices/iflytek/campus/other/beijing.md) · [百度 3](../../slices/baidu/campus/other/beijing.md) · [快手 3](../../slices/kuaishou/campus/other/beijing.md) · [理想汽车 3](../../slices/lixiang/campus/other/beijing.md) · [腾讯 3](../../slices/tencent/campus/other/beijing.md) · [联想 2](../../slices/lenovo/campus/other/beijing.md) · [网易 2](../../slices/netease/campus/other/beijing.md) · [蔚来 1](../../slices/nio/campus/other/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/other/beijing.md) · [知乎 1](../../slices/zhihu/campus/other/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 京东 | 综合方向 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9218.md) |
+| 京东 | 营业部/集配站站长 〔27届〕 | 上海/大理白族自治州/昆明/普洱/曲靖/玉溪/乌兰察布/包头/呼和浩特/赤峰/通辽/鄂尔多斯 等 263 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9257.md) |
+| 京东 | 综合方向 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9218.md) |
 | 快手 | 平台治理专员（2个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/kuaishou-13232.md) [2](../../jobs/kuaishou-9805.md) |
 | 快手 | 政务管理 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9858.md) |
 | 联想 | 知识图谱 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2406.md) |

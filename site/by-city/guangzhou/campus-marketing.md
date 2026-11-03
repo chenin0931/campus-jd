@@ -1,8 +1,8 @@
-# 广州 · 校招 · 市场 · 全部公司（26 个岗位）
+# 广州 · 校招 · 市场 · 全部公司（27 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[小鹏汽车 11](../../slices/xpeng/campus/marketing/guangzhou.md) · [网易 6](../../slices/netease/campus/marketing/guangzhou.md) · [阿里巴巴 3](../../slices/alibaba/campus/marketing/guangzhou.md) · [美团 2](../../slices/meituan/campus/marketing/guangzhou.md) · [腾讯 2](../../slices/tencent/campus/marketing/guangzhou.md) · [百度 1](../../slices/baidu/campus/marketing/guangzhou.md) · [京东 1](../../slices/jd/campus/marketing/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小鹏汽车 11](../../slices/xpeng/campus/marketing/guangzhou.md) · [网易 6](../../slices/netease/campus/marketing/guangzhou.md) · [阿里巴巴 3](../../slices/alibaba/campus/marketing/guangzhou.md) · [京东 2](../../slices/jd/campus/marketing/guangzhou.md) · [美团 2](../../slices/meituan/campus/marketing/guangzhou.md) · [腾讯 2](../../slices/tencent/campus/marketing/guangzhou.md) · [百度 1](../../slices/baidu/campus/marketing/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -10,7 +10,8 @@
 | 阿里巴巴 | 游戏营销（日语） | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/alibaba-199907780072.md) |
 | 阿里巴巴 | 游戏营销（SLG） | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/alibaba-199907680011.md) |
 | 百度 | 广州-整合营销策略(J100823) | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/baidu-8d5ba7d0-d0dd-4c20-951a-7e3660922e0b.md) |
-| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9043.md) |
+| 京东 | 市场营销 〔27届〕 | 上海/北京/广州/深圳/武汉/沈阳 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9073.md) |
+| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9043.md) |
 | 美团 | 公共事务岗 | 北京/济南/西安/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697287258.md) |
 | 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海 等 36 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | 网易 | 发行管培生（2个团队） | 杭州/广州 | 2026-10-27 | 2026-10-27 | [1](../../jobs/netease-4735.md) [2](../../jobs/netease-4905.md) |

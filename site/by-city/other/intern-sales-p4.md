@@ -1,8 +1,8 @@
-# 其他城市 · 实习 · 销售 · 全部公司（388 个岗位）（第 4/8 页）
+# 其他城市 · 实习 · 销售 · 全部公司（386 个岗位）（第 4/8 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[蔚来 260](../../slices/nio/intern/sales/other.md) · [理想汽车 59](../../slices/lixiang/intern/sales/other.md) · [小米 27](../../slices/xiaomi/intern/sales/other.md) · [小鹏汽车 23](../../slices/xpeng/intern/sales/other.md) · [华为 8](../../slices/huawei/intern/sales/other.md) · [京东 7](../../slices/jd/intern/sales/other.md) · [腾讯 3](../../slices/tencent/intern/sales/other.md) · [月之暗面 1](../../slices/moonshot/intern/sales/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[蔚来 260](../../slices/nio/intern/sales/other.md) · [理想汽车 59](../../slices/lixiang/intern/sales/other.md) · [小米 27](../../slices/xiaomi/intern/sales/other.md) · [小鹏汽车 23](../../slices/xpeng/intern/sales/other.md) · [华为 8](../../slices/huawei/intern/sales/other.md) · [京东 5](../../slices/jd/intern/sales/other.md) · [腾讯 3](../../slices/tencent/intern/sales/other.md) · [月之暗面 1](../../slices/moonshot/intern/sales/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|

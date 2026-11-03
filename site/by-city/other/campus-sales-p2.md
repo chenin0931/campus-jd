@@ -1,11 +1,13 @@
-# 其他城市 · 校招 · 销售 · 全部公司（100 个岗位）（第 2/2 页）
+# 其他城市 · 校招 · 销售 · 全部公司（152 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[蔚来 39](../../slices/nio/campus/sales/other.md) · [小米 37](../../slices/xiaomi/campus/sales/other.md) · [科大讯飞 4](../../slices/iflytek/campus/sales/other.md) · [荣耀 3](../../slices/honor/campus/sales/other.md) · [理想汽车 3](../../slices/lixiang/campus/sales/other.md) · [字节跳动 2](../../slices/bytedance/campus/sales/other.md) · [华为 2](../../slices/huawei/campus/sales/other.md) · [联想 2](../../slices/lenovo/campus/sales/other.md) · [小鹏汽车 2](../../slices/xpeng/campus/sales/other.md) · [与爱为舞 2](../../slices/yuaiweiwu/campus/sales/other.md) · [智元机器人 1](../../slices/agibot/campus/sales/other.md) · [京东 1](../../slices/jd/campus/sales/other.md) · [腾讯 1](../../slices/tencent/campus/sales/other.md) · [驭势科技 1](../../slices/uisee/campus/sales/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[京东 53](../../slices/jd/campus/sales/other.md) · [蔚来 39](../../slices/nio/campus/sales/other.md) · [小米 37](../../slices/xiaomi/campus/sales/other.md) · [科大讯飞 4](../../slices/iflytek/campus/sales/other.md) · [荣耀 3](../../slices/honor/campus/sales/other.md) · [理想汽车 3](../../slices/lixiang/campus/sales/other.md) · [字节跳动 2](../../slices/bytedance/campus/sales/other.md) · [华为 2](../../slices/huawei/campus/sales/other.md) · [联想 2](../../slices/lenovo/campus/sales/other.md) · [小鹏汽车 2](../../slices/xpeng/campus/sales/other.md) · [与爱为舞 2](../../slices/yuaiweiwu/campus/sales/other.md) · [智元机器人 1](../../slices/agibot/campus/sales/other.md) · [腾讯 1](../../slices/tencent/campus/sales/other.md) · [驭势科技 1](../../slices/uisee/campus/sales/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 蔚来 | 校招正式-蔚来顾问（25/26可投）-泉州 | 泉州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7676297902574274857.md) |
+| 蔚来 | 校招正式-蔚来顾问（25/26可投）-日照 | 日照 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7676071823801649414.md) |
 | 蔚来 | 校招正式-蔚来顾问（25/26可投）-太原 | 太原 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7676071831933061418.md) |
 | 蔚来 | 校招正式-蔚来顾问（25/26可投）-泰州 | 泰州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7676071878809176383.md) |
 | 蔚来 | 校招正式-蔚来顾问（25/26可投）-威海 | 威海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/nio-7676071823801354502.md) |

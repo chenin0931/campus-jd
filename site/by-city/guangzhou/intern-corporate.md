@@ -1,17 +1,16 @@
-# 广州 · 实习 · 职能 · 全部公司（26 个岗位）
+# 广州 · 实习 · 职能 · 全部公司（25 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[网易 11](../../slices/netease/intern/corporate/guangzhou.md) · [京东 4](../../slices/jd/intern/corporate/guangzhou.md) · [小鹏汽车 4](../../slices/xpeng/intern/corporate/guangzhou.md) · [腾讯 3](../../slices/tencent/intern/corporate/guangzhou.md) · [字节跳动 2](../../slices/bytedance/intern/corporate/guangzhou.md) · [腾讯音乐 1](../../slices/tme/intern/corporate/guangzhou.md) · [小米 1](../../slices/xiaomi/intern/corporate/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[网易 11](../../slices/netease/intern/corporate/guangzhou.md) · [小鹏汽车 4](../../slices/xpeng/intern/corporate/guangzhou.md) · [京东 3](../../slices/jd/intern/corporate/guangzhou.md) · [腾讯 3](../../slices/tencent/intern/corporate/guangzhou.md) · [字节跳动 2](../../slices/bytedance/intern/corporate/guangzhou.md) · [腾讯音乐 1](../../slices/tme/intern/corporate/guangzhou.md) · [小米 1](../../slices/xiaomi/intern/corporate/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
 | 字节跳动 | 招聘实习生 - 产品研发 〔≥4个月，每周≥4天〕 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7545410474285795592.md) |
 | 字节跳动 | 招聘实习生-TikTok Shop | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7480081817573460232.md) |
-| 京东 | 财务结算 〔26届〕 | 上海/北京/济南/广州/宿迁/郑州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-5853.md) |
-| 京东 | 人力资源（专业方向） 〔27届〕 | 上海/北京/济南/广州/深圳/宿迁/苏州/石家庄/郑州/海口/武汉/长沙 等 15 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4964.md) |
-| 京东 | 行政服务 | 成都/德州/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6673.md) |
-| 京东 | 招标采购 〔27届〕 | 上海/北京/广州/苏州/杭州/武汉/西安 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4988.md) |
+| 京东 | 人力资源（专业方向） 〔27届〕 | 上海/北京/济南/广州/深圳/宿迁/苏州/石家庄/郑州/海口/武汉/长沙 等 15 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4964.md) |
+| 京东 | 行政服务 | 德州/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-6673.md) |
+| 京东 | 招标采购 〔27届〕 | 上海/北京/广州/苏州/杭州/武汉 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4988.md) |
 | 网易 | 部门助理实习生 〔≥3个月，每周≥4天〕 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-71217.md) |
 | 网易 | 税务实习生（广州） 〔≥4个月，每周≥4天〕 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-79484.md) |
 | 网易 | 项目助理（KOL投放游戏） 〔≥3个月，每周≥5天〕 | 广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-70368.md) |

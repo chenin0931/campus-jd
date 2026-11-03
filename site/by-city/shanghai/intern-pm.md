@@ -1,8 +1,8 @@
-# 上海 · 实习 · 项目管理 · 全部公司（29 个岗位）
+# 上海 · 实习 · 项目管理 · 全部公司（30 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 19](../../slices/bytedance/intern/pm/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/intern/pm/shanghai.md) · [腾讯 2](../../slices/tencent/intern/pm/shanghai.md) · [携程 1](../../slices/ctrip/intern/pm/shanghai.md) · [光轮智能 1](../../slices/lightwheel/intern/pm/shanghai.md) · [美团 1](../../slices/meituan/intern/pm/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/pm/shanghai.md) · [蔚来 1](../../slices/nio/intern/pm/shanghai.md) · [商汤科技 1](../../slices/sensetime/intern/pm/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 19](../../slices/bytedance/intern/pm/shanghai.md) · [哔哩哔哩 2](../../slices/bilibili/intern/pm/shanghai.md) · [腾讯 2](../../slices/tencent/intern/pm/shanghai.md) · [携程 1](../../slices/ctrip/intern/pm/shanghai.md) · [京东 1](../../slices/jd/intern/pm/shanghai.md) · [光轮智能 1](../../slices/lightwheel/intern/pm/shanghai.md) · [美团 1](../../slices/meituan/intern/pm/shanghai.md) · [米哈游 1](../../slices/mihoyo/intern/pm/shanghai.md) · [蔚来 1](../../slices/nio/intern/pm/shanghai.md) · [商汤科技 1](../../slices/sensetime/intern/pm/shanghai.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | 字节跳动 | AI项目管理实习生-TikTok-内容安全平台 〔≥6个月〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7630723185363568901.md) |
 | 字节跳动 | PMO实习生-国际电商 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7578735475742607669.md) |
 | 携程 | 创新项目实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/ctrip-MJ030357.md) |
+| 京东 | 项目与流程管理 〔27届〕 | 上海/北京/广州/厦门 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9132.md) |
 | 光轮智能 | 交付项目经理实习生 | 上海 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lightwheel-7678628533900871962.md) |
 | 美团 | 服务零售数仓项目实习生 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3643704509.md) |
 | 米哈游 | 游戏项目管理实习生 〔28/29届 · ≥3个月，每周≥4天〕 | 上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/mihoyo-5794.md) |

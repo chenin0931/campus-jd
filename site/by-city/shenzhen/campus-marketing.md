@@ -1,12 +1,13 @@
-# 深圳 · 校招 · 市场 · 全部公司（18 个岗位）
+# 深圳 · 校招 · 市场 · 全部公司（19 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[OPPO 7](../../slices/oppo/campus/marketing/shenzhen.md) · [腾讯 5](../../slices/tencent/campus/marketing/shenzhen.md) · [美团 2](../../slices/meituan/campus/marketing/shenzhen.md) · [小鹏汽车 2](../../slices/xpeng/campus/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[OPPO 7](../../slices/oppo/campus/marketing/shenzhen.md) · [腾讯 5](../../slices/tencent/campus/marketing/shenzhen.md) · [美团 2](../../slices/meituan/campus/marketing/shenzhen.md) · [小鹏汽车 2](../../slices/xpeng/campus/marketing/shenzhen.md) · [蚂蚁集团 1](../../slices/antgroup/campus/marketing/shenzhen.md) · [京东 1](../../slices/jd/campus/marketing/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/marketing/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
 | 蚂蚁集团 | WF Business 业务增长管培生 | 上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/antgroup-260721011008742.md) |
+| 京东 | 市场营销 〔27届〕 | 上海/北京/广州/深圳/武汉/沈阳 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9073.md) |
 | 美团 | 市场营销岗 | 北京/利雅得/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697313567.md) |
 | 美团 | 营销顾问/商务拓展 | 厦门/福州/杭州/无锡/宁波/北京/温州/苏州/天津/惠州/石家庄/上海 等 36 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697227230.md) |
 | OPPO | 产品营销经理（海外-小语种） 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/oppo-1816.md) |

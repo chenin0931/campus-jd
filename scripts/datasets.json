@@ -82,12 +82,6 @@
       "slug": "lenovo",
       "type": "lenovo",
       "company": "联想"
-    },
-    {
-      "slug": "jd",
-      "file": "jd@全网",
-      "type": "jdx",
-      "company": "京东"
     }
   ],
   "初创": [

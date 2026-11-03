@@ -1,8 +1,8 @@
-# 成都 · 实习 · 职能 · 全部公司（14 个岗位）
+# 成都 · 实习 · 职能 · 全部公司（13 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 4](../../slices/bytedance/intern/corporate/chengdu.md) · [腾讯 4](../../slices/tencent/intern/corporate/chengdu.md) · [滴滴 2](../../slices/didi/intern/corporate/chengdu.md) · [美团 2](../../slices/meituan/intern/corporate/chengdu.md) · [京东 1](../../slices/jd/intern/corporate/chengdu.md) · [网易 1](../../slices/netease/intern/corporate/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 4](../../slices/bytedance/intern/corporate/chengdu.md) · [腾讯 4](../../slices/tencent/intern/corporate/chengdu.md) · [滴滴 2](../../slices/didi/intern/corporate/chengdu.md) · [美团 2](../../slices/meituan/intern/corporate/chengdu.md) · [网易 1](../../slices/netease/intern/corporate/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -11,7 +11,6 @@
 | 字节跳动 | HRIS实习生-管理系统部 〔≥3个月，每周≥4天〕 | 成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7394322966769289481.md) |
 | 滴滴 | 人力资源部-招聘实习生（8） ⚠️链接待核 | 成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-7c221e31-2c31-4c5c-a3af-d6865603f43c.md) |
 | 滴滴 | 人力资源部-招聘实习生（网约车平台） ⚠️链接待核 | 成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-3f8b301f-2c19-42f6-ab72-769935d33aed.md) |
-| 京东 | 行政服务 | 成都/德州/广州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6673.md) |
 | 美团 | 税务合规 | 成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4718009811.md) |
 | 美团 | 招聘实习生 〔≥3个月，每周≥5天〕 | 成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4414331833.md) |
 | 网易 | IT资产实习生（成都） 〔≥6个月〕 | 成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-77642.md) |

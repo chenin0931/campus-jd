@@ -1,8 +1,8 @@
-# 北京 · 实习 · 运营 · 全部公司（811 个岗位）（第 17/25 页）
+# 北京 · 实习 · 运营 · 全部公司（813 个岗位）（第 17/25 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 315](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 71](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 36](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [爱奇艺 24](../../slices/iqiyi/intern/ops/beijing.md) · [京东 21](../../slices/jd/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [理想汽车 12](../../slices/lixiang/intern/ops/beijing.md) · [腾讯 12](../../slices/tencent/intern/ops/beijing.md) · [腾讯音乐 12](../../slices/tme/intern/ops/beijing.md) · [360 8](../../slices/360/intern/ops/beijing.md) · [贝壳 7](../../slices/ke/intern/ops/beijing.md) · [月之暗面 7](../../slices/moonshot/intern/ops/beijing.md) · [知乎 6](../../slices/zhihu/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [生数科技 3](../../slices/shengshu/intern/ops/beijing.md) · [光轮智能 2](../../slices/lightwheel/intern/ops/beijing.md) · [MiniMax 2](../../slices/minimax/intern/ops/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/ops/beijing.md) · [千寻智能 2](../../slices/spiritai/intern/ops/beijing.md) · [零一万物 1](../../slices/01ai/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/ops/beijing.md) · [蔚来 1](../../slices/nio/intern/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/ops/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 315](../../slices/bytedance/intern/ops/beijing.md) · [滴滴 106](../../slices/didi/intern/ops/beijing.md) · [网易 71](../../slices/netease/intern/ops/beijing.md) · [百度 63](../../slices/baidu/intern/ops/beijing.md) · [美团 44](../../slices/meituan/intern/ops/beijing.md) · [小米 36](../../slices/xiaomi/intern/ops/beijing.md) · [快手 27](../../slices/kuaishou/intern/ops/beijing.md) · [爱奇艺 24](../../slices/iqiyi/intern/ops/beijing.md) · [京东 23](../../slices/jd/intern/ops/beijing.md) · [小红书 19](../../slices/xiaohongshu/intern/ops/beijing.md) · [理想汽车 12](../../slices/lixiang/intern/ops/beijing.md) · [腾讯 12](../../slices/tencent/intern/ops/beijing.md) · [腾讯音乐 12](../../slices/tme/intern/ops/beijing.md) · [360 8](../../slices/360/intern/ops/beijing.md) · [贝壳 7](../../slices/ke/intern/ops/beijing.md) · [月之暗面 7](../../slices/moonshot/intern/ops/beijing.md) · [知乎 6](../../slices/zhihu/intern/ops/beijing.md) · [哔哩哔哩 4](../../slices/bilibili/intern/ops/beijing.md) · [生数科技 3](../../slices/shengshu/intern/ops/beijing.md) · [光轮智能 2](../../slices/lightwheel/intern/ops/beijing.md) · [MiniMax 2](../../slices/minimax/intern/ops/beijing.md) · [面壁智能 2](../../slices/modelbest/intern/ops/beijing.md) · [千寻智能 2](../../slices/spiritai/intern/ops/beijing.md) · [零一万物 1](../../slices/01ai/intern/ops/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/intern/ops/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/ops/beijing.md) · [蔚来 1](../../slices/nio/intern/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/intern/ops/beijing.md) · [阶跃星辰 1](../../slices/stepfun/intern/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -30,19 +30,19 @@
 | 爱奇艺 | 运营实习生（版权） | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7389822310495160617.md) |
 | 爱奇艺 | 运营实习生(电商业务） | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7485350285788367154.md) |
 | 爱奇艺 | 智能家居运营实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7700875804058994998.md) |
-| 京东 | 财务运营 〔26届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-5859.md) |
-| 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉 等 17 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4858.md) |
-| 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4914.md) |
-| 京东 | 店长储备 〔26/27届〕 | 上海/昆明/北京/天津/合肥/宿州/淮南/蚌埠/青岛/广州/深圳/南通 等 21 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6371.md) |
-| 京东 | 供应链运营 〔27届〕 | 北京/深圳/苏州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9149.md) |
-| 京东 | 广告运营 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4928.md) |
-| 京东 | 客服运营 〔27届〕 | 北京/成都/广州/宿迁 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9138.md) |
-| 京东 | 客户运营 〔27/28届〕 | 北京/成都/南京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6651.md) |
-| 京东 | 门店运营 〔26届〕 | 上海/北京/南京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6630.md) |
-| 京东 | 门店运营（健康） 〔27届〕 | 北京/泰州 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-5031.md) |
-| 京东 | 内容运营 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4926.md) |
-| 京东 | 平台运营 〔27届〕 | 上海/北京/深圳/宿迁 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4922.md) |
-| 京东 | 人才交付 〔26届〕 | 北京/成都/宿迁/武汉 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-6217.md) |
-| 京东 | 商家运营 〔27届〕 | 上海/北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-4930.md) |
+| 京东 | 服务运营 〔27届〕 | 北京/武汉/沈阳/重庆 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9136.md) |
+| 京东 | 人事运营 〔26届〕 | 昆明/北京/成都/天津/济南/东莞/广州/柳州/宿迁/南昌/海口/长沙 等 15 城 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-5873.md) |
+| 京东 | 财务运营 〔26届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-5859.md) |
+| 京东 | 采销（电商运营） 〔27届〕 | 上海/北京/成都/广州/深圳/南京/苏州/南昌/郑州/宁波/杭州/武汉 等 17 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4858.md) |
+| 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4914.md) |
+| 京东 | 店长储备 〔26/27届〕 | 上海/昆明/北京/天津/合肥/宿州/淮南/蚌埠/青岛/广州/深圳/南通 等 20 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-6371.md) |
+| 京东 | 供应链运营 〔27届〕 | 北京/深圳/苏州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9149.md) |
+| 京东 | 广告运营 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4928.md) |
+| 京东 | 客服运营 〔27届〕 | 北京/成都/广州/宿迁 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9138.md) |
+| 京东 | 客户运营 〔27/28届〕 | 北京/成都/南京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-6651.md) |
+| 京东 | 门店运营 〔26届〕 | 上海/北京/南京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-6630.md) |
+| 京东 | 门店运营（健康） 〔27届〕 | 北京/泰州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-5031.md) |
+| 京东 | 内容运营 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4926.md) |
+| 京东 | 平台运营 〔27届〕 | 上海/北京/深圳/宿迁 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4922.md) |
 
 [上一页](intern-ops-p16.md) · [下一页](intern-ops-p18.md) · [总目录](../../llms.txt)

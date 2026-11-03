@@ -2,6 +2,623 @@
   {
     "company": "京东",
     "business_unit": [],
+    "title": "仓/场地经理",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "云南省-昆明",
+      "北京市-北京",
+      "吉林省-长春",
+      "四川省-成都",
+      "天津市-天津",
+      "宁夏回族自治区-银川",
+      "安徽省-合肥",
+      "安徽省-安庆",
+      "安徽省-滁州",
+      "安徽省-芜湖",
+      "安徽省-蚌埠",
+      "安徽省-阜阳",
+      "山东省-德州",
+      "山东省-济南",
+      "山东省-青岛",
+      "山西省-太原",
+      "广东省-东莞",
+      "广东省-中山",
+      "广东省-佛山",
+      "广东省-广州",
+      "广东省-惠州",
+      "广东省-揭阳",
+      "广东省-江门",
+      "广东省-深圳",
+      "广东省-肇庆",
+      "广西壮族自治区-南宁",
+      "广西壮族自治区-柳州",
+      "新疆维吾尔自治区-乌鲁木齐",
+      "江苏省-南京",
+      "江苏省-南通",
+      "江苏省-宿迁",
+      "江苏省-常州",
+      "江苏省-无锡",
+      "江苏省-泰州",
+      "江苏省-苏州",
+      "江苏省-苏州市-昆山",
+      "江苏省-镇江",
+      "江西省-南昌",
+      "河北省-石家庄",
+      "河南省-郑州",
+      "浙江省-嘉兴",
+      "浙江省-宁波",
+      "浙江省-杭州",
+      "浙江省-绍兴",
+      "浙江省-金华",
+      "浙江省-金华市-义乌",
+      "海南省-澄迈县",
+      "湖北省-武汉",
+      "湖南省-长沙",
+      "甘肃省-兰州",
+      "福建省-厦门",
+      "福建省-泉州",
+      "福建省-福州",
+      "贵州省-贵阳",
+      "辽宁省-大连",
+      "辽宁省-沈阳",
+      "辽宁省-锦州",
+      "重庆市-重庆",
+      "陕西省-西安",
+      "黑龙江省-哈尔滨"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招大专及以上学历，理工类相关专业，物流专业更佳；\n2.热爱物流行业并愿意长期深耕物流行业；认同京东的企业文化及发展方向，愿意深入一线从基层开始有志成为该行业领域领军人才；\n3.具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识及团队管理能力；\n4.具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程；\n5.能够接受轮岗培养，愿意从基层岗位做起。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9392",
+    "source_url": "https://campus.jd.com/#/details?id=9392",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "销售拓展",
+    "category": "销售",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "云南省-昆明",
+      "北京市-北京",
+      "吉林省-长春",
+      "四川省-乐山",
+      "四川省-成都",
+      "天津市-天津",
+      "宁夏回族自治区-银川",
+      "安徽省-合肥",
+      "山东省-济南",
+      "山西省-太原",
+      "广东省-东莞",
+      "广东省-佛山",
+      "广东省-广州",
+      "广东省-汕头",
+      "广东省-深圳",
+      "广东省-湛江",
+      "广东省-潮州",
+      "广西壮族自治区-北海",
+      "广西壮族自治区-南宁",
+      "广西壮族自治区-柳州",
+      "广西壮族自治区-桂林",
+      "广西壮族自治区-梧州",
+      "广西壮族自治区-玉林",
+      "广西壮族自治区-贵港",
+      "新疆维吾尔自治区-乌鲁木齐",
+      "江苏省-南京",
+      "江苏省-南通",
+      "江苏省-宿迁",
+      "江苏省-常州",
+      "江苏省-无锡",
+      "江苏省-泰州",
+      "江苏省-淮安",
+      "江苏省-苏州",
+      "江西省-南昌",
+      "江西省-吉安",
+      "江西省-宜春",
+      "河北省-石家庄",
+      "河南省-三门峡",
+      "河南省-信阳",
+      "河南省-南阳",
+      "河南省-周口",
+      "河南省-商丘",
+      "河南省-安阳",
+      "河南省-平顶山",
+      "河南省-开封",
+      "河南省-新乡",
+      "河南省-洛阳",
+      "河南省-漯河",
+      "河南省-濮阳",
+      "河南省-焦作",
+      "河南省-许昌",
+      "河南省-郑州",
+      "河南省-驻马店",
+      "河南省-鹤壁",
+      "浙江省-宁波",
+      "浙江省-杭州",
+      "浙江省-绍兴",
+      "海南省-海口",
+      "湖北省-武汉",
+      "湖南省-岳阳",
+      "湖南省-常德",
+      "湖南省-株洲",
+      "湖南省-衡阳",
+      "湖南省-长沙",
+      "甘肃省-兰州",
+      "福建省-南平",
+      "福建省-厦门",
+      "福建省-宁德",
+      "福建省-泉州",
+      "福建省-漳州",
+      "福建省-福州",
+      "福建省-莆田",
+      "福建省-龙岩",
+      "贵州省-贵阳",
+      "辽宁省-大连",
+      "辽宁省-沈阳",
+      "重庆市-重庆",
+      "陕西省-西安",
+      "青海省-西宁",
+      "黑龙江省-哈尔滨"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招大专及以上学历；\n2.擅长沟通，具备良好的人际关系处理能力、优秀的沟通能力以及谈判技巧，有较好的商务能力和客情开发维护能力；\n3.有较强的数据敏感度，具备良好的团队协作能力，能协调各部门事项，有效解决问题；\n4.具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为该行业领域领军人才。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9394",
+    "source_url": "https://campus.jd.com/#/details?id=9394",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "物流运营",
+    "category": "运营",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "上海市-上海市-嘉定区",
+      "云南省-昆明",
+      "北京市-北京",
+      "四川省-成都",
+      "天津市-天津",
+      "安徽省-合肥",
+      "山东省-德州",
+      "山东省-济南",
+      "山东省-青岛",
+      "山西省-太原",
+      "广东省-广州",
+      "广东省-深圳",
+      "广西壮族自治区-南宁",
+      "新疆维吾尔自治区-乌鲁木齐",
+      "江苏省-南京",
+      "江苏省-南京市-建邺区",
+      "江苏省-宿迁",
+      "江苏省-苏州市-昆山",
+      "江苏省-镇江",
+      "江西省-南昌",
+      "河北省-廊坊",
+      "河北省-廊坊市-固安县",
+      "河北省-石家庄",
+      "河北省-石家庄市-鹿泉区",
+      "河南省-郑州",
+      "浙江省-杭州",
+      "海南省-海口",
+      "海南省-澄迈县",
+      "湖北省-武汉",
+      "湖南省-长沙",
+      "甘肃省-兰州",
+      "福建省-厦门",
+      "贵州省-贵阳",
+      "辽宁省-沈阳",
+      "重庆市-重庆",
+      "陕西省-西安",
+      "黑龙江省-哈尔滨"
+    ],
+    "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 物流管理、物流工程、数学与统计学、管理科学与工程、经管类等相关专业优先；\n3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才；\n4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力；\n5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识；\n6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程；\n7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助运营数据分析和流程诊断；有AI工具辅助运营改善项目的实践经历者优先；\n8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9107",
+    "source_url": "https://campus.jd.com/#/details?id=9107",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "安全管理/损耗控制",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "云南省-昆明",
+      "北京市-北京",
+      "吉林省-长春",
+      "安徽省-合肥",
+      "山东省-德州市-齐河县",
+      "山东省-青岛市-胶州",
+      "山西省-太原",
+      "广东省-东莞",
+      "广东省-佛山",
+      "广东省-广州",
+      "广东省-深圳",
+      "江苏省-南京",
+      "江苏省-无锡",
+      "江苏省-镇江",
+      "江西省-南昌",
+      "河北省-石家庄",
+      "河南省-郑州",
+      "浙江省-宁波",
+      "浙江省-杭州",
+      "海南省-海口",
+      "湖北省-武汉",
+      "湖南省-长沙",
+      "福建省-厦门",
+      "辽宁省-沈阳",
+      "陕西省-西安",
+      "黑龙江省-哈尔滨"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2.逻辑思维清晰，有持续学习的热情，能够积极主动地思考并推动问题解决；\n3.具备良好的沟通表达能力，良好的担当和团队协作精神；\n4.对京东物流业务一线的安全管理或内控合规工作感兴趣，愿意扎根一线并与公司共同成长；\n5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9260",
+    "source_url": "https://campus.jd.com/#/details?id=9260",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "营业部/集配站站长",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "云南省-大理白族自治州",
+      "云南省-昆明",
+      "云南省-普洱",
+      "云南省-曲靖",
+      "云南省-玉溪",
+      "内蒙古自治区-乌兰察布",
+      "内蒙古自治区-包头",
+      "内蒙古自治区-呼和浩特",
+      "内蒙古自治区-赤峰",
+      "内蒙古自治区-通辽",
+      "内蒙古自治区-鄂尔多斯",
+      "北京市-北京",
+      "吉林省-吉林",
+      "吉林省-四平",
+      "吉林省-延边朝鲜族自治州-延吉",
+      "吉林省-松原",
+      "吉林省-白山",
+      "吉林省-辽源",
+      "吉林省-通化",
+      "吉林省-长春",
+      "四川省-乐山",
+      "四川省-南充",
+      "四川省-德阳",
+      "四川省-成都",
+      "四川省-攀枝花",
+      "四川省-泸州",
+      "四川省-眉山",
+      "四川省-绵阳",
+      "四川省-达州",
+      "天津市-天津",
+      "宁夏回族自治区-银川",
+      "安徽省-亳州",
+      "安徽省-六安",
+      "安徽省-合肥",
+      "安徽省-安庆",
+      "安徽省-宣城",
+      "安徽省-宿州",
+      "安徽省-池州",
+      "安徽省-淮北",
+      "安徽省-淮南",
+      "安徽省-滁州",
+      "安徽省-芜湖",
+      "安徽省-蚌埠",
+      "安徽省-铜陵",
+      "安徽省-阜阳",
+      "安徽省-马鞍山",
+      "安徽省-黄山",
+      "山东省-临沂",
+      "山东省-威海",
+      "山东省-德州",
+      "山东省-泰安",
+      "山东省-济南",
+      "山东省-济宁",
+      "山东省-淄博",
+      "山东省-潍坊",
+      "山东省-烟台",
+      "山东省-菏泽",
+      "山东省-青岛",
+      "山西省-吕梁",
+      "山西省-大同",
+      "山西省-太原",
+      "山西省-忻州",
+      "山西省-晋中",
+      "山西省-运城",
+      "山西省-长治",
+      "广东省-东莞",
+      "广东省-中山",
+      "广东省-云浮",
+      "广东省-佛山",
+      "广东省-广州",
+      "广东省-惠州",
+      "广东省-揭阳",
+      "广东省-梅州",
+      "广东省-汕头",
+      "广东省-汕尾",
+      "广东省-江门",
+      "广东省-河源",
+      "广东省-深圳",
+      "广东省-清远",
+      "广东省-湛江",
+      "广东省-潮州",
+      "广东省-珠海",
+      "广东省-肇庆",
+      "广东省-茂名",
+      "广东省-阳江",
+      "广东省-韶关",
+      "广西壮族自治区-北海",
+      "广西壮族自治区-南宁",
+      "广西壮族自治区-崇左",
+      "广西壮族自治区-来宾",
+      "广西壮族自治区-柳州",
+      "广西壮族自治区-桂林",
+      "广西壮族自治区-梧州",
+      "广西壮族自治区-河池",
+      "广西壮族自治区-玉林",
+      "广西壮族自治区-百色",
+      "广西壮族自治区-贵港",
+      "广西壮族自治区-贺州",
+      "广西壮族自治区-钦州",
+      "广西壮族自治区-防城港",
+      "新疆维吾尔自治区-乌鲁木齐",
+      "新疆维吾尔自治区-伊犁哈萨克自治州-伊宁",
+      "新疆维吾尔自治区-伊犁哈萨克自治州-奎屯",
+      "新疆维吾尔自治区-克拉玛依",
+      "新疆维吾尔自治区-吐鲁番",
+      "新疆维吾尔自治区-哈密",
+      "新疆维吾尔自治区-喀什地区-喀什",
+      "新疆维吾尔自治区-塔城地区-塔城",
+      "新疆维吾尔自治区-巴音郭楞蒙古自治州-库尔勒",
+      "新疆维吾尔自治区-昌吉回族自治州-昌吉",
+      "新疆维吾尔自治区-石河子",
+      "新疆维吾尔自治区-阿克苏地区-阿克苏",
+      "新疆维吾尔自治区-阿勒泰地区-阿勒泰",
+      "新疆维吾尔自治区-阿拉尔",
+      "江苏省-南京",
+      "江苏省-南通",
+      "江苏省-宿迁",
+      "江苏省-常州",
+      "江苏省-徐州",
+      "江苏省-扬州",
+      "江苏省-无锡",
+      "江苏省-泰州",
+      "江苏省-淮安",
+      "江苏省-盐城",
+      "江苏省-苏州",
+      "江苏省-连云港",
+      "江苏省-镇江",
+      "江西省-上饶",
+      "江西省-九江",
+      "江西省-南昌",
+      "江西省-吉安",
+      "江西省-宜春",
+      "江西省-抚州",
+      "江西省-新余",
+      "江西省-景德镇",
+      "江西省-萍乡",
+      "江西省-赣州",
+      "江西省-鹰潭",
+      "河北省-保定",
+      "河北省-唐山",
+      "河北省-廊坊",
+      "河北省-张家口",
+      "河北省-承德",
+      "河北省-沧州",
+      "河北省-石家庄",
+      "河北省-秦皇岛",
+      "河北省-衡水",
+      "河北省-邢台",
+      "河北省-邯郸",
+      "河南省-三门峡",
+      "河南省-信阳",
+      "河南省-南阳",
+      "河南省-周口",
+      "河南省-商丘",
+      "河南省-安阳",
+      "河南省-平顶山",
+      "河南省-开封",
+      "河南省-新乡",
+      "河南省-洛阳",
+      "河南省-济源",
+      "河南省-漯河",
+      "河南省-濮阳",
+      "河南省-焦作",
+      "河南省-许昌",
+      "河南省-郑州",
+      "河南省-驻马店",
+      "河南省-鹤壁",
+      "浙江省-台州",
+      "浙江省-嘉兴",
+      "浙江省-宁波",
+      "浙江省-杭州",
+      "浙江省-温州",
+      "浙江省-湖州",
+      "浙江省-绍兴",
+      "浙江省-金华市-义乌",
+      "海南省-三亚",
+      "海南省-儋州",
+      "海南省-海口",
+      "湖北省-仙桃",
+      "湖北省-十堰",
+      "湖北省-咸宁",
+      "湖北省-天门",
+      "湖北省-孝感",
+      "湖北省-宜昌",
+      "湖北省-恩施土家族苗族自治州-恩施",
+      "湖北省-武汉",
+      "湖北省-潜江",
+      "湖北省-荆州",
+      "湖北省-荆门",
+      "湖北省-襄阳",
+      "湖北省-鄂州",
+      "湖北省-随州",
+      "湖北省-黄冈",
+      "湖北省-黄石",
+      "湖南省-娄底",
+      "湖南省-岳阳",
+      "湖南省-常德",
+      "湖南省-张家界",
+      "湖南省-怀化",
+      "湖南省-株洲",
+      "湖南省-永州",
+      "湖南省-湘潭",
+      "湖南省-湘西土家族苗族自治州",
+      "湖南省-益阳",
+      "湖南省-衡阳",
+      "湖南省-邵阳",
+      "湖南省-郴州",
+      "湖南省-长沙",
+      "甘肃省-兰州",
+      "甘肃省-嘉峪关",
+      "甘肃省-天水",
+      "甘肃省-平凉",
+      "甘肃省-庆阳",
+      "甘肃省-张掖",
+      "甘肃省-武威",
+      "甘肃省-酒泉",
+      "甘肃省-金昌",
+      "甘肃省-陇南",
+      "福建省-南平",
+      "福建省-厦门",
+      "福建省-宁德",
+      "福建省-泉州",
+      "福建省-漳州",
+      "福建省-福州",
+      "福建省-莆田",
+      "西藏自治区-拉萨",
+      "贵州省-六盘水",
+      "贵州省-安顺",
+      "贵州省-毕节",
+      "贵州省-贵阳",
+      "贵州省-遵义",
+      "贵州省-铜仁",
+      "贵州省-黔东南苗族侗族自治州",
+      "贵州省-黔南布依族苗族自治州",
+      "贵州省-黔西南布依族苗族自治州",
+      "辽宁省-丹东",
+      "辽宁省-大连",
+      "辽宁省-抚顺",
+      "辽宁省-朝阳",
+      "辽宁省-本溪",
+      "辽宁省-沈阳",
+      "辽宁省-盘锦",
+      "辽宁省-营口",
+      "辽宁省-葫芦岛",
+      "辽宁省-辽阳",
+      "辽宁省-铁岭",
+      "辽宁省-锦州",
+      "辽宁省-阜新",
+      "辽宁省-鞍山",
+      "重庆市-重庆",
+      "陕西省-咸阳",
+      "陕西省-商洛",
+      "陕西省-安康",
+      "陕西省-宝鸡",
+      "陕西省-延安",
+      "陕西省-榆林",
+      "陕西省-汉中",
+      "陕西省-渭南",
+      "陕西省-西安",
+      "青海省-海西蒙古族藏族自治州-格尔木",
+      "青海省-西宁",
+      "黑龙江省-伊春",
+      "黑龙江省-佳木斯",
+      "黑龙江省-哈尔滨",
+      "黑龙江省-大庆",
+      "黑龙江省-牡丹江",
+      "黑龙江省-绥化",
+      "黑龙江省-鸡西",
+      "黑龙江省-齐齐哈尔"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招大专及以上学历，理工类相关专业，物流专业更佳；\n2.热爱物流行业并愿意长期深耕物流行业；认同京东的企业文化及发展方向，愿意深入一线从基层开始有志成为该行业领域领军人才；\n3.具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识及团队管理能力；\n4.具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程；\n5.能够接受轮岗培养，愿意从基层岗位做起。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9257",
+    "source_url": "https://campus.jd.com/#/details?id=9257",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "市场营销",
+    "category": "市场",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "北京市-北京",
+      "广东省-广州",
+      "广东省-深圳",
+      "湖北省-武汉",
+      "辽宁省-沈阳"
+    ],
+    "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 市场营销、新闻传播、广告、商科等相关学科背景优先，并热爱互联网和营销；\n3. 学习能力强，善于接纳新鲜事物，适应新环境；\n4. 对市场有敏锐嗅觉，对视觉创意有审美，对社会有洞察，对媒体、渠道如数家珍；\n5. 有逻辑，有创意，有表达能力，善于沟通协作，能够推进落地，实现目标达成；\n6. 熟练使用AI工具（如通用对话式AI、AI创意工具等）辅助方案策划与数据分析；有AIGC营销实践经历者优先；\n7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9073",
+    "source_url": "https://campus.jd.com/#/details?id=9073",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "客户体验提升",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "北京市-北京",
+      "四川省-成都",
+      "广东省-深圳"
+    ],
+    "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 对数字、数据敏感，具备良好的逻辑思维，进行数据的分析和处理；\n3. 有良好的用户sense，具备优秀的项目管理与项目推动能力；\n4. 能够充分利用用户体验调研的方法论，制定研究方案、转化客户声音、推进研究过程、独立完成研究报告；\n5. 具备一定的分析市场、洞察用户体验痛点等问题的专业能力；\n6. 能使用EXCEL、R语言、统计学、SPSS，熟悉掌握数据库原理及使用；\n7. 具备严谨的逻辑思维能力和较强学习能力者优先；\n8. 熟练使用AI工具（如通用对话式AI、数据分析AI等）辅助体验分析及报告输出；有利用AI工具进行用户反馈挖掘的经历者优先；\n9. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n10. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9076",
+    "source_url": "https://campus.jd.com/#/details?id=9076",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "药房管理储备",
+    "category": "运营",
+    "job_type": "校招",
+    "city": [
+      "上海市-上海",
+      "北京市-北京",
+      "四川省-成都",
+      "天津市-天津",
+      "广东省-广州",
+      "广东省-深圳",
+      "江苏省-南京",
+      "浙江省-杭州",
+      "湖北省-武汉",
+      "重庆市-重庆"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招大专及以上学历，专业类医科大学、综合类大学药学，医药护理专业优先（可考执业药师证专业优先）；\n2.积极主动，真心热爱医药行业，能吃苦，愿意深入一线摸爬滚打，能接受全国范围内调动；\n3.能接受灵活的排班工作制度及轮休制度。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9285",
+    "source_url": "https://campus.jd.com/#/details?id=9285",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
     "title": "医技",
     "category": "其他",
     "job_type": "校招",
@@ -15,7 +632,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9313",
     "source_url": "https://campus.jd.com/#/details?id=9313",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -35,7 +653,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9323",
     "source_url": "https://campus.jd.com/#/details?id=9323",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -54,7 +673,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9128",
     "source_url": "https://campus.jd.com/#/details?id=9128",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -78,7 +698,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9070",
     "source_url": "https://campus.jd.com/#/details?id=9070",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -94,7 +715,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9071",
     "source_url": "https://campus.jd.com/#/details?id=9071",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -109,7 +731,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9039",
     "source_url": "https://campus.jd.com/#/details?id=9039",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -132,7 +755,6 @@
       "江苏省-苏州",
       "河南省-郑州",
       "浙江省-宁波",
-      "浙江省-杭州",
       "湖北省-武汉",
       "甘肃省-兰州",
       "福建省-厦门",
@@ -142,7 +764,11 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9222",
     "source_url": "https://campus.jd.com/#/details?id=9222",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内",
+    "overseas_cities": [
+      "日本"
+    ]
   },
   {
     "company": "京东",
@@ -162,7 +788,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9119",
     "source_url": "https://campus.jd.com/#/details?id=9119",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -180,7 +807,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9085",
     "source_url": "https://campus.jd.com/#/details?id=9085",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -197,7 +825,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9077",
     "source_url": "https://campus.jd.com/#/details?id=9077",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -212,7 +841,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9096",
     "source_url": "https://campus.jd.com/#/details?id=9096",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -253,7 +883,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9105",
     "source_url": "https://campus.jd.com/#/details?id=9105",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -274,7 +905,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9120",
     "source_url": "https://campus.jd.com/#/details?id=9120",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -289,7 +921,89 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9213",
     "source_url": "https://campus.jd.com/#/details?id=9213",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "战略",
+    "category": "商务",
+    "job_type": "校招",
+    "city": [
+      "北京市-北京"
+    ],
+    "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 热爱互联网，熟悉互联网的主要发展方向和概念并有敏锐的市场意识，对科技行业有自己的思考和见解；\n3. 熟悉实证研究的方法论，具备分析统计知识和研究能力；\n4. 良好的口头及书面表达能力，组织协调能力强，具备商业意识，优秀的沟通协调能力；\n5. 有较强的逻辑归纳推理能力、文档撰写能力和信息收集能力；\n6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助信息整合与报告输出；有利用AI工具支持战略研究项目的经历者优先；\n7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9441",
+    "source_url": "https://campus.jd.com/#/details?id=9441",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "现场保障",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "江苏省-南通"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，专业不限；\n2.了解并热爱民航，愿意长期在民航业发展。具备坚韧不拔的品质，有强烈的责任心，优秀的组织协调能力和服务意识；\n3.英语听说读写流利，熟练应用办公软件。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9434",
+    "source_url": "https://campus.jd.com/#/details?id=9434",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "航空维修",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "江苏省-南通"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，工科类专业；\n2.了解并热爱民航，愿意长期在民航业发展。具备坚韧不拔的品质，有强烈的责任心、严谨的工作作风和职业态度。\n3.英语听说读写流利，毕业前可获取民航维修人员执照。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9432",
+    "source_url": "https://campus.jd.com/#/details?id=9432",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "航空签派",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "江苏省-南通"
+    ],
+    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，民航交通运输等签派相关专业或其他专业毕业前获取签派员1000小时结业证书；\n2.了解并热爱民航，愿意长期在民航业发展。具备坚韧不拔的品质，有强烈的责任心，优秀的组织协调和应变能力。\n3.英语听说读写流利。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9430",
+    "source_url": "https://campus.jd.com/#/details?id=9430",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "航空职能",
+    "category": "其他",
+    "job_type": "校招",
+    "city": [
+      "北京市-北京",
+      "广东省-广州"
+    ],
+    "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 了解并热爱民航，愿意长期在民航业发展。具备坚韧不拔的品质，有强烈的责任心；\n3. CET6，英语听说读写流利，熟练应用办公软件；\n4. 了解并能使用AI工具（如通用对话式AI）辅助文档处理与信息收集；有利用AI工具提升航空办公效率的经历者优先；\n5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9427",
+    "source_url": "https://campus.jd.com/#/details?id=9427",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -304,7 +1018,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9412",
     "source_url": "https://campus.jd.com/#/details?id=9412",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -319,7 +1034,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9410",
     "source_url": "https://campus.jd.com/#/details?id=9410",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -339,7 +1055,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9309",
     "source_url": "https://campus.jd.com/#/details?id=9309",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -354,7 +1071,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9380",
     "source_url": "https://campus.jd.com/#/details?id=9380",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -383,15 +1101,14 @@
       "湖南省-长沙",
       "贵州省-贵阳",
       "辽宁省-沈阳",
-      "重庆市-重庆",
-      "陕西省-西安",
-      "黑龙江省-哈尔滨"
+      "重庆市-重庆"
     ],
     "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 了解人力资源各模块基本工作，熟悉了解TA、HRBP、ER、C&B、OC&OD等一个或多个模块专业知识，有相关实习经验优先；\n3. 学习能力强，具备良好的逻辑思维和思考力；\n4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力；\n5. 了解并能使用AI工具（如通用对话式AI）辅助文档撰写、数据整理与人选沟通；有使用AI工具优化HR流程的经历者优先；\n6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9111",
     "source_url": "https://campus.jd.com/#/details?id=9111",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -411,22 +1128,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9298",
     "source_url": "https://campus.jd.com/#/details?id=9298",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "京东",
-    "business_unit": [],
-    "title": "战略",
-    "category": "商务",
-    "job_type": "校招",
-    "city": [
-      "北京市-北京"
-    ],
-    "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 热爱互联网，熟悉互联网的主要发展方向和概念并有敏锐的市场意识，对科技行业有自己的思考和见解；\n3. 熟悉实证研究的方法论，具备分析统计知识和研究能力；\n4. 良好的口头及书面表达能力，组织协调能力强，具备商业意识，优秀的沟通协调能力；\n5. 有较强的逻辑归纳推理能力、文档撰写能力和信息收集能力；\n6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助信息整合与报告输出；有利用AI工具支持战略研究项目的经历者优先；\n7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-    "deadline": null,
-    "apply_url": "https://campus.jd.com/#/details?id=9054",
-    "source_url": "https://campus.jd.com/#/details?id=9054",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -449,7 +1152,11 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9057",
     "source_url": "https://campus.jd.com/#/details?id=9057",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内",
+    "overseas_cities": [
+      "英国-伦敦"
+    ]
   },
   {
     "company": "京东",
@@ -477,7 +1184,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9079",
     "source_url": "https://campus.jd.com/#/details?id=9079",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -494,7 +1202,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9061",
     "source_url": "https://campus.jd.com/#/details?id=9061",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -552,7 +1261,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9357",
     "source_url": "https://campus.jd.com/#/details?id=9357",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -577,7 +1287,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9355",
     "source_url": "https://campus.jd.com/#/details?id=9355",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -593,7 +1304,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9068",
     "source_url": "https://campus.jd.com/#/details?id=9068",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -614,7 +1326,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9334",
     "source_url": "https://campus.jd.com/#/details?id=9334",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -631,7 +1344,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9288",
     "source_url": "https://campus.jd.com/#/details?id=9288",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -647,7 +1361,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9294",
     "source_url": "https://campus.jd.com/#/details?id=9294",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -662,7 +1377,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9258",
     "source_url": "https://campus.jd.com/#/details?id=9258",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -678,7 +1394,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9261",
     "source_url": "https://campus.jd.com/#/details?id=9261",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -688,18 +1405,14 @@
     "job_type": "校招",
     "city": [
       "北京市-北京",
-      "四川省-成都",
-      "天津市-天津",
-      "江苏省-宿迁",
-      "江西省-南昌",
-      "浙江省-杭州",
-      "海南省-三亚"
+      "江苏省-宿迁"
     ],
     "requirements": "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历，人力资源管理、工商管理等相关专业优先；\n2.具备基础人力知识，熟练使用 Excel 等办公软件，对社保公积金政策有初步了解，有HR相关实习经验优先；​\n3.逻辑清晰，有流程梳理与问题分析能力；沟通协调力强，责任心与抗压性好，具备团队精神与强学习力。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9250",
     "source_url": "https://campus.jd.com/#/details?id=9250",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -722,7 +1435,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9318",
     "source_url": "https://campus.jd.com/#/details?id=9318",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -739,7 +1453,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9317",
     "source_url": "https://campus.jd.com/#/details?id=9317",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -755,7 +1470,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9255",
     "source_url": "https://campus.jd.com/#/details?id=9255",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -770,7 +1486,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9238",
     "source_url": "https://campus.jd.com/#/details?id=9238",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -788,7 +1505,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9308",
     "source_url": "https://campus.jd.com/#/details?id=9308",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -830,7 +1548,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9307",
     "source_url": "https://campus.jd.com/#/details?id=9307",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -852,7 +1571,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9276",
     "source_url": "https://campus.jd.com/#/details?id=9276",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -868,7 +1588,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9063",
     "source_url": "https://campus.jd.com/#/details?id=9063",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -891,7 +1612,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9065",
     "source_url": "https://campus.jd.com/#/details?id=9065",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -906,7 +1628,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9131",
     "source_url": "https://campus.jd.com/#/details?id=9131",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -921,7 +1644,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9050",
     "source_url": "https://campus.jd.com/#/details?id=9050",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -954,7 +1678,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9081",
     "source_url": "https://campus.jd.com/#/details?id=9081",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -969,7 +1694,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9130",
     "source_url": "https://campus.jd.com/#/details?id=9130",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -988,7 +1714,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9129",
     "source_url": "https://campus.jd.com/#/details?id=9129",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1012,7 +1739,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9127",
     "source_url": "https://campus.jd.com/#/details?id=9127",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1044,7 +1772,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9125",
     "source_url": "https://campus.jd.com/#/details?id=9125",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1059,7 +1788,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9126",
     "source_url": "https://campus.jd.com/#/details?id=9126",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1080,7 +1810,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9024",
     "source_url": "https://campus.jd.com/#/details?id=9024",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1095,7 +1826,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9040",
     "source_url": "https://campus.jd.com/#/details?id=9040",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1110,7 +1842,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9026",
     "source_url": "https://campus.jd.com/#/details?id=9026",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1126,7 +1859,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9122",
     "source_url": "https://campus.jd.com/#/details?id=9122",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1141,7 +1875,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9032",
     "source_url": "https://campus.jd.com/#/details?id=9032",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1157,7 +1892,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9034",
     "source_url": "https://campus.jd.com/#/details?id=9034",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1172,23 +1908,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9038",
     "source_url": "https://campus.jd.com/#/details?id=9038",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "京东",
-    "business_unit": [],
-    "title": "航空职能",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京市-北京",
-      "广东省-广州"
-    ],
-    "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 了解并热爱民航，愿意长期在民航业发展。具备坚韧不拔的品质，有强烈的责任心；\n3. CET6，英语听说读写流利，熟练应用办公软件；\n4. 了解并能使用AI工具（如通用对话式AI）辅助文档处理与信息收集；有利用AI工具提升航空办公效率的经历者优先；\n5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-    "deadline": null,
-    "apply_url": "https://campus.jd.com/#/details?id=9028",
-    "source_url": "https://campus.jd.com/#/details?id=9028",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1203,7 +1924,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9051",
     "source_url": "https://campus.jd.com/#/details?id=9051",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1224,7 +1946,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9043",
     "source_url": "https://campus.jd.com/#/details?id=9043",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1239,7 +1962,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9044",
     "source_url": "https://campus.jd.com/#/details?id=9044",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1254,7 +1978,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9046",
     "source_url": "https://campus.jd.com/#/details?id=9046",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1269,7 +1994,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9053",
     "source_url": "https://campus.jd.com/#/details?id=9053",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1284,7 +2010,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9056",
     "source_url": "https://campus.jd.com/#/details?id=9056",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1299,7 +2026,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9048",
     "source_url": "https://campus.jd.com/#/details?id=9048",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1314,7 +2042,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9055",
     "source_url": "https://campus.jd.com/#/details?id=9055",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1330,7 +2059,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9047",
     "source_url": "https://campus.jd.com/#/details?id=9047",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1347,7 +2077,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9060",
     "source_url": "https://campus.jd.com/#/details?id=9060",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1364,7 +2095,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9049",
     "source_url": "https://campus.jd.com/#/details?id=9049",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1379,7 +2111,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9062",
     "source_url": "https://campus.jd.com/#/details?id=9062",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1394,7 +2127,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9045",
     "source_url": "https://campus.jd.com/#/details?id=9045",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1435,7 +2169,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9052",
     "source_url": "https://campus.jd.com/#/details?id=9052",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1451,7 +2186,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9058",
     "source_url": "https://campus.jd.com/#/details?id=9058",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1466,7 +2202,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9082",
     "source_url": "https://campus.jd.com/#/details?id=9082",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1481,7 +2218,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9066",
     "source_url": "https://campus.jd.com/#/details?id=9066",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1496,7 +2234,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9072",
     "source_url": "https://campus.jd.com/#/details?id=9072",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1505,13 +2244,15 @@
     "category": "产品",
     "job_type": "校招",
     "city": [
+      "上海市-上海",
       "北京市-北京"
     ],
     "requirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历；\n2. 物流管理、物流工程、管理科学与工程、经管类专业优先；\n3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才；\n4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识；\n5. 具有高效的执行力，能够积极主动的思考、解决问题；\n6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先；\n7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9080",
     "source_url": "https://campus.jd.com/#/details?id=9080",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1527,7 +2268,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9113",
     "source_url": "https://campus.jd.com/#/details?id=9113",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1542,7 +2284,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9218",
     "source_url": "https://campus.jd.com/#/details?id=9218",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1557,7 +2300,180 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9216",
     "source_url": "https://campus.jd.com/#/details?id=9216",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "人事运营",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "云南省-昆明",
+      "北京市-北京",
+      "四川省-成都",
+      "天津市-天津",
+      "山东省-济南",
+      "广东省-东莞",
+      "广东省-广州",
+      "广西壮族自治区-柳州",
+      "江苏省-宿迁",
+      "江西省-南昌",
+      "海南省-海口",
+      "湖南省-长沙",
+      "福建省-泉州",
+      "辽宁省-沈阳",
+      "陕西省-西安"
+    ],
+    "requirements": "1.2026年10月1日之后毕业，统招本科及以上学历；\n2.了解人力资源各模块基本工作，有相关实习经验优先；\n3.学习能力强，具备良好的逻辑思维和思考力；\n4.熟练应用EXCEL等办公工具，有良好的信息收集和分析能力；\n5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=5873",
+    "source_url": "https://campus.jd.com/#/details?id=5873",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "物流运营",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "上海市-上海",
+      "上海市-上海市-嘉定区",
+      "北京市-北京",
+      "四川省-成都",
+      "安徽省-合肥",
+      "山东省-德州",
+      "山西省-太原",
+      "广东省-广州",
+      "广东省-深圳",
+      "新疆维吾尔自治区-乌鲁木齐",
+      "江苏省-南京",
+      "江苏省-南京市-建邺区",
+      "江苏省-宿迁",
+      "江苏省-苏州市-昆山",
+      "江苏省-镇江",
+      "江西省-南昌",
+      "河北省-廊坊",
+      "河南省-郑州",
+      "浙江省-杭州",
+      "海南省-海口",
+      "海南省-澄迈县",
+      "湖北省-武汉",
+      "辽宁省-沈阳",
+      "黑龙江省-哈尔滨"
+    ],
+    "requirements": "1. 统招本科及以上学历在校生，27届优先；\n2. 物流管理、物流工程、数学与统计学、管理科学与工程、经管类等相关专业优先；\n3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才；\n4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力；\n5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识；\n6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程；\n7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助运营数据分析和流程诊断；有AI工具辅助运营改善项目的实践经历者优先；\n8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=4864",
+    "source_url": "https://campus.jd.com/#/details?id=4864",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "服务运营",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "北京市-北京",
+      "湖北省-武汉",
+      "辽宁省-沈阳",
+      "重庆市-重庆"
+    ],
+    "requirements": "1、统招本科及以上学历在校生，27届优先；\n2、物流管理、供应链管理、工业工程、信息管理、数据分析、电子商务、工商管理、计算机等相关专业优先；\n3、熟练使用Excel、PPT等办公软件，具备基础的数据分析、问题归因和报告撰写能力，能够通过数据发现问题并提出改善思路；\n4、热爱服务行业，对到家服务、家电家居服务、安装维修等领域有兴趣，愿意长期深耕服务运营管理方向；\n5、具备较强的逻辑思维、流程规划和沟通协同能力，能够从用户体验、服务履约、系统能力等角度分析问题，并协同上下游推动问题解决；\n6、熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析、流程诊断与需求文档撰写；有AI工具应用实践经历者优先；\n7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9136",
+    "source_url": "https://campus.jd.com/#/details?id=9136",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "客服管理储备",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "四川省-成都",
+      "广东省-广州",
+      "江苏省-宿迁",
+      "湖北省-武汉"
+    ],
+    "requirements": "1.2026年10月1日之后毕业，统招本科及以上学历；\n2.专业不限，具有强烈的事业心、进取心、责任心,并对生活充满正能量；\n3.具备优秀的沟通协调能力,出色的解决问题的能力,善于团队合作,并能主动学习与创新；\n4.乐于接受挑战,善于适应快速变化的环境,具备优秀的抗压能力,较强的吃苦耐劳精神；\n5.具备持续学习的热情，能够积极主动的思考解决问题，善于总结学习所得，不断优化流程;\n6.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=5835",
+    "source_url": "https://campus.jd.com/#/details?id=5835",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "战略",
+    "category": "商务",
+    "job_type": "实习",
+    "city": [
+      "北京市-北京"
+    ],
+    "requirements": "1. 统招本科及以上学历在校生，27届优先；\n2. 热爱互联网，熟悉互联网的主要发展方向和概念并有敏锐的市场意识，对科技行业有自己的思考和见解；\n3. 熟悉实证研究的方法论，具备分析统计知识和研究能力；\n4. 良好的口头及书面表达能力，组织协调能力强，具备商业意识，优秀的沟通协调能力；\n5. 有较强的逻辑归纳推理能力、文档撰写能力和信息收集能力；\n6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助信息整合与报告输出；有利用AI工具支持战略研究项目的经历者优先；\n7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9439",
+    "source_url": "https://campus.jd.com/#/details?id=9439",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "仓/场地经理",
+    "category": "其他",
+    "job_type": "实习",
+    "city": [
+      "北京市-北京",
+      "河北省-石家庄"
+    ],
+    "requirements": "1.2025年10月1日之后毕业，统招本科及以上学历，不限专业，理工类、物流专业更佳；\n2.热爱物流行业并愿意长期深耕物流行业；认同京东的企业文化及发展方向，愿意深入一线，从基层开始，有志成为该行业领域领军人才；\n3.具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识及团队管理能力；\n4.具备持续学习的热情，能够积极主动的思考解决问题，善于总结学习所得，不断优化流程；\n5.能够接受轮岗培养，愿意从基层岗位做起;\n6.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9398",
+    "source_url": "https://campus.jd.com/#/details?id=9398",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "金融策略",
+    "category": "职能",
+    "job_type": "实习",
+    "city": [
+      "北京市-北京"
+    ],
+    "requirements": "1、统招本科及以上学历在校生，27届优先；\n2、金融学、经济学、统计学、数学、计算机等相关专业背景优先；\n3、具备良好的数据敏感度和逻辑分析能力，熟练应用EXCEL等办公工具，掌握SQL等数据分析工具者优先；\n4、对金融业务有热情和理解，具备较强的学习能力和创新意识，能从数据中洞察业务机会；\n5、具备良好的沟通协调能力，能够推动跨部门协作，有一定抗压能力和责任心；\n6、熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析与策略研究；有利用AI工具开展金融分析或建模项目经历者优先；\n7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9390",
+    "source_url": "https://campus.jd.com/#/details?id=9390",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "京东",
+    "business_unit": [],
+    "title": "保险服务",
+    "category": "其他",
+    "job_type": "实习",
+    "city": [
+      "北京市-北京"
+    ],
+    "requirements": "1.2026年10月及之后毕业的在校生，本科及以上，保险、金融、物流、经济、统计等相关专业，27届优先；\n2.了解基础保险/金融/数据分析等业务知识，对物保险、风控、产品工作有浓厚兴趣，愿意长期学习；\n3.熟练使用Office办公软件，对新技术的学习，AI应用等具有学习意愿，逻辑清晰、细心严谨、执行力强；\n4.具备良好沟通协调能力，能够配合跨部门对接，工作主动踏实，抗压能力强、责任心强；\n5.有保险风控、保险产品、项目助理、数据分析相关实习经历者优先。",
+    "deadline": null,
+    "apply_url": "https://campus.jd.com/#/details?id=9383",
+    "source_url": "https://campus.jd.com/#/details?id=9383",
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1586,7 +2502,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4964",
     "source_url": "https://campus.jd.com/#/details?id=4964",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1606,7 +2523,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9368",
     "source_url": "https://campus.jd.com/#/details?id=9368",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1623,22 +2541,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6650",
     "source_url": "https://campus.jd.com/#/details?id=6650",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
-  },
-  {
-    "company": "京东",
-    "business_unit": [],
-    "title": "战略",
-    "category": "商务",
-    "job_type": "实习",
-    "city": [
-      "北京市-北京"
-    ],
-    "requirements": "1. 统招本科及以上学历在校生，27届优先；\n2. 热爱互联网，熟悉互联网的主要发展方向和概念并有敏锐的市场意识，对科技行业有自己的思考和见解；\n3. 熟悉实证研究的方法论，具备分析统计知识和研究能力；\n4. 良好的口头及书面表达能力，组织协调能力强，具备商业意识，优秀的沟通协调能力；\n5. 有较强的逻辑归纳推理能力、文档撰写能力和信息收集能力；\n6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助信息整合与报告输出；有利用AI工具支持战略研究项目的经历者优先；\n7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-    "deadline": null,
-    "apply_url": "https://campus.jd.com/#/details?id=4990",
-    "source_url": "https://campus.jd.com/#/details?id=4990",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1655,7 +2559,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4924",
     "source_url": "https://campus.jd.com/#/details?id=4924",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1683,14 +2588,14 @@
       "河南省-郑州市-金水区",
       "浙江省-杭州",
       "福建省-厦门",
-      "辽宁省-沈阳",
-      "重庆市-重庆"
+      "辽宁省-沈阳"
     ],
     "requirements": "1、2026年10月及以后毕业，统招本科及以上学历；\n2、热情开朗，善于与人沟通，对零售行业感兴趣；\n3、能够适应快速的工作节奏和变化，并始终对工作保持热情；\n4、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6371",
     "source_url": "https://campus.jd.com/#/details?id=6371",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1700,14 +2605,14 @@
     "job_type": "实习",
     "city": [
       "上海市-上海",
-      "北京市-北京",
-      "广东省-深圳"
+      "北京市-北京"
     ],
     "requirements": "1. 统招本科及以上学历在校生，27届优先；\n2. 对商业经营有浓厚兴趣，擅长思考，懂得创新；\n3. 积极乐观、善于沟通，向往人际关系；有自驱力，爱折腾，看到目标就一定不放弃；\n4. 有市场调研、数据分析、供应链管理等实习经验者优先；\n5. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助商家数据分析与运营指导；有AI工具应用于商业分析的经历者优先；\n6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4930",
     "source_url": "https://campus.jd.com/#/details?id=4930",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1725,7 +2630,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9138",
     "source_url": "https://campus.jd.com/#/details?id=9138",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1742,7 +2648,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6651",
     "source_url": "https://campus.jd.com/#/details?id=6651",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1755,6 +2662,7 @@
       "四川省-成都",
       "山东省-济南",
       "广东省-广州",
+      "江苏省-南京",
       "湖北省-武汉",
       "甘肃省-兰州",
       "贵州省-贵阳",
@@ -1764,7 +2672,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4918",
     "source_url": "https://campus.jd.com/#/details?id=4918",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1781,7 +2690,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4946",
     "source_url": "https://campus.jd.com/#/details?id=4946",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1798,7 +2708,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4932",
     "source_url": "https://campus.jd.com/#/details?id=4932",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1809,19 +2720,17 @@
     "city": [
       "上海市-上海",
       "吉林省-长春",
-      "四川省-成都",
       "天津市-天津",
       "广东省-深圳",
       "湖南省-长沙",
-      "贵州省-遵义",
-      "辽宁省-大连",
-      "重庆市-重庆"
+      "辽宁省-大连"
     ],
     "requirements": "1.2026年10月1日之后毕业，本科及以上学历，不限专业；\n2.具备良好的人际关系处理能力，有优秀的沟通能力以及谈判技巧；\n3.具备良好的团队协作能力，果敢干练；\n4.热爱电商物流行业并愿意长期深耕电商物流行业；具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为该行业领域领军人才；\n5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5847",
     "source_url": "https://campus.jd.com/#/details?id=5847",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1841,7 +2750,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4952",
     "source_url": "https://campus.jd.com/#/details?id=4952",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1857,7 +2767,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6744",
     "source_url": "https://campus.jd.com/#/details?id=6744",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1874,7 +2785,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5895",
     "source_url": "https://campus.jd.com/#/details?id=5895",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1889,7 +2801,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=7641",
     "source_url": "https://campus.jd.com/#/details?id=7641",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1905,7 +2818,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4992",
     "source_url": "https://campus.jd.com/#/details?id=4992",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1919,14 +2833,14 @@
       "广东省-广州",
       "江苏省-苏州市-昆山",
       "浙江省-杭州",
-      "湖北省-武汉",
-      "陕西省-西安"
+      "湖北省-武汉"
     ],
     "requirements": "1. 统招本科及以上学历在校生，27届优先；\n2. 执行力强，良好的理解、语言表达和沟通协调能力；\n3. 具有较强的学习能力、责任心、原则性和团队合作精神；\n4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力；\n5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先；\n6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4988",
     "source_url": "https://campus.jd.com/#/details?id=4988",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1941,7 +2855,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4984",
     "source_url": "https://campus.jd.com/#/details?id=4984",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1956,7 +2871,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4980",
     "source_url": "https://campus.jd.com/#/details?id=4980",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1972,7 +2888,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4976",
     "source_url": "https://campus.jd.com/#/details?id=4976",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1988,7 +2905,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4978",
     "source_url": "https://campus.jd.com/#/details?id=4978",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -1997,13 +2915,15 @@
     "category": "分析",
     "job_type": "实习",
     "city": [
-      "北京市-北京"
+      "北京市-北京",
+      "江苏省-南京市-建邺区"
     ],
     "requirements": "1. 统招本科及以上学历在校生，27届优先；\n2. 财务管理、金融学、经济学、会计学等相关专业；\n3. 熟悉会计法规和最新会计准则，了解企业财务管理相关知识、技能；\n4. 熟悉有关的税收，掌握企业会计核算、财务分析的方法；\n5. 熟练掌握各种办公软件、财务系统操作；\n6. 具备较强的学习能力及沟通协调能力，注重团队协作，逻辑思维清晰；\n7. 为人正直，认真严谨，积极进取，有一定抗压能力；\n8. 了解并能使用AI工具（如通用对话式AI、智能财务分析平台等）辅助数据处理及分析报告撰写；有使用AI工具提升财务分析效率的经历者优先；\n9. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术；\n10. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4974",
     "source_url": "https://campus.jd.com/#/details?id=4974",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2021,7 +2941,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4972",
     "source_url": "https://campus.jd.com/#/details?id=4972",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2037,7 +2958,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4970",
     "source_url": "https://campus.jd.com/#/details?id=4970",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2052,7 +2974,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4968",
     "source_url": "https://campus.jd.com/#/details?id=4968",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2067,7 +2990,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4962",
     "source_url": "https://campus.jd.com/#/details?id=4962",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2083,7 +3007,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6742",
     "source_url": "https://campus.jd.com/#/details?id=6742",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2098,7 +3023,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4960",
     "source_url": "https://campus.jd.com/#/details?id=4960",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2114,7 +3040,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4958",
     "source_url": "https://campus.jd.com/#/details?id=4958",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2134,6 +3061,7 @@
       "广东省-广州",
       "广东省-深圳",
       "新疆维吾尔自治区-乌鲁木齐",
+      "江苏省-南京市-建邺区",
       "河南省-郑州",
       "湖北省-武汉",
       "贵州省-贵阳",
@@ -2146,7 +3074,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6740",
     "source_url": "https://campus.jd.com/#/details?id=6740",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2173,7 +3102,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4950",
     "source_url": "https://campus.jd.com/#/details?id=4950",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2193,7 +3123,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4948",
     "source_url": "https://campus.jd.com/#/details?id=4948",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2213,7 +3144,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4944",
     "source_url": "https://campus.jd.com/#/details?id=4944",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2228,7 +3160,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4928",
     "source_url": "https://campus.jd.com/#/details?id=4928",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2243,7 +3176,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4926",
     "source_url": "https://campus.jd.com/#/details?id=4926",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2261,7 +3195,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4922",
     "source_url": "https://campus.jd.com/#/details?id=4922",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2278,7 +3213,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4920",
     "source_url": "https://campus.jd.com/#/details?id=4920",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2295,7 +3231,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4916",
     "source_url": "https://campus.jd.com/#/details?id=4916",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2314,7 +3251,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4914",
     "source_url": "https://campus.jd.com/#/details?id=4914",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2333,7 +3271,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4910",
     "source_url": "https://campus.jd.com/#/details?id=4910",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2348,7 +3287,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9142",
     "source_url": "https://campus.jd.com/#/details?id=9142",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2364,7 +3304,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9140",
     "source_url": "https://campus.jd.com/#/details?id=9140",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2373,6 +3314,7 @@
     "category": "项目管理",
     "job_type": "实习",
     "city": [
+      "上海市-上海",
       "北京市-北京",
       "广东省-广州",
       "福建省-厦门"
@@ -2381,7 +3323,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9132",
     "source_url": "https://campus.jd.com/#/details?id=9132",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2397,7 +3340,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5031",
     "source_url": "https://campus.jd.com/#/details?id=5031",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2412,7 +3356,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6746",
     "source_url": "https://campus.jd.com/#/details?id=6746",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2427,7 +3372,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5029",
     "source_url": "https://campus.jd.com/#/details?id=5029",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2442,7 +3388,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5017",
     "source_url": "https://campus.jd.com/#/details?id=5017",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2457,7 +3404,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4982",
     "source_url": "https://campus.jd.com/#/details?id=4982",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2472,7 +3420,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4938",
     "source_url": "https://campus.jd.com/#/details?id=4938",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2503,7 +3452,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4858",
     "source_url": "https://campus.jd.com/#/details?id=4858",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2527,7 +3477,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5837",
     "source_url": "https://campus.jd.com/#/details?id=5837",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2558,7 +3509,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4862",
     "source_url": "https://campus.jd.com/#/details?id=4862",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2570,7 +3522,6 @@
       "上海市-上海",
       "北京市-北京",
       "山东省-济南",
-      "广东省-广州",
       "江苏省-宿迁",
       "河南省-郑州"
     ],
@@ -2578,7 +3529,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5853",
     "source_url": "https://campus.jd.com/#/details?id=5853",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2593,7 +3545,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5859",
     "source_url": "https://campus.jd.com/#/details?id=5859",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2612,7 +3565,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5865",
     "source_url": "https://campus.jd.com/#/details?id=5865",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2629,7 +3583,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5867",
     "source_url": "https://campus.jd.com/#/details?id=5867",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2638,7 +3593,6 @@
     "category": "职能",
     "job_type": "实习",
     "city": [
-      "四川省-成都",
       "山东省-德州",
       "广东省-广州"
     ],
@@ -2646,7 +3600,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6673",
     "source_url": "https://campus.jd.com/#/details?id=6673",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2663,7 +3618,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9149",
     "source_url": "https://campus.jd.com/#/details?id=9149",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2680,7 +3636,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5892",
     "source_url": "https://campus.jd.com/#/details?id=5892",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2699,7 +3656,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=4860",
     "source_url": "https://campus.jd.com/#/details?id=4860",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2714,7 +3672,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6734",
     "source_url": "https://campus.jd.com/#/details?id=6734",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2730,7 +3689,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5843",
     "source_url": "https://campus.jd.com/#/details?id=5843",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2748,7 +3708,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6217",
     "source_url": "https://campus.jd.com/#/details?id=6217",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2764,7 +3725,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6216",
     "source_url": "https://campus.jd.com/#/details?id=6216",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2773,21 +3735,19 @@
     "category": "销售",
     "job_type": "实习",
     "city": [
-      "云南省-昆明",
       "北京市-北京",
       "山东省-济南",
       "山西省-太原",
-      "新疆维吾尔自治区-乌鲁木齐",
       "江苏省-南京",
       "江苏省-苏州",
-      "辽宁省-沈阳",
-      "重庆市-重庆"
+      "辽宁省-沈阳"
     ],
     "requirements": "1、2027届及以后毕业的在校生，统招大专及以上学历；\n2、热情开朗，善于与人沟通，对零售行业感兴趣；\n3、吃苦耐劳，抗压性强，能够适应快速的工作节奏和变化，并始终对工作保持热情；\n4、能够接受外派。",
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6368",
     "source_url": "https://campus.jd.com/#/details?id=6368",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2804,7 +3764,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=6630",
     "source_url": "https://campus.jd.com/#/details?id=6630",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2819,7 +3780,8 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9183",
     "source_url": "https://campus.jd.com/#/details?id=9183",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   },
   {
     "company": "京东",
@@ -2834,6 +3796,7 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=5014",
     "source_url": "https://campus.jd.com/#/details?id=5014",
-    "fetched_at": "2026-10-27T18:19:00+08:00"
+    "fetched_at": "2026-11-03T19:20:53+08:00",
+    "region": "国内"
   }
 ]

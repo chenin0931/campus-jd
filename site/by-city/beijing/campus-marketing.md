@@ -1,8 +1,8 @@
-# 北京 · 校招 · 市场 · 全部公司（64 个岗位）（第 1/2 页）
+# 北京 · 校招 · 市场 · 全部公司（65 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[小米 16](../../slices/xiaomi/campus/marketing/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/marketing/beijing.md) · [理想汽车 8](../../slices/lixiang/campus/marketing/beijing.md) · [百度 5](../../slices/baidu/campus/marketing/beijing.md) · [快手 4](../../slices/kuaishou/campus/marketing/beijing.md) · [联想 4](../../slices/lenovo/campus/marketing/beijing.md) · [腾讯 4](../../slices/tencent/campus/marketing/beijing.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/beijing.md) · [美团 3](../../slices/meituan/campus/marketing/beijing.md) · [网易 3](../../slices/netease/campus/marketing/beijing.md) · [千寻智能 2](../../slices/spiritai/campus/marketing/beijing.md) · [荣耀 1](../../slices/honor/campus/marketing/beijing.md) · [京东 1](../../slices/jd/campus/marketing/beijing.md) · [腾讯音乐 1](../../slices/tme/campus/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小米 16](../../slices/xiaomi/campus/marketing/beijing.md) · [字节跳动 8](../../slices/bytedance/campus/marketing/beijing.md) · [理想汽车 8](../../slices/lixiang/campus/marketing/beijing.md) · [百度 5](../../slices/baidu/campus/marketing/beijing.md) · [快手 4](../../slices/kuaishou/campus/marketing/beijing.md) · [联想 4](../../slices/lenovo/campus/marketing/beijing.md) · [腾讯 4](../../slices/tencent/campus/marketing/beijing.md) · [小红书 4](../../slices/xiaohongshu/campus/marketing/beijing.md) · [美团 3](../../slices/meituan/campus/marketing/beijing.md) · [网易 3](../../slices/netease/campus/marketing/beijing.md) · [京东 2](../../slices/jd/campus/marketing/beijing.md) · [千寻智能 2](../../slices/spiritai/campus/marketing/beijing.md) · [荣耀 1](../../slices/honor/campus/marketing/beijing.md) · [腾讯音乐 1](../../slices/tme/campus/marketing/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | 字节跳动 | 增长策略分析师 - TikTok 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7668657843764300085.md) |
 | 字节跳动 | 增长营销经理 - 番茄小说 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7669710776109730101.md) |
 | 荣耀 | AI产品营销经理 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/honor-6a83c54843154813049f22ae.md) |
-| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/jd-9043.md) |
+| 京东 | 市场营销 〔27届〕 | 上海/北京/广州/深圳/武汉/沈阳 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9073.md) |
+| 京东 | 公共事务 〔27届〕 | 上海/北京/成都/广州/武汉/沈阳/西安 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9043.md) |
 | 快手 | 公共事务管理 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9837.md) |
 | 快手 | 海外广告投放 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-12428.md) |
 | 快手 | 市场营销与策划（2个团队） | 北京 | 2026-10-27 | 2026-10-27 | [1](../../jobs/kuaishou-13324.md) [2](../../jobs/kuaishou-9739.md) |
