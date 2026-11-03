@@ -6,8 +6,6 @@
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 理想汽车 | PDI运营专员 〔27届〕 ⚠️链接待核 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-205748.md) |
-| 美团 | 【国际化业务】销售运营岗/Sales Operations Specialist 🌏海外 | 科威特城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4803892030.md) |
 | 美团 | 【国际化业务】AI产品运营岗/AI Product Operations Specialist 🌏海外 | 科威特城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4803800880.md) |
 | 美团 | 产品运营岗 | 杭州/北京/科威特城/香港/上海/西安/利雅得/广州/哈尔滨/武汉/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4696454382.md) |
 | 美团 | 城市运营管理储备岗 | 温州/苏州/北京/烟台/绍兴/沈阳/南宁/上海/兰州/成都/昆明/贵阳 等 23 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697288183.md) |
@@ -45,5 +43,7 @@
 | 小米 | Sales Operations Specialist-local 〔27届〕 🌏海外 | 迪拜/伊斯坦布尔 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670935292522383625.md) |
 | 小米 | Service Operations Specialist-local 〔27届〕 🌏海外 | 雅加达 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670931024012675366.md) |
 | 小鹏汽车 | 【2027 Campus Recruitment】Parts Operation  Explorer 🌏海外 | 迪门 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694273145070831910.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Sale Operation Fleet - France 🌏海外 | 巴黎 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694269185307838771.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Sales of Operations Specialist 🌏海外 | 伦敦 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694277796398549290.md) |
 
 [上一页](campus-ops.md) · [下一页](campus-ops-p3.md) · [总目录](../../llms.txt)

@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|
 | 滴滴 | 战略部-战略实习生（1） ⚠️链接待核 | 城市见官网 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/didi-33235e85-c03e-452e-a05b-ee67b45666e9.md) |
 | 华为 | 华为云BD | 苏州/贵阳/沈阳/兰州/郑州/天津/乌鲁木齐/呼和浩特/昆明/长春/哈尔滨/成都 等 30 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-31310.md) |
-| 理想汽车 | 海外渠道实习生 ⚠️链接待核 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-158158.md) |
+| 理想汽车 | 海外渠道实习生 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-158158.md) |
 | 腾讯 | Business Development Intern 107011 🌏海外 | Malaysia-Kuala Lumpur | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107011.md) |
 | 腾讯 | Business Development Intern 107012 🌏海外 | Thailand-Bangkok | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107012.md) |
 | 腾讯 | Business Development Intern, KOL Endorsements & Partnerships 107822 🌏海外 | France-Paris | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-107822.md) |

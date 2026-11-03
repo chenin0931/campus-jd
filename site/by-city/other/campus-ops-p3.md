@@ -6,8 +6,6 @@
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 小鹏汽车 | 【2027 Campus Recruitment】Sale Operation Fleet - France 🌏海外 | 巴黎 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694269185307838771.md) |
-| 小鹏汽车 | 【2027 Campus Recruitment】Sales of Operations Specialist 🌏海外 | 伦敦 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694277796398549290.md) |
 | 小鹏汽车 | 【2027 Campus Recruitment】Sales Operation Specialist 🌏海外 | 迪门 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694272231489407258.md) |
 | 小鹏汽车 | 【2027 Campus Recruitment】Sales Operation Specialist - Germany 🌏海外 | 慕尼黑 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694278057876425006.md) |
 | 小鹏汽车 | 【2027 Campus Recruitment】Sales Operations Explorer 🌏海外 | 巴勒鲁普 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694268164050307355.md) |

@@ -11,7 +11,7 @@
 - 首次出现: 2026-11-03　最近出现: 2026-11-03
 - 最近抓取: 2026-11-03
 - 截止: 以官网为准
-- 投递: https://iflytek.zhiye.com/campus/detail?jobAdId=06d1bbe2-2e7e-4b6b-851b-4fdf3b530eb5（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://iflytek.zhiye.com/campus/detail?jobAdId=06d1bbe2-2e7e-4b6b-851b-4fdf3b530eb5
 
 ## 岗位要求
 

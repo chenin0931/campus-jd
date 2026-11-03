@@ -11,7 +11,7 @@
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
 - 最近抓取: 2026-11-03
 - 截止: 以官网为准
-- 投递: https://app.mokahr.com/campus-recruitment/shopee/2962#/job/0de98726-0a7a-4e47-be8c-0daaf500ed52（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://app.mokahr.com/campus-recruitment/shopee/2962#/job/0de98726-0a7a-4e47-be8c-0daaf500ed52
 
 ## 岗位要求
 
