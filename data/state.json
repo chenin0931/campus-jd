@@ -37143,7 +37143,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "jd-9323": {
    "first_seen": "2026-10-27",
@@ -37289,7 +37290,8 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "jd-9317": {
    "first_seen": "2026-10-27",
@@ -63115,7 +63117,8 @@
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
    "last_week": "2026-W44",
-   "status": "active"
+   "status": "removed",
+   "removed_at": "2026-11-03"
   },
   "jd-9430": {
    "first_seen": "2026-11-03",

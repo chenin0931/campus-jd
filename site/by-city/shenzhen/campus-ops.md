@@ -1,8 +1,8 @@
-# 深圳 · 校招 · 运营 · 全部公司（77 个岗位）（第 1/3 页）
+# 深圳 · 校招 · 运营 · 全部公司（78 个岗位）（第 1/3 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 20](../../slices/bytedance/campus/ops/shenzhen.md) · [腾讯 11](../../slices/tencent/campus/ops/shenzhen.md) · [京东 10](../../slices/jd/campus/ops/shenzhen.md) · [腾讯音乐 9](../../slices/tme/campus/ops/shenzhen.md) · [美团 5](../../slices/meituan/campus/ops/shenzhen.md) · [OPPO 4](../../slices/oppo/campus/ops/shenzhen.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/shenzhen.md) · [哔哩哔哩 2](../../slices/bilibili/campus/ops/shenzhen.md) · [蔚来 2](../../slices/nio/campus/ops/shenzhen.md) · [小鹏汽车 2](../../slices/xpeng/campus/ops/shenzhen.md) · [智元机器人 1](../../slices/agibot/campus/ops/shenzhen.md) · [华为 1](../../slices/huawei/campus/ops/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/ops/shenzhen.md) · [联想 1](../../slices/lenovo/campus/ops/shenzhen.md) · [理想汽车 1](../../slices/lixiang/campus/ops/shenzhen.md) · [商汤科技 1](../../slices/sensetime/campus/ops/shenzhen.md) · [Shopee 1](../../slices/shopee/campus/ops/shenzhen.md) · [千寻智能 1](../../slices/spiritai/campus/ops/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 20](../../slices/bytedance/campus/ops/shenzhen.md) · [京东 11](../../slices/jd/campus/ops/shenzhen.md) · [腾讯 11](../../slices/tencent/campus/ops/shenzhen.md) · [腾讯音乐 9](../../slices/tme/campus/ops/shenzhen.md) · [美团 5](../../slices/meituan/campus/ops/shenzhen.md) · [OPPO 4](../../slices/oppo/campus/ops/shenzhen.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/shenzhen.md) · [哔哩哔哩 2](../../slices/bilibili/campus/ops/shenzhen.md) · [蔚来 2](../../slices/nio/campus/ops/shenzhen.md) · [小鹏汽车 2](../../slices/xpeng/campus/ops/shenzhen.md) · [智元机器人 1](../../slices/agibot/campus/ops/shenzhen.md) · [华为 1](../../slices/huawei/campus/ops/shenzhen.md) · [快手 1](../../slices/kuaishou/campus/ops/shenzhen.md) · [联想 1](../../slices/lenovo/campus/ops/shenzhen.md) · [理想汽车 1](../../slices/lixiang/campus/ops/shenzhen.md) · [商汤科技 1](../../slices/sensetime/campus/ops/shenzhen.md) · [Shopee 1](../../slices/shopee/campus/ops/shenzhen.md) · [千寻智能 1](../../slices/spiritai/campus/ops/shenzhen.md) · [小米 1](../../slices/xiaomi/campus/ops/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -33,12 +33,12 @@
 | 字节跳动 | 主播运营经理 - 抖音直播 〔27届〕 | 深圳/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667941735649724725.md) |
 | 字节跳动 | AI经纪人产品经理（抖音AI产品人才校招） - 抖音直播 〔27届〕 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7667854716023195909.md) |
 | 华为 | 产品运营经理 | 东莞/南京/杭州/北京/上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-38425.md) |
+| 京东 | 客户体验提升 〔27届〕 | 上海/北京/成都/深圳 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/jd-9076.md) |
 | 京东 | 采销（电商运营） 〔27届〕 | 上海/-香港/北京/成都/广州/深圳/乌鲁木齐/日本/南京/苏州/郑州/宁波 等 16 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9222.md) |
 | 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳/宿迁 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9119.md) |
 | 京东 | 店长储备 〔27届〕 | 上海/昆明/北京/长春/成都/天津/合肥/宿州/淮南/滁州/芜湖/蚌埠 等 41 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9357.md) |
 | 京东 | 家政运营 〔27届〕 | 上海/北京/长春/成都/济南/广州/深圳/南京/杭州/武汉/西安 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9355.md) |
 | 京东 | 客户运营 〔27届〕 | 上海/昆明/北京/成都/广州/深圳/石家庄/郑州/厦门 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9318.md) |
 | 京东 | 门店运营（健康） 〔27届〕 | 上海/北京/成都/深圳/南京/泰州/重庆 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9024.md) |
-| 京东 | 物流运营 〔27届〕 | 上海/昆明/北京/成都/天津/合肥/德州/济南/青岛/太原/广州/深圳 等 34 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9107.md) |
 
 [下一页](campus-ops-p2.md) · [总目录](../../llms.txt)

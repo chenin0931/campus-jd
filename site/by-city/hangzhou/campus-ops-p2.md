@@ -1,11 +1,12 @@
-# 杭州 · 校招 · 运营 · 全部公司（66 个岗位）（第 2/2 页）
+# 杭州 · 校招 · 运营 · 全部公司（67 个岗位）（第 2/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[阿里巴巴 18](../../slices/alibaba/campus/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/campus/ops/hangzhou.md) · [网易 9](../../slices/netease/campus/ops/hangzhou.md) · [京东 7](../../slices/jd/campus/ops/hangzhou.md) · [滴滴 4](../../slices/didi/campus/ops/hangzhou.md) · [快手 4](../../slices/kuaishou/campus/ops/hangzhou.md) · [美团 3](../../slices/meituan/campus/ops/hangzhou.md) · [华为 1](../../slices/huawei/campus/ops/hangzhou.md) · [理想汽车 1](../../slices/lixiang/campus/ops/hangzhou.md) · [蔚来 1](../../slices/nio/campus/ops/hangzhou.md) · [千寻智能 1](../../slices/spiritai/campus/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[阿里巴巴 18](../../slices/alibaba/campus/ops/hangzhou.md) · [字节跳动 17](../../slices/bytedance/campus/ops/hangzhou.md) · [网易 9](../../slices/netease/campus/ops/hangzhou.md) · [京东 7](../../slices/jd/campus/ops/hangzhou.md) · [滴滴 4](../../slices/didi/campus/ops/hangzhou.md) · [快手 4](../../slices/kuaishou/campus/ops/hangzhou.md) · [美团 3](../../slices/meituan/campus/ops/hangzhou.md) · [蚂蚁集团 1](../../slices/antgroup/campus/ops/hangzhou.md) · [华为 1](../../slices/huawei/campus/ops/hangzhou.md) · [理想汽车 1](../../slices/lixiang/campus/ops/hangzhou.md) · [蔚来 1](../../slices/nio/campus/ops/hangzhou.md) · [千寻智能 1](../../slices/spiritai/campus/ops/hangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 华为 | 产品运营经理 | 东莞/南京/杭州/北京/上海/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-38425.md) |
 | 京东 | 店长储备 〔27届〕 | 上海/昆明/北京/长春/成都/天津/合肥/宿州/淮南/滁州/芜湖/蚌埠 等 41 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9357.md) |
 | 京东 | 家政运营 〔27届〕 | 上海/北京/长春/成都/济南/广州/深圳/南京/杭州/武汉/西安 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9355.md) |
 | 京东 | 门店督导 〔27届〕 | 上海/昆明/呼和浩特/北京/成都/天津/合肥/济南/东莞/佛山/广州/南宁 等 28 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9307.md) |

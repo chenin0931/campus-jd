@@ -1,11 +1,15 @@
-# 北京 · 校招 · 职能 · 全部公司（138 个岗位）（第 3/4 页）
+# 北京 · 校招 · 职能 · 全部公司（143 个岗位）（第 3/4 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[快手 24](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/corporate/beijing.md) · [京东 14](../../slices/jd/campus/corporate/beijing.md) · [美团 14](../../slices/meituan/campus/corporate/beijing.md) · [理想汽车 9](../../slices/lixiang/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [联想 7](../../slices/lenovo/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [360 3](../../slices/360/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [贝壳 2](../../slices/ke/campus/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/campus/corporate/beijing.md) · [Shopee 2](../../slices/shopee/campus/corporate/beijing.md) · [智元机器人 1](../../slices/agibot/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md) · [知乎 1](../../slices/zhihu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[快手 24](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [京东 19](../../slices/jd/campus/corporate/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/corporate/beijing.md) · [美团 14](../../slices/meituan/campus/corporate/beijing.md) · [理想汽车 9](../../slices/lixiang/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [联想 7](../../slices/lenovo/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [360 3](../../slices/360/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [贝壳 2](../../slices/ke/campus/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/campus/corporate/beijing.md) · [Shopee 2](../../slices/shopee/campus/corporate/beijing.md) · [智元机器人 1](../../slices/agibot/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md) · [知乎 1](../../slices/zhihu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 理想汽车 | 采购专员（2个团队） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [1](../../jobs/lixiang-121113.md) [2](../../jobs/lixiang-190887.md) |
+| 理想汽车 | 采购专员（成本方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-182994.md) |
+| 理想汽车 | 对外事务专员-统计合规方向 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-122976.md) |
+| 理想汽车 | 法务专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-12060.md) |
 | 理想汽车 | 间接采购培训生 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-09665.md) |
 | 理想汽车 | 人力资源专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-121702.md) |
 | 美团 | 财务培训生(财务BP方向) | 北京/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4695102332.md) |
@@ -43,9 +47,5 @@
 | 小米 | 海外合规专员 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7684165944163977482.md) |
 | 小米 | 人力资源专员-国际招聘 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923881368996102.md) |
 | 小米 | 人力资源专员-国际ops 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924268314167571.md) |
-| 小米 | 人力资源专员-国际payroll 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670923755846666532.md) |
-| 小米 | 人力资源专员-薪酬 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924149524023578.md) |
-| 小米 | 人力资源专员-招聘 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924303102052614.md) |
-| 小米 | 人力资源专员-组织与人才发展 〔27届〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7670924625261824265.md) |
 
 [上一页](campus-corporate-p2.md) · [下一页](campus-corporate-p4.md) · [总目录](../../llms.txt)

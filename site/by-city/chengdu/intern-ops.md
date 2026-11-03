@@ -1,8 +1,8 @@
-# 成都 · 实习 · 运营 · 全部公司（49 个岗位）（第 1/2 页）
+# 成都 · 实习 · 运营 · 全部公司（50 个岗位）（第 1/2 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 14](../../slices/bytedance/intern/ops/chengdu.md) · [京东 11](../../slices/jd/intern/ops/chengdu.md) · [美团 9](../../slices/meituan/intern/ops/chengdu.md) · [腾讯 4](../../slices/tencent/intern/ops/chengdu.md) · [滴滴 3](../../slices/didi/intern/ops/chengdu.md) · [理想汽车 3](../../slices/lixiang/intern/ops/chengdu.md) · [OPPO 2](../../slices/oppo/intern/ops/chengdu.md) · [360 1](../../slices/360/intern/ops/chengdu.md) · [蔚来 1](../../slices/nio/intern/ops/chengdu.md) · [小鹏汽车 1](../../slices/xpeng/intern/ops/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 14](../../slices/bytedance/intern/ops/chengdu.md) · [京东 12](../../slices/jd/intern/ops/chengdu.md) · [美团 9](../../slices/meituan/intern/ops/chengdu.md) · [腾讯 4](../../slices/tencent/intern/ops/chengdu.md) · [滴滴 3](../../slices/didi/intern/ops/chengdu.md) · [理想汽车 3](../../slices/lixiang/intern/ops/chengdu.md) · [OPPO 2](../../slices/oppo/intern/ops/chengdu.md) · [360 1](../../slices/360/intern/ops/chengdu.md) · [蔚来 1](../../slices/nio/intern/ops/chengdu.md) · [小鹏汽车 1](../../slices/xpeng/intern/ops/chengdu.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | 京东 | 产品运营 〔27届〕 | 上海/北京/成都/天津/深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4914.md) |
 | 京东 | 客服运营 〔27届〕 | 北京/成都/广州/宿迁 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9138.md) |
 | 京东 | 客服支持储备 〔26届〕 | 成都/宿迁 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-5843.md) |
+| 京东 | 客户体验提升 〔27届〕 | 北京/成都/宿迁 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4932.md) |
 | 京东 | 客户运营 〔27/28届〕 | 北京/成都/南京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-6651.md) |
 | 京东 | 人才交付 〔26届〕 | 北京/成都/宿迁/武汉 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-6217.md) |
 | 京东 | 物流运营 〔27届〕 | 上海/北京/成都/合肥/德州/太原/广州/深圳/乌鲁木齐/南京/宿迁/苏州 等 22 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4864.md) |
@@ -44,6 +45,5 @@
 | 美团 | 大模型数据运营-多模态视觉方向（实习生） | 北京/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-2639713807.md) |
 | 美团 | 大模型数据运营-小语种/方言方向实习生 | 北京/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3369700031.md) |
 | 美团 | 大模型数据运营-音乐数据方向实习生 〔≥3个月，每周≥4天〕 | 北京/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-3392128388.md) |
-| 美团 | 大模型数据运营（英文实习） 〔27/28届〕 | 北京/成都 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-2731047995.md) |
 
 [下一页](intern-ops-p2.md) · [总目录](../../llms.txt)

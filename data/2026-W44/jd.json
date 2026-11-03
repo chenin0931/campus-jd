@@ -3,7 +3,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "仓/场地经理",
-    "category": "其他",
+    "category": "供应链",
     "job_type": "校招",
     "city": [
       "上海市-上海",
@@ -228,7 +228,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "安全管理/损耗控制",
-    "category": "其他",
+    "category": "供应链",
     "job_type": "校招",
     "city": [
       "上海市-上海",
@@ -270,7 +270,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "营业部/集配站站长",
-    "category": "其他",
+    "category": "供应链",
     "job_type": "校招",
     "city": [
       "上海市-上海",
@@ -576,7 +576,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "客户体验提升",
-    "category": "其他",
+    "category": "运营",
     "job_type": "校招",
     "city": [
       "上海市-上海",
@@ -613,25 +613,6 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9285",
     "source_url": "https://campus.jd.com/#/details?id=9285",
-    "fetched_at": "2026-11-03T19:20:53+08:00",
-    "region": "国内"
-  },
-  {
-    "company": "京东",
-    "business_unit": [],
-    "title": "医技",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "上海市-上海",
-      "北京市-北京",
-      "天津市-天津",
-      "山西省-太原"
-    ],
-    "requirements": "1、2026年10月1日至2027年9月30日期间毕业，专科及以上学历，中医、中西医结合、康复治疗、针灸推拿、护理学、药学、中药学等专业；\n2、较强的服务意识和亲和力，良好的沟通协调能力和团队协作能力。",
-    "deadline": null,
-    "apply_url": "https://campus.jd.com/#/details?id=9313",
-    "source_url": "https://campus.jd.com/#/details?id=9313",
     "fetched_at": "2026-11-03T19:20:53+08:00",
     "region": "国内"
   },
@@ -944,7 +925,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "现场保障",
-    "category": "其他",
+    "category": "运营",
     "job_type": "校招",
     "city": [
       "江苏省-南通"
@@ -959,24 +940,8 @@
   {
     "company": "京东",
     "business_unit": [],
-    "title": "航空维修",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "江苏省-南通"
-    ],
-    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，工科类专业；\n2.了解并热爱民航，愿意长期在民航业发展。具备坚韧不拔的品质，有强烈的责任心、严谨的工作作风和职业态度。\n3.英语听说读写流利，毕业前可获取民航维修人员执照。",
-    "deadline": null,
-    "apply_url": "https://campus.jd.com/#/details?id=9432",
-    "source_url": "https://campus.jd.com/#/details?id=9432",
-    "fetched_at": "2026-11-03T19:20:53+08:00",
-    "region": "国内"
-  },
-  {
-    "company": "京东",
-    "business_unit": [],
     "title": "航空签派",
-    "category": "其他",
+    "category": "运营",
     "job_type": "校招",
     "city": [
       "江苏省-南通"
@@ -992,7 +957,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "航空职能",
-    "category": "其他",
+    "category": "职能",
     "job_type": "校招",
     "city": [
       "北京市-北京",
@@ -1062,7 +1027,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "保险服务",
-    "category": "其他",
+    "category": "职能",
     "job_type": "校招",
     "city": [
       "北京市-北京"
@@ -1368,7 +1333,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "健康管理师",
-    "category": "其他",
+    "category": "运营",
     "job_type": "校招",
     "city": [
       "北京市-北京"
@@ -1377,23 +1342,6 @@
     "deadline": null,
     "apply_url": "https://campus.jd.com/#/details?id=9258",
     "source_url": "https://campus.jd.com/#/details?id=9258",
-    "fetched_at": "2026-11-03T19:20:53+08:00",
-    "region": "国内"
-  },
-  {
-    "company": "京东",
-    "business_unit": [],
-    "title": "护理",
-    "category": "其他",
-    "job_type": "校招",
-    "city": [
-      "北京市-北京",
-      "广东省-深圳"
-    ],
-    "requirements": "1.2026年10月1日至2027年9月30日期间毕业，专科及以上学历，护理专业，具备扎实的护理理论知识；\n2.具备良好的沟通能力和服务意识，能够耐心、细致地与客户交流，有效处理客户需求与反馈；\n3.对工作认真负责，有较强的学习能力和团队合作精神，能够快速适应体检中心的工作环境，不断提升个人专业技能。",
-    "deadline": null,
-    "apply_url": "https://campus.jd.com/#/details?id=9261",
-    "source_url": "https://campus.jd.com/#/details?id=9261",
     "fetched_at": "2026-11-03T19:20:53+08:00",
     "region": "国内"
   },
@@ -1779,7 +1727,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "医院经营（健康）",
-    "category": "其他",
+    "category": "运营",
     "job_type": "校招",
     "city": [
       "北京市-北京"
@@ -1817,7 +1765,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "医务",
-    "category": "其他",
+    "category": "运营",
     "job_type": "校招",
     "city": [
       "北京市-北京"
@@ -1866,7 +1814,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "核保",
-    "category": "其他",
+    "category": "职能",
     "job_type": "校招",
     "city": [
       "北京市-北京"
@@ -1882,7 +1830,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "精算师",
-    "category": "其他",
+    "category": "职能",
     "job_type": "校招",
     "city": [
       "北京市-北京",
@@ -1953,7 +1901,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "物业管理",
-    "category": "其他",
+    "category": "职能",
     "job_type": "校招",
     "city": [
       "北京市-北京"
@@ -2430,7 +2378,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "仓/场地经理",
-    "category": "其他",
+    "category": "供应链",
     "job_type": "实习",
     "city": [
       "北京市-北京",
@@ -2463,7 +2411,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "保险服务",
-    "category": "其他",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京市-北京"
@@ -2697,7 +2645,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "客户体验提升",
-    "category": "其他",
+    "category": "运营",
     "job_type": "实习",
     "city": [
       "北京市-北京",
@@ -3347,7 +3295,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "医务",
-    "category": "其他",
+    "category": "运营",
     "job_type": "实习",
     "city": [
       "北京市-北京"
@@ -3379,7 +3327,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "核保",
-    "category": "其他",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "北京市-北京"
@@ -3552,7 +3500,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "损耗控制",
-    "category": "其他",
+    "category": "供应链",
     "job_type": "实习",
     "city": [
       "吉林省-长春",
@@ -3572,7 +3520,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "安全支持",
-    "category": "其他",
+    "category": "运营",
     "job_type": "实习",
     "city": [
       "山东省-德州",
@@ -3625,7 +3573,7 @@
     "company": "京东",
     "business_unit": [],
     "title": "园区经理（物业方向）",
-    "category": "其他",
+    "category": "职能",
     "job_type": "实习",
     "city": [
       "湖北省-武汉",

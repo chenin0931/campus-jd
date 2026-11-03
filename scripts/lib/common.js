@@ -25,7 +25,7 @@ const HW_BIZ = /原画|美术|资产管理|IT支持|交互|体验|战略|投资|
 const AI = /AI|大模型|Agent|AIGC|智能|智算/i;
 const RULES = [
   // 供应链：在运营/产品之后、商务之前；采购已在前面归职能；「计划」只认业务计划，排除 人才/星/实习/招聘/培养 计划
-  ['供应链', /物料|(^|[^A-Za-z])PMC([^A-Za-z]|$)|品质|(?<!内容|模型|数据)质量|供应链|物流|仓储|备件|供应管理|质控|质检|(?<!人才|专项|星|实习|招聘|培养|管培|校招|北斗|启航|领航|英才)计划(?!精英|生)/],
+  ['供应链', /仓\/|场地经理|集配站|损耗控制|(?<!网站|网|内容|社区|频道|论坛|博客)站长|物料|(^|[^A-Za-z])PMC([^A-Za-z]|$)|品质|(?<!内容|模型|数据)质量|供应链|物流|仓储|备件|供应管理|质控|质检|(?<!人才|专项|星|实习|招聘|培养|管培|校招|北斗|启航|领航|英才)计划(?!精英|生)/],
   // 模型评测/标注岗归 AI产品（先于审计等职能词）
   ['AI产品', /评测|标注|语料|\bEval\w*/i],
   ['商务', /\bPartnerships?\b|商务|(^|[^A-Za-z])BD([^A-Za-z]|$)|商业化|渠道|合作|招商|拓展|采销|采购|投资|战略|Business Development/i],
@@ -33,7 +33,7 @@ const RULES = [
   ['市场', /市场|营销|品牌|公关|(^|[^A-Za-z])PR([^A-Za-z]|$)|广告|媒介|增长|Marketing|公共事务|政府事务|政府关系|技术传播|SEO|视频剪辑|视频创意|视频制作|创意制作|新媒体|校园大使|\b(Growth|Community|Content)\b/i],
   ['销售', /销售|客户经理|大客户|售前|售后|客户成功|顾问|规划师|直营管理|新零售|解决方案|\b(Sales|Accounts?|Retail)\b|(^|[^A-Za-z])KA([^A-Za-z]|$)/i],
   ['设计', /\b(Design|Designer|Artist)s?\b|设计|视觉|交互|(^|[^A-Za-z])(UI|UX)([^A-Za-z]|$)|美术|原画|分镜|GUI|[23]D动作|动作(设计|美术|师)|动画|插画|模型师|特效|灯光|用户体验/i],
-  ['职能', /(^|[^A-Za-z])HR(BP)?([^A-Za-z]|$)|人力|招聘|财务|会计|审计|税务|法务|律师|合规|风控|行政|秘书|助理|内控|IT支持|财经|资金|理赔|薪酬|组织发展|造价|会务|接待|保密|金融|融租|资管|资产|成本管理|企业文化|组织文化|人才发展|HRIS|企业流程|对外事务|\b(Recruit\w*|Finance|Legal)\b/i],
+  ['职能', /核保|精算|保险服务|物业|园区经理|职能|(^|[^A-Za-z])HR(BP)?([^A-Za-z]|$)|人力|招聘|财务|会计|审计|税务|法务|律师|合规|风控|行政|秘书|助理|内控|IT支持|财经|资金|理赔|薪酬|组织发展|造价|会务|接待|保密|金融|融租|资管|资产|成本管理|企业文化|组织文化|人才发展|HRIS|企业流程|对外事务|\b(Recruit\w*|Finance|Legal)\b/i],
   ['项目管理', /项目|建设服务|装饰装修|(^|[^A-Za-z])PMO?([^A-Za-z]|$)/i],
   ['分析', /分析|数据|洞察|用户研究|商分|策略|咨询|数据科学|政策研究|行业研究|收益管理|Analy|Data Scien/i],
   ['策划', /策划/],
@@ -66,7 +66,9 @@ function classify(title) {
   const tm = TECH_MODEL.test(h) && !/产品|运营|设计|评测|标注|语料|战略|商务|市场|销售|BD/.test(h);
   const hw = HW_TECH.test(h) && !HW_BIZ.test(h);
   if (/AI研究|研究创新/.test(h) && !/产品|运营|市场|商务|战略|评测/.test(h)) { return null; }
-  if (any || mfg || topic || tm || hw || EXCLUDE.test(t)) { if (process.env.DUMP_EXCLUDED) fs.appendFileSync(process.env.DUMP_EXCLUDED, title + '\n'); return null; }  // DUMP_EXCLUDED=文件：调试用
+  // 民航/设备维修、机务、飞行员（岗位段，含 运营/产品 时不算，如「维修服务运营」）；医技/护理按临床岗排除（与 医师 一致），只认独立岗位名，不碰 个护/洗护/护肤/护理品类
+  const care = (/维修|机务|飞行员/.test(h) && !/运营|产品/.test(h)) || /^(医技|护理|护士)[师员士]?(实习生?|岗|管培生|培训生|储备)?$/.test(h.replace(/[（(][^）)]*[）)]/g, '').trim());
+  if (care || any || mfg || topic || tm || hw || EXCLUDE.test(t)) { if (process.env.DUMP_EXCLUDED) fs.appendFileSync(process.env.DUMP_EXCLUDED, title + '\n'); return null; }  // DUMP_EXCLUDED=文件：调试用
   // 招聘/HR/Talent Acquisition 归职能，先于运营（「校招运营HR实习生」）；岗位段含 产品 时不触发
   // 分析优先（§9）：岗位主干（去掉括号说明）含 数据分析/数据科学/洞察/商分/商业分析/经营分析 → 分析，先于 运营/产品；岗位是产品经理/供应链时不触发
   const hp = h.replace(/[（(][^）)]*[）)]/g, '');
@@ -105,6 +107,8 @@ function classify(title) {
   if (/编导/.test(h)) return '市场';
   if (/生态发展/.test(h)) return '商务';
   if (/安全协作|内容安全/.test(h)) return '运营';
+  // 2026-11-03 补词（京东「其他」复核，§3.11）：客户体验/安全支持/签派/现场保障/医务/健康管理/医院经营 → 运营
+  if (/客户体验|安全支持|签派|现场保障|医务|健康管理|医院经营/.test(h)) return '运营';
   for (const [c, re] of RULES) if (re.test(h)) return c;
   // 兜底：落到「其他」的标题若含技术课题词（模型训练/推理/架构/安全/多模态/智能体等），按技术岗排除
   if (TECH_OTHER.test(title)) return null;

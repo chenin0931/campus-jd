@@ -1,8 +1,8 @@
-# 广州 · 校招 · 运营 · 全部公司（100 个岗位）（第 2/3 页）
+# 广州 · 校招 · 运营 · 全部公司（101 个岗位）（第 2/3 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[小鹏汽车 48](../../slices/xpeng/campus/ops/guangzhou.md) · [京东 12](../../slices/jd/campus/ops/guangzhou.md) · [字节跳动 11](../../slices/bytedance/campus/ops/guangzhou.md) · [阿里巴巴 8](../../slices/alibaba/campus/ops/guangzhou.md) · [美团 6](../../slices/meituan/campus/ops/guangzhou.md) · [得物 3](../../slices/dewu/campus/ops/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/ops/guangzhou.md) · [腾讯音乐 3](../../slices/tme/campus/ops/guangzhou.md) · [网易 2](../../slices/netease/campus/ops/guangzhou.md) · [携程 1](../../slices/ctrip/campus/ops/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/ops/guangzhou.md) · [理想汽车 1](../../slices/lixiang/campus/ops/guangzhou.md) · [蔚来 1](../../slices/nio/campus/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[小鹏汽车 49](../../slices/xpeng/campus/ops/guangzhou.md) · [京东 12](../../slices/jd/campus/ops/guangzhou.md) · [字节跳动 11](../../slices/bytedance/campus/ops/guangzhou.md) · [阿里巴巴 8](../../slices/alibaba/campus/ops/guangzhou.md) · [美团 6](../../slices/meituan/campus/ops/guangzhou.md) · [得物 3](../../slices/dewu/campus/ops/guangzhou.md) · [腾讯 3](../../slices/tencent/campus/ops/guangzhou.md) · [腾讯音乐 3](../../slices/tme/campus/ops/guangzhou.md) · [网易 2](../../slices/netease/campus/ops/guangzhou.md) · [携程 1](../../slices/ctrip/campus/ops/guangzhou.md) · [快手 1](../../slices/kuaishou/campus/ops/guangzhou.md) · [理想汽车 1](../../slices/lixiang/campus/ops/guangzhou.md) · [蔚来 1](../../slices/nio/campus/ops/guangzhou.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | 腾讯音乐 | 产品运营（商业化方向） ⚠️链接待核 | 深圳/上海/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-15095.md) |
 | 腾讯音乐 | 内容运营 ⚠️链接待核 | 深圳/北京/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-12505.md) |
 | 小鹏汽车 | 【27届校招】交付运营培训生（物流方向） 〔27届〕 ⚠️链接待核 | 广州 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/xpeng-7701640223312054537.md) |
+| 小鹏汽车 | 【27届校招】客户体验培训生 〔27届〕 ⚠️链接待核 | 广州 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/xpeng-7663443995359578374.md) |
 | 小鹏汽车 | 【27届校招】售后运营培训生（商业化运营方向） 〔27届〕 ⚠️链接待核 | 广州 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/xpeng-7701600057929828651.md) |
 | 小鹏汽车 | 【27届校招】售后运营培训生（项目管理方向） 〔27届〕 ⚠️链接待核 | 广州 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/xpeng-7703818998018279690.md) |
 | 小鹏汽车 | 【27届校招】OTA产品运营培训生（偏项目管理方向） 〔27届〕 ⚠️链接待核 | 广州 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/xpeng-7703754738135075115.md) |
@@ -43,6 +44,5 @@
 | 小鹏汽车 | 【27届校招】海外售后技术客服培训生 〔27届〕 | 广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7675641123033811246.md) |
 | 小鹏汽车 | 【27届校招】海外售后运营培训生-东南亚 〔27届〕 | 广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7673330339926837555.md) |
 | 小鹏汽车 | 【27届校招】基建运营培训生 〔27届〕 | 广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7658239639400794406.md) |
-| 小鹏汽车 | 【27届校招】交付运营培训生 〔27届〕 | 广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7658239781528373554.md) |
 
 [上一页](campus-ops.md) · [下一页](campus-ops-p3.md) · [总目录](../../llms.txt)

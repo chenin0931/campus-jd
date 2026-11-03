@@ -1,11 +1,12 @@
-# 北京 · 实习 · 职能 · 全部公司（294 个岗位）（第 6/8 页）
+# 北京 · 实习 · 职能 · 全部公司（296 个岗位）（第 6/8 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 14](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [360 5](../../slices/360/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [面壁智能 3](../../slices/modelbest/intern/corporate/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/beijing.md) · [生数科技 2](../../slices/shengshu/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 89](../../slices/bytedance/intern/corporate/beijing.md) · [小米 52](../../slices/xiaomi/intern/corporate/beijing.md) · [滴滴 36](../../slices/didi/intern/corporate/beijing.md) · [美团 21](../../slices/meituan/intern/corporate/beijing.md) · [百度 16](../../slices/baidu/intern/corporate/beijing.md) · [京东 16](../../slices/jd/intern/corporate/beijing.md) · [小红书 11](../../slices/xiaohongshu/intern/corporate/beijing.md) · [网易 8](../../slices/netease/intern/corporate/beijing.md) · [快手 7](../../slices/kuaishou/intern/corporate/beijing.md) · [理想汽车 7](../../slices/lixiang/intern/corporate/beijing.md) · [360 5](../../slices/360/intern/corporate/beijing.md) · [腾讯 5](../../slices/tencent/intern/corporate/beijing.md) · [面壁智能 3](../../slices/modelbest/intern/corporate/beijing.md) · [月之暗面 3](../../slices/moonshot/intern/corporate/beijing.md) · [爱奇艺 2](../../slices/iqiyi/intern/corporate/beijing.md) · [贝壳 2](../../slices/ke/intern/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/beijing.md) · [生数科技 2](../../slices/shengshu/intern/corporate/beijing.md) · [阶跃星辰 2](../../slices/stepfun/intern/corporate/beijing.md) · [自变量机器人 2](../../slices/x2robot/intern/corporate/beijing.md) · [零一万物 1](../../slices/01ai/intern/corporate/beijing.md) · [原力灵机 1](../../slices/dexmal/intern/corporate/beijing.md) · [MiniMax 1](../../slices/minimax/intern/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/intern/corporate/beijing.md) · [与爱为舞 1](../../slices/yuaiweiwu/intern/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 美团 | 海外招聘实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4184803526.md) |
 | 美团 | 技术招聘实习生（高招方向） 〔27/29届 · ≥3个月，每周≥3天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4827552583.md) |
 | 美团 | 人力资源实习生 〔≥10个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4684312822.md) |
 | 美团 | 税务合规实习生 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4173803702.md) |
@@ -40,6 +41,5 @@
 | 商汤科技 | 云服务采购实习生 〔每周≥4天〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/sensetime-7660495829069711626.md) |
 | 生数科技 | 投融资实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/shengshu-7694170898395711795.md) |
 | 生数科技 | 招聘实习生 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/shengshu-7539749881783617818.md) |
-| 千寻智能 | 行政实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/spiritai-7685610816712067355.md) |
 
 [上一页](intern-corporate-p5.md) · [下一页](intern-corporate-p7.md) · [总目录](../../llms.txt)

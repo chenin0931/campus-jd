@@ -1,8 +1,8 @@
-# 深圳 · 实习 · 其他 · 全部公司（23 个岗位）
+# 深圳 · 实习 · 其他 · 全部公司（22 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 9](../../slices/bytedance/intern/other/shenzhen.md) · [美团 3](../../slices/meituan/intern/other/shenzhen.md) · [腾讯音乐 3](../../slices/tme/intern/other/shenzhen.md) · [腾讯 2](../../slices/tencent/intern/other/shenzhen.md) · [百度 1](../../slices/baidu/intern/other/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/other/shenzhen.md) · [华为 1](../../slices/huawei/intern/other/shenzhen.md) · [京东 1](../../slices/jd/intern/other/shenzhen.md) · [自变量机器人 1](../../slices/x2robot/intern/other/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/other/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 9](../../slices/bytedance/intern/other/shenzhen.md) · [美团 3](../../slices/meituan/intern/other/shenzhen.md) · [腾讯音乐 3](../../slices/tme/intern/other/shenzhen.md) · [腾讯 2](../../slices/tencent/intern/other/shenzhen.md) · [百度 1](../../slices/baidu/intern/other/shenzhen.md) · [哔哩哔哩 1](../../slices/bilibili/intern/other/shenzhen.md) · [华为 1](../../slices/huawei/intern/other/shenzhen.md) · [自变量机器人 1](../../slices/x2robot/intern/other/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/other/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | 字节跳动 | AI基建实习生-风控 〔27届〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7639701661439019269.md) |
 | 字节跳动 | AIGC图文创作实习生 - TikTok Shop | 深圳/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7686460188131723573.md) |
 | 华为 | 消费者管理培训生 | 沈阳/福州/西安/杭州/武汉/成都/北京/上海/广州/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-31495.md) |
-| 京东 | 损耗控制 〔26届〕 | 长春/东莞/广州/深圳/沈阳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-5865.md) |
 | 美团 | 【无人车北斗实习】3D高斯模型实习生 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4501188515.md) |
 | 美团 | 【无人车北斗实习】端到端模型实习生 | 北京/深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4500420647.md) |
 | 美团 | 具身本体测评（实习） | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4603932411.md) |

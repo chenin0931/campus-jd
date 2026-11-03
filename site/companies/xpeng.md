@@ -6,7 +6,7 @@
 
 - 校招·AI产品（7）：[广州 5](../slices/xpeng/campus/ai-product/guangzhou.md) · [上海 5](../slices/xpeng/campus/ai-product/shanghai.md) · [北京 3](../slices/xpeng/campus/ai-product/beijing.md) · [深圳 2](../slices/xpeng/campus/ai-product/shenzhen.md)
 - 校招·产品（20）：[广州 17](../slices/xpeng/campus/product/guangzhou.md) · [深圳 2](../slices/xpeng/campus/product/shenzhen.md) · [其他城市 1](../slices/xpeng/campus/product/other.md) · [上海 1](../slices/xpeng/campus/product/shanghai.md)
-- 校招·运营（62）：[广州 48](../slices/xpeng/campus/ops/guangzhou.md) · [其他城市 8](../slices/xpeng/campus/ops/other.md) · [上海 2](../slices/xpeng/campus/ops/shanghai.md) · [武汉 2](../slices/xpeng/campus/ops/wuhan.md) · 另 8 城（9 个）见 index.json slices
+- 校招·运营（63）：[广州 49](../slices/xpeng/campus/ops/guangzhou.md) · [其他城市 8](../slices/xpeng/campus/ops/other.md) · [上海 2](../slices/xpeng/campus/ops/shanghai.md) · [武汉 2](../slices/xpeng/campus/ops/wuhan.md) · 另 8 城（9 个）见 index.json slices
 - 校招·商务（6）：[广州 5](../slices/xpeng/campus/business/guangzhou.md) · [其他城市 1](../slices/xpeng/campus/business/other.md)
 - 校招·市场（15）：[广州 11](../slices/xpeng/campus/marketing/guangzhou.md) · [深圳 2](../slices/xpeng/campus/marketing/shenzhen.md) · [其他城市 2](../slices/xpeng/campus/marketing/other.md)
 - 校招·销售（17）：[广州 9](../slices/xpeng/campus/sales/guangzhou.md) · [其他城市 2](../slices/xpeng/campus/sales/other.md) · [沈阳 1](../slices/xpeng/campus/sales/shenyang.md) · [北京 1](../slices/xpeng/campus/sales/beijing.md) · 另 11 城（11 个）见 index.json slices
@@ -15,7 +15,7 @@
 - 校招·项目管理（9）：[广州 8](../slices/xpeng/campus/pm/guangzhou.md) · [上海 2](../slices/xpeng/campus/pm/shanghai.md)
 - 校招·分析（4）：[广州 4](../slices/xpeng/campus/analysis/guangzhou.md)
 - 校招·供应链（22）：[广州 18](../slices/xpeng/campus/supply/guangzhou.md) · [武汉 5](../slices/xpeng/campus/supply/wuhan.md) · [上海 1](../slices/xpeng/campus/supply/shanghai.md) · [其他城市 1](../slices/xpeng/campus/supply/other.md)
-- 校招·其他（20）：[广州 15](../slices/xpeng/campus/other/guangzhou.md) · [其他城市 3](../slices/xpeng/campus/other/other.md) · [深圳 2](../slices/xpeng/campus/other/shenzhen.md) · [上海 1](../slices/xpeng/campus/other/shanghai.md)
+- 校招·其他（19）：[广州 14](../slices/xpeng/campus/other/guangzhou.md) · [其他城市 3](../slices/xpeng/campus/other/other.md) · [深圳 2](../slices/xpeng/campus/other/shenzhen.md) · [上海 1](../slices/xpeng/campus/other/shanghai.md)
 - 实习·AI产品（2）：[北京 1](../slices/xpeng/intern/ai-product/beijing.md) · [上海 1](../slices/xpeng/intern/ai-product/shanghai.md)
 - 实习·产品（1）：[广州 1](../slices/xpeng/intern/product/guangzhou.md)
 - 实习·运营（12）：[其他城市 5](../slices/xpeng/intern/ops/other.md) · [广州 4](../slices/xpeng/intern/ops/guangzhou.md) · [苏州 2](../slices/xpeng/intern/ops/suzhou.md) · [重庆 2](../slices/xpeng/intern/ops/chongqing.md) · 另 10 城（10 个）见 index.json slices

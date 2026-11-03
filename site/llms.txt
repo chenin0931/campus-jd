@@ -1,6 +1,6 @@
 # 大厂、互联网公司和 AI 初创的校招与实习非技术岗 JD 库
 
-> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-11-03 生成。在招 9254，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
+> 每周一由 GitHub Actions 预计算的静态切片。数据周 2026-W44，2026-11-03 生成。在招 9251，本周新增 0，下架 0。所有路径相对本文件所在目录；每个文件 ≤8KB，超出分页 -p2、-p3。
 
 ## 怎么读
 1. 选一个最窄的文件 fetch：有公司就用 slices，只有城市就用 by-city。
@@ -30,14 +30,14 @@
 ## 枚举
 - category: ai-product=AI产品, product=产品, ops=运营, business=商务, marketing=市场, sales=销售, design=设计, corporate=职能, pm=项目管理, analysis=分析, planning=策划, supply=供应链, other=其他
 - job_type: campus=校招, intern=实习
-- region: domestic=国内(9037), overseas=海外(217)
-- city（前 20）: beijing=北京(4121), shanghai=上海(2881), other=其他城市(1487), shenzhen=深圳(898), hangzhou=杭州(721), guangzhou=广州(616), chengdu=成都(224), wuhan=武汉(158), nanjing=南京(95), hefei=合肥(93), xian=西安(81), dongguan=东莞(79), chongqing=重庆(76), shenyang=沈阳(52), singapore=新加坡(51), zhengzhou=郑州(51), tianjin=天津(47), suzhou=苏州(44), jinan=济南(42), changsha=长沙(42)
+- region: domestic=国内(9034), overseas=海外(217)
+- city（前 20）: beijing=北京(4119), shanghai=上海(2880), other=其他城市(1486), shenzhen=深圳(897), hangzhou=杭州(721), guangzhou=广州(616), chengdu=成都(224), wuhan=武汉(158), nanjing=南京(95), hefei=合肥(93), xian=西安(81), dongguan=东莞(79), chongqing=重庆(76), shenyang=沈阳(52), singapore=新加坡(51), zhengzhou=郑州(51), tianjin=天津(46), suzhou=苏州(44), jinan=济南(42), changsha=长沙(42)
 
 - by-year: 24, 25, 26, 27, 28, 29, 30（有届别列表的届）
 
 ## 公司（slug=名称 校招/实习；按数据集分组）
-### 大厂（20 家，7272 岗）
-alibaba=阿里巴巴 116/0，antgroup=蚂蚁集团 19/29，baidu=百度 61/307，bilibili=哔哩哔哩 35/242，bytedance=字节跳动 859/2201，ctrip=携程 37/22，dewu=得物 133/5，didi=滴滴 43/455，huawei=华为 21/11，jd=京东 91/77，kuaishou=快手 169/76，meituan=美团 73/197，mihoyo=米哈游 74/84，netease=网易 86/529，oppo=OPPO 45/31，pinduoduo=拼多多 27/2（手动更新 · 最后更新 2026-11-03），tencent=腾讯 71/183，vivo=vivo 10/27，xiaohongshu=小红书 34/183，xiaomi=小米 316/291
+### 大厂（20 家，7269 岗）
+alibaba=阿里巴巴 116/0，antgroup=蚂蚁集团 19/29，baidu=百度 61/307，bilibili=哔哩哔哩 35/242，bytedance=字节跳动 859/2201，ctrip=携程 37/22，dewu=得物 133/5，didi=滴滴 43/455，huawei=华为 21/11，jd=京东 88/77，kuaishou=快手 169/76，meituan=美团 73/197，mihoyo=米哈游 74/84，netease=网易 86/529，oppo=OPPO 45/31，pinduoduo=拼多多 27/2（手动更新 · 最后更新 2026-11-03），tencent=腾讯 71/183，vivo=vivo 10/27，xiaohongshu=小红书 34/183，xiaomi=小米 316/291
 
 ### 全网（15 家，1693 岗）
 360=360 7/36，honor=荣耀 15/0，iflytek=科大讯飞 48/0，iqiyi=爱奇艺 0/96，ke=贝壳 17/20，lenovo=联想 36/0，lixiang=理想汽车 147/262，minimax=MiniMax 5/26，nio=蔚来 145/348，sensetime=商汤科技 12/22，shopee=Shopee 21/0，tme=腾讯音乐 25/73，weibo=新浪/微博 7/0，xpeng=小鹏汽车 235/63，zhihu=知乎 11/16

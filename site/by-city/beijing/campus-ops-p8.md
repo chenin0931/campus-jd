@@ -1,11 +1,15 @@
-# 北京 · 校招 · 运营 · 全部公司（397 个岗位）（第 8/11 页）
+# 北京 · 校招 · 运营 · 全部公司（401 个岗位）（第 8/11 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 24](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [理想汽车 10](../../slices/lixiang/campus/ops/beijing.md) · [新浪/微博 7](../../slices/weibo/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [知乎 6](../../slices/zhihu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [贝壳 4](../../slices/ke/campus/ops/beijing.md) · [联想 4](../../slices/lenovo/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [腾讯音乐 3](../../slices/tme/campus/ops/beijing.md) · [360 2](../../slices/360/campus/ops/beijing.md) · [蔚来 2](../../slices/nio/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/ops/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 174](../../slices/bytedance/campus/ops/beijing.md) · [小米 56](../../slices/xiaomi/campus/ops/beijing.md) · [快手 49](../../slices/kuaishou/campus/ops/beijing.md) · [京东 28](../../slices/jd/campus/ops/beijing.md) · [美团 18](../../slices/meituan/campus/ops/beijing.md) · [滴滴 14](../../slices/didi/campus/ops/beijing.md) · [理想汽车 10](../../slices/lixiang/campus/ops/beijing.md) · [新浪/微博 7](../../slices/weibo/campus/ops/beijing.md) · [百度 6](../../slices/baidu/campus/ops/beijing.md) · [小红书 6](../../slices/xiaohongshu/campus/ops/beijing.md) · [知乎 6](../../slices/zhihu/campus/ops/beijing.md) · [腾讯 5](../../slices/tencent/campus/ops/beijing.md) · [贝壳 4](../../slices/ke/campus/ops/beijing.md) · [联想 4](../../slices/lenovo/campus/ops/beijing.md) · [阿里巴巴 3](../../slices/alibaba/campus/ops/beijing.md) · [腾讯音乐 3](../../slices/tme/campus/ops/beijing.md) · [360 2](../../slices/360/campus/ops/beijing.md) · [蔚来 2](../../slices/nio/campus/ops/beijing.md) · [华为 1](../../slices/huawei/campus/ops/beijing.md) · [科大讯飞 1](../../slices/iflytek/campus/ops/beijing.md) · [商汤科技 1](../../slices/sensetime/campus/ops/beijing.md) · [小鹏汽车 1](../../slices/xpeng/campus/ops/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 快手 | 内容运营 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13315.md) |
+| 快手 | 内容运营 | 深圳/北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9788.md) |
+| 快手 | 内容运营-二次元 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9789.md) |
+| 快手 | 内容运营-二次元内容 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13283.md) |
 | 快手 | 内容运营-游戏 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-9792.md) |
 | 快手 | 内容运营-运动 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-13255.md) |
 | 快手 | 渠道销售运营-生活服务 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/kuaishou-11042.md) |
@@ -45,8 +49,5 @@
 | 美团 | 城市运营管理储备岗 | 温州/苏州/北京/烟台/绍兴/沈阳/南宁/上海/兰州/成都/昆明/贵阳 等 23 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697288183.md) |
 | 美团 | 大模型业务运营岗 | 北京/南通/上海 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4694790192.md) |
 | 美团 | 沟通和关怀AI运营（企业文化） | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4695030498.md) |
-| 美团 | 廉正AI运营岗 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4695038327.md) |
-| 美团 | 履约策略运营岗 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4694828673.md) |
-| 美团 | 门店管理储备岗 | 杭州/宁波/无锡/北京/苏州/天津/上海/石家庄/成都/珠海/济南/青岛 等 29 城 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697361084.md) |
 
 [上一页](campus-ops-p7.md) · [下一页](campus-ops-p9.md) · [总目录](../../llms.txt)

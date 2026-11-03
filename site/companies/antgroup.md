@@ -6,12 +6,12 @@
 
 - 校招·AI产品（5）：[杭州 5](../slices/antgroup/campus/ai-product/hangzhou.md) · [北京 4](../slices/antgroup/campus/ai-product/beijing.md) · [上海 4](../slices/antgroup/campus/ai-product/shanghai.md)
 - 校招·产品（3）：[杭州 2](../slices/antgroup/campus/product/hangzhou.md) · [深圳 1](../slices/antgroup/campus/product/shenzhen.md) · [香港 1](../slices/antgroup/campus/product/hongkong.md)
+- 校招·运营（1）：[杭州 1](../slices/antgroup/campus/ops/hangzhou.md)
 - 校招·市场（1）：[上海 1](../slices/antgroup/campus/marketing/shanghai.md) · [深圳 1](../slices/antgroup/campus/marketing/shenzhen.md)
 - 校招·销售（1）：[北京 1](../slices/antgroup/campus/sales/beijing.md) · [上海 1](../slices/antgroup/campus/sales/shanghai.md) · [杭州 1](../slices/antgroup/campus/sales/hangzhou.md) · [深圳 1](../slices/antgroup/campus/sales/shenzhen.md)
 - 校招·设计（2）：[上海 1](../slices/antgroup/campus/design/shanghai.md) · [杭州 1](../slices/antgroup/campus/design/hangzhou.md)
 - 校招·职能（2）：[上海 1](../slices/antgroup/campus/corporate/shanghai.md) · [杭州 1](../slices/antgroup/campus/corporate/hangzhou.md) · [北京 1](../slices/antgroup/campus/corporate/beijing.md)
 - 校招·分析（4）：[杭州 4](../slices/antgroup/campus/analysis/hangzhou.md) · [北京 3](../slices/antgroup/campus/analysis/beijing.md) · [上海 2](../slices/antgroup/campus/analysis/shanghai.md)
-- 校招·其他（1）：[杭州 1](../slices/antgroup/campus/other/hangzhou.md)
 - 实习·AI产品（7）：[杭州 5](../slices/antgroup/intern/ai-product/hangzhou.md) · [北京 3](../slices/antgroup/intern/ai-product/beijing.md) · [上海 1](../slices/antgroup/intern/ai-product/shanghai.md)
 - 实习·产品（1）：[香港 1](../slices/antgroup/intern/product/hongkong.md)
 - 实习·运营（6）：[杭州 4](../slices/antgroup/intern/ops/hangzhou.md) · [北京 1](../slices/antgroup/intern/ops/beijing.md) · [上海 1](../slices/antgroup/intern/ops/shanghai.md)

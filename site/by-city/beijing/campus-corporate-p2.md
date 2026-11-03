@@ -1,19 +1,24 @@
-# 北京 · 校招 · 职能 · 全部公司（138 个岗位）（第 2/4 页）
+# 北京 · 校招 · 职能 · 全部公司（143 个岗位）（第 2/4 页）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[快手 24](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/corporate/beijing.md) · [京东 14](../../slices/jd/campus/corporate/beijing.md) · [美团 14](../../slices/meituan/campus/corporate/beijing.md) · [理想汽车 9](../../slices/lixiang/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [联想 7](../../slices/lenovo/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [360 3](../../slices/360/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [贝壳 2](../../slices/ke/campus/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/campus/corporate/beijing.md) · [Shopee 2](../../slices/shopee/campus/corporate/beijing.md) · [智元机器人 1](../../slices/agibot/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md) · [知乎 1](../../slices/zhihu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[快手 24](../../slices/kuaishou/campus/corporate/beijing.md) · [小米 23](../../slices/xiaomi/campus/corporate/beijing.md) · [京东 19](../../slices/jd/campus/corporate/beijing.md) · [字节跳动 17](../../slices/bytedance/campus/corporate/beijing.md) · [美团 14](../../slices/meituan/campus/corporate/beijing.md) · [理想汽车 9](../../slices/lixiang/campus/corporate/beijing.md) · [百度 8](../../slices/baidu/campus/corporate/beijing.md) · [联想 7](../../slices/lenovo/campus/corporate/beijing.md) · [腾讯 4](../../slices/tencent/campus/corporate/beijing.md) · [360 3](../../slices/360/campus/corporate/beijing.md) · [华为 2](../../slices/huawei/campus/corporate/beijing.md) · [贝壳 2](../../slices/ke/campus/corporate/beijing.md) · [商汤科技 2](../../slices/sensetime/campus/corporate/beijing.md) · [Shopee 2](../../slices/shopee/campus/corporate/beijing.md) · [智元机器人 1](../../slices/agibot/campus/corporate/beijing.md) · [蚂蚁集团 1](../../slices/antgroup/campus/corporate/beijing.md) · [滴滴 1](../../slices/didi/campus/corporate/beijing.md) · [米哈游 1](../../slices/mihoyo/campus/corporate/beijing.md) · [千寻智能 1](../../slices/spiritai/campus/corporate/beijing.md) · [小红书 1](../../slices/xiaohongshu/campus/corporate/beijing.md) · [知乎 1](../../slices/zhihu/campus/corporate/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
+| 京东 | 财务结算 〔27届〕 | 上海/北京/成都/广州/宿迁/郑州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9309.md) |
+| 京东 | 法务 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9050.md) |
 | 京东 | 风控 〔27届〕 | 北京/广州/宿迁 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9060.md) |
 | 京东 | 合规 〔27届〕 | 北京/成都/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9049.md) |
+| 京东 | 核保 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9032.md) |
 | 京东 | 会计 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9055.md) |
 | 京东 | 金融策略 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9131.md) |
 | 京东 | 金融风控 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9038.md) |
+| 京东 | 精算师 〔27届〕 | 北京/广州 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9034.md) |
 | 京东 | 人力资源（专业方向） 〔27届〕 | 上海/昆明/北京/成都/合肥/济南/太原/广州/南宁/南京/南通/宿迁 等 21 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9111.md) |
 | 京东 | 审计 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9048.md) |
 | 京东 | 税务 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9056.md) |
+| 京东 | 物业管理 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9044.md) |
 | 京东 | 行政 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9046.md) |
 | 京东 | 招标采购 〔27届〕 | 上海/北京/成都/广州/深圳/苏州/武汉/英国-伦敦/西安 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9057.md) |
 | 京东 | 资金管理 〔27届〕 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9053.md) |
@@ -47,9 +52,5 @@
 | 联想 | 投后财务分析师 〔27届〕 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lenovo-2414.md) |
 | 理想汽车 | 人才发展专员-非技术 〔27届〕 ⚠️链接待核 | 北京 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/lixiang-169661.md) |
 | 理想汽车 | 保密专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-169178.md) |
-| 理想汽车 | 采购专员（2个团队） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [1](../../jobs/lixiang-121113.md) [2](../../jobs/lixiang-190887.md) |
-| 理想汽车 | 采购专员（成本方向） ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-182994.md) |
-| 理想汽车 | 对外事务专员-统计合规方向 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-122976.md) |
-| 理想汽车 | 法务专员 ⚠️链接待核 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-12060.md) |
 
 [上一页](campus-corporate.md) · [下一页](campus-corporate-p3.md) · [总目录](../../llms.txt)

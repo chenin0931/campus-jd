@@ -1,8 +1,8 @@
-# 北京 · 实习 · 供应链 · 全部公司（11 个岗位）
+# 北京 · 实习 · 供应链 · 全部公司（12 个岗位）
 
 数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 3](../../slices/bytedance/intern/supply/beijing.md) · [京东 2](../../slices/jd/intern/supply/beijing.md) · [理想汽车 2](../../slices/lixiang/intern/supply/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/supply/beijing.md) · [光轮智能 1](../../slices/lightwheel/intern/supply/beijing.md) · [美团 1](../../slices/meituan/intern/supply/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/supply/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 3](../../slices/bytedance/intern/supply/beijing.md) · [京东 3](../../slices/jd/intern/supply/beijing.md) · [理想汽车 2](../../slices/lixiang/intern/supply/beijing.md) · [爱奇艺 1](../../slices/iqiyi/intern/supply/beijing.md) · [光轮智能 1](../../slices/lightwheel/intern/supply/beijing.md) · [美团 1](../../slices/meituan/intern/supply/beijing.md) · [小红书 1](../../slices/xiaohongshu/intern/supply/beijing.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | 字节跳动 | 供应链资金管理实习生 - AI算力基础设施 〔≥3个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7637036093108472117.md) |
 | 字节跳动 | 政策分析与质量优化实习生（商业化风控方向）-国际化商业安全 〔≥4个月，每周≥4天〕 | 北京 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/bytedance-7551601108591331592.md) |
 | 爱奇艺 | 制片管理中心-质量控制实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/iqiyi-7613658127967209755.md) |
+| 京东 | 仓/场地经理 〔25届〕 | 北京/石家庄 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-9398.md) |
 | 京东 | 供应链规划 〔27届〕 | 上海/北京/合肥/广州/深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4860.md) |
 | 京东 | 物流规划与实施 〔27届〕 | 上海/昆明/北京/成都/合肥/太原/广州/南宁/南京/石家庄/郑州/海口 等 17 城 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/jd-4862.md) |
 | 光轮智能 | 供应链经营分析实习生 | 北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lightwheel-7696762708297140534.md) |
