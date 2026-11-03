@@ -8,8 +8,8 @@ description: 大厂 20 家（字节、腾讯、阿里、蚂蚁、百度、京东
 数据由 GitHub Actions 每周在服务端预先算好、切成小文件（每个 ≤8KB）。你只需要 **fetch 对应的小文件**，不要下载全量、不要在本地写代码筛选。
 
 ## 地址
-- 主：`<BASE_URL>` = `https://<OWNER>.github.io/<REPO>/`
-- 备（主地址打不开时）：`https://cdn.jsdelivr.net/gh/<OWNER>/<REPO>@main/site/`（jsDelivr 对分支约缓存 12 小时）
+- 主：`<BASE_URL>` = `https://chenin0931.github.io/campus-jd/`
+- 备（主地址打不开时）：`https://cdn.jsdelivr.net/gh/chenin0931/campus-jd@main/site/`（jsDelivr 对分支约缓存 12 小时）
 - 下文路径都相对 `<BASE_URL>`。
 
 ## 第 0 步：信息不全先追问（不要直接推荐）

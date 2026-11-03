@@ -74,7 +74,7 @@
 这个库能做什么：把它装进 AI 助手 WorkBuddy 以后，你用中文直接问「上海有哪些运营实习」，助手就会从这里查各大厂官网上的真实岗位，给你列表格、贴投递链接，还能对照岗位要求帮你改简历。数据每周一更新。
 
 ### 第 1 步：下载技能包（一个 zip 文件）
-- 点这里直接下载：**[campus-jd-skill.zip](https://github.com/<OWNER>/<REPO>/releases/latest/download/campus-jd-skill.zip)**
+- 点这里直接下载：**[campus-jd-skill.zip](https://github.com/chenin0931/campus-jd/releases/latest/download/campus-jd-skill.zip)**
 - ⚠️ **下载后不要解压**，也不要改文件名，后面要把这个 zip 原样上传。
 - 有的电脑（比如 Mac 的 Safari）会自动解压，变成一个叫 `campus-jd` 的文件夹。遇到这种情况，请换 Chrome/Edge 重新下载，或者在浏览器设置里关掉「下载后自动打开」。
 
@@ -131,7 +131,7 @@
 - **助手推荐的岗位和官网对不上**：以官网为准。可以把岗位名称和链接发给运营同学，我们核实后修正。
 
 ### 不想用 AI，也能直接看
-用浏览器打开这个网址，就是全部岗位的目录（纯文字页面，按公司、城市、类别分好了）：[https://<OWNER>.github.io/<REPO>/llms.txt](https://<OWNER>.github.io/<REPO>/llms.txt)
+用浏览器打开这个网址，就是全部岗位的目录（纯文字页面，按公司、城市、类别分好了）：[https://chenin0931.github.io/campus-jd/llms.txt](https://chenin0931.github.io/campus-jd/llms.txt)
 
 ## 数据结构
 ```
@@ -171,7 +171,7 @@ node scripts/package_skill.js --check       # 只校验 zip 是否与 SKILL.md �
 - `scripts/reference/*.py` 是最初的探索脚本，仅供参考。
 - 详情接口在 `scripts/check_links.js` 的 `DETAIL`（除滴滴外 18 家已接）：`async (postId, url) => boolean`，返回 true=在招、false=疑似下架，抛带 `pending` 的错误=链接待核。
 - `.github/workflows/weekly.yml`：fetch → check_links →（可选）浏览器校验 → set_repo 填地址 → build（含打包 skill）→ commit → tag `w<周>` → Release 附上 zip（README 下载链接 `releases/latest/download/campus-jd-skill.zip` 指向它）→ 发布 Pages。
-- **仓库地址占位符**：源文件里只用尖括号包住的 OWNER、REPO 一种写法（SKILL.md 的主/备地址、README 的下载和目录链接）。CI 每次构建前自动替换；本地确定仓库名后可跑 `node scripts/set_repo.js OWNER/REPO`。若仓库名本身是 `OWNER.github.io`，Pages 地址没有 `/<REPO>/` 这一段，需要手改。
+- **仓库地址占位符**：源文件里只用尖括号包住的 OWNER、REPO 一种写法（SKILL.md 的主/备地址、README 的下载和目录链接）。CI 每次构建前自动替换；本地确定仓库名后可跑 `node scripts/set_repo.js OWNER/REPO`。若仓库名本身是 `OWNER.github.io`，Pages 地址没有 `/campus-jd/` 这一段，需要手改。
 - 首次推送前请过一遍 [docs/pre-push-checklist.md](docs/pre-push-checklist.md)。
 
 数据只取自各公司校招官网的公开接口，不抓需要登录的内容；一切以官网为准。
