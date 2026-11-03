@@ -34692,152 +34692,202 @@
  "pinduoduo-5f91d23a-54c1-4fc1-93f7-c81af681ec84": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-01bf6409-6ce9-44b8-b36f-494fc13a3785": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:运营(库里分类商务，未改)"
  },
  "pinduoduo-e22c34bf-9ef6-431b-a739-a4e94387413d": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "城市:全国多地→全国多省区; 官网类别:区域业务(库里分类运营，未改)"
  },
  "pinduoduo-b168e225-3034-4cac-8e3a-ea4aff372a67": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "城市:全国多地→全国多省区; 官网类别:区域业务(库里分类供应链，未改)"
  },
  "pinduoduo-1502839e-a636-46a8-856f-071c2542f3b7": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "城市:全国多地→全国多省区; 官网类别:区域业务(库里分类供应链，未改)"
  },
  "pinduoduo-64fe882f-b4b6-4b8c-9931-7b336b18e818": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "城市:全国多地→全国多省区; 官网类别:区域业务(库里分类职能，未改)"
  },
  "pinduoduo-2cc76787-d5a1-486b-81e4-b8847b135956": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:仓储类(库里分类运营，未改)"
  },
  "pinduoduo-878ca01a-dfd0-402d-8844-f664de2e29b3": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:仓储类(库里分类供应链，未改)"
  },
  "pinduoduo-20a60163-e39f-4aa8-9886-1cc49b4c4432": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:仓储类(库里分类供应链，未改)"
  },
  "pinduoduo-11ba506f-f655-4008-87f7-6c5209ea8233": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-3aaa65b4-1f32-4843-90d6-1e339cba7a34": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:研发(库里分类分析，未改)"
  },
  "pinduoduo-52a3964f-10e0-4d53-b9fb-8a30aa6c4bdf": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-3bbb35c8-c711-4f8e-8735-2362c97fc2c5": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-ba49c098-6493-4b55-a4d5-3af01d362fc7": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:市场营销(库里分类市场，未改)"
  },
  "pinduoduo-d9d18ec8-0ace-4154-9b6d-0490f97a558c": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:策略类(库里分类职能，未改)"
  },
  "pinduoduo-1f5cd170-a847-4e85-836e-79b24efc3ed5": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:运营(库里分类商务，未改)"
  },
  "pinduoduo-2294d7d0-3186-433b-95fc-d05ff85c33a8": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-b8035e7b-d947-4e3e-96e9-4d81316842bc": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:语言(库里分类运营，未改)"
  },
  "pinduoduo-60266382-d957-41e4-bd5d-1713aa404759": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:平台管理(库里分类运营，未改)"
  },
  "pinduoduo-0c949a90-196a-4383-b0fb-2a3870b4b79f": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-23520b34-377e-41d7-b8b5-526d86f4fec8": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-c182ce04-7520-4d2e-8ac0-4027acb9bdd9": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-ccf2e8fa-ed82-4b8d-8641-3d5334fb1160": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-8999575e-951d-43ad-b262-2abb1a920787": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-c1fe33d8-c73e-46e5-9fae-8163c9d9b4ce": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "城市:不限→/; 官网类别:职能(库里分类市场，未改)"
  },
  "oppo-1837": {
   "status": "ok",
@@ -40587,26 +40637,34 @@
  "pinduoduo-302ef710-75f2-4e9c-bc94-244ba721d1b8": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:消费者服务(库里分类运营，未改)"
  },
  "pinduoduo-e1d2925a-9895-4495-aad1-e7178c0a4c31": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "pinduoduo-1cb69201-116c-4eb6-bf17-fa644ded950f": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "官网类别:视觉类(库里分类市场，未改)"
  },
  "pinduoduo-5ee17eb4-3ed4-45d4-88d3-471c614af16f": {
   "status": "ok",
   "code": "manual-browser-verified",
-  "checked_at": "2026-10-27T19:30:00+08:00",
-  "verified_at": "2026-10-27"
+  "verified_at": "2026-11-03",
+  "checked_at": "2026-11-03T19:25:43+08:00",
+  "source_file": "staging/2026-W44/link_check/大厂_001.json",
+  "notes": "标题、城市、届别/类型一致"
  },
  "01ai-7698965797247240458": {
   "status": "ok",

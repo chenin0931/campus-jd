@@ -37,7 +37,7 @@
 
 ## 公司（slug=名称 校招/实习；按数据集分组）
 ### 大厂（20 家，7272 岗）
-alibaba=阿里巴巴 116/0，antgroup=蚂蚁集团 19/29，baidu=百度 61/307，bilibili=哔哩哔哩 35/242，bytedance=字节跳动 859/2201，ctrip=携程 37/22，dewu=得物 133/5，didi=滴滴 43/455，huawei=华为 21/11，jd=京东 91/77，kuaishou=快手 169/76，meituan=美团 73/197，mihoyo=米哈游 74/84，netease=网易 86/529，oppo=OPPO 45/31，pinduoduo=拼多多 27/2（手动更新 · 最后更新 2026-10-27），tencent=腾讯 71/183，vivo=vivo 10/27，xiaohongshu=小红书 34/183，xiaomi=小米 316/291
+alibaba=阿里巴巴 116/0，antgroup=蚂蚁集团 19/29，baidu=百度 61/307，bilibili=哔哩哔哩 35/242，bytedance=字节跳动 859/2201，ctrip=携程 37/22，dewu=得物 133/5，didi=滴滴 43/455，huawei=华为 21/11，jd=京东 91/77，kuaishou=快手 169/76，meituan=美团 73/197，mihoyo=米哈游 74/84，netease=网易 86/529，oppo=OPPO 45/31，pinduoduo=拼多多 27/2（手动更新 · 最后更新 2026-11-03），tencent=腾讯 71/183，vivo=vivo 10/27，xiaohongshu=小红书 34/183，xiaomi=小米 316/291
 
 ### 全网（15 家，1693 岗）
 360=360 7/36，honor=荣耀 15/0，iflytek=科大讯飞 48/0，iqiyi=爱奇艺 0/96，ke=贝壳 17/20，lenovo=联想 36/0，lixiang=理想汽车 147/262，minimax=MiniMax 5/26，nio=蔚来 145/348，sensetime=商汤科技 12/22，shopee=Shopee 21/0，tme=腾讯音乐 25/73，weibo=新浪/微博 7/0，xpeng=小鹏汽车 235/63，zhihu=知乎 11/16
