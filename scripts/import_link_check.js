@@ -9,9 +9,18 @@
 const fs = require('fs'), path = require('path');
 const { args } = require('./lib/common');
 const a = args(), ROOT = path.join(__dirname, '..'), week = a.week || '2026-W44';
+{
+  const known = new Set(['week', 'dir', 'dry-run', 'dryRun', 'dataset', '_']);
+  const unknown = Object.keys(a).filter(k => !known.has(k));
+  if (a.help || a.h || unknown.length) {
+    console.log('用法：node scripts/import_link_check.js [--week 2026-W44] [--dir <目录>] [--dataset 初创|全网] [--dry-run]');
+    if (unknown.length && !a.help && !a.h) console.error('未知参数：' + unknown.join(', ') + '，未做任何修改');
+    process.exit(unknown.length && !a.help && !a.h ? 1 : 0);
+  }
+}
 const DIR = a.dir ? path.resolve(a.dir) : path.join(ROOT, 'staging', week, 'link_check'), OUT = path.join(ROOT, 'data', 'link_status.json');
 const MAP = { ok: ['ok', 'manual-browser-verified'], fixed: ['ok', 'manual-browser-verified'], not_found: ['invalid', 'manual-browser-not-found'], unverifiable: ['unverified', 'manual-browser-unverifiable'] };
-const walk = d => fs.existsSync(d) ? fs.readdirSync(d, { withFileTypes: true }).flatMap(e => e.isDirectory() ? walk(path.join(d, e.name)) : /^[^_]+_\d+\.json$/.test(e.name) ? [path.join(d, e.name)] : []) : [];
+const walk = d => fs.existsSync(d) ? fs.readdirSync(d, { withFileTypes: true }).flatMap(e => e.isDirectory() ? walk(path.join(d, e.name)) : /^[^_]+_\d+\.json$/.test(e.name) && (!a.dataset || e.name.startsWith(a.dataset + '_')) ? [path.join(d, e.name)] : []) : [];
 const key = f => { const m = path.basename(f).match(/^([^_]+)_(\d+)\.json$/); return [m[1], +m[2]]; };
 const files = walk(DIR).sort((x, y) => { const [a1, b1] = key(x), [a2, b2] = key(y); return a1.localeCompare(a2) || b1 - b2; });
 // 库里现有 id（当周 site/index 不一定有，直接读 data/<周> 太慢；用 state.json 的 jobs）
