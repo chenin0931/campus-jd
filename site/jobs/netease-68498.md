@@ -6,11 +6,11 @@
 - 类别: 设计
 - region: 国内
 - 城市: 杭州
-- status: active
+- status: removed（2026-11-09 起未在官网出现，勿投）
 - 届别 grad_year: 未注明
-- 实习时长 intern_duration: ≥6个月，每周≥4天
+- 实习时长 intern_duration: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 最近抓取: 未知
 - 截止: 以官网为准
 - 投递: https://hr.163.com/job-detail.html?id=68498
 

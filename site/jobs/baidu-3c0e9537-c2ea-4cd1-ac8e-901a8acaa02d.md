@@ -9,8 +9,8 @@
 - status: active
 - 届别 grad_year: 2027届
 - 实习时长 intern_duration: ≥2个月
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://talent.baidu.com/jobs/detail/INTERN/3c0e9537-c2ea-4cd1-ac8e-901a8acaa02d
 

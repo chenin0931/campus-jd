@@ -1,6 +1,6 @@
-# 腾讯音乐 总览（在招 98：校招 25，实习 73）
+# 腾讯音乐 总览（在招 104：校招 25，实习 79）
 
-数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
+数据周 2026-W46，生成 2026-11-09（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
 没列出的 类型×类别 组合就是没有岗位，不要再猜路径。
 
@@ -11,8 +11,8 @@
 - 校招·设计（2）：[深圳 2](../slices/tme/campus/design/shenzhen.md) · [广州 2](../slices/tme/campus/design/guangzhou.md) · [上海 1](../slices/tme/campus/design/shanghai.md) · [北京 1](../slices/tme/campus/design/beijing.md)
 - 校招·职能（2）：[深圳 2](../slices/tme/campus/corporate/shenzhen.md)
 - 校招·分析（4）：[深圳 4](../slices/tme/campus/analysis/shenzhen.md) · [上海 2](../slices/tme/campus/analysis/shanghai.md) · [广州 1](../slices/tme/campus/analysis/guangzhou.md)
-- 实习·产品（8）：[广州 5](../slices/tme/intern/product/guangzhou.md) · [深圳 4](../slices/tme/intern/product/shenzhen.md) · [北京 1](../slices/tme/intern/product/beijing.md)
-- 实习·运营（29）：[深圳 16](../slices/tme/intern/ops/shenzhen.md) · [北京 12](../slices/tme/intern/ops/beijing.md) · [广州 7](../slices/tme/intern/ops/guangzhou.md)
+- 实习·产品（9）：[广州 5](../slices/tme/intern/product/guangzhou.md) · [深圳 4](../slices/tme/intern/product/shenzhen.md) · [北京 2](../slices/tme/intern/product/beijing.md)
+- 实习·运营（34）：[深圳 19](../slices/tme/intern/ops/shenzhen.md) · [北京 13](../slices/tme/intern/ops/beijing.md) · [广州 8](../slices/tme/intern/ops/guangzhou.md)
 - 实习·商务（2）：[北京 2](../slices/tme/intern/business/beijing.md) · [深圳 1](../slices/tme/intern/business/shenzhen.md) · [广州 1](../slices/tme/intern/business/guangzhou.md)
 - 实习·市场（8）：[深圳 5](../slices/tme/intern/marketing/shenzhen.md) · [广州 1](../slices/tme/intern/marketing/guangzhou.md) · [上海 1](../slices/tme/intern/marketing/shanghai.md) · [北京 1](../slices/tme/intern/marketing/beijing.md)
 - 实习·设计（3）：[深圳 3](../slices/tme/intern/design/shenzhen.md) · [广州 3](../slices/tme/intern/design/guangzhou.md) · [北京 2](../slices/tme/intern/design/beijing.md)

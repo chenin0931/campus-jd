@@ -1,6 +1,6 @@
-# 京东 总览（在招 165：校招 88，实习 77）
+# 京东 总览（在招 166：校招 88，实习 78）
 
-数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
+数据周 2026-W46，生成 2026-11-09（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
 没列出的 类型×类别 组合就是没有岗位，不要再猜路径。
 
@@ -11,12 +11,12 @@
 - 校招·销售（5）：[其他城市 53](../slices/jd/campus/sales/other.md) · [北京 4](../slices/jd/campus/sales/beijing.md) · [成都 4](../slices/jd/campus/sales/chengdu.md) · [上海 3](../slices/jd/campus/sales/shanghai.md) · 另 26 城（42 个）见 index.json slices
 - 校招·设计（3）：[北京 3](../slices/jd/campus/design/beijing.md) · [上海 2](../slices/jd/campus/design/shanghai.md) · [深圳 1](../slices/jd/campus/design/shenzhen.md)
 - 校招·职能（19）：[北京 19](../slices/jd/campus/corporate/beijing.md) · [广州 8](../slices/jd/campus/corporate/guangzhou.md) · [其他城市 5](../slices/jd/campus/corporate/other.md) · [成都 4](../slices/jd/campus/corporate/chengdu.md) · 另 17 城（23 个）见 index.json slices
-- 校招·项目管理（3）：[北京 3](../slices/jd/campus/pm/beijing.md) · [其他城市 3](../slices/jd/campus/pm/other.md) · [上海 1](../slices/jd/campus/pm/shanghai.md) · [昆明 1](../slices/jd/campus/pm/kunming.md) · 另 11 城（11 个）见 index.json slices
+- 校招·项目管理（3）：[北京 3](../slices/jd/campus/pm/beijing.md) · [其他城市 3](../slices/jd/campus/pm/other.md) · [上海 1](../slices/jd/campus/pm/shanghai.md) · [昆明 1](../slices/jd/campus/pm/kunming.md) · 另 10 城（10 个）见 index.json slices
 - 校招·分析（6）：[北京 6](../slices/jd/campus/analysis/beijing.md) · [其他城市 4](../slices/jd/campus/analysis/other.md) · [上海 2](../slices/jd/campus/analysis/shanghai.md) · [南京 2](../slices/jd/campus/analysis/nanjing.md) · 另 11 城（11 个）见 index.json slices
-- 校招·供应链（6）：[其他城市 276](../slices/jd/campus/supply/other.md) · [北京 6](../slices/jd/campus/supply/beijing.md) · [上海 5](../slices/jd/campus/supply/shanghai.md) · [合肥 5](../slices/jd/campus/supply/hefei.md) · 另 29 城（91 个）见 index.json slices
+- 校招·供应链（6）：[其他城市 277](../slices/jd/campus/supply/other.md) · [北京 6](../slices/jd/campus/supply/beijing.md) · [上海 5](../slices/jd/campus/supply/shanghai.md) · [合肥 5](../slices/jd/campus/supply/hefei.md) · 另 29 城（90 个）见 index.json slices
 - 校招·其他（1）：[北京 1](../slices/jd/campus/other/beijing.md)
 - 实习·产品（4）：[北京 4](../slices/jd/intern/product/beijing.md) · [深圳 2](../slices/jd/intern/product/shenzhen.md) · [广州 1](../slices/jd/intern/product/guangzhou.md) · [上海 1](../slices/jd/intern/product/shanghai.md) · 另 2 城（2 个）见 index.json slices
-- 实习·运营（30）：[北京 25](../slices/jd/intern/ops/beijing.md) · [其他城市 22](../slices/jd/intern/ops/other.md) · [成都 12](../slices/jd/intern/ops/chengdu.md) · [宿迁 10](../slices/jd/intern/ops/suqian.md) · 另 25 城（98 个）见 index.json slices
+- 实习·运营（31）：[北京 25](../slices/jd/intern/ops/beijing.md) · [其他城市 21](../slices/jd/intern/ops/other.md) · [成都 12](../slices/jd/intern/ops/chengdu.md) · [宿迁 10](../slices/jd/intern/ops/suqian.md) · 另 25 城（99 个）见 index.json slices
 - 实习·商务（4）：[北京 4](../slices/jd/intern/business/beijing.md) · [广州 2](../slices/jd/intern/business/guangzhou.md) · [成都 1](../slices/jd/intern/business/chengdu.md) · [南宁 1](../slices/jd/intern/business/nanning.md) · 另 4 城（4 个）见 index.json slices
 - 实习·市场（2）：[上海 2](../slices/jd/intern/marketing/shanghai.md) · [北京 2](../slices/jd/intern/marketing/beijing.md) · [合肥 1](../slices/jd/intern/marketing/hefei.md) · [深圳 1](../slices/jd/intern/marketing/shenzhen.md) · 另 2 城（2 个）见 index.json slices
 - 实习·销售（6）：[其他城市 5](../slices/jd/intern/sales/other.md) · [北京 4](../slices/jd/intern/sales/beijing.md) · [成都 3](../slices/jd/intern/sales/chengdu.md) · [济南 3](../slices/jd/intern/sales/jinan.md) · 另 16 城（22 个）见 index.json slices
@@ -24,6 +24,6 @@
 - 实习·职能（18）：[北京 16](../slices/jd/intern/corporate/beijing.md) · [天津 4](../slices/jd/intern/corporate/tianjin.md) · [上海 3](../slices/jd/intern/corporate/shanghai.md) · [广州 3](../slices/jd/intern/corporate/guangzhou.md) · 另 14 城（26 个）见 index.json slices
 - 实习·项目管理（2）：[北京 2](../slices/jd/intern/pm/beijing.md) · [成都 1](../slices/jd/intern/pm/chengdu.md) · [深圳 1](../slices/jd/intern/pm/shenzhen.md) · [上海 1](../slices/jd/intern/pm/shanghai.md) · 另 2 城（2 个）见 index.json slices
 - 实习·分析（4）：[北京 4](../slices/jd/intern/analysis/beijing.md) · [其他城市 2](../slices/jd/intern/analysis/other.md) · [上海 1](../slices/jd/intern/analysis/shanghai.md) · [深圳 1](../slices/jd/intern/analysis/shenzhen.md) · 另 4 城（4 个）见 index.json slices
-- 实习·供应链（4）：[其他城市 5](../slices/jd/intern/supply/other.md) · [北京 3](../slices/jd/intern/supply/beijing.md) · [广州 3](../slices/jd/intern/supply/guangzhou.md) · [上海 2](../slices/jd/intern/supply/shanghai.md) · 另 13 城（16 个）见 index.json slices
+- 实习·供应链（4）：[其他城市 4](../slices/jd/intern/supply/other.md) · [北京 3](../slices/jd/intern/supply/beijing.md) · [广州 3](../slices/jd/intern/supply/guangzhou.md) · [上海 2](../slices/jd/intern/supply/shanghai.md) · 另 14 城（17 个）见 index.json slices
 
 [总目录](../llms.txt)

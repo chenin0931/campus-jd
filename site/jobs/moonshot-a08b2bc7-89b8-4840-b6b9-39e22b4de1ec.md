@@ -9,8 +9,8 @@
 - status: active
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a08b2bc7-89b8-4840-b6b9-39e22b4de1ec
 

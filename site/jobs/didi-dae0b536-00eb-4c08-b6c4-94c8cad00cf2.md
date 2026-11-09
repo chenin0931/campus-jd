@@ -9,10 +9,10 @@
 - status: active
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
-- 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/dae0b536-00eb-4c08-b6c4-94c8cad00cf2（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/dae0b536-00eb-4c08-b6c4-94c8cad00cf2
 
 ## 岗位要求
 

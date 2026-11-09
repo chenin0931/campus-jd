@@ -8,8 +8,8 @@
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2027届
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://talent.lenovo.com.cn/position/detail?id=2383&projectType=1
 

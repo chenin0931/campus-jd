@@ -9,7 +9,7 @@
 - 来源: 手动更新 · 最后更新 2026-11-03
 - status: active
 - 届别 grad_year: 2027届
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
 - 最近抓取: 2026-11-03
 - 截止: 以官网为准
 - 投递: https://careers.pddglobalhr.com/campus/grad/detail?positionId=878ca01a-dfd0-402d-8844-f664de2e29b3

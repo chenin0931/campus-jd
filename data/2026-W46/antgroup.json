@@ -1,0 +1,828 @@
+[
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "【Plan A】大模型动态评测与评测诊断方向（AGI蓝军）-27届",
+    "category": "AI产品",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "上海",
+      "杭州"
+    ],
+    "requirements": "1.  跨团队协作\n   * 与金融领域研究员深度合作，定义金融行业模型能力的评估体系和模型优化目标。\n2. 大规模评测体系构建\n   * 设计支撑万亿参数、百万亿 token 规模训练的评测框架与流水线；\n   * 结合分布式训练体系（TP / PP / SP / EP / CP），排查评测结果中的系统性噪声与偏差；\n   * 建立模型能力的定量评估框架，支撑架构 / 超参 / 数据 scaling laws 的验证。\n3. 评测与训练系统协同\n   * 深入 Megatron / DeepSpeed / FSDP 等框架底层，理解训练过程对评测结果的潜在影响；\n   * 结合 CUDA / NCCL 通信优化原理，定位评测流程中的性能瓶颈并推动优化；\n   * 与系统团队协作，完成评测系统与训练系统的架构级 co-design，确保评测结果的可信度。\n4. 能力边界的定量刻画\n   * 从算法目标反推评测指标设计，构建能反映深度思考、长程推理、Agentic 执行等能力的评测方法；\n   * 对 scaling law 与系统瓶颈保持直觉判断，识别评测数据中的异常信号；\n   * 支撑 mid-training、能力迁移机制等阶段的效果验证。\n5. 后训练与强化学习效果评估\n   * 构建针对 SFT / RLVR / Agentic RL / RLHF / distillation 等后训练范式的评测方案；\n   * 设计\"\"正确性 × 过程质量 × 信息密度\"\"复合维度下的评测指标体系；\n   * 评估 reasoning 与 tool-use 协同能力，支撑周级别长程工作能力的验证。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260806011286814&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260806011286814&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "具身智能实习生",
+    "category": "其他",
+    "job_type": "实习",
+    "city": [
+      "上海",
+      "杭州"
+    ],
+    "requirements": "1. 机械工程、计算机科学、控制自动化等相关专业在校学生，能有3个月以上的实习时间\n2. 熟练掌握至少一种主流的机器人操作系统（如ROS、ROS 2等），具备在该平台上进行机器人软件开发、调试的能力。 \n3. 精通机器人运动学、动力学建模与分析方法，能够运用相关数学工具解决机器人实际运行中的控制问题。 \n4. 熟悉机器人感知技术，包括但不限于视觉、听觉、触觉等传感器的原理与应用，有相关传感器数据处理和融合经验者更佳。 \n5. 具备较强的编程能力，熟练掌握C++、Python等编程语言，能够高效实现复杂的算法逻辑。\n6. 在具身机器人相关领域发表过高质量的学术论文，有国际知名期刊或顶级会议（如ICRA、IROS等）上有论文发表者优先。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=24120402632773&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=24120402632773&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "AI产品经理（金融方向）",
+    "category": "AI产品",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 2028 届及以后毕业的在校生，专业不限；\n2. 做事细心、逻辑清晰，能准确发现、梳理和描述问题；\n3. 具备良好的沟通和文字表达能力，能够主动跟进任务、同步进展；\n4. 对 AI 产品有兴趣，有大模型或 Agent 产品的使用实践，愿意主动学习和动手探索。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=261027012593589&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=261027012593589&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "大模型评测研究实习生",
+    "category": "AI产品",
+    "job_type": "实习",
+    "city": [
+      "北京",
+      "上海",
+      "杭州"
+    ],
+    "requirements": "1. 教育背景： 计算机科学、人工智能、机器学习、数学或相关专业的本科及以上学历。\n2. 编程能力： 熟练掌握 Python、PyTorch。\n3. 技术理解： 对大语言模型（LLM）有基本的认识，了解其工作原理和主要应用场景。\n4. 逻辑分析： 具备优秀的数据分析能力和逻辑思维，能够从评测结果中发现问题并提出见解。\n5. 加分项（非必需）：\nꔷ 有大模型使用、微调或评测相关经验者优先。\nꔷ 有数据科学、NLP 项目或相关研究经验者优先。\nꔷ 熟悉常用的模型评测数据集者优先。有良好英文文献阅读能力者优先。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=25071405708425&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=25071405708425&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "数据分析实习生"
+    ],
+    "title": "蚂蚁国际-数据分析实习生",
+    "category": "分析",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 硬性技能\n- SQL基础：能独立完成多表关联查询、窗口函数应用\n- Excel高阶：熟练使用数据透视、Power Query、VLOOKUP函数簇\n- 英语应用：可阅读英文行业报告，参与跨国会议纪要整理\n\n2. 软性能力\n- 数据敏感度：能快速定位10%以上的数据异常波动\n- 沟通能力：具备将技术语言转化为业务建议的表达能力\n- 逻辑思维：掌握MECE、金字塔原理等结构化分析方法",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=25063005471495&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=25063005471495&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "AI数据与检索基础设施工程",
+    "category": "分析",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "上海",
+      "杭州"
+    ],
+    "requirements": "1. 扎实的工程底色： 计算机、数学或相关专业应届毕业生。精通Python，并熟练掌握C++、Java，Go或Rust中的至少一种语言。对数据结构、算法及高并发系统设计有深刻理解；\n2.  熟练的大数据技能：熟悉分布式计算与存储原理。了解 Spark、Flink 等传统框架，同时对 Ray 等面向 AI 计算调度的现代分布式框架有强烈的探索欲或实践经验；\n3.  核心的 AI Native 思维： 不仅将数据视为报表或资产，更将其视为模型的表征与燃料。理解Transformer底层原理，熟悉Tokenization、Embedding机制，深刻认知数据分布、多样性及噪声对生成式AI效果的决定性影响；\n4. 敏锐的技术视野：关注开源 AI 社区，了解 LangChain、LlamaIndex 或各类主流向量/图数据库。对 GPU 显存机制、推理延迟（TTFT）或 Token 成本有基本概念者佳。\n\n加分项（非必须但高度优先）：\n1. 有在核心搜索、推荐系统或商业化广告引擎的数据架构实习经验；\n2. 曾亲自动手微调过开源大模型，或深度参与过高质量Instruction-tuning数据集的构建与清洗；\n3. 在顶会（如 KDD, ACL, NeurIPS, OSDI, SOSP）发表过数据挖掘、NLP 或分布式系统相关论文；\n4. 活跃的开源贡献者，曾向 vLLM, Ray, Megatron-LM 等知名 AI Infra 项目提交过 PR。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721010984483&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721010984483&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "支付宝留学缴费实习生",
+    "category": "其他",
+    "job_type": "实习",
+    "city": [
+      "伦敦"
+    ],
+    "requirements": "● 英国在读中国留学生，2027届及以后毕业优先。\n● 市场洞察力强，善于发现用户需求并提出建设性意见。\n● 校园社交达人，有社团/学联资源；具备活动策划、社群/新媒体运营经验者优先。\n● 执行与沟通力Max，有责任心，能高效跨部门协作推动落地。\n● 了解并使用过支付宝留学缴费的是加分项。立即前往支付宝APP搜索「留学缴费」抢先体验、探索产品。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26041109542504&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26041109542504&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "海外"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": " 支付宝留学缴费实习生",
+    "category": "其他",
+    "job_type": "实习",
+    "city": [
+      "悉尼",
+      "墨尔本"
+    ],
+    "requirements": "● 澳洲在读中国留学生，2027届及以后毕业优先。\n● 市场洞察力强，善于发现用户需求并提出建设性意见。\n● 校园社交达人，有社团/学联资源；具备活动策划、社群/新媒体运营经验者优先。\n● 执行与沟通力Max，有责任心，能高效跨部门协作推动落地。\n● 了解并使用过支付宝留学缴费的是加分项。立即前往支付宝APP搜索「留学缴费」抢先体验、探索产品。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26041109541010&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26041109541010&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "海外"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "AI产品经理"
+    ],
+    "title": "财富AI Lab-AI产品经理",
+    "category": "AI产品",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 本科及以上学历，专业不限，有长期投资理财经验者优先；\n2. 熟练使用各类AI工具（Codex等），对大模型技术原理有基本认知和理解；\n3. 学习能力好，保持对 AI/Agent 领域前沿技术的高频关注（如 HuggingFace、GitHub、X 等社区），具备快速理解与评估新技术落地可行性的能力；\n4. 可长期稳定实习，能连续实习6个月以上者优先。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260920012140234&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260920012140234&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "AI医疗健康产品实习生"
+    ],
+    "title": "蚂蚁健康-AI医疗健康产品实习生",
+    "category": "AI产品",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "我们希望你：\n1. 对AI+医疗健康领域有强烈兴趣；\n2. 逻辑清晰，对数据敏感，有优秀的学习能力；\n3. 熟悉AI应用（如ChatGPT），是科技产品的深度用户。\n4. 主动负责，有良好的沟通能力。\n\n实习收获：\n1. 资深产品经理一对一指导；\n2. 参与真实AI健康项目，丰富简历；\n3. 深入前沿领域，快速成长。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26010708274184&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26010708274184&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "市场营销实习生"
+    ],
+    "title": "蚂蚁国际-市场营销实习生",
+    "category": "市场",
+    "job_type": "实习",
+    "city": [
+      "上海",
+      "杭州",
+      "深圳"
+    ],
+    "requirements": "核心能力及要求\n1.沟通协调能力：擅长跨部门协作（如产品、设计、运营团队），能快速理解需求并推动落地；\n2.数据分析能力：熟悉基础数据处理工具（Excel函数/PPT可视化），对数据敏感，能通过数据发现问题并提出优化建议；\n3.抗压与执行力：能在高压环境下高效完成任务，对细节有高度责任感；\n4.创意与审美力：有活动策划/内容创作经验者优先（如校园活动组织、自媒体运营、平面设计等）。\n当前为本科大三及以上或研究生在读，市场营销、工商管理、传媒、设计等相关专业优先；\n每周可保证至少4天出勤，实习周期不少于3个月，能适应短期出差或紧急项目排期\n\n加分项\n1.有互联网/快消/广告行业实习经历，熟悉Field Marketing工作流程；\n2.掌握基础设计工具（Canva/Photoshop/PR/AE）或短视频剪辑技能；\n3.英语流利，能支持国际化活动需求。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=25060505046633&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=25060505046633&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "政策运营实习生"
+    ],
+    "title": "蚂蚁密算-政策运营实习生",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "北京"
+    ],
+    "requirements": "计算机、网络安全相关专业，本科及以上学历；\n具备扎实的文字功底与技术写作能力；\n有国家项目、政策文件或行业标准的相关经历。\n优先条件：具备数据要素产业相关经验。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=261013012398653&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=261013012398653&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "AI产品经理",
+    "category": "AI产品",
+    "job_type": "校招",
+    "city": [
+      "上海",
+      "杭州"
+    ],
+    "requirements": "我们需要这样的你 (任职要求)\n1.硬核跨界玩家： 本科及以上，兼具 C 端 AIGC 敏锐度与 B 端 SaaS/RPA 逻辑功底。有 LLM/Agent 落地案例者优先；\n2.技术原理通透： 熟练掌握 Transformer、Token、RAG 等核心概念；对 ReAct、CoT、Multi-Agent 架构有实战理解；\n3.工具栈满级： 深度使用过 LangChain, Dify, Coze 或 LangGraph 等框架，能把业务需求拆解为精密 SOP；\n4.Prompt 大师： 具备极强的逻辑拆解力，能像指挥交响乐一样控制模型输出的稳定性与高质量；\n5.极客精神： 24 小时高频冲浪（HuggingFace/GitHub/X），对新技术有雷达般的嗅觉。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011010330&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011010330&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "产品运营实习生"
+    ],
+    "title": "蚂蚁国际-产品运营实习生",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "上海"
+    ],
+    "requirements": "ꔷ 岗位要求：\n1.本科或以上学历， 有过实习经验的优先；\n2.优秀的用户洞察力和数据分析能力，擅于从数据中挖掘机会； \n3.有良好的团队合作意识和学习能力，执行力强，有owner意识和自驱力； \n4.有熟练的英语听说读写能力。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=25060505026810&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=25060505026810&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "海外市场"
+    ],
+    "title": "AI智能硬件产品运营-海外市场",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "我们希望你\n我们不要求你在入职前已经掌握所有海外平台和增长方法。相比完整的运营经历，我们更关注你的 Agent 使用深度和英文内容能力，也关注你能否快速学习并按时完成任务。\n1. 英文读写和沟通能力好，能够与海外用户沟通，并写出清楚、自然的英文内容。\n2. 熟悉至少一个海外内容或社区平台，并有过内容策划、写作、发布或账号运营经历。\n3. 经常使用 Agent 工具处理学习、创作、编程或其他实际任务，能够具体说明自己的使用场景和习惯。\n4. 自驱、可靠，能够适应产品和任务优先级的变化，并按时完成任务。\n5. 愿意关注用户反馈和内容数据，并根据实际结果调整后续内容。\n加分项\n1. 有个人自媒体账号，或者参与运营过品牌、公司、社团及项目账号，并能说明自己的具体职责和成果。\n2. 熟悉两个及以上海外平台，或者有英文内容、北美用户及开发者社区运营经验。\n3. 具备短视频拍摄剪辑、视觉设计、产品 Demo 或其他多媒体内容制作能力。\n4. 接触过海外创作者合作、付费内容推广或广告素材测试。\n你将获得\n1. 参与一款 AI 创新硬件从原型验证到市场发布的关键阶段。\n2. 接触海外用户研究、产品表达、内容运营、社区增长和 GTM 实践。\n3. 了解产品、设计、研发和市场如何协作，以及用户反馈如何影响产品表达和迭代。\n4. 在真实业务中负责相对完整的内容任务，积累从策划、制作、发布到数据复盘的经验。\n申请方式\n申请时，请附上以下材料中的至少一种：\n1. 个人自媒体账号。\n2. 参与运营过的品牌或项目账号。\n3. 英文文章、社媒内容、短视频或脚本。\n4. 其他能够体现内容策划和制作能力的作品。\n如果作品来自团队项目，请简单说明项目背景、你的具体职责和取得的结果。没有个人自媒体账号不影响申请，我们更关注你实际负责过什么，以及你是否具备内容判断和执行能力。\n请同时介绍两个你最近经常使用的 Agent 工具，以及你分别用它们完成什么任务。\n实习要求\n1. 实习地点：杭州，需要线下到岗。\n2. 每周到岗：4 天及以上。\n3. 实习周期：至少 3 个月，能够连续实习 6 个月者优先。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260818011517664&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260818011517664&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "WF Business 业务增长管培生",
+    "category": "市场",
+    "job_type": "校招",
+    "city": [
+      "上海",
+      "杭州",
+      "深圳"
+    ],
+    "requirements": "1.本科及以上学历，金融、经济、国贸、市场营销等相关专业优先\n2.英语六级或以上，听说读写流利，有小语种能力者优先\n3.对跨境支付、金融科技行业有浓厚兴趣\n4.具备良好的学习能力、沟通协作能力和抗压能力\n5.有学生会、社团领导经验或大厂实习经历者优先\n6.熟悉跨境电商平台（亚马逊、速卖通等）者优先",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011008742&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011008742&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "产品体验设计师（UI设计）",
+    "category": "设计",
+    "job_type": "校招",
+    "city": [
+      "上海"
+    ],
+    "requirements": "1. 视觉传达/多媒体设计/平面设计/广告/绘画类专业等毕业生，如视觉设计表达能力或手绘能力优秀，则不限专业；\n2. 热爱设计，优秀的审美能力和设计动手能力，思维活跃，好奇心强，喜欢探索新事物，不仅有想法还有讲故事能力；\n3. 掌握 Figma \\ Sketch \\ PS \\ AI 等基础设计软件，会 C4d \\ AE 加分；\n4. 具备一定AI素养，对AI技术有基础认知，能够运用AI工具辅助设计创作，对Design to Code有了解或使用经验者优先；\n5. 需提供完整和丰富的作品集，作品需包含产品设计、手绘作品图片及链接。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721010995323&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721010995323&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "智能数据科学家",
+    "category": "分析",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 数学、统计、数据科学、计算机、经济学等相关专业背景；对 AI 技术有强烈好奇心和应用热情。\n2. 扎实的统计推断与因果推断基础，逻辑思维能力强，面对模糊业务问题能主动提出假设、设计验证路径并推动落地。\n3. 深度使用大模型工具（Cursor / Copilot / Claude 等）作为日常生产力工具，理解 Prompt Engineering 的原理与实践；有 Agent 编排或 LLM 应用开发项目经验者优先。\n4. 对用技术解决真实业务问题有强烈驱动力，愿意将模糊的业务问题翻译为可验证的数据科学问题，并将复杂分析结果转化为业务方听得懂的决策建议。\n5. 较好的团队合作与沟通能力，愿意走出纯技术舒适区，深入业务一线理解真实需求。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260824011634155&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260824011634155&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "策略产品经理",
+    "category": "产品",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1、较强的技术素养与 AI-native 思维：理解大模型与 Agent 技术的原理、应用场景与局限，能与算法无障碍沟通；有跑代码、调优Prompt、构建自动化工作流经验者加分。\n2、极强的拆解与归因能力：能从agent的对话反馈中发现问题并精准分流，擅长从评测指标、线上数据、用户调研中提炼可落地的迭代方向。3、出色的项目推动力与跨团队协调能力，在算法、工程、风控、运营等多职能协作中找到最优解。\n4、自驱、有强烈好奇心，对 AI 应用有极大热情；对金融服务有同理心，能体会每个用户都是真实求生存、求发展的经营者。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260918012129072&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260918012129072&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "智能体评测理论实习生",
+    "category": "AI产品",
+    "job_type": "实习",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 统计学、应用数学、心理测量学或人工智能（偏理论）方向，概率统计基础扎实；\n2. 具备英文学术论文的阅读、写作与投稿经验，能够独立撰写 methodology 章节；\n3. 有 A/B 测试、因果推断或教育测评相关项目经历者更佳。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260914012045227&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260914012045227&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "智能体评测工程实习生",
+    "category": "AI产品",
+    "job_type": "实习",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1. 计算机或人工智能相关专业，Python 工程能力强，熟悉 Docker/容器化部署；\n2. 对 LLM Agent 架构有实操理解，有 Cursor、Copilot、Claude Code 等工具的深度使用经验（加分项）；\n3. 能快速阅读英文技术文档，复现开源评测代码（如 SWE-bench 官方仓库）；\n4. 对 Kaggle 竞赛或开源项目贡献有经验者更佳。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260911012023291&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260911012023291&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "体验设计师",
+    "category": "设计",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 具备熟练的 AI 设计及 AI 工作能力，能够将 AI 工具与设计流程、体验创新、内容生产等工作有效结合；\n2. 具备较好的设计相关学科背景及项目经验，对交互、视觉、用户体验或服务设计有扎实理解；\n3. 具备较高的设计热情、跨学科好奇心及自学能力，愿意持续探索金融、技术、用户心理与 AI 时代的新设计机会；\n4. 具备较好的沟通能力及团队协作能力，能够与产品、技术、运营、业务等多角色高效合作。\n\n加分项：期待在简历投递中看到能够代表你专业水平的作品集。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011001602&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011001602&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "医疗大模型测评运营实习生"
+    ],
+    "title": "蚂蚁健康事业群-医疗大模型测评运营实习生",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "基本要求\n1、学历：硕士在读及以上优先；专业不限，医学信息学、公共卫生、新闻传播、管理类、计算机相关专业优先。\n2、运营经验：有项目管理、活动策划、内容运营或社群运营相关实习/实践经历，能独立推进任务执行（请在投递时附过往运营案例或文案作品）。\n3、医疗 AI 认知：对医疗人工智能、大模型领域有基本了解，能快速学习相关术语与行业动态，有医疗行业或 AI 行业实习经验者优先。\n4、文字能力：具备扎实的中文文案撰写能力，能产出结构清晰、表达专业的运营文档与传播内容。\n5、沟通协作：具备优秀的跨团队沟通能力，善于多方协调推进，做事细致有责任心。\n6、工具能力：熟练使用办公软件（Word、Excel、PPT、飞书/钉钉文档），有数据分析基础者优先。\n加分项\n有医疗 AI / 数字医疗 / 医疗信息化行业实习或项目经验。\n有学术会议、行业峰会、黑客松或测评大赛的组织经验。\n有公众号 / 视频号 / 社群运营经验，熟悉医疗科技领域传播风格。\n了解大模型评测基本概念（如 Benchmark、Leaderboard、Human Evaluation 等）。\n有基础数据分析能力（Excel 数据透视、SQL 基础等），能辅助测评数据整理与可视化。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=25091006711877&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=25091006711877&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "新媒体运营实习生",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 本科及以上学历，新闻传播、广告学、市场营销、中文等专业优先\n2. 熟悉主流新媒体平台内容生态与运营机制，具备敏锐的网感与热点洞察力\n3. 具备扎实的文案功底，可独立完成图文内容，掌握短视频拍摄与剪辑基础技能\n4. 具备数据敏感度，能够基于数据反馈驱动内容优化\n5. 责任心强、执行力高，具备良好的时间管理与多任务协调能力\n6. 每周出勤4天及以上，实习期4个月起",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260831011810689&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260831011810689&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "品牌营销实习生",
+    "category": "市场",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 本科及以上学历，市场营销、品牌管理、广告学、新闻传播等相关专业优先\n2. 对品牌营销、IP运营有浓厚兴趣，具备较强的创意能力和执行力\n3. 具备优秀的文案撰写能力，能够独立完成活动方案、IP内容等文案创作\n4. 良好的沟通协调能力，能够胜任合作方对接及跨团队协作工作\n5. 工作细致认真，具备良好的抗压能力和多任务处理能力\n6. 每周可出勤4天及以上，实习期4个月起",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260831011804210&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260831011804210&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "技术营销内容实习生"
+    ],
+    "title": "OceanBase-技术营销内容实习生",
+    "category": "市场",
+    "job_type": "实习",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1.极佳的英文读写能力： 英语可作为工作语言，具备优秀的英文撰写或编译能力（英语专八/雅思7.5+/托福105+或有海外留学背景优先）；\n2.对技术传播有热情： 不排斥技术概念，具备快速学习能力；计算机、英语翻译、市场营销等相关专业背景，或有开源/B2B 科技行业实习经验者优先。\n一专多能：\n1.偏内容方向： 文字功底扎实，对语法/排版有“洁癖”，擅长长文逻辑梳理；\n2.偏传播方向： 网感好，熟悉欧美网络文化与“梗”，擅长社交媒体短文案与创意策划；\n3.自驱力强： 能够适应“从0到1”的快节奏环境，善于沟通，具备跨文化视角的创意思维。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=25112707761233&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=25112707761233&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "大模型医学评测",
+    "category": "AI产品",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "上海",
+      "杭州"
+    ],
+    "requirements": "本岗位需转正实习。\n\n1. 教育背景限制：临床医学专业，硕士或博士学历，临床医学八年制优先。\n2. 工作经验：医疗大模型相关实习经验；完成临床规培者优先。\n3. 大模型认知：了解大模型训练的基本原理，对医疗评测有初步认知，对医疗AI的前沿发展有敏锐洞察，有大模型评测经验者优先。\n4. 底层思维与数据能力：对数据极度敏感，逻辑思维与系统建模能力强；善于通过数据发现数据冲突与治理盲区，能通过数据驱动模型训练策略的优化和决策。\n5. 综合素质：有极强的好奇心、有自驱力，对探索“AI+医疗”充满热情。具备严谨的医学态度、优秀的抗压能力、跨部门沟通能力及高度的Owner意识。\n\n请提前准备以下题目（任选其一）\n1. 评价一下Healthbench，或 PhysicianBench。\n2. 同时评测 4 个模型(GPT-5.6、Gemini-3.1-Pro、DS-v4-Flash-0731、Claude Opus4.8)在一道医学问答题上的表现，使用 LLM-as-judge 打分(0-10)。结果 Claude 得 9.2，显著高于其他3个模型(均值 7.5)。请列出至少 3 个可能导致该结果的系统性偏差，并针对每一个给出具体的排查或缓解方法。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011015453&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011015453&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "OceanBase销售管培生（商业技术方向）",
+    "category": "销售",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "上海",
+      "杭州",
+      "深圳"
+    ],
+    "requirements": "必备项：\n1.大学本科及以上泛计算机或工科相关专业；\n2.具备优秀的沟通能力、学习能力、协调能力和团队合作能力。\n\n加分项：\n1.担任过学生干部、社团干部等，有校内外大型活动组织经验；\n2.作为项目负责人参加校级及以上大赛并有获奖经历；\n3.有云计算/软件类公司相关岗位实习经历；",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260820011569212&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260820011569212&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "产品解决方案",
+    "category": "产品",
+    "job_type": "校招",
+    "city": [
+      "深圳",
+      "香港"
+    ],
+    "requirements": "1.学历与专业：理工科相关专业本科及以上学历，金融工程、金融科技、数据科学、计算机科学、工程等专业优先；\n2.懂得建立AI Agent，調用LLM，并搭建AI 自动化流程；\n3.编程能力：能够使用 Python 或至少一种编程语言，须具备以代码解决实际问题的基本能力；\n4.愿意投身金融和交易相关领域：理解基础金融产品（债券、期权、互换、结构性产品）的定价原理与风险特征；有衍生品定价或量化金融相关课程背景者更佳。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721010984484&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721010984484&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "大模型数据构建与优化",
+    "category": "分析",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "杭州"
+    ],
+    "requirements": "基础要求\n1. 学历背景：计算机、数学、统计学等相关专业硕士/博士优先，优秀本科生不受限制。\n2. 编程功底：熟练掌握 Python 编程语言，熟悉主流深度学习框架（如 PyTorch）；熟悉常用的大数据处理框架（如 Spark、Hadoop 等）。\n3. 理论基础：具备扎实的机器学习、深度学习理论基础，了解自然语言处理（NLP）或多模态大模型的基本架构与原理。\n专业能力\n1. 数据处理分析：具备扎实的数据处理、统计分析和实验设计能力；熟悉海量多模态数据（文本、代码、图像、轨迹等）的清洗、去重、过滤、切分和采样方法。\n2. 大模型数据认知：深刻了解大模型常见数据形态及用途，包括但不限于 Pretraining corpus, Instruction data, Tool-use / Trajectory data, Benchmark / Eval data 等。\n3. 数据构建技术：熟悉数据构建与优化的常见前沿方法，能够熟练运用规则与模型结合进行数据筛选，了解合成数据生成、自动化标注策略及数据配比调优。\n能力特质\n1. 技术热情：热爱人工智能领域，对通过“数据驱动模型效果提升”抱有极大的兴趣，对探索未知和前沿事物充满热情。\n2. 问题解决：具备优秀的逻辑思维与洞察力，能够独立思考、设计实验并解决复杂的、非标准化的技术问题。\n3. 团队协作：具备良好的沟通表达能力与团队合作精神，能够与算法、工程、产品等团队紧密配合，推动项目从实验到落地的闭环。\n加分项：\n1. 项目实战：有大规模数据处理、数据合成、复杂标注策略设计或数据效果归因的实际项目经验；有大模型预训练、SFT/RLHF 实操经验者优先。\n2. 顶级竞赛：参加过国内外知名算法竞赛（如 Kaggle、ICPC、ACM等）或信息学、数学、物理等学科奥林匹克竞赛，并取得优异成绩。\n3. 学术视野：在顶级国际会议/期刊（如 NeurIPS、ICML、ICLR、ACL、CVPR 等）以主要作者身份发表过 AI 相关论文。\n4. 开源贡献：有算法工程化落地经验，在主流大模型开源社区或算法库（如 HuggingFace、Megatron 等）有代码开发、维护或 PR 贡献经历。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721010984490&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721010984490&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "智能体与大模型应用工程（金融研究方向）",
+    "category": "职能",
+    "job_type": "校招",
+    "city": [
+      "上海",
+      "杭州"
+    ],
+    "requirements": "专业能力\n1. AI编程工具重度玩家：Cursor、Claude code等AI编程工具重度或顶级玩家，具备极强的Prompt编写与调优能力，有过完整的项目级开发经验，理解如何让AI写出生产级代码；\n2. 大模型能力理解与掌握：理解主流LLM的能力与局限，能够清晰拆解任务并通过LLM或确定性逻辑兜底实现；熟悉主流大模型的应用范式(Context Engineering、Prompt Engineering、Agent、工具/函数调用等等)及主流Agent框架(如LangChain等)，具备大模型幻觉、Prompt注入等风险的工程化应对思路；\n3. 扎实的代码和工程能力：能至少在一种主流编程语言（如 Java / Python / JS 等）上有深度的实践经验，能够根据场景灵活选型并快速上手。\n能力特质\n1. 开放性与动手能力：有自己独立完成的小项目（开源项目或个人 Demo），有技术极客精神；\n2. 好奇心与想象力：面对未知事物有独特的想法，具备敏锐的问题定义能力和坚韧的解决问题能力；\n3. 高能动性：具备强烈的自驱力，能够主动探索边界。\n加分项（优先考虑）\n1. 对金融市场、投资研究或量化策略有发自内心的兴趣，乐于主动追踪市场动态、政策变化、行业轮动与前沿学术成果，享受将金融洞察转化为AI落地的过程，有实际投资经验或研究者更佳；\n2. 理解基本的金融概念与投研流程（如资产定价、行业分析、组合管理、风险因子等），能够快速学习并抽象金融业务逻辑，将其转化为可落地的Agent任务。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011000113&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011000113&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "客户体验",
+    "category": "运营",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 本科及以上学历，逻辑思维能力强，对互联网业务的运营模式有一定了解；\n2. 具备良好的数据分析能力，能从数据中看到并分析问题；\n3. 具备项目管理能力，善于协同，协调资源拿到结果；\n4. 有激情，有担当，执行力强，能承接较大压力并擅长沟通与协调。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011006033&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011006033&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "金融分析师",
+    "category": "职能",
+    "job_type": "校招",
+    "city": [
+      "北京"
+    ],
+    "requirements": "1.金融、计算机、理工等相关专业硕士或以上学历，对数据非常敏感，能够深入理解数据背后的why，有提出解决方案或发现新的机会的项目经历；\n2.对金融市场有基本面的了解，在宏观周期、权益策略、行业研判等方向中，有一方面熟悉；\n3.目标驱动，抗压力强，具备高度的责任心和团队合作精神。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011014085&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011014085&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "AI&Web3产品经理",
+    "category": "AI产品",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "杭州"
+    ],
+    "requirements": "1. 本科及以上学历；\n2. 对Web3及AI技术有浓厚兴趣，了解区块链、机器学习等基本原理；\n3. 具备良好的逻辑思维、沟通表达和文档撰写能力；\n4. 有产品实习、项目经历或校园创新实践者优先。\n加分项（满足其一即可）：\n1. 熟悉主流Web3及AI产品并有深度使用体验；\n2. 有编程基础，能与工程师高效对话；\n3. 在校期间参与过黑客松或创业项目；\n4. 有公众号运营、用户调研、数据分析等产品向实践经验。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721011015449&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721011015449&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "信贷"
+    ],
+    "title": "产品经理-信贷",
+    "category": "产品",
+    "job_type": "校招",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "必须具备的\n1.本科及以上学历，base杭州，金融、经济、计算机、统计等相关专业背景优先；\n2.为人真诚善良，认真踏实，乐观积极，对产品有热情、有追求、有好奇心，愿意在产品经理的岗位和方向上持续深耕。\n可以加分的\n1.对数据有敏锐度，具有数据分析能力，能深入理解数据背后的本质问题，发现新的机会；\n2.有优秀的沟通和表达能力，逻辑清晰，勇敢直接的表达自我观点和认知；\n3.有同理心和好奇心，能够站在他人和市场的角度洞察需求、思考问题。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260721010986436&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260721010986436&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "AI产品运营"
+    ],
+    "title": "支付宝事业群 - AI产品运营",
+    "category": "运营",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "有AI产品运营经历优先，使用过AI工具。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260723011041206&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260723011041206&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "蚂蚁健康"
+    ],
+    "title": "【蚂蚁星】全模态大模型数据-蚂蚁健康-27届",
+    "category": "分析",
+    "job_type": "校招",
+    "city": [
+      "北京",
+      "上海",
+      "杭州"
+    ],
+    "requirements": "1.计算机科学、人工智能、数据科学、生物医学工程、医学信息学、医学或相关专业背景；具备计算机 / AI 与医疗交叉背景者优先；\n2. 对医疗 AI 有浓厚兴趣，有医学、临床、医疗信息化、医学影像、生物信息等相关学习、研究或项目经验者优先；\n3. 具备扎实的计算机基础和良好的编程能力，熟练使用 Python，熟悉常见数据结构、算法及 Linux 开发环境；\n4. 具有实际的大规模数据处理或数据算法经验，熟悉数据采集、清洗、去重、过滤、标注、质量评估、数据合成、数据挖掘、数据配比等一个或多个方向；有大模型 Pre-training / Post-training 数据经验者优先；\n5. 熟悉熟悉Agent相关技术，了解至少一种大规模分布式数据处理框架或计算系统，能够设计和实现高吞吐、可扩展的数据处理 Pipeline；有 TB / PB 级数据处理经验者优先。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26042409788457&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26042409788457&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "遥操作人机交互与可视化实习生"
+    ],
+    "title": "灵波科技-遥操作人机交互与可视化实习生",
+    "category": "设计",
+    "job_type": "实习",
+    "city": [
+      "上海"
+    ],
+    "requirements": "1. 本科及以上在读，计算机科学与技术、人机交互、自动化、机器人工程、数字媒体技术等相关专业，能保证约定的实习周期与出勤要求\n2. 具备基础的机器人控制理论知识，了解机械臂运动学基本原理，有机器人相关项目或课程实践经验；\n3. 具备基础的软件开发能力，熟练使用 C/C++/Python 至少一种编程语言，熟悉 ROS/ROS2 框架，能独立完成基础功能模块的调试与验证；\n4. 逻辑思维清晰，具备良好的数据分析与问题解决能力，能自主完成算法仿真、实验设计、功能测试与数据整理工作，有较强的责任心与学习能力；\n5. 具备视频信号处理和3D渲染经验。\n\n加分项\n1. 有 VR 设备（PICO、Meta Quest等）应用开发、VR 遥操作相关项目经验，熟悉 VR 端与上位机的通信适配；\n2. 有触觉反馈、力反馈交互开发相关实践经验；\n3. 熟悉机器人运动学、动力学相关算法，有算法仿真、实机测试相关经验；\n4. 有基础的 3D 交互、可视化功能开发经验。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26031309155387&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26031309155387&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "PSG数据采集与标注实习生"
+    ],
+    "title": "蚂蚁健康-PSG数据采集与标注实习生",
+    "category": "AI产品",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 本科及以上学历，临床医学、生物医学工程、护理学、医学信息学、心理学、计算机等相关专业优先；\n2. 认真细致，责任心强，具备较好的执行能力和现场沟通能力；\n3. 能够稳定参与周一至周四的现场采集工作；\n4. 具备基本的数据整理能力，熟悉 Excel、文件管理及数据上传操作；\n5. 有 PSG 操作、睡眠监测、临床数据采集或受试者管理经验者优先；\n6. 熟悉 AASM 睡眠评分规则，具备独立阅图和睡眠分期能力者优先。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260604010313669&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260604010313669&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "整合营销（数据分析）实习生",
+    "category": "分析",
+    "job_type": "实习",
+    "city": [
+      "上海"
+    ],
+    "requirements": "硬技能基础 \n1.熟练掌握 SQL，能独立完成数据提取与处理\n2.熟悉主流BI工具\n3.有数据分析相关实习或项目经验\n\n软实力\n1.结构化思维能力强，能将复杂问题拆解为可分析的子问题\n2.具有良好的中英文沟通表达能力，能清晰呈现分析结论\n3.自驱力强，能主动发现机会并推动落地",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260608010362576&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260608010362576&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "百灵长期实习生"
+    ],
+    "title": "CTO-百灵长期实习生",
+    "category": "其他",
+    "job_type": "实习",
+    "city": [
+      "杭州"
+    ],
+    "requirements": "1. 学历要求：本科及以上学历在读，人力资源管理、心理学、工商管理、社会学等相关专业优先，2028届及以后毕业者优先；\n2. 实习时间：保证每周出勤3天及以上，能够连续实习4个月及以上（能连续实习6个月者优先），可尽快到岗；\n3. 技能要求： \n  · 熟练运用Office办公软件（Excel、Word、PPT），具备基础的数据处理与分析能力；  \n · 具备良好的学习意愿和快速适应能力，自我驱动，逻辑清晰，善于解决问题。\n4. 软素质要求：为人正直，亲和力好，耐心细致，有责任感和抗压能力；具备优秀的沟通协调能力和团队协作精神。\n\n你能获得：\n· 加入蚂蚁最核心AGI技术团队，学习并感知技术大趋势下的工作运营；\n· 导师带教与系统成长：资深HR Mentor贴身指导，构建从业务对齐、数据分析到问题解决的专业能力框架；\n· 丰富的配套保障：提供实习补贴+餐补/+租房补贴（若异地来杭入职）+健身房等公司设施。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=260708010818614&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=260708010818614&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "AntBank"
+    ],
+    "title": "业务发展支持实习生-AntBank",
+    "category": "商务",
+    "job_type": "实习",
+    "city": [
+      "香港"
+    ],
+    "requirements": "1. 专业不限，主修工商管理、金融、经济或相关领域的本科或研究生优先考虑；\n2. 具备良好的中英文书面与口头表达能力；\n3. 熟练使用微软办公软件（Word、Excel、PowerPoint）；\n4. 积极主动、条理清晰，具备良好的沟通能力和问题解决能力；\n5. 可于2026年7月至8月期间连续实习8周。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26042109711033&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26042109711033&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "用户体验设计师实习生",
+    "category": "设计",
+    "job_type": "实习",
+    "city": [
+      "香港"
+    ],
+    "requirements": "1. 专业不限，主修设计或相关领域的本科或研究生优先考虑；\n2. 熟练掌握Figma、Sketch或类似设计工具；\n3. 具备良好的中英文书面与口头表达能力；\n4. 积极主动、条理清晰，具备良好的沟通能力和问题解决能力；\n5. 可于2026年7月至8月期间连续实习8周。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26042009700214&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26042009700214&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "法务实习生",
+    "category": "职能",
+    "job_type": "实习",
+    "city": [
+      "香港"
+    ],
+    "requirements": "1. 目前正在攻读法律学位（LLB、JD或同等学历），学业成绩优异（优先考虑香港大学即将毕业的学生）；\n2. 精通英语、粤语和普通话的书面及口头表达能力；\n3. 具备出色的法律研究与分析能力，逻辑思维严谨；\n4. 注重细节，准确度高，能够高效处理多项任务；\n5. 具备高度的职业素养、保密意识和职业道德，尤其在处理敏感信息时；\n6. 积极主动、态度正面，具备良好的团队合作精神和强烈的学习意愿；\n7. 能够在指导下独立工作，并在快节奏环境中有效管理时间；\n8. 对金融科技、数字银行、监管合规或金融服务法律领域有浓厚兴趣；\n9. 具备良好的计算机操作能力（尤其是Microsoft Office办公软件）；\n10. 实习期间可全程全职到岗。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26042109711031&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26042109711031&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "产品实习生",
+    "category": "产品",
+    "job_type": "实习",
+    "city": [
+      "香港"
+    ],
+    "requirements": "1. 正在攻读商业、市场营销、计算机科学、工程或相关领域的学士或硕士学位；\n2. 对产品管理有浓厚兴趣：热爱科技，关注以用户为中心的设计，热衷于数字产品的创造；具备产品开发相关的项目经验或课程背景者优先；\n3. 出色的沟通能力：精通英语和普通话的书面与口头表达；\n4. 具备团队合作精神：能够在跨职能、快节奏的环境中高效协作，积极主动，乐于学习，敢于提问；\n5. 可于2026年7月至8月期间全职工作8周。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26042109712783&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26042109712783&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [
+      "AlipayHK"
+    ],
+    "title": "业务发展支持实习生-AlipayHK",
+    "category": "商务",
+    "job_type": "实习",
+    "city": [
+      "香港"
+    ],
+    "requirements": "1. 专业不限，主修工商管理、金融、经济或相关领域的本科或研究生优先考虑；\n2. 具备良好的中英文书面与口头表达能力；\n3. 熟练使用微软办公软件（Word、Excel、PowerPoint）；\n4. 积极主动、条理清晰，具备良好的沟通能力和问题解决能力；\n5. 可于2026年7月至8月期间连续实习8周。",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26042009698491&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26042009698491&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "国内"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "商业营销实习生",
+    "category": "市场",
+    "job_type": "实习",
+    "city": [
+      "新加坡"
+    ],
+    "requirements": "1.教育背景：商业、营销、金融、经济等相关专业在读或应届毕业生\n2.行业兴趣：对B2B金融科技、支付、电商或市场进入策略有浓厚兴趣\n3.分析能力：熟练使用Excel（VLOOKUP函数、数据透视表）及PPT；掌握Python/AI/VBA自动化工具者优先\n4.沟通能力：优秀的中英文书面及口头表达能力，擅长将复杂信息简化为清晰结论；适应电话/邮件/即时通讯等多渠道客户沟通\n5.个人特质：主动性强、高度自律、注重细节；能在快节奏环境中独立工作并积极提问\n6.语言要求：精通菲律宾语（他加禄语）者优先\n7.时间要求：可全职实习6个月",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26041509611475&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26041509611475&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "海外"
+  },
+  {
+    "company": "蚂蚁集团",
+    "business_unit": [],
+    "title": "市场营销内容与社交媒体实习生",
+    "category": "市场",
+    "job_type": "实习",
+    "city": [
+      "新加坡"
+    ],
+    "requirements": "1.常驻新加坡的本科在读生\n2.能全职参与六个月实习\n3.具备市场营销与金融基础知识\n4.熟悉视频或设计工具（Canva/Photoshop/Illustrator/Figma）者优先\n5.掌握东南亚语言能力者优先（如泰语/印尼语/马来语）\n6.积极主动且足智多谋\n7.具备高效与创意的文案能力",
+    "deadline": null,
+    "apply_url": "https://talent.antgroup.com/campus-position?positionId=26041509610060&locale=zh-CN",
+    "source_url": "https://talent.antgroup.com/campus-position?positionId=26041509610060&locale=zh-CN",
+    "fetched_at": "2026-11-09T15:50:16+08:00",
+    "region": "海外"
+  }
+]

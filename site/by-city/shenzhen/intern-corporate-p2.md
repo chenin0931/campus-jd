@@ -1,26 +1,26 @@
 # 深圳 · 实习 · 职能 · 全部公司（60 个岗位）（第 2/2 页）
 
-数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
+数据周 2026-W46，生成 2026-11-09（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[字节跳动 18](../../slices/bytedance/intern/corporate/shenzhen.md) · [腾讯 18](../../slices/tencent/intern/corporate/shenzhen.md) · [腾讯音乐 7](../../slices/tme/intern/corporate/shenzhen.md) · [自变量机器人 5](../../slices/x2robot/intern/corporate/shenzhen.md) · [华为 3](../../slices/huawei/intern/corporate/shenzhen.md) · [京东 2](../../slices/jd/intern/corporate/shenzhen.md) · [美团 2](../../slices/meituan/intern/corporate/shenzhen.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/shenzhen.md) · [逐际动力 1](../../slices/limx/intern/corporate/shenzhen.md) · [理想汽车 1](../../slices/lixiang/intern/corporate/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[字节跳动 18](../../slices/bytedance/intern/corporate/shenzhen.md) · [腾讯 17](../../slices/tencent/intern/corporate/shenzhen.md) · [腾讯音乐 7](../../slices/tme/intern/corporate/shenzhen.md) · [自变量机器人 5](../../slices/x2robot/intern/corporate/shenzhen.md) · [华为 3](../../slices/huawei/intern/corporate/shenzhen.md) · [京东 2](../../slices/jd/intern/corporate/shenzhen.md) · [美团 2](../../slices/meituan/intern/corporate/shenzhen.md) · [商汤科技 2](../../slices/sensetime/intern/corporate/shenzhen.md) · [百度 1](../../slices/baidu/intern/corporate/shenzhen.md) · [逐际动力 1](../../slices/limx/intern/corporate/shenzhen.md) · [理想汽车 1](../../slices/lixiang/intern/corporate/shenzhen.md) · [小米 1](../../slices/xiaomi/intern/corporate/shenzhen.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 腾讯 | HR Intern (International Students) 105155 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-105155.md) |
-| 腾讯 | Overseas Legal Counsel | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-1226957123234441217.md) |
-| 腾讯 | Talent Acquisition Intern (International Students) 106178 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/tencent-106178.md) |
-| 腾讯音乐 | 财经专员实习生 〔28届 · ≥3个月〕 | 深圳 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/tme-15111.md) |
-| 腾讯音乐 | 企业文化 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14943.md) |
-| 腾讯音乐 | 人力资源类 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-12206.md) |
-| 腾讯音乐 | 诉讼法务 〔27届 · ≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-15084.md) |
-| 腾讯音乐 | 行政管理 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14904.md) |
-| 腾讯音乐 | 资金管理 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14859.md) |
-| 腾讯音乐 | 组织与人才发展（OD）实习生 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/tme-14973.md) |
-| 自变量机器人 | 董事会办公室助理- 实习生 〔≥6个月〕 | 深圳 | 2026-11-03 | 2026-11-03 | [详情](../../jobs/x2robot-7703472306286627091.md) |
-| 自变量机器人 | 【实习】招聘HR（校园方向） 〔≥6个月，每周≥5天〕 | 北京/深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/x2robot-7682711165768075570.md) |
-| 自变量机器人 | 校园招聘及雇主品牌实习生 〔≥3个月，每周≥5天〕 | 深圳/北京 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/x2robot-7545485100995283210.md) |
-| 自变量机器人 | 组织文化实习生 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/x2robot-7634126124523555115.md) |
-| 自变量机器人 | HR实习生 〔≥4个月〕 | 深圳 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/x2robot-7527569321943746855.md) |
-| 小米 | 人力资源实习生-深圳分公司 〔≥3个月〕 | 深圳 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7699683199592450367.md) |
+| 腾讯 | HR Intern (International Students) 105155 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tencent-105155.md) |
+| 腾讯 | Overseas Legal Counsel | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tencent-1226957123234441217.md) |
+| 腾讯 | Talent Acquisition Intern (International Students) 106178 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tencent-106178.md) |
+| 腾讯音乐 | 财经专员实习生 〔28届 · ≥3个月〕 | 深圳 | 2026-11-03 | 2026-11-09 | [详情](../../jobs/tme-15111.md) |
+| 腾讯音乐 | 企业文化 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tme-14943.md) |
+| 腾讯音乐 | 人力资源类 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tme-12206.md) |
+| 腾讯音乐 | 诉讼法务 〔27届 · ≥3个月，每周≥4天〕 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tme-15084.md) |
+| 腾讯音乐 | 行政管理 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tme-14904.md) |
+| 腾讯音乐 | 资金管理 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tme-14859.md) |
+| 腾讯音乐 | 组织与人才发展（OD）实习生 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/tme-14973.md) |
+| 自变量机器人 | 董事会办公室助理- 实习生 〔≥6个月〕 | 深圳 | 2026-11-03 | 2026-11-09 | [详情](../../jobs/x2robot-7703472306286627091.md) |
+| 自变量机器人 | 【实习】招聘HR（校园方向） 〔≥6个月，每周≥5天〕 | 北京/深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/x2robot-7682711165768075570.md) |
+| 自变量机器人 | 校园招聘及雇主品牌实习生 〔≥3个月，每周≥5天〕 | 深圳/北京 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/x2robot-7545485100995283210.md) |
+| 自变量机器人 | 组织文化实习生 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/x2robot-7634126124523555115.md) |
+| 自变量机器人 | HR实习生 〔≥4个月〕 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/x2robot-7527569321943746855.md) |
+| 小米 | 人力资源实习生-深圳分公司 〔≥3个月〕 | 深圳 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/xiaomi-7699683199592450367.md) |
 
 [上一页](intern-corporate.md) · [总目录](../../llms.txt)

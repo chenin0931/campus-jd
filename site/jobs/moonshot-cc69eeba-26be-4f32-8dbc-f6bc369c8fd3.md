@@ -9,8 +9,8 @@
 - status: active
 - 届别 grad_year: 2027、2028届
 - 实习时长 intern_duration: ≥6个月，每周≥5天
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/cc69eeba-26be-4f32-8dbc-f6bc369c8fd3
 

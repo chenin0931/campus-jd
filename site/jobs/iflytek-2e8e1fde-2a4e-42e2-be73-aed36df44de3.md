@@ -8,8 +8,8 @@
 - 城市: 合肥
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://iflytek.zhiye.com/campus/detail?jobAdId=2e8e1fde-2a4e-42e2-be73-aed36df44de3
 

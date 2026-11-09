@@ -10,7 +10,7 @@
 - status: active
 - 届别 grad_year: 2025、2026届
 - 实习时长 intern_duration: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
 - 最近抓取: 2026-10-27
 - 截止: 以官网为准
 - 投递: https://galaxea-ai.com/zh/apply.html?jobId=18

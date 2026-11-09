@@ -1,0 +1,955 @@
+[
+  {
+    "company": "月之暗面",
+    "title": "KIMI Agent Eval Intern｜视觉/3D/Robotics方向",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>把对 AI 产物的专业判断，变成可复现、可解释、能规模化运行的评测标准。</strong></p><p><br></p><p>关于这个岗位</p><p>我们正在构建面向真实世界任务的多模态 Benchmark，希望回答一个具体问题：AI 生成的作品或方案，究竟在多大程度上解决了用户的问题，离高质量交付还差在哪里？</p><p>你将参与题目设计、评分细则（rubrics）制定与自动评测（AutoEval）迭代，让自动评测在更高的质量标准下，稳定识别优劣、解释判断依据，并逐步减少重复人工评审。当前工作从 SVG、动画等生成产物切入，后续可能拓展到 3D 建模、Three.js 交互场景、Code-to-Video（代码生成视频）和机器人设计（Robot Design）。你可以从熟悉的方向开始，逐步扩展。</p><p><br></p><p>你会做什么</p><ol><li><strong>设计有真实价值、有难度的题目。</strong>从用户需求与专业工作流中提炼任务，明确交付物、约束和验收方式；用多种模型的实际作答验证难度与区分度，形成覆盖不同能力和难度层级的题集。</li><li><strong>把“好在哪里、错在哪里”写成可执行的 rubric。</strong>拆解需求满足、结构与功能正确性、动态或物理合理性、视觉表达等维度，明确必要条件、评分档位、权重、正反例和边界情况，让专业判断可以被他人复核、被自动评测使用。</li><li><strong>持续改进自动出题与判分方法。</strong>从误判样本中定位问题，迭代 rubric 模板、生成流程和 Judge 提示词；与研究、工程同学协作，结合程序检查、执行或仿真结果、视觉模型及多模态模型判断，选择适合任务的评测方式，并用对照实验验证改进。</li><li><strong>验证 Judge 的可信度。</strong>组织人工校准与分歧复盘，检验重复评分稳定性、与人工判断的一致性、严重误判及跨题目、跨模型泛化；保留独立测试集，排查模板过拟合、风格偏置与“钻评分空子”的案例。</li><li><strong>沉淀可复用的评测资产。</strong>维护题目、rubrics、锚点样例、失败案例和版本记录，让评分能够追溯到具体证据；设计不确定样本转人工复核的机制，在明确质量门槛下提高自动评测覆盖率。</li></ol><p><br></p><p>我们期待你</p><ul><li>本科及以上在读，专业不限。欢迎设计、数字媒体、建筑、计算机、人工智能、图形学、机器人等背景。</li><li><strong>有专业判断，也能解释判断。</strong>能结合任务目标说明一个结果为什么好或不好，把“感觉不对”转化为明确的维度、例子和验收条件。</li><li><strong>愿意用实验修正标准。</strong>能主动寻找反例、处理评审分歧，区分模型能力不足、题目歧义和评测器错误；在证据不足时保留不确定性。</li><li><strong>有动手能力与清晰的表达。</strong>能借助脚本、数据分析工具或 AI 工具整理样本、完成小规模对照实验，记录过程并复盘结果；能够阅读相关英文资料，与不同专业背景的同学协作。</li></ul><p><br></p><p><strong>以下两类能力至少具备一类，欢迎兼具两者：</strong></p><ul><li><strong>设计与领域评测方向：</strong>在视觉设计、视频、动画、3D、交互或产品设计等领域有作品或实践；能提出有区分度的质量标准，并通过样例校准与团队协作，将标准推进到自动评测中。</li><li><strong>技术与评测研究方向：</strong>具备 Python 或 JavaScript 编程能力，有模型评测、计算机视觉、图形学、具身智能或自动化测试等项目经验；能够实现指标或验证脚本，分析指标与实际任务质量之间的差距。</li></ul><p><br></p><p>加分经历</p><ul><li>设计过评测标准、数据集、Benchmark、奖励函数或 LLM / VLM Judge；有人工标注校准、误差分析或评测工具开发经验。</li><li>熟悉 Blender、Rhino / Grasshopper、Three.js、视频生成或机器人仿真中的任一方向，能检查源文件、交互过程、时序表现或运动约束。</li><li>有将主观质量转成可验证标准的实践，例如解释视频节奏与美感、检验参数化模型的可编辑性与复现性、验证机器人结构与动作的可行性。</li></ul><p><br></p><p>你将推动的成果</p><p>围绕一个具体任务方向，完成“题目与样例 → rubric → 自动评测 → 人工校准 → 独立验证”的完整迭代，并沉淀可复用的题包、标准和分析报告。</p><p>我们关注的进展包括：题目能否反映真实需求并区分能力；评分能否稳定复现、解释到具体证据；在保留质量区分度的同时，能否降低严重误判；在控制误判的前提下，能否减少人工复核量和评测成本。各项指标会结合任务基线共同设定。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/20d8a1a8-269b-447a-b974-4e89cff9e5df",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/20d8a1a8-269b-447a-b974-4e89cff9e5df",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Agent Product Builder & Strategy Intern",
+    "category": "AI产品",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p><strong>职位介绍</strong></p><p><em>A wealth of information creates a poverty of attention.</em></p><p><em>—— Herbert Simon，1971</em></p><p>人和 Agent 的协作，正从同步对话走向异步委托，从单次任务走向长期在线。技术扩散的瓶颈，正在从 AI 的能力转到了人和 AI 的生产关系上。</p><p>我们在思考新的工作和组织如何围绕 AI 重新构建，也在探寻什么样的产品可以帮助人类完成更多的“牛马”工作，让人们有时间去体会创造和探索的乐趣。</p><p>我们想和你一起回答：<strong>下一个改变世界的 AI 产品，会是什么？</strong></p><p>这是一份创新型的岗位：</p><ul><li>作为<strong>产品经理</strong>，你会洞察需求、调研竞品、给出优雅的解法，并推动它从概念、原型、设计、研发一路走到上线。</li><li>作为<strong>产品战略研究员</strong>，你会研究行业、看清趋势，参与定义 Kimi 下一阶段的产品重心。</li></ul><p><br></p><p><strong>你会做什么</strong></p><ul><li><strong>功能迭代</strong>：从用户反馈和日常观察中找到核心需求，挖掘 Agent 的高价值场景，设计并迭代 Kimi 的核心体验与重点功能。</li><li><strong>Harness 设计</strong>：为具体功能设计合理、高效的 harness，设计和执行效果评测。</li><li><strong>竞品调研</strong>：跟踪并深度使用国内外的 AI 模型和产品，想清楚它们为什么这么做？背后取舍了什么？接下来会怎么演进？</li><li><strong>战略研究</strong>：围绕 AI 产品、Agent 形态、商业模式做专题研究，分清趋势和噪音。</li></ul><p><br></p><p><strong>我们希望你</strong></p><ul><li>本科及以上学历。<strong>实习至少 6个月，每周 5 天</strong>。28届及之后毕业的同学优先，欢迎产品、工程、战略、投资等各种背景的同学。</li><li>深度使用 Kimi、Claude Code、Codex、Grok bot、Muse 等 AI 产品，独立完成过真实项目。</li><li>理解 Agent loop、工具调用、context engineering、记忆与 Skill 等模块的设计，能判断一个功能该怎么实现、瓶颈在哪里。</li><li>具备战略研究能力：面对开放问题，能很快搭起框架；判断有依据，能把复杂的事说简单。</li><li>有审美，从用户视角出发思考功能和产品框架。</li></ul><p><br></p><p><strong>加分项</strong></p><ul><li>懂 product eval</li><li>自己独立构建过agent</li></ul><p><br></p><p><strong>如何投递？</strong></p><ul><li>简历之外，让作品替你说话：可以上传个人网站、side project、GitHub、研究报告等</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/50596607-03f8-49c7-b2f3-a273fdca2361",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/50596607-03f8-49c7-b2f3-a273fdca2361",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "增长创意实习生",
+    "category": "市场",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>核心职责 </p><ol><li><strong>创意内容策划</strong></li></ol><ul><li>负责 AI 产品全球市场的增长内容策划，完成创意构思、文案撰写、脚本设计、分镜规划及创意方案输出</li><li>将产品功能、使用场景及用户痛点转化为具有吸引力与转化潜力的创意内容，探索视频、动效、平面视觉等多元表现形式</li><li>持续关注全球科技、AI 与互联网文化趋势，挖掘具有传播潜力的创意方向与内容切入点</li></ul><ol><li><strong>全球内容策略与投放优化</strong></li></ol><ul><li>针对不同平台、国家及地区的用户特点、文化语境与投放目标，制定差异化、本地化的内容创意方案</li><li>结合点击率、转化率、获客成本等投放指标，持续优化内容 Hook、卖点表达、视觉呈现及 CTA</li><li>参与创意 A/B Testing，探索不同内容角度、表达形式及叙事结构对广告效果的影响，沉淀可复用的创意方法</li></ul><ol><li><strong>创意落地与协作</strong></li></ol><ul><li>与设计、产品及增长团队协作，推动创意从概念、文案到最终投放素材的完整落地</li><li>深度运用 AI 工具进行市场研究、创意发散、内容迭代及调研分析，提升内容策划与产出效率</li></ul><p><br></p><p>职位要求</p><ul><li><strong>AI Native：</strong> 必须是 AI 产品的深度用户，已将 AI 深度融入日常学习与工作流，能够利用 AI 高效完成研究、创意探索及问题解决；有自己动手搭过 Skill、Agent、自动化工作流或 AI 小项目者优先</li><li><strong>创意与叙事能力：</strong> 具备优秀的文案、脚本及分镜策划能力，善于将复杂产品能力转化为简单、有趣且有说服力的内容</li><li><strong>投放思维：</strong> 理解效果广告的基本逻辑，对用户注意力、内容吸引力及转化路径有敏锐判断，愿意通过数据不断验证和迭代创意</li><li><strong>全球化视野：</strong> 熟悉 TikTok、Instagram、YouTube 等平台的内容生态，理解不同市场的用户偏好、文化差异及传播方式</li><li><strong>视觉审美：</strong> 具备良好的视觉表达与设计审美，能够清晰呈现创意方案并推动制作落地</li><li>具备良好的英文阅读与写作能力，能够独立研究海外市场并撰写英文创意内容</li><li><strong>请提交简历的同时，提交能体现审美和创意能力相关的作品集。</strong></li></ul><p><br></p><p>加分项</p><ul><li>有效果广告、Performance Creative、视频广告或增长营销相关经验</li><li>有个人内容账号、KOL 创作或高传播度视频作品</li><li>有海外学习、生活或跨文化内容创作背景</li><li>熟悉 Figma、Adobe 系列、AI 视频工具，能够独立制作 Storyboard 或创意 Demo</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/6f3f3929-8c41-41a1-8b18-fc5e156a986d",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/6f3f3929-8c41-41a1-8b18-fc5e156a986d",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi 海外创意增长实习生",
+    "category": "市场",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>我们正在寻找一位对<strong>海外互联网、社交媒体和 AI</strong> 充满热情的创意增长实习生。</p><p><br></p><p><strong>你会参与什么</strong></p><p>这是一个站在<strong>海外社媒和 AI 行业第一线</strong>的岗位。</p><p>你会参与 Kimi 海外社媒内容建设、达人营销和全球 Campaign，与全球创作者、AI 玩家和一线增长团队一起，把 Kimi 的产品和能力带到更多海外用户面前。</p><p><br></p><p><strong>你将获得</strong></p><ul><li>参与 Kimi 海外社媒从内容到增长的完整实践</li><li>深度参与 <strong>Kimi 模型 / 产品发布及全球 Campaign</strong></li><li>与海外创作者、AI 玩家直接沟通合作</li><li>在真实业务中学习海外社媒运营、达人营销和 Growth</li><li>无限Token，<strong>尽情探索 AI 的各种可能性</strong></li></ul><p><br></p><p><strong>工作内容</strong></p><ol><li>参与 Kimi 海外社媒内容策划、文案创作及日常运营</li><li>参与海外达人挖掘、建联、合作沟通及 Campaign 执行</li><li>参与 Kimi 模型、产品发布及品牌传播 Campaign</li><li>将热点、产品能力与用户需求结合，探索更有传播力的内容形式</li><li>进行海外社媒及竞品调研，持续寻找新的增长机会</li></ol><p><br></p><p><strong>我们希望你</strong></p><ul><li>对 <strong>X / YouTube / Instagram / TikTok</strong> 等海外社交媒体非常熟悉</li><li>是真正的<strong>海外社媒重度用户</strong>，热爱冲浪，对热点、热梗和互联网文化敏感</li><li>对 AI 有浓厚兴趣，并且是 <strong>AI 产品深度使用者</strong></li><li>英语接近 Native 水平（IELTS 8.0+ / TOEFL iBT 110+ 或同等水平优先），能够自然地进行英文内容创作和海外沟通</li><li>有较强的<strong>创意、文案、审美和流量 Sense</strong></li><li>对新鲜事物保持好奇，愿意不断尝试新的 AI 产品和内容玩法</li></ul><p><br></p><p><strong>加分项</strong></p><ul><li>有较长时间的英语国家学习 / 生活经历</li><li>运营过个人 X / YouTube / Instagram / TikTok 等海外账号</li><li>有成功起号、爆款内容或社媒增长案例</li><li>有自己做过 AI 项目、网站、工具或其他有意思的东西</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f287f352-5561-4d86-bb85-552b0283854c",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f287f352-5561-4d86-bb85-552b0283854c",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "体验运营实习生（体验分析方向）",
+    "category": "运营",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>实习周期4个月以上，每周到岗4-5天，能长期实习者优先（6个月以上为佳）</p><p><strong>一、岗位职责</strong></p><p><strong>1. 体验分析</strong></p><p> - 负责用户反馈（VOC）的收集、整理与归因分析，覆盖客服工单、社群、舆情等渠道，定位支付与会员场景下的体验痛点，输出洞察报告并推动产品体验优化</p><p> - 搭建并持续监测体验指标体系（如NPS、CSAT、问题解决率等），定期输出体验数据报告，跟踪改进项落地效果</p><p><strong>2. BPO供应商管理</strong></p><p> - 对接外包客服供应商，跟进排班计划、人力到岗情况及日常问题协调，保障外包服务稳定交付</p><p> - 参与外包团队培训与 onboarding：组织培训材料、上岗认证考核及业务口径同步会，跟进新人上手进度与质量</p><p><strong>3. 支付渠道争议处理</strong></p><p> - 负责海外支付渠道交易争议案件的受理、核查与处理，包括调单查询、拒付抗辩等</p><p> - 对接外部支付机构及内部风控、客服团队，跟进争议处理进度，把控处理时效（通常需符合支付机构要求的时限标准）</p><p> - 建立争议案例台账，定期监控争议相关指标，输出争议分析报告，推动支付产品体验优化与风险防控策略迭代</p><p><strong>4. 运营支持与优化</strong></p><p> - 梳理支付、权益运营及外包协作SOP，识别流程卡点并提出优化建议</p><p> - 对接内部相关部门（如财务、技术、会员运营组）与外包客服团队，协调处理会员用户服务中的复杂问题，保障用户诉求闭环解决</p><p><strong>二、任职要求</strong></p><p><strong>1. 基础条件：</strong>研究生在读，金融、经济、财会、电子商务、统计学等相关专业背景优先</p><p><strong>2. 相关要求</strong></p><p> - 具备基础财务知识，了解发票管理、退款流程、资金对账等运营环节</p><p> - 适应争议处理的高时效要求（部分支付争议有严格时限），能在快节奏环境下稳定输出</p><p> - 具备较强的学习能力，能快速掌握公司业务内容、客户服务流程及相关操作工具</p><p> - 具备一定的问题解决能力，面对用户复杂诉求能快速梳理思路，对接相关部门推进解决，同时做好用户安抚工作</p><p><strong>3. 加分项</strong></p><p> - 具备基础数据分析能力，能熟练使用 Excel 完成数据整理、分析与可视化，了解 SQL 者优先</p><p> - 有 VOC 分析、用户体验指标体系（NPS/CSAT 等）搭建或监测相关经验者优先</p><p> - 了解支付争议处理细节（如调单码编制、拒付抗辩材料准备、PCI合规等）</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/569f5aad-3f68-41ba-ab5d-720e4148bda7",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/569f5aad-3f68-41ba-ab5d-720e4148bda7",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "动态视觉设计实习生（Motion Design Intern）",
+    "category": "设计",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>【</strong>职位描述】</p><p>Kimi 正在探索 AI Native 设计工作流的前沿，寻找能通过创意与技术，为 AI 产品打造“先锋、新鲜、且高度统一”的品牌视觉语言的伙伴。</p><p>如果你对 AI、动态视觉、品牌传播和新工具创作都充满好奇，喜欢把抽象的产品能力转译成用户能感受到、记得住、愿意分享的视觉表达，欢迎加入我们。</p><p>【核心要求】</p><p>1.设计功底：具备敏锐的视觉嗅觉，擅长打造先锋、实验性的视觉风格，同时具备极强的品牌规范意识与一致性把控能力。</p><p>2.工具技能：熟练使用 Photoshop、Illustrator、Figma；必须精通 After Effects，能独立完成高质量动效与动态视觉产出。</p><p>3.AI 实战：有 AI 设计工具，如 ChatGPT、Midjourney、Stable Diffusion、Lovart 等实际项目或练习经验，致力于用 AI 重构传统设计工作流。</p><p>4.加分项：具备 3D 能力，如 Blender / C4D，或有 AI 视频生成、Cavalry、Creative Coding、Lottie / Rive 等产品动效交付经验。</p><p>5.软实力：主动性高，国际审美，沟通顺畅，能在快速反馈与高频迭代中推进设计落地；每周可保证 5 天出勤。</p><p>【你将负责】</p><p>1.承担 AI 产品相关的动态视觉与 Motion Graphic 设计，包括活动页动效、模型宣发视频、社媒传播素材、品牌 Campaign 视觉等。</p><p>2.参与 Kimi 产品与品牌传播项目，将产品亮点、AI 能力和用户价值转化为清晰、有记忆点的动态视觉表达。</p><p>3.探索 AI 驱动的视觉创新，在保证品牌 DNA 一致的前提下，产出令人耳目一新的设计方案。</p><p>4.协同产品、运营、设计团队，高效推动品牌视觉创意从概念、分镜、设计到上线落地。</p><p>5.沉淀可复用的动态视觉模板、素材资产与 AI Native 设计流程，让好的创意可以持续复用和放大。</p><p>【你会收获】</p><p>1.近距离参与 Kimi 的产品发布、品牌传播、社媒内容与市场活动项目。</p><p>2.你的动态设计会出现在真实的 Campaign、产品宣发、活动页面和传播素材中，直接面对用户和市场反馈。</p><p>3.和品牌、产品、运营、技术团队一起工作，理解 AI 产品如何被包装、表达、传播和放大。</p><p>4.有机会探索 AI 时代新的设计工作流，用新工具提升创意效率，也定义更适合 Kimi 的视觉表达。</p><p>5.在真实业务节奏中快速成长，积累可展示、可复盘、可被市场验证的作品案例。</p><p><br></p><p><strong>【作品集】</strong></p><p>不要求商业项目，Motion Graphic、动态海报、品牌动效、UI / App 设计、UI Animation、个人练习都可以。</p><p>我们更关注你的<strong>审美、Motion 基本功和成长潜力</strong>。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e008269e-bb88-48bc-a3ed-9e10b737b53c",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e008269e-bb88-48bc-a3ed-9e10b737b53c",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "KIMI法律行业解决方案专家实习生",
+    "category": "销售",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>我们在做什么</p><p><br></p><p>Kimi 正在为法律行业构建真正可用的 AI 能力——不是通用助手套一层法律外壳，而是深入律所和企业法务等真实工作流，把诉讼、非诉、法务合规中的专业判断沉淀为模型能力和机构级 Skill。我们相信，法律是大模型最能证明\"专业价值\"的战场之一：这里有最严格的准确性要求、最复杂的长文本、最不容含糊的推理链条。你将定义\"AI 律师助手\"应该长什么样。</p><p><br></p><p>你将负责</p><p><br></p><p>1. 工作流定义与 Skill 设计：深入诉讼（类案检索、文书起草、证据梳理、庭审准备）、非诉（合同审查、尽职调查、合规审查、交易文件起草）、企业法务（合同管理、风险识别、制度审查）三大场景，拆解律师/法务的真实作业流程，设计可复用的法律 Skill 与机构插件方案；</p><p>2. 评测体系建设：为法律垂类建立评估维度与自动化评测方法，定义\"优秀法律回答\"的标准——引用准确、推理可溯、立场恰当、不越权出具法律意见；</p><p>3. 客户共创与交付：与标杆律所、企业法务部门等深度合作，验证场景价值，把成功实践沉淀为可复制的产品方案与行业打法；</p><p>5. 产品反馈闭环：作为法律领域的产品 owner，向模型与产品团队输出一线洞察，推动模型在法律推理、长文档理解、引用准确性上的迭代。</p><p><br></p><p>我们希望你</p><p><br></p><p>- 国内外知名院校法学背景；有律所（诉讼或非诉）、企业法务、专利申请等法律实践领域的丰富经验，摸透至少一个法律场景下的完整工作流；</p><p>- 是 Kimi 、Claude、Codex 等主流 AI 的深度用户，已经把 AI 工具融入自己的法律工作，对\"AI 能如何高效赋能法律实践\"有一手判断；</p><p>- 能从知识准确性、推理质量、表达水准三个维度判断模型回答的优劣，并说清楚为什么；</p><p>- 自驱、皮实，接受从 0 到 1 阶段的不确定性。</p><p><br></p><p>加分项</p><p><br></p><p>- 会 Vibe Coding，自己动手做过 Demo 来为自己的法律实践工作赋能 ；</p><p>- 在特定细分领域（如知识产权、数据合规、资本市场、争议解决）有深度的实践积累；</p><p><br></p><p>你会获得</p><p><br></p><p>- 参与定义一个全新品类的机会：你的领域判断直接进入模型，影响百万级用户和机构客户；</p><p>- 与顶级模型团队并肩工作，第一时间接触最前沿的模型能力；</p><p>- 不设限的成长空间——这个岗位的边界，由你来画。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/55c3db52-e8c5-4104-97e1-d6a426492f17",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/55c3db52-e8c5-4104-97e1-d6a426492f17",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "市场拓展实习生",
+    "category": "市场",
+    "city": [
+      "深圳"
+    ],
+    "requirements": "<p>我们正在寻找一位对 AI 技术的商业化感兴趣的实习生。你将有机会参与真实的客户合作与业务拓展，跟随团队了解 To B 商业合作的完整过程，在实践中积累客户沟通、需求分析与商务拓展经验。</p><p><br></p><p>岗位职责</p><ol><li><strong>客户合作支持</strong>：协助维护现有客户关系，跟进日常合作事项，支持客户沟通、需求协调及相关工作的推进。</li><li><strong>商务运营支持</strong>：参与业务数据核对、信息维护、资料整理及相关流程跟进，确保信息准确、事项及时落实。</li><li><strong>市场与客户拓展</strong>：参与市场研究与潜在客户分析，协助挖掘客户需求和商业机会，支持业务拓展及商务沟通。</li><li><strong>产品与行业研究</strong>：了解公司产品及相关技术能力，关注 AI 行业发展与应用场景，为客户沟通和业务拓展提供支持。</li><li><strong>团队日常协作</strong>：根据业务需要参与其他相关工作，在实践中逐步熟悉商务合作流程，并探索更多独立承担业务任务的机会。</li></ol><p><br></p><p>任职要求</p><ol><li>本科或研究生在读，对 AI、科技行业及商业化有浓厚兴趣，有销售、BD、客户运营或相关实习经验者优先。</li><li>做事认真细致，有耐心和责任心，愿意踏实完成数据核对、资料整理等基础工作，对工作质量有较高要求。</li><li>理解能力强，思维灵活，具备良好的沟通表达能力和沟通分寸感，能够快速理解需求并准确传递信息。</li><li>有较强的学习能力和主动性，对商业和客户需求保持好奇心，遇到问题能够主动思考并及时沟通。</li><li>熟练使用 Office 等常用办公软件，具备良好的信息整理、数据处理及文档撰写能力。</li><li>能够保持稳定出勤，有长期实习意愿者优先。</li></ol><p><br></p><p>你将收获</p><ol><li><strong>真实的商业实践</strong>：接触企业客户合作的实际场景，了解 To B 业务从客户需求、商务沟通到合作落地的基本过程。</li><li><strong>业务负责人的直接指导</strong>：在日常工作中与业务负责人密切合作，学习客户管理、需求分析、商务沟通及商业谈判的思路与方法。</li><li><strong>对 AI 商业化的深入理解</strong>：了解前沿 AI 产品及其企业应用场景，积累对技术产品、客户需求和商业模式的认识。</li><li><strong>逐步独立承担业务的机会</strong>：根据个人能力和兴趣，在完成日常工作的基础上，尝试更多客户研究、市场拓展及商务相关工作。</li></ol>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ab4d7038-b4ac-4f76-8b6f-9a4b3db0dc43",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ab4d7038-b4ac-4f76-8b6f-9a4b3db0dc43",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "全球金融AI方案实习生",
+    "category": "职能",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>当 AI 能够理解金融问题、调用专业工具、执行复杂任务，金融机构的研究、决策与协作方式会如何改变？</p><p>我们正在与全球金融机构一起探索这个问题。我们希望找到对金融有理解、对技术有好奇心，也愿意亲手把想法做出来的你，一起定义大模型在金融行业的下一步。</p><p><br></p><p><strong>你将做什么</strong></p><ul><li><strong>发现值得解决的问题</strong>：深入全球金融机构的投研与业务流程，理解真实需求，判断哪些环节值得用 AI 重构，并将业务问题转化为清晰的产品方案。</li><li><strong>把想法变成产品</strong>：参与金融场景下 AI 原生产品与 Agent 的设计、原型搭建和迭代，与工程及模型团队协作，推动方案从概念验证走向实际应用。</li><li><strong>连接数据、工具与工作流</strong>：对接金融机构与数据服务商，探索金融数据、专业工具和 API 的接入方式，打造对人和 Agent 都好用的产品体验。</li><li><strong>定义并验证效果</strong>：参与设计金融场景下的模型与 Agent 评测，通过真实任务、专家反馈和失败案例，识别能力边界，推动产品与模型持续改进。</li><li><strong>让一次交付成为可复用的能力</strong>：从具体项目中提炼共性需求，将有效的方法沉淀为 AI Harness（支撑 Agent 执行任务的工具、编排、上下文管理与评测体系）、通用产品能力，或转化为模型训练与评测的反馈。</li></ul><p><br></p><p><strong>我们寻找这样的你</strong></p><ul><li><strong>有真实的金融或咨询实践</strong>：必须具备金融、咨询或量化相关实习经历，能够理解业务逻辑，并对研究分析或问题解决过程形成自己的判断。</li><li><strong>英语可以作为工作语言</strong>：能够流畅阅读英文专业材料，并用英语参与讨论、撰写文档及对接全球金融机构。</li><li><strong>能拆解问题，也愿意动手验证</strong>：面对开放问题，能主动查资料、形成假设、搭建原型，用证据推进判断。</li><li><strong>对 AI 有持续的好奇心</strong>：主动使用大模型与 Agent 工具，愿意理解它们如何工作、在哪里失效，以及怎样让它们更可靠地完成金融任务。</li><li><strong>有清晰表达与协作能力</strong>：能在金融业务与技术之间建立共同语言，与客户、工程师及数据合作伙伴一起推进项目。</li><li><strong>满足到岗要求</strong>：可尽快在北京到岗，每周至少实习 3 天，持续 3 个月以上。</li></ul><p><br></p><p><strong>加分项</strong></p><ul><li><strong>复合学科背景</strong>：有计算机、数学、统计、物理、工程等理工科与金融的复合学习经历。</li><li><strong>AI 产品或项目经验</strong>：做过 AI 产品、Agent、RAG（检索增强生成）或模型评测项目，能够讲清楚自己的设计、取舍与实际效果。</li><li><strong>技术实践能力</strong>：熟悉 Python / SQL，能借助 AI 编程工具完成数据分析、API 调用、原型或轻量应用开发。</li><li><strong>金融分析与数据能力</strong>：具备财务建模、估值、行业研究或量化研究经验，熟悉行情、财报及另类数据等金融数据生态。</li></ul><p><br></p><p><strong>你将在这里探索什么</strong></p><p>与全球金融机构共同定义真实问题，与产品、工程和模型团队一起验证答案。你的工作将连接客户现场、产品设计与模型能力，也将帮助我们理解：当 AI 成为金融工作的参与者，未来的金融组织应该如何运转。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/08fd410e-1b44-4e3b-b15e-265d0fa18699",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/08fd410e-1b44-4e3b-b15e-265d0fa18699",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "HR实习生（产研&业务方向）｜Talent Sourcing & Mapping Intern",
+    "category": "职能",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p><strong>别做简历的搬运工，做人才的星探。</strong></p><p><strong>你将参与什么：</strong></p><ol><li><strong>绘制行业人才地图</strong>：针对<strong>产品、研发、市场</strong>等核心岗位，系统性Mapping目标公司与人才分布，从零建立行业人才数据库。你将直接接触行业Top-tier人才，深入理解业务岗位的能力模型与市场格局。</li><li><strong>主导主动拓源实战</strong>：通过LinkedIn、脉脉、小红书、即刻等多渠道精准触达候选人，尝试内容营销、社群渗透、人脉裂变等创新玩法。你的每一个策略都会真实影响招聘转化，并学习如何用数据驱动决策。</li><li><strong>输出市场情报洞察</strong>：定期研究行业人才流动趋势、薪酬带宽与竞对动态，你的分析报告将直接服务于招聘策略优化，锻炼商业分析视角。</li></ol><p><strong>我们期待你：</strong></p><ol><li><strong>对互联网/科技行业有好奇心</strong>，愿意快速理解产品、研发、市场岗位的特点——专业不限，学习能力强即可，有CS/商科背景加分。</li><li><strong>喜欢\"找人\"这件事</strong>：擅长从社交媒体碎片信息中捕捉线索，有社群运营、校园猎头、商务拓展或任何主动拓展类经历都是加分项。</li><li><strong>是社交媒体的深度用户</strong>：熟悉小红书、即刻、脉脉等平台的玩法与圈层文化，知道如何与不同的人建立连接。</li><li><strong>自驱且善用工具</strong>：不甘于执行指令，乐于主动探索；习惯用AI工具提效，对数据敏感，愿意在实战中快速成长。</li><li><strong>有\"闭环思维\"</strong>：不只完成被交代的那一步，而是会主动思考这件事的前因后果和后续延伸，把问题从头到尾想清楚、做到位。</li></ol><p><br></p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/4328d1e4-53ee-43d6-97fb-924aa230198e",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/4328d1e4-53ee-43d6-97fb-924aa230198e",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "体验运营实习生（Harness业务方向）",
+    "category": "运营",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>实习周期4个月以上，每周到岗4-5天，能长期实习者优先（6个月以上为佳）</p><p><strong>核心职责</strong></p><p><strong>1. Harness业务运营支持</strong></p><ul><li>深入调研AI业务场景，挖掘高价值AI应用需求，将用户反馈转化为可落地的业务洞察</li><li>协助面向AI原生产品的用户体验分析与流程优化，优化用户交互路径与工具易用性</li><li>参与产品效果评测体系的设计与执行，跟踪Agent与模型在实际场景中的表现数据</li></ul><p><strong>2. AI工具与智能客服能力建设</strong></p><ul><li>协助Harness相关客服策略设计、流程搭建与效果调优，将业务知识转化为AI语言</li><li>运用Coding/Vibe Coding能力进行知识训练、Prompt精调与效果优化，推动AI在客服场景的应用</li><li>善用各类Agent工具提效，对LLM应用、RAG、工作流编排有基本认知或实践经验</li></ul><p><strong>3. 跨团队协作与体验闭环</strong></p><ul><li>与产品、工程、算法团队紧密协作，推动Harness业务体验问题有效解决并跟踪改进效果</li><li>对接相关方推动数据接入与产品集成，协同优化对「人」和「Agent」均友好的工具与接口</li><li>参与客服反馈机制搭建，推动用户问题闭环管理</li></ul><p><br></p><p><strong>职位要求</strong></p><p><strong>能力与技能</strong>：</p><ul><li>具备良好的逻辑思维、数据分析、快速学习能力，对改善用户体验有强烈的热情和主人翁意识</li><li>具备一定的Coding/Vibe Coding能力，能运用AI工具辅助工作，熟悉Python/SQL者优先</li><li>逻辑清晰，能快速理解技术与业务的交叉需求，具备与工程师、数据商、客户多方协作的能力</li><li>能主动发现问题并推动解决</li></ul><p><strong>加分项（非必须）</strong>：</p><ul><li>对AI行业和AI产品有浓厚兴趣，并有一定了解</li><li><strong>擅长撰写 prompt、搭建 AI agent</strong></li><li>有过用户研究、客服、产品或运营相关的实习经验</li><li>能独立完成数据清洗、分析或轻量脚本开发</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8b97d540-493d-4b3c-bcc6-d8ec003e701d",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8b97d540-493d-4b3c-bcc6-d8ec003e701d",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "产品实习生",
+    "category": "产品",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>工作职责：  </p><p>1. 负责设计并迭代大模型开放平台产品功能，输出可直接落地的 PRD；  </p><p>2. 负责协调研发、设计、合规、运营，保障需求按期高质量上线；  </p><p>3. 负责搭建数据看板，用 SQL+Excel 定位问题并推动优化；  </p><p>4. 负责运营开发者社群和客服渠道，收集反馈并形成闭环。  </p><p>5. 负责开放平台 tob 用户 agent cases 案例编写和调试</p><p>  </p><p>任职需求：  </p><p>- 本科及以上学历，计算机、软件工程等相关专业；  </p><p>- 至少一段产品/技术/数据分析实习，独立跟进过功能上线；  </p><p>- 熟悉国内外主流大模型，能快速讲清差异；  </p><p>- 熟练使用 SQL、Excel，数据驱动决策；  </p><p>- 逻辑严谨，学习能力强，沟通高效；</p><p>- 可实习时间不少于4个月。  </p><p>  </p><p>加分项：  </p><p>- 有 GitHub 开源项目或技术博客，会写代码；</p><p>- 输出过产品 PRD、竞品分析、数据报告；具备 AI 平台、开发者生态、B 端产品经验；</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ea359ab7-2508-45b1-8e5d-2d93403d58e4",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ea359ab7-2508-45b1-8e5d-2d93403d58e4",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "行政实习生",
+    "category": "职能",
+    "city": [
+      "上海"
+    ],
+    "requirements": "<p><strong>工作地点：上海</strong></p><p><strong>岗位职责</strong></p><p>1.协助日常行政运营：包括员工入离职配套支持（工位协调、桌牌制作、物资发放）、办公环境日常巡检、会议室预定协调及现场支持等。</p><p>2.负责办公用品、日用品等物资的库存盘点与采购跟进。</p><p>3.协助费用单据的收集整理、数据录入与核对，完成基础数据支持工作。</p><p>4.参与公司活动的场地布置与现场执行，协助对接快递、保洁、绿植等供应商。</p><p>5.作为职场设备故障及突发情况的协助响应人，配合团队及时处理。</p><p>6.完成上级交办的其他临时性工作。</p><p><strong>任职要求</strong></p><p>1.2027 届及之后的在校本科生或硕士生，学校位于上海。</p><p>2.实习时长6个月及以上，每周可出勤5天优先，表现优秀可转正。</p><p>3.性格踏实细心，责任心强，具备良好的服务意识。</p><p>4.能同时处理多项事务，有条理、不怕琐碎。</p><p>5.熟练使用 Office 办公软件（Excel/Word/PPT），有飞书等协作工具使用经验加分。</p><p>6.有行政、前台、活动执行等相关实习经历优先，无经验但态度积极者同样欢迎。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/cc69eeba-26be-4f32-8dbc-f6bc369c8fd3",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/cc69eeba-26be-4f32-8dbc-f6bc369c8fd3",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI harness 产品实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>职责</strong></p><ul><li>通过竞品分析、行业追踪、用户调研等方式，挖掘 Agent 的高价值应用场景，重点研究 plugin/connectors/skills + broswer use + computer use 等方向</li><li>设计并搭建不同场景下的 Benchmark，配合模型训练</li><li>通过设计合理高效的 Agent Harness，推动 Agent 新能力的产品化落地</li><li>设计产品，优化用户体验，监控用户数据和反馈，推进产品的迭代优化</li></ul><p><strong>要求</strong></p><ul><li>Vibe coding 经验丰富，能利用 AI 快速搭建原型、验证想法</li><li>关注 Agent 前沿行业和技术动态，了解 Agent 的基本技术原理</li><li>经常使用各种 AI 产品，包括但不限于 Codex、Claude Code 等，能说出它们的优缺点</li><li>自主性强，能提出解决问题的方案；逻辑清晰，能讲清楚每件事的思考过程；有好奇心</li><li>实习时间至少 4 个月，每周至少 4 天，Base 北京</li></ul><p><strong>加分项</strong></p><ul><li>曾在很短的时间内学习一项新东西并达到 Top 水平</li><li>曾通过迭代 agent，极大地提升了自己生活、工作、学习中某个项目的效率</li><li>战略思维或技术思维二选一：</li><li>有明显高于其他人的战略思维，对 AI 行业的行业前沿极度关注和了解</li><li>或者，有开源项目经验或前后端开发经验</li></ul><p><strong>你将收获</strong></p><ul><li>高效的 peer learning，与算法、工程团队密切合作</li><li>在这个 team，实习生也可以是业务 owner，你会独立负责完整的产品模块，实现自己的创新想法</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/83c7d619-4b46-4fc7-9490-9b5d0171a5a7",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI 产品运营实习生",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>岗位职责</p><p>产品体验分析与洞察</p><p>深度体验公司产品及相关 AI 工具，通过使用路径、交互流程、内容生成效果发现体验问题；</p><p>基于用户行为、数据指标和反馈，整理结构化产品洞察；</p><p>输出体验优化建议并跟进落地。</p><p>竞品调研与趋势分析</p><p>跟踪国内外主流 AI 产品（ChatGPT、Claude、Gemini、Midjourney 等）及其工具生态；</p><p>总结模型能力差异、产品功能结构、提示词能力入口与用户场景；</p><p>输出洞察文档和产品机会点，支持产品策略制定。</p><p>AI 工具与 Prompt 机制探索</p><p>主动尝试不同模型、插件、工具链（如 Agents、工作流、插件系统等）；</p><p>总结不同模型的提示词技巧、生成效果、能力边界；</p><p>梳理高质量 Prompt 案例库，用于产品示例、社区内容、体验优化；</p><p>支持内部 prompt 方法论沉淀、场景化使用指南制作。</p><p>社区内容维护与运营支持</p><p>支持社区内容质量提升，如示例内容整理、优质内容分发、交互玩法设计；</p><p>协助维护内容生态、话题策略与用户互动质量。</p><p> </p><p>任职要求</p><p>基本素质</p><p>本科/研究生在读，每周至少实习 4 天，持续 3 个月以上；</p><p>好奇心强，愿意深入钻研新技术与新产品。</p><p>能力要求</p><p>对 AI 产品、模型能力、提示词机制有兴趣；</p><p>能快速掌握新工具并总结使用方法；</p><p>具备强逻辑能力，能把体验拆解为结构化输出；</p><p>熟悉基础调研方法、用户体验分析与竞品拆解流程；</p><ul><li>有使用多模型、提示词调优经验（ChatGPT、Claude、Gemini、Midjourney 等工具）</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f8dfdbf3-eb0c-4403-89c2-21d854c8c47a",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI Agent 产品实习生（Vibe Coding 方向）",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>职责：</p><p>- 通过竞品分析、用户调研等方式，挖掘 Agent 的高价值应用场景</p><p>- 设计并搭建不同场景下的 Benchmark，配合模型训练，提升模型在特定领域效果</p><p>- 通过设计合理高效的 Agent Harness，推动 Agent 新能力的产品化落地</p><p>- 设计产品，优化用户体验，监控用户数据和反馈，推进产品的迭代优化</p><p><br></p><p>要求：</p><p>- vibe coding 经验丰富，能利用 AI 快速搭建原型、验证想法</p><p>- 了解 Agent 的基本技术原理，关注 Agent 前沿技术动态</p><p>- 经常使用各种 AI 产品（包括但不限于Codex、Claude Code、Manus等），有好奇心，能说出它们的优缺点</p><p>- 自主性强，能提出解决问题的方案；逻辑清晰，能讲清楚每件事的 CoT</p><p>- 实习时间至少4个月，每周至少4天，Base北京</p><p><br></p><p>加分项：</p><p>- 有Agent产品或模型训练相关实习经历</p><p>- 曾在很短的时间内学习一项新东西并且达到 Top 水平</p><p>- 了解如何通过工程方式提升 AI 的效果</p><p>- 开源项目经验 / 前后端开发经验</p><p><br></p><p>你将收获：</p><p>- 高效的 peer learning，与算法、工程团队密切合作</p><p>- 有机会独立负责完整的产品模块，实现你的创新想法</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e6d9887a-bb3c-415e-8e6a-7a0ff13cf202",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e6d9887a-bb3c-415e-8e6a-7a0ff13cf202",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "安全运营支持【实习生】",
+    "category": "运营",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>职位描述</p><p>1.了解内容安全标准及配套知识，配合完成内容安全风控体系，并对标准及配套体系进行维护和运营；</p><p>2.平衡内容安全与用户体验需求，维护产品内容安全，保障产品健康发展；</p><p>3.利用数据分析结果，优化产品或场景的治理策略及判定标准；</p><p>4.完成其他交办工作。</p><p><br></p><p>职位要求</p><p>1.传播学、新闻学、法学、公共关系学、政治学相关专业优先；</p><p>2.有强烈好奇心和风险意识，对AIGC有一定的认知和思考，曾经参与或AIGC产品使用发烧友；</p><p>3.具备一定数据分析能力，会简单SQL做数据处理。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5bc8847c-3b26-4c02-ae08-6b490e5a540b",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5bc8847c-3b26-4c02-ae08-6b490e5a540b",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "KimiCode 产品实习生",
+    "category": "产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>职责</strong></p><ul><li>跟踪 Claude Code、Codex、Cursor 等 Coding Agent 的功能与交互演进，通过竞品分析为需求方向与方案讨论提供输入</li><li>参与需求从方向对齐、方案讨论、快速迭代到验收的全过程，基于真实使用识别交互问题，提出改进方案并推进落地</li><li>建立体验问题的收集与管理机制：归因、分级、跟进修复闭环，让每个版本的问题可追踪、可回归，支撑发版质量判断</li><li>建立社区与社群用户反馈的收集与量化机制，结合用户数据监控版本与灰度的实际效果，推进迭代优化</li></ul><p><br></p><p><strong>要求</strong></p><ul><li>深度使用 Kimi Code、Claude Code、Codex、Cursor 等 AI Coding 产品完成过真实项目，有好奇心，能说出它们的优缺点</li><li>同理心强：能代入不同经验水平用户的视角，理解其场景与意图，判断什么是\"用户真正遇到的问题\"</li><li>逻辑思维强：能把模糊的体验感受拆解成结构清晰、可执行的问题定义，并给出判断依据</li><li>自主性强：能主动发现问题、提出解决方案并推进闭环；能利用 AI 快速搭建原型、验证想法</li><li>实习至少 4 个月，每周至少 4 天，Base 北京</li></ul><p><br></p><p><strong>加分项</strong></p><ul><li>有用户研究、可用性测试或数据分析相关经历</li><li>有 side project、开源项目经验或前后端开发经验</li><li>曾在很短时间内学习一项新东西并达到 Top 水平</li></ul><p><br></p><p><strong>你将收获</strong></p><ul><li>一套 AI native 的 PM 基本功：从体验问题管理与竞品分析切入，到参与方案讨论，再到独立负责需求的完整闭环</li><li>高效的 peer learning：与产品、设计、工程团队密切协作，mentor 一对一带教</li><li>有机会独立负责完整的产品模块，实现你的想法</li></ul><p><br></p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/46eee6a1-4d51-432c-8bc0-e00aa5793ce3",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "KimiCode 产品实习生",
+    "category": "产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>职责</strong></p><ul><li>跟踪 Claude Code、Codex、Cursor 等 Coding Agent 的功能与交互演进，通过竞品分析为需求方向与方案讨论提供输入</li><li>参与需求从方向对齐、方案讨论、快速迭代到验收的全过程，基于真实使用识别交互问题，提出改进方案并推进落地</li><li>建立体验问题的收集与管理机制：归因、分级、跟进修复闭环，让每个版本的问题可追踪、可回归，支撑发版质量判断</li><li>建立社区与社群用户反馈的收集与量化机制，结合用户数据监控版本与灰度的实际效果，推进迭代优化</li></ul><p><br></p><p><strong>要求</strong></p><ul><li>深度使用 Kimi Code、Claude Code、Codex、Cursor 等 AI Coding 产品完成过真实项目，有好奇心，能说出它们的优缺点</li><li>同理心强：能代入不同经验水平用户的视角，理解其场景与意图，判断什么是\"用户真正遇到的问题\"</li><li>逻辑思维强：能把模糊的体验感受拆解成结构清晰、可执行的问题定义，并给出判断依据</li><li>自主性强：能主动发现问题、提出解决方案并推进闭环；能利用 AI 快速搭建原型、验证想法</li><li>实习至少 4 个月，每周至少 4 天，Base 北京</li></ul><p><br></p><p><strong>加分项</strong></p><ul><li>有用户研究、可用性测试或数据分析相关经历</li><li>有 side project、开源项目经验或前后端开发经验</li><li>曾在很短时间内学习一项新东西并达到 Top 水平</li></ul><p><br></p><p><strong>你将收获</strong></p><ul><li>一套 AI native 的 PM 基本功：从体验问题管理与竞品分析切入，到参与方案讨论，再到独立负责需求的完整闭环</li><li>高效的 peer learning：与产品、设计、工程团队密切协作，mentor 一对一带教</li><li>有机会独立负责完整的产品模块，实现你的想法</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ac794113-4a1c-410f-9d31-f46c30d28a06",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ac794113-4a1c-410f-9d31-f46c30d28a06",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi 金融产品实习生（PM & Harness 方向）",
+    "category": "产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>如果你相信 Agent 的下一站，是真正走进专业金融投研的日常流水线</p><p>如果你已经用 Agent 跑过真实的研究工作，也感受过它离「分析师水平」还差的那一步</p><p>—— 我们邀请你带着产品 sense 与动手能力，<strong>一起打磨下一代面向专业金融投研的 Harness 与产品</strong>。</p><p><br></p><p><strong>岗位职责</strong></p><ol><li><strong>打磨金融场景 Harness</strong>：参与设计并落地面向分析师工作流的专业金融工具，把「专家怎么做研究」翻译成 Agent 可执行的能力模块</li><li><strong>定义金融产物的评测体系（Eval）</strong>：搭建研报、图表、数据分析等金融 deliverable 的质量标准与评测 pipeline——用评测驱动迭代</li><li><strong>用工程化方法让 Agent 产出可信</strong>：设计并落地数据溯源、引用链路与审计机制，让每一个数字都能回查到原始来源，把「数字与事实 0 幻觉」变成可验证的工程指标</li><li><strong>参与产品体验设计（UI / UX）</strong>：与产研一起打磨 Kimi Work 与 Finance 的整合体验</li></ol><p><br></p><p><strong>任职要求</strong></p><ol><li>专业背景不限；有金融二级实习经验，对于专业机构分析师日常的工作细节，金融投研有自己深度的理解</li><li><strong>深度 Agent 搭建者，AI native：</strong>亲手搭建过 Agent Harness / 工作流（金融场景优先）；具备工程化思维，清楚 Agent 的能力与执行边界，对 Agent 原理有充分理解——包括 context engineering、tool use / function calling、planning 与 memory 机制、eval 方法与常见失败模式；<strong>有自己搭建的金融 Agent 项目加分</strong></li><li><strong>产品 sense 与好的产品 taste：</strong>清晰的表达沟通能力，关心用户体验，能把模糊需求拆成可落地的方案</li><li><strong>热爱并投入：</strong>对 Agent × 金融投研这个方向有真实的热情，愿意长期投入、把手上的模块打磨到极致</li><li>实习时间至少 4 个月，每周至少 4 天，Base 北京</li></ol><p><br></p><p><strong>你将收获</strong></p><ol><li><strong>从 0 到 1 参与定义 Kimi Work for Finance</strong>：经历产品从打磨到放量的完整周期</li><li><strong>稀缺复合经验</strong>：同时积累「金融专业深度 × Agent Harness / Skills 工程 × 产品评测 Eval」的交叉能力</li><li><strong>高效的 self evolving</strong>：有机会独立负责完整模块，与产研、数据团队紧密协作</li></ol><p><br></p><p>投递邮箱：dongju@moonshot.ai</p><p>投递标题：金融产品实习生-姓名-学校-专业-最早到岗时间</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a736b23a-d152-4e8f-abf6-cb954db8be4c",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a736b23a-d152-4e8f-abf6-cb954db8be4c",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi视觉设计实习生（AI Native 方向 / 活动视觉 & 品牌周边）",
+    "category": "设计",
+    "city": [
+      "上海"
+    ],
+    "requirements": "<p>我们希望你具备：</p><p>出色的视觉创意能力与设计执行力，对「年轻化、互联网感、AI 感」有自己的理解；</p><p>能参与活动主视觉、运营传播图、品牌周边等设计工作，对视觉表达有兴趣；</p><p>熟练使用 Photoshop、Illustrator、Figma 等主流设计工具；</p><p>具备一定3D、动效或视频能力加分；</p><p>对 AI 设计工具有较强兴趣和实践经验，愿意探索 AI Native 的设计工作流；</p><p>了解 AI Coding / Creative Coding 加分，能够和产品/开发协同完成更有趣的创意表达；</p><p>良好的沟通协作能力，主动性强，学习能力强；</p><p>有优秀审美，对视觉趋势、品牌气质有了解；</p><p>能保证一周 5 天实习时间，稳定性佳。</p><p><br></p><p>你将参与：</p><p>AI 产品相关活动视觉设计、</p><p>品牌周边与实体物料设计、</p><p>AI Native 视觉风格探索、</p><p>社区内容与传播视觉包装，</p><p>与产品、运营共同完成创意项目落地。</p><p><br></p><p>工作地点：上海</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f9088589-0c05-4cc1-8c3e-46f140557939",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f9088589-0c05-4cc1-8c3e-46f140557939",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi Eval Intern（3D方向）",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>职责：</p><p><br></p><ul><li>设计并搭建专业软件场景下的 Benchmark，能定义确定性 ground truth，配合模型训练</li><li>优化用户体验，监控用户数据和反馈，推进产品的迭代优化</li></ul><p><br></p><p>要求：</p><p><br></p><ul><li>了解大模型基础原理，follow 原理性论文，vibe coding 经验丰富，经常使用各种 AI 产品（包括但不限于 Codex、Claude Code 等）</li><li>机械/自动化/车辆工程/航空航天工程/影视等，曾在以下类别的头部公司实习者优先：头部消费电子公司、车企、机械电新、影视制作企业，熟悉以下软件中至少1种：CATIA/Creo/Solidworks/Houdini等专业软件</li><li>实习时间3个月，每周5天，Base北京</li></ul><p><br></p><p>加分项：</p><p><br></p><ul><li>发表过大模型相关论文，或自主完成过代码项目，可以附上你的项目、代码、demo 或博客</li><li>有使用专业软件完成的完整的项目经历，对专业领域的长程任务、verifier 设计有见解，了解如何通过算法或工程方式提升 AI 的效果</li><li>曾在很短的时间内学习一项新东西并且达到 Top 水平</li></ul><p><br></p><p>你将收获： 高效的 peer learning，与算法、工程团队密切合作</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e6cb9f10-00f0-46c4-bbde-6611bb1b06e4",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e6cb9f10-00f0-46c4-bbde-6611bb1b06e4",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "设计实习生",
+    "category": "设计",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<ul><li>全链路参与 AI 项目，提供高效、简单、美观的设计解决方案；</li><li>和团队成员合作完成产品界面与品牌视觉设计，将品牌元素灵活应用于产品，关注细节，让体验更生动；</li><li>整理设计规范、关注行业动态和竞品分析，提炼有价值的观点和洞察，为团队提供创新思路。</li></ul><p><br></p><p><br></p><ul><li>本科及以上学历在校大学生，设计相关专业背景； </li><li>具备良好的视觉设计基础，熟练使用 FIgma 与 AI 工具；</li><li>具备良好的沟通能力和团队协作精神，能够与不同背景的团队成员有效合作；</li><li>每周实习不少于4天</li></ul><p><br></p><p><br></p><ul><li>请将简历和作品集发送至 <a href=\"mailto:xuhuaichen@moonshot.cn\">xuhuaichen@moonshot.cn</a></li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f68a944c-ddff-44a9-9ed1-018b0d006afe",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f68a944c-ddff-44a9-9ed1-018b0d006afe",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi Agent Eval 专家招募（金融/审计方向）",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>如果你在金融/审计领域中有扎实的学术训练或实战经验</p><p>如果你认为Agent在你的实习/科研/工作中的表现仍达不到你心目中的标准</p><p>如果你认为你是一个超有创造力，很聪明且很爱搞新东西的uu</p><p>我们诚邀你一起来给Agent出出难题，共建高水准、高价值的Agent评测基准</p><p><br></p><p>岗位职责</p><p>1. 定义Agent在金融/审计领域的real SOTA，从\"好\"到\"更好\"。把你的专业素养与直觉，转化为模型可以学习的判别尺度</p><p>2. 完整闭环地共建评测：设计真实的高复杂度题目，对模型产物做出严谨比较判断，构建rubrics</p><p><br></p><p>任职要求</p><p>1. 研究生及以上（含大四保研）</p><p>2. 有丰富的实习或实践经验，有 四大/金融买方/MBB 实习经验优先，有CPA考证经历优先（Bonus：在财报审计/M&amp;A财报合并/LBO模型等领域有深刻insight）</p><p>3. 高频使用AI agent产品，对Agent在自己专业领域的能力边界有所认知</p><p>4. 在 Kimi 北京office on-site</p><p><br></p><p>你将收获</p><p>1. 第一手的前沿模型体验：深度感知前沿模型在你专业领域上的真实能力边界</p><p>2. \"领域 × AI\" 的稀缺经验：与团队一起打磨一套领域评测体系</p><p><br></p><p>投递邮箱：<a href=\"mailto:wangwenji@moonshot.ai\">wangwenji@moonshot.ai</a></p><ul><li>投递标题：Kimi Agent Eval 专家-姓名-学校-专业</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e45fe698-18e5-468e-97bf-315305172df2",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e45fe698-18e5-468e-97bf-315305172df2",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "销售运营实习生",
+    "category": "运营",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>岗位职责</p><p>1、线索运营：负责CRM系统线索的清洗、分配与回收，推动销售跟进转化，参与自动化匹配规则搭建，管理供应商入库资料，缩短签约周期。</p><p>2、合同与授权管理：协助授权合同客户的审核流程管理，承接平台充值合同，参与授信规则的制定与SOP沉淀，确保客户授信返券及时、风险可控。</p><p>3、回款与对账：支持供应商对账结算，使用工具制作定制化对账单，配合财务完成开票、回款与系统维护，推动后付费客户统一管理。</p><p>4、流程建设与优化：协助撰写销售部门手册，制定销售流程规则，跨部门对接财务、审计、采购等，降低销售沟通成本，提升流程效率。</p><p>5、数据分析与可视化：支持销售目标完成度追踪、线索与充值客户指标分析，辅助设计可视化看板，为团队绩效提供数据支撑。</p><p><br></p><p>任职要求</p><p>1、教育背景：本科及以上学历，计算机、市场营销、工商管理、财务、信息管理等相关专业优先。</p><p>2、实习经验：有销售运营、销售支持、数据分析等相关实习经验者优先，熟悉CRM系统操作更佳。</p><p>3、AI工具及数据处理能力：擅用AI，具备良好的数据敏感度，熟练使用Excel，了解可视化工具（如Tableau）者优先。</p><p>4、沟通与协作能力：具备良好的跨部门沟通与协调能力，能高效对接财务、审计、外部平台等各方。</p><p>5、逻辑与执行能力：逻辑清晰，具备问题识别与流程优化意识，能独立推动任务闭环。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ea2fbf09-7e1e-4b0c-9222-be6ed1a88af6",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/ea2fbf09-7e1e-4b0c-9222-be6ed1a88af6",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "销售运营实习生（AI 流程自动化方向）",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>这个岗位做什么</strong></p><ul><li>接住企业客户的日常——承接企业版客户的咨询答疑和问题跟进，从售前需求对齐到售后问题闭环，做客户和公司之间那条稳定的线；高频问题沉淀成统一话术，迭代进答疑手册。</li><li>守住签约的每一步——合同、用印、授权、签单，全流程跟进。同时把合同 SOP、用印 SOP、签约标准流程整理出来，让团队的交付有章可循，而不是每次都靠问。</li><li>承接好Kimi企业版的交易全流程并做好把控工作，包括但不限于支付、开票、回款台账，跟进回款进度。耐心和准确、数字要对得上，进度要跟得住。</li><li>做团队里的\"自动化改造者\"——这是这个岗位的核心。用 AI 工具和轻量脚本，把台账更新、文案生成、表单处理这些重复工作自动化，把成熟的做法固化成 SOP 和模板。同时主动梳理现有流程里的卡点，输出优化方案。</li></ul><p><br></p><p><strong>希望你</strong></p><ul><li>有过运营、销售支持、商务或流程类实习经历。</li><li><strong>真的在用 AI 改造自己的工作。</strong>你遇到问题会自然想到\"这个能不能AI提效或自动化\"，并且能动手操作实施过。</li><li><strong>把用户的声音带回来。</strong>产品下一步怎么做，答案在真实使用产品的人那里。你会花时间和用户在一起，听懂他们怎么说、怎么看、怎么选，把零散的声音和观察带回来，变成团队做判断时的依据。</li><li>有 Vibe Coding、自动化工作流或简易脚本经验会很有帮助——不需要工程级的代码能力，能把一个重复流程做成自动跑。</li><li><strong>能同时对接多个角色。</strong>你可能是内部多能手，跟销售、财务、法务、客服都要打交道。沟通清楚、跟进到底，事情到手里能有下文。</li><li><strong>逻辑清楚，学东西快。</strong>业务流程不复杂但琐碎，需要快速吃透，并且愿意把理解沉淀下来，探索你的运营最佳实践。</li></ul><p><br></p><p><strong>你可以是</strong></p><ul><li>相关专业在读，你理解技术能做什么，好奇B端产品的商业实践，也好奇它怎么变成价值。</li><li>对产品有自己的兴趣和判断的人。你研究过产品、表达过观点、动手做过东西，对\"用户到底要什么\"有自己的看法。</li><li>做过运营或商务支持类实习，但不想只做重复劳动——知道这些流程长什么样，现在想亲手把它们改得更好。</li><li>自己折腾过自动化工具或 AI 应用的人——专业不重要，做过的东西就是最好的证明。</li><li>其他我们没想到的组合——只要能证明能把琐碎的流程理顺、把重复的工作变少，背景只是标签。</li></ul><p><br></p><p><strong>我们的期望</strong></p><ul><li>AI Native——不是了解 AI，是习惯性地用 AI 提效或解决问题。</li><li>对重复且琐碎工作敏感——你愿意做，且做的时候会想\"有没有更好的办法\"。</li><li>结果导向——希望看到\"这个流程因为这个人省了时间\"，并在一线赋能企业版客户探索AI实践。</li><li>愿意沉淀——做完的事留下 SOP 和模板，让接手的工作比接手时更有序和条理。</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/edeae654-2dcd-4584-90d0-b2702379501e",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/edeae654-2dcd-4584-90d0-b2702379501e",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "HR实习生（业务招聘）",
+    "category": "职能",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>加入我们，成为人才的发现者与守护者 </p><p><br></p><p>在我们团队，HR不是“辅助岗位”，而是关键角色——我们通过接触、判断和理解每一个人，让公司与人才相遇，让团队不断成长。</p><p><br></p><p>我们在寻找一位对人充满好奇、耐心且有责任心的实习生。如果你想在招聘中观察、思考、影响人，在创新招聘和社群人才运营中积累实战经验，这里会给你舞台，也会让你成长。</p><p><br></p><p>你将做的事情：</p><ul><li>日常招聘：运营招聘网站，负责筛选简历、安排面试、与候选人沟通，用细心和专业保证每一个环节顺畅；</li><li>创新招聘：参与X、小红书、LinkedIn、GitHub等社群和开源社区的候选人拓展，让我们与优秀的人才相遇；</li><li>数据与洞察：整理招聘数据，分析候选人反馈，帮助优化招聘策略，让每一次决策都有依据。</li></ul><p><br></p><p>你将收获的能力与成长：</p><ul><li>全流程招聘实战经验，从简历到面试，从沟通到决策；</li><li>对候选人的理解与判断力，学会如何发现潜力与匹配；</li><li>创意招聘能力，包括社群运营、人才Mapping与技术社区挖掘；</li><li>体会如何在招聘中保持温度、专业与洞察力；</li><li>在创业公司环境中快速成长，成为能独当一面的HR多面手。</li></ul><p><br></p><p>我们希望你：</p><ul><li>对人充满好奇和耐心，乐于观察和理解别人的行为与动机；</li><li>思维活跃、主动、敢于尝试，也能认真执行任务；</li><li>愿意学习技术招聘、社群运营和创新招聘方法；</li><li>希望通过招聘这份工作，真正影响候选人、团队与公司。</li></ul><p><br></p><p>加分项：</p><ul><li>技术背景加分：对AI工具、数据分析或技术社区有了解，能把工具能力与HR工作结合，提高招聘效率和决策能力；</li><li>校园大使 / 社群运营经验加分：有在高校或社群运营经验，能够策划活动、搭建候选人渠道、促进社区互动；</li><li>社交媒体熟悉加分：了解国内外主流社交平台（如X、小红书、LinkedIn、知乎等），能用创意方式找到、吸引并影响潜在候选人；</li><li>对招聘有思考与热情加分：能从候选人体验、招聘数据或团队需求出发，提出改进建议，让招聘更有温度和效率。</li></ul><p><br></p><p>在这里，你不仅是在做招聘工作，更是在影响人与组织的未来。如果你渴望成长、渴望理解人，也渴望让招聘充满温度与价值，这里欢迎你。</p><p><br></p><p>P.S  日常实习岗位，推荐2027届及以后的同学投递</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8d387967-c233-4e5d-b7b1-6c13a9a36fd2",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8d387967-c233-4e5d-b7b1-6c13a9a36fd2",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "安全运营实习生",
+    "category": "运营",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>职位描述</p><ol><li>协助安全产品/平台的运营工作，包括黑盒、白盒、渗透测试跟进及运营流程优化；</li><li>跟进安全漏洞全生命周期闭环，与研发/运维团队对接，协助推动漏洞修复直至关闭，并定期输出修复进度报表；</li><li>协助内外部安全漏洞与安全事件的应急响应，参与影响范围评估、利用复杂度分析、处置进展跟踪及复盘材料整理；</li><li>协助安全监控告警的日常运营，对告警进行初步分析、研判和分类，跟进处理进展；</li><li>参与安全制度、SOP 的建设与维护，推动流程规范化；</li><li>跟踪业界新披露漏洞和供应链安全风险，协助完成内部受影响资产的排查与通告；</li><li>协助安全数据统计与可视化，为安全治理提供数据支撑；</li><li>根据团队任务安排，协助完成安全培训、安全意识宣传等运营支持工作。</li></ol><p><br></p><p>职位要求</p><ol><li>本科及以上学历在读，信息安全、网络空间安全、计算机等相关专业优先；</li><li>了解常见 Web/系统安全漏洞（OWASP Top 10、SQL 注入、XSS、SSRF、反序列化等）的原理、防御及修复方案；</li><li>熟悉 Linux 基础操作，了解 TCP/IP、HTTP/HTTPS 等网络协议；</li><li>具备良好的文档撰写和跨团队沟通协作能力，有责任心，跟进事项有始有终；</li><li>有责任感，对信息安全有浓厚兴趣，具备互联网安全部门实习背景者优先。</li></ol><p><br></p><p>加分项</p><ol><li>熟悉 Python / Go 任一编程语言，能 Vibe Coding 编写脚本将重复性运营工作自动化；</li><li>有 CTF 赛事获奖经历、SRC 平台漏洞提交记录，或参加过护网行动；</li><li>熟悉 K8s、Docker 等云原生环境，和 SIEM 日志分析平台；</li><li>发表过安全技术文章或有公开技术分享经历。</li></ol>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c3f01bba-856e-4d74-a07b-45e2d39108eb",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c3f01bba-856e-4d74-a07b-45e2d39108eb",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI-native 活动与内容运营实习生",
+    "category": "运营",
+    "city": [
+      "上海"
+    ],
+    "requirements": "<p>这个岗位不是传统内容运营。我们要找的是能想出好玩的活动，写出有人味的内容，</p><p>并且善于、经常使用AI进行创作的人。</p><p># 你会做什么</p><p>1. 活动：从想法到真正上线</p><p>· Kimi AI-native 活动的策划与落地，选题 → 机制设计 → 素材 → 上线 → 复盘全流程</p><p>· 活动机制本身就是产品，把模型能力翻译成用户一眼就想试、试完就想发出去的玩法</p><p>· 拉齐产品、设计、研发的排期与资源，让创意真的跑起来，而不是停在文档里</p><p>2. 内容：有网感、有传播力、有活人感</p><p>· 运营 Kimi 相关账号（小红书为主），产出会被自发转发、截图、二创的内容</p><p>· 建立自己的选题库：从用户行为、社区讨论、评论区里挖真实的内容方向和活动玩法</p><p>· 参与 Kimi 官方周边的内容与运营，探索 AI 品牌怎么长在现实世界里</p><p>3. AI能力：把 AI 当生产力，不只当话题</p><p>· 用 AI 工具提高内容与活动的产能和创意</p><p>· 能用 AI Coding 工具做出可交互的小东西（H5、小工具、互动页），让活动有可体验的实物</p><p>· 分析活动数据与用户反馈，判断哪一步流失、哪个钩子有效，然后迭代下一版</p><p># 我们希望你</p><p>· 对内容有感觉：知道什么值得分享、什么值得传播，有自己的审美判断，不满足于套模板追热点</p><p>· 有小红书 / 社区 / 内容或营销相关经验，个人账号做出过成绩同样算</p><p>· 是 AI 产品的深度用户，对 AI-native 的内容形态和玩法有自己的观察，能说出为什么某个产品好玩</p><p>· 手上有“用 AI 做出来的东西”：一篇有趣的内容、一个自己搭的站、一个小工具、一套图，都算</p><p>· 执行力强，享受从 0 到 1 把事情做成的过程，能在信息不全的时候先跑起来</p><p># 加分项</p><p>· 有个人公众号、小红书、播客、个人网站或其他长期创作项目</p><p>· 能独立用 AI Coding 工具完成从想法到上线，有基础的产品与技术理解</p><p>· 做过有真实传播数据的活动或内容案例，能讲清楚为什么成、为什么没成</p><p># 你将获得</p><p>· 参与国内领先 AI 产品的增长、内容与活动实践，做的东西直接面向用户</p><p>· 与产品、设计、研发深度协作，完整看到一个 AI 产品从想法走到上线</p><p>· 第一时间接触最前沿的模型能力与产品形态，把它变成别人还没玩过的玩法</p><p>· 在一个鼓励创造、快速迭代的团队里，把自己的脑洞真正做出来</p><p>Base 上海</p><p>如果你对 AI 时代的新内容、新玩法感兴趣，欢迎来聊。</p><p>简历投递：XXXXX</p><p>（附作品集、个人网站、个人账号主页、以及任何你用 AI 做出来的东西，会大大加分）</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/08b3139e-40da-442b-b5a2-e5477055ead3",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/08b3139e-40da-442b-b5a2-e5477055ead3",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "体验运营实习生（知识库与智能客服方向）",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>团队介绍</strong></p><p>你将加入 Kimi 体验运营团队，直接参与 AI 助手与用户之间的「体验最后一公里」。我们负责让 Kimi 更懂用户：把散落的知识沉淀成体系化的知识库，用自动化的方式让它持续保鲜，并通过调优智能客服，让每一次对话都更准、更快、更有温度。</p><p><br></p><p><strong>岗位职责</strong></p><p>1. <strong>知识库沉淀</strong>：负责用户咨询、产品文档、FAQ、常见问题等信息的收集、结构化整理与撰写，建设并维护高质量、易检索的知识库体系。</p><p>2. <strong>知识库自动化更新</strong>：搭建并维护知识库的自动化更新流程（如定时抓取、多源同步、增量更新、数据清洗等），降低人工维护成本，保证知识时效性与准确性。</p><p>3. <strong>智能客服调试</strong>：参与智能客服/对话机器人的意图配置、话术优化、知识挂接与 Bad case 分析，持续提升自动应答的覆盖率与满意度。</p><p>4. <strong>数据分析与迭代</strong>：跟踪知识库命中率、客服解决率、用户满意度等核心指标，基于数据反馈定位问题并推动优化。</p><p>5. <strong>跨团队协作</strong>：与产品、运营、算法等团队协作，把一线用户反馈转化为可落地的体验改进。</p><p><br></p><p><strong>任职要求</strong></p><p>- <strong>在校学生</strong>，可稳定长期实习（每周 4 天及以上，可连续实习 6 个月以上者优先）。</p><p>- <strong>具备技术/工具能力</strong>：熟悉 Python 等脚本语言，能独立编写自动化脚本、调用 API、搭建自动化工作流；具备低代码/自动化平台（如 Coze、Dify、n8n、飞书多维表格等）使用经验者亦可。</p><p>- <strong>对 AI 产品有认知与热情</strong>：了解大模型 / LLM 基本原理，熟悉 AI 助手、智能客服等产品形态，对 Prompt 工程有实践经验者优先。</p><p>- <strong>信息结构化能力强</strong>：文字功底扎实，逻辑清晰，擅长把零散信息整理成体系化、易检索的内容。</p><p>- <strong>具备数据敏感度</strong>：能通过指标与 Bad case 分析定位问题、驱动迭代。</p><p>- 主动、细致、有责任心，具备良好的沟通协作能力，能在快速变化的环境中自我驱动。</p><p><br></p><p><strong>加分项</strong></p><p>- 有知识库 / 帮助中心 / 智能客服 / 对话机器人相关项目或实习经验。</p><p>- 有 AI 应用（Agent、RAG、自动化工作流）搭建经验。</p><p>- 深度使用过 Kimi 或其他主流 AI 产品，对 AI 体验有自己的洞察。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a544ada9-5ab6-409d-a698-168a96f6b19a",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a544ada9-5ab6-409d-a698-168a96f6b19a",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "hr实习生",
+    "category": "职能",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>岗位描述：</p><ol><li>为公司算法和数据团队搜寻合适的人才。</li><li>需要有互联网HR招聘经验。熟悉mapping、sourcing、面试跟进全流程。</li><li>27届及以后毕业，统招本科及以上学历。靠谱、责任感强。</li><li>prefer 尽快到岗，on-site北京4个月以上，一周出勤4-5天。</li></ol><p>岗位职责：</p><ol><li>协助或owner 校招/社招/实习生的需求对接、简历souring、面试安排、反馈跟进等招聘工作以及其他日常bp工作</li></ol><p>房补餐补、零食下午茶、健身房一应俱全，团队氛围 nice</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/02a21c93-472c-4873-896a-54ef0fcc500b",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/02a21c93-472c-4873-896a-54ef0fcc500b",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "审计实习生",
+    "category": "职能",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>内控审计实习生</p><p>岗位职责</p><p>1、参与公司流程制定及专项审计项目，协助流程完善、公司效率优化。</p><p>2、按照部门整体计划配合各业务循环内控梳理的推进，负责收集相关部门流程制度、进行测试，形成相关内控底稿。</p><p>3、参与与各部门沟通，协助形成内控问题的解决方案。</p><p><br></p><p>任职资格</p><p>1、学历要求：本科（大三、大四）/研究生（研一）在读，金融、会计、审计、财务管理等相关专业，211及以上院校。</p><p>2、实习期限要求：3-6个月，视个人能力情况可长期实习，有转正机会。</p><p>3、经验要求：有券商、会所、咨询机构实习经验优先。</p><p>4、技能/资质要求：</p><p>1）了解内部控制相关流程及制度，有较好的财务基础。</p><p>2） 熟练使用Word、Excel、PPT等工具。</p><p>3）专业排名前20%优先。</p><p>5、能力素质要求</p><p>1）学习能力强。</p><p>2）执行能力强。</p><p>3）逻辑清晰。</p><p>4）沟通能力强，能够协助跨部门沟通。</p><p>5）保密意识强。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/aa2cd5d8-df6e-4ba1-b6e1-b0cc90b8320c",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/aa2cd5d8-df6e-4ba1-b6e1-b0cc90b8320c",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "体验运营实习生（Agent 业务方向）",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>职位描述</strong></p><p><strong>1. Agent业务理解及知识沉淀</strong></p><ul><li>基于用户反馈，解决用户使用Kimi Agent产品过程中的疑问及异常</li><li>把用户反馈变成清晰的产品需求和模型问题，并推动优化对应场景</li><li>负责Agent产品功能说明文档、使用指南、场景化教程的撰写与维护，将复杂技术概念转化为清晰易懂的客服文档或用户手册</li></ul><p><strong>2. Agent智能客服能力建设</strong></p><ul><li>负责智能客服知识库与场景化问题端到端优化，提升对应场景的问题解决能力与整体智能服务体验</li><li>通过数据分析，定位智能客服核心服务场景，主动挖掘潜在需求，形成有效改善方案</li><li>运用Coding/Vibe Coding能力推动AI在客服场景的应用，能评估不同System Prompt带来的质量差异，善用Agent工具提效完成数据建设与模型评估</li></ul><p><br></p><p><strong>职位要求</strong></p><ul><li>本科及以上在读，优先一周到岗5天，可实习4个月以上，优先长期实习</li><li>能主动发现问题并推动解决，善用Agent工具提效</li><li>对“好的AI对话体验”有认识和见解，对AI技术及其应用有较深的认识</li><li>具备良好的逻辑思维、数据分析、快速学习能力、客户服务意识；执行推进能力强，结果导向，善于团队协作，对改善用户体验有热情和主人翁意识</li></ul><p><br></p><p><strong>加分项（非必须）</strong>：</p><ul><li>对AI行业和AI产品有浓厚兴趣，并有一定了解</li><li>有Agent 产品运营或智能客服相关经验</li><li>英文可作为工作语言，并有一定的Coding/Vibe Coding能力</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a32e2360-c23c-4705-8491-ce7594f8f411",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a32e2360-c23c-4705-8491-ce7594f8f411",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "体验运营实习生（Harness业务方向）",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>毕业时间</strong>：2027年6月之后</p><p><strong>出勤要求</strong>：优先一周到岗5天，可实习4个月以上，优先长期实习</p><p><strong>核心职责</strong></p><p><strong>1. Harness业务运营支持</strong></p><ul><li>深入调研AI业务场景，挖掘高价值AI应用需求，将用户反馈转化为可落地的业务洞察</li><li>协助面向AI原生产品的用户体验分析与流程优化，优化用户交互路径与工具易用性</li><li>参与产品效果评测体系的设计与执行，跟踪Agent与模型在实际场景中的表现数据</li></ul><p><strong>2. AI工具与智能客服能力建设</strong></p><ul><li>协助Harness相关客服策略设计、流程搭建与效果调优，将业务知识转化为AI语言</li><li>运用Coding/Vibe Coding能力进行知识训练、Prompt精调与效果优化，推动AI在客服场景的应用</li><li>善用各类Agent工具提效，对LLM应用、RAG、工作流编排有基本认知或实践经验</li></ul><p><strong>3. 跨团队协作与体验闭环</strong></p><ul><li>与产品、工程、算法团队紧密协作，推动Harness业务体验问题有效解决并跟踪改进效果</li><li>对接相关方推动数据接入与产品集成，协同优化对「人」和「Agent」均友好的工具与接口</li><li>参与客服反馈机制搭建，推动用户问题闭环管理</li></ul><p><br></p><p><strong>职位要求</strong></p><p><strong>能力与技能</strong>：</p><ul><li>具备良好的逻辑思维、数据分析、快速学习能力，对改善用户体验有强烈的热情和主人翁意识</li><li>具备一定的Coding/Vibe Coding能力，能运用AI工具辅助工作，熟悉Python/SQL者优先</li><li>逻辑清晰，能快速理解技术与业务的交叉需求，具备与工程师、数据商、客户多方协作的能力</li><li>能主动发现问题并推动解决</li></ul><p><strong>加分项（非必须）</strong>：</p><ul><li>对AI行业和AI产品有浓厚兴趣，并有一定了解</li><li><strong>擅长撰写 prompt、搭建 AI agent</strong></li><li>有过用户研究、客服、产品或运营相关的实习经验</li><li>能独立完成数据清洗、分析或轻量脚本开发</li></ul><p><br></p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/b4f8c82b-d4ce-455f-9e5c-e7cce2b60e0a",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/b4f8c82b-d4ce-455f-9e5c-e7cce2b60e0a",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "体验运营实习生（Kimi Code业务方向）",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>毕业时间</strong>：2027年6月之后</p><p><strong>出勤要求</strong>：优先一周到岗5天，可实习4个月以上，优先长期实习</p><p><strong>核心职责</strong></p><p><strong>1. Code业务理解及知识库沉淀</strong></p><ul><li>深入理解Kimi Code产品功能与技术逻辑，负责产品功能说明文档、API文档、开发者指南的撰写与维护，将复杂技术概念转化为清晰易懂的用户文档</li><li>协助撰写产品更新日志、功能介绍推文、使用教程，参与用户案例的收集与整理</li><li>基于用户反馈持续优化文档结构和内容表达，协助进行文档可用性测试，提升文档易读性和实用性</li><li>调研竞品技术文档体系和内容策略，整理行业最佳实践，为产品文档体系提供建议</li><li>参与客服知识库搭建，将Code业务知识转化为标准化客服话术与解决方案</li></ul><p><strong>2. AI Coding体验分析与智能客服能力建设</strong></p><ul><li>深入梳理AI Coding使用流程中各环节问题（包括但不限于Code Agent与模型表现、不同Code Agent及模型间差异），发现问题并提出优化建议</li><li>协助Code相关客服策略设计、流程搭建与效果调优，将技术知识转化为AI客服语言，进行知识训练与Prompt精调</li><li>运用Coding/Vibe Coding能力推动AI在客服场景的应用，熟悉至少一门编程语言，对开发者工具场景有基本认知</li></ul><p><strong>3. 跨团队协作与体验闭环</strong></p><ul><li>从用户视角参与Kimi Code相关产品体验设计与优化，协同Agent团队、API团队、商业化团队推进需求上线</li><li>联动算法团队和Infra团队协作推进体验改进，推动用户问题闭环管理</li><li>协同工程团队优化产品交互，跟踪改进效果并建立benchmark或评测体系验证方案有效性</li></ul><p><br></p><p><strong>职位要求</strong></p><p><strong>能力与技能</strong>：</p><ul><li><strong>搭建过自己的AI Agent 助手，可以将自身问题处理经验沉淀成 skill 迭代Agent，</strong>能主动发现问题并推动解决</li><li>具备良好的逻辑思维、数据分析、快速学习能力，对改善用户体验有强烈的热情和主人翁意识</li><li>优秀的中英文书面表达能力，能撰写清晰、准确的技术内容</li><li>Data-driven，能够从数据中获得insight，敏锐抓住用户痛点并给出可落地方案</li></ul><p><strong>加分项（非必须）</strong>：</p><ul><li>对AI行业和AI产品有浓厚兴趣，并有一定了解；Kimi Code重度用户或相关社区活跃用户优先</li><li>有技术博客、开源项目文档或技术社区内容创作经验</li><li>熟悉Markdown、Git、Docs-as-Code工作流</li><li>了解Cursor、CodeX、Claude Code等AI编程工具</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8d1a2a91-514f-485d-a5fd-317c696e20a0",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8d1a2a91-514f-485d-a5fd-317c696e20a0",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI Agent 产品实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>职责：</p><p>- 通过竞品分析、用户调研等方式，挖掘 Agent 的高价值应用场景</p><p>- 设计并搭建不同场景下的 Benchmark，配合模型训练</p><p>- 通过设计合理高效的 Agent Harness，推动 Agent 新能力的产品化落地</p><p>- 设计产品，优化用户体验，监控用户数据和反馈，推进产品的迭代优化</p><p>要求：</p><p>- vibe coding 经验丰富，能利用 AI 快速搭建原型、验证想法</p><p>- 了解 Agent 的基本技术原理，关注 Agent 前沿技术动态</p><p>- 经常使用各种 AI 产品（包括但不限于 Open Claw、Codex、Claude code等），有好奇心，能说出它们的优缺点</p><p>- 自主性强，能提出解决问题的方案；逻辑清晰，能讲清楚每件事的 CoT</p><p>- 实习时间至少4个月，每周至少4天，Base北京</p><p>加分项：</p><p>- 曾在很短的时间内学习一项新东西并且达到 Top 水平</p><p>- 了解如何通过工程方式提升 AI 的效果</p><p>- 开源项目经验 / 前后端开发经验</p><p>你将收获：</p><p>- 高效的 peer learning，与算法、工程团队密切合作</p><p>- 有机会独立负责完整的产品模块，实现你的创新想法</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8afd0f3a-b3e4-40a8-a900-0588ab774f92",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/8afd0f3a-b3e4-40a8-a900-0588ab774f92",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "大模型产品经理实习生（医疗方向）",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>职位描述：</p><ol><li>探索AI在医疗健康领域的机会，通过调研、数据分析等手段，定义用户使用场景</li><li>思考在新领域如何评估AI医疗能力并且建立相关评估与训练数据集</li><li>与算法团队配合，通过综合手段，提升模型效果</li><li>关注与追踪相关领域新产品的PMF进展，形成研究报告</li></ol><p><br></p><p><br></p><p>职位要求：</p><ol><li>临床医学、生物信息学、预防医学、医疗人工智能等专业优先，硕士及以上学历优先，有AI经验优先，有发表SCI、规培证或医师资格证优先。有用户视角，乐于尝试与思考不同的产品</li><li>希望你能够独立思考，对AI有热情，有耐心</li><li>具备体系化思考调研能力，能做桌面研究，有自己的见解</li><li>每周工作5天，实习时间至少3个月，Base北京</li></ol>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5d7fcf2f-1fc8-4fe2-bb4a-1a76a3c28f30",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/5d7fcf2f-1fc8-4fe2-bb4a-1a76a3c28f30",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI战略实习生",
+    "category": "商务",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>工作职责</p><p>1. 行业研究：独立完成行业扫描、竞品监测、产品体验报告等基础研究工作，协助完成业务专题分析</p><p>2. 用户洞察：深度参与用户调研，包括协助问卷设计、样本抽取、纪要整理等工作，输出有价值的业务洞察</p><p>3. 数据分析：完成数据整理与分析任务，及时准确交付，形成具备扎实数据基础的策略建议</p><p>4. 敏捷支持：协助完成其他工作任务</p><p><br></p><p>任职要求</p><p>1. 具有咨询/投资/商业分析/行业研究等相关经验，或用户产品向互联网公司经验者加分</p><p>2. 杰出的结构化思维，擅长逻辑归纳、定量定性分析，擅长从数据中挖掘洞察</p><p>3. 拥有快速学习能力，适应变化和挑战，保持开放心态，持续学习新技能、迭代认知</p><p>4. 出色的沟通协作能力，具有团队协作精神、补位精神，主动有效沟通，确保项目顺利推进</p><p>5. 专业不限，一周五天全勤者优先，实习时长不低于6个月</p><p><br></p><p>【你的收获】</p><p>1. 前沿认知： 深入了解AI行业，积累宝贵的业务经验</p><p>2. 职业成长： 与行业顶尖人才共事，获得宝贵的指导与成长</p><p>3. 团队福利： 丰厚的实习补贴，参与丰富团队活动</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/728d3859-c92d-4c24-ae79-0839829fbdbb",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/728d3859-c92d-4c24-ae79-0839829fbdbb",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "网页美学评论实习生（Web Aesthetic Critic）",
+    "category": "其他",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>一、你将做什么</p><p>- 成为下一代 AI 网页生成模型的训练者。</p><p>- 准确说出网页好在哪、差在哪、为什么：并把这些判断转化为可复用的评价标准。</p><p>- 我们不要\"我觉得这个好看\"，要的是：能从代码逻辑、设计规范、交互原则三个层面拆解一个页面，告诉模型怎么改才对。</p><p><br></p><p>二、主要职责</p><p>- 对 AI 生成的网页做结构化审美评价（好在哪 / 差在哪 / 怎么改）；</p><p>- 参与建设网页美学评价框架，把\"美\"拆成可量化、可标注的维度：版式、字体、配色、留白、信息层级、动效、品牌调性、时代感、交互逻辑等</p><p>- 阅读 AI 生成的 HTML / CSS 代码，定位审美问题的代码根因（比如，行间距问题是 line-height 还是 letter-spacing）</p><p>- 参与 case 设计、judge prompt 迭代</p><p><br></p><p>三、任职要求</p><p>- CS / HCI / 交互设计 相关专业背景</p><p>- 能读懂 HTML / CSS / 基础 JS，能上手在浏览器里改样式并说清楚为什么</p><p>- 有网页设计或前端实现经验，有作品集（个人站、独立项目、课程作业、Awwwards / Behance 投稿、Hackathon 项目都可以）</p><p>- 能用语言精确描述网站审美问题：不是\"好看\"或\"高级感\"，而是\"grid 系统失衡、行间距偏紧、视觉重量集中在右上\"</p><p>- 知道 AI 做网页时的常见审美陷阱（默认 Bootstrap 感、emoji 滥用、动效堆砌、Stock 配图等）</p><p><br></p><p>四、加分：</p><p>- 用过 Cursor / Claude Code / Lovable / Bolt / v0 这类工具搭过审美在线的网页，并能讲清楚你做对了什么</p><p>- 有独立博客 / 长推 / 设计评论 / 课程项目文章</p><p>- 关注 AI design 圈，对当下\"什么样的网页算好\"有自己的判断</p><p><br></p><p>五、你能拿到什么 / 这份工作能带你去哪</p><p>- 简历定位：下一代 AI 模型的训练者</p><p>- 参与定义\"AI 网页应该长什么样\"——这是行业还没有的标准</p><p>- 跨学科团队协作：算法研究员 + 设计师 + 工程师</p><p>- 结业后可去的方向：AI Designer / AI Product Designer / Prompt Engineer / Eval Engineer，也有机会在moonshot转正；带走的能力栈是\"能用 AI 做美的产物 + 能给模型讲清楚审美\"，前沿，跨界创新</p><p><br></p><p>六、投递方式</p><p>具体要求见：https://o4fkkfp42cx32.ok.kimi.link</p><p>- 发至：zhanhaobing@moonshot.cn</p><p>- 标题：网页美学评论_姓名</p><p>附件请包含：</p><p>1. 个人简历（PDF）</p><p>2. 作品集：优先看你做的网站（个人站、课程项目、Vibe Coding 产物——可以打开玩的最好）；UI/UX 类作品请附设计稿，我们会重点看设计逻辑是否符合设计规范</p><p>3. 一段 200-500 字网页评论：任选一个你最近看到的网站（好或坏都行），讲清楚它的审美选择、代码层面可能的实现、以及如果是你会怎么改</p><p>4. 作业题结果</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f56009ba-1cb5-42ac-a04f-b6c97904eb3a",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f56009ba-1cb5-42ac-a04f-b6c97904eb3a",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI 产品实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>Base 北京 · 尽快入职 · 实习 3 个月以上 · 每周 4 天以上</strong></p><p><br></p><p><strong>你将做什么</strong></p><p><br></p><ul><li><strong>需求洞察</strong>：深入调研金融机构的投研与业务场景，挖掘高价值 AI 应用需求</li></ul><p><br></p><ul><li><strong>产品落地</strong>：深度参与面向金融场景的 AI 原生产品设计</li></ul><p><br></p><ul><li><strong>生态对接</strong>：与商业数据服务商及金融机构客户对接，推动数据接入与产品集成</li></ul><p><br></p><ul><li><strong>体验打磨</strong>：协同工程团队优化产品交互，打造对「人」和「Agent」均友好的工具与接口</li></ul><p><br></p><ul><li><strong>效果评测</strong>：设计并执行金融场景下的 Agent 与模型评测体系</li></ul><p><br></p><p><br></p><p><strong>我们寻找这样的你</strong></p><p><br></p><ul><li><strong>金融背景</strong>：在券商投行、投研、主观/量化基金有过实习或全职经验，熟悉金融业务流程</li></ul><p><br></p><ul><li><strong>分析功底</strong>：具备财务建模、估值分析、行业研究等实操能力，持有 CFA/CPA/FRM 等证书优先</li></ul><p><br></p><ul><li><strong>技术敏感</strong>：具备一定的 Coding / Vibe Coding 能力，熟练使用 AI 工具辅助工作</li></ul><p><br></p><ul><li><strong>Agent 思维</strong>：善用各类 Agent 工具提效，对 LLM 应用、RAG、工作流编排有基本认知或实践经验</li></ul><p><br></p><ul><li><strong>沟通协作</strong>：逻辑清晰，能快速理解技术与业务的交叉需求，具备与工程师、数据商、客户多方协作的能力</li></ul><p><br></p><p><br></p><p><strong>加分项</strong></p><p><br></p><ul><li>有 Prompt Engineering、AI Agent 搭建或模型评测相关经验</li></ul><p><br></p><ul><li>熟悉 Python/SQL，能独立完成数据清洗、分析或轻量脚本开发</li></ul><p><br></p><ul><li>对金融数据生态（行情、财报、另类数据）有深入了解</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/646a6e5d-e998-4680-92b0-65b4087c1f7c",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/646a6e5d-e998-4680-92b0-65b4087c1f7c",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "视觉设计实习生（AI Native 方向 / 活动视觉 & 品牌周边）",
+    "category": "设计",
+    "city": [
+      "上海",
+      "北京"
+    ],
+    "requirements": "<p>我们希望你具备：</p><ul><li>出色的视觉创意能力与设计执行力，对「年轻化、互联网感、AI 感」有自己的理解</li><li>能参与活动主视觉、运营传播图、品牌周边等设计工作，对品牌表达有兴趣</li><li>熟练使用 Photoshop、Illustrator、Figma 等主流设计工具</li><li>对 AI 设计工具有较强兴趣和实践经验（如 Midjourney、ComfyUI、Runway、Cursor、ChatGPT 等），愿意探索 AI Native 的设计工作流</li><li>具备一定插画、3D、动效或视频能力加分</li><li>良好的沟通协作能力，主动性强，学习能力强</li><li>有优秀审美，对视觉趋势、品牌气质有了解</li><li>能保证一周 5 天实习时间，稳定性佳</li></ul><p><br></p><p>你将参与：</p><ul><li>AI 产品相关活动视觉设计</li><li>品牌周边与实体物料设计</li><li>AI Native 视觉风格探索</li><li>社区内容与传播视觉包装</li><li>与产品、运营共同完成创意项目落地</li></ul><p><br></p><p>工作地点：北京 / 上海</p><p>加分项（非常欢迎）：</p><ul><li>自己玩过 AI 生图、AI 视频、AI Coding</li><li>了解 AI Coding / Creative Coding（如 Cursor、v0、Claude Code、Processing、Three.js 等）加分，能够和产品/开发协同完成更有趣的创意表达</li><li>喜欢折腾新工具，对未来设计工作流有好奇心</li><li>对科技、互联网、潮流品牌有关注和热情</li></ul><p><br></p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e1bf1d68-21e2-4f44-941f-d3c8bc7274ec",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e1bf1d68-21e2-4f44-941f-d3c8bc7274ec",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Growth Lab Intern",
+    "category": "市场",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p><strong><em>注意：这是一个需要技术bg的工程师岗位，不是产运岗～</em></strong></p><p><br></p><p><strong>【我们的岗位介绍】</strong></p><p>成为一束光，照亮月之暗面。</p><p>软件工程正在从手工作坊走向工业制造。过去，每一个增长实验仍然是从零开始的手艺活——选题靠直觉、验证靠人肉、经验靠口传。</p><p>我们要把它变成一座真正的工厂：高频次立项、自动化开发与验证、每一次实验的经验都能沉淀为下一次的起点。</p><p>这座工厂的核心基建，是 Harness。我们正在寻找愿意参与构建这座增长实验工厂的 talented interns。</p><p><br></p><p><strong>【你会亲手打造】</strong></p><p>1. Growth Product：主导研发小而快的增长产品实验，在 Agent 领域发掘能带来 10 倍增长的非共识机会</p><p>2. Agentic Growth Infra：scaffolding 设计、evaluation harness、工具链，以及可复用的工程模式与 Infra</p><p><br></p><p><strong>【我们在找谁】</strong></p><p>1. 高度自驱 &gt; 听从安排：你不需要别人告诉你下一步做什么。你能自己发现问题、定义问题、解决问题</p><p>2. 独特审美 &gt; 跟随共识：不只满足于代码能跑，而是追求架构的简洁、文档的清晰。有 strong opinions，也愿意在更好的证据面前 weakly hold</p><p>3. 追求本质 &gt; 记住答案：不靠死记硬背，而是真正理解事物运行的原理。面对任何陌生领域，你的第一反应是「它底层是怎么工作的」，然后一路向下钻，直到触及本质</p><p>4. AI-scalable &gt; 埋头苦干：精通使用 Claude Code、Codex 来构建真实项目、放大自己的人力杠杆，对 Agent 的能力边界和 best practices 有自己的一手判断</p><p><br></p><p><strong>【关于这个团队】</strong></p><p>我们是增长实验团队。</p><p>节奏快、沟通直接、氛围轻松。</p><p>我们用业务结果和持续进化的能力来衡量一个人，</p><p>我们为表现优异的实习生提供转正机会。</p><p>让我们一起用未来的模型和无限的 Token 驱动无限的增长可能！</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/b6ee016c-9359-462d-a63f-2387c2f1074a",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/b6ee016c-9359-462d-a63f-2387c2f1074a",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI Native产品实习生",
+    "category": "AI产品",
+    "city": [
+      "上海"
+    ],
+    "requirements": "<p><strong>我们希望你不是“使用 AI 工具的人”，而是真正用 AI 重新思考产品的人。</strong></p><p>你会参与：</p><ul><li>AI Native 产品设计与迭代</li><li>Agent / Memory / Multi-Agent / AI 社区 等方向探索</li><li>从 0→1 的功能验证、Prompt设计、用户体验优化</li><li>与模型、工程、设计一起快速把想法落地</li></ul><p>我们希望你对 AI 有天然好奇心，</p><p> 会主动研究新产品、新模型，</p><p> 并且愿意思考：</p><p>“如果 AI 不是功能，而是操作系统，该怎么设计产品？”</p><p><strong>你会做什么</strong></p><ul><li>参与 AI 产品功能设计、需求分析与策略讨论</li><li>研究国内外 AI 产品（ChatGPT、Claude、Cursor、Perplexity 等）</li><li>基于用户反馈，快速迭代 AI 体验</li><li>设计 Prompt、Agent Workflow、Memory 机制等 AI Native 能力</li><li>与工程协作推进功能落地，并持续优化体验</li><li>探索 AI 社区、协作、个性化等新交互形态</li></ul><p><strong>我们希望你具备</strong></p><p><strong>基础能力</strong></p><ul><li>有较强产品 sense，对用户体验敏感</li><li>逻辑清晰，具备结构化思考能力</li><li>有强执行力，能快速推进和验证想法</li><li>对 AI 行业有持续关注和热情</li></ul><p><strong>AI Native 能力</strong></p><ul><li>深度使用过 ChatGPT / Claude / Cursor / Gemini 等 AI 产品</li><li>理解 Prompt、Context、Memory、Agent 等基础概念</li><li>对 AI 产品交互有自己的观察与思考</li><li>会主动尝试各种 AI Workflow，而不仅是“问答”</li></ul><p><strong>技术背景（加分很大）</strong></p><ul><li>有一定代码能力（Python / JS / Node.js 等）</li><li>能自己调 API、做简单 Demo 或 AI Workflow</li><li>理解 LLM、RAG、Tool Use、Multi-Agent 等基础概念</li><li>有 AI 项目、黑客松、个人作品优先</li></ul><p><strong>我们喜欢这样的同学</strong></p><ul><li>会因为一个新 AI 产品熬夜研究</li><li>会自己搭工作流、Agent、自动化工具</li><li>不满足于“功能能用”，会思考“体验为什么成立”</li><li>对未来的人机交互有想象力</li><li>不是传统 PM，而是 AI Native Builder</li></ul><p><strong>加分项</strong></p><ul><li>有 AI 产品/社区/内容相关项目经历</li><li>有个人作品、GitHub、Prompt 工程案例</li><li>熟悉 Cursor、Claude Code、Copilot 等 AI Coding 工具</li><li>有独立做 Demo / Side Project 的经历</li></ul><p><strong>实习信息</strong></p><ul><li>Base：上海</li><li>实习时长：3个月以上优先</li><li>希望每周到岗 4 天及以上</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/56c68aef-8f49-4ca9-84d7-f0a581f51fd4",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/56c68aef-8f49-4ca9-84d7-f0a581f51fd4",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi品牌&市场实习生",
+    "category": "市场",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>关于这个岗位</p><p>你将直接参与全球领先的大模型产品的品牌建设，这不是一份坐在工位上打杂的实习——你需要亲手创造让千万用户记住和爱上Kimi的内容、活动和表达。</p><p>你将要承担的真实工作：</p><ul><li>参与策划并执行品牌级Campaign（从脑暴到落地，不是旁观）</li><li>创造具有传播力的品牌内容（公众号、视频脚本、社交媒体、线下广告文案）</li><li>对接创意agency、KOL、媒体，管理项目从0到1的交付</li><li>监测市场动态和竞品动作，输出有洞察的brief</li><li>协助组织品牌活动、用户运营和跨界合作</li></ul><p><br></p><p>任职要求</p><p><strong>硬性门槛（必须全部满足）：</strong></p><ul><li>国内外顶尖高校在读，本科高年级或研究生优先</li><li>有海外留学或生活经历（1年以上），具备跨文化视野和英文工作能力</li><li>AI Native，对技术有真实体感</li></ul><p>软性特质（我们更看重这些）：</p><ul><li>创业激情，愿意all-in一段不确定但高成长的旅程</li><li>表达欲过剩，甚至有公开的作品集（公众号、小红书、B站、播客、摄影作品皆可）</li><li>交付强迫症，执行力强</li><li>审美在线，有明确的taste和判断力</li><li>脑洞大，能量高，对品牌和用户敏感度高</li></ul><p>加分项：科技或时尚品牌实习经验、内容创作案例、基础设计能力</p><p><br></p><p>我们能给你的</p><ul><li>真枪实弹的战场：Kimi正处于关键增长期，你做的每一件事都可能被千万用户看到</li><li>扁平高速的团队：直接向资深顾问汇报，没有官僚层级，好想法24小时内落地</li><li>AI行业最前沿的认知：深度参与大模型产品的市场策略，积累稀缺的AI+品牌复合经验</li><li>转正机会：表现优异者，有全职留用通道</li></ul><p><br></p><p>请准备以下内容：</p><ol><li>简历</li><li>个人作品集：任何能证明你创意和表达能力的材料</li><li>一封简短的信：告诉我们你为什么选择Kimi，以及你做过最\"摇滚\"的一件事是什么</li></ol><p><br></p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/aecbf4b8-f5f7-4dbc-93fd-fea5e0965686",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/aecbf4b8-f5f7-4dbc-93fd-fea5e0965686",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "全球校园AI技术拓展实习生",
+    "category": "商务",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>【工作内容】</p><ol><li>校园市场拓展：负责国内及国际顶尖高校的客户对接与关系维护，推广公司AI产品/模型在校园内的应用，包括但不限于教学辅助、科研支持等场景。</li><li>技术布道与支持：作为技术桥梁，与高校教授及学生团队沟通，提供必要的技术支持。参与技术研讨会，能够清晰阐述公司模型架构的优势。</li><li>内部AI小项目编程：希望你懂Vibe Coding，可以将我们的市场和商务流程AI化。</li><li>高校共创项目：协助推动高校与公司的联合研究项目，并挖掘深度合作机会。</li></ol><p><br></p><p>【任职要求】</p><ol><li>教育背景：全球顶尖高校计算机科学、人工智能、软件工程或相关专业本科/硕士/博士在读，有顶级会议/期刊发表经历者优先。</li><li>技术能力：看得懂代码，能理解主流AI模型架构。熟悉Python及至少一种主流深度学习框架。GitHub开源项目贡献者优先。</li><li>语言能力：英语能作为工作语言。</li><li>综合素养：具备优秀的沟通能力和逻辑思维，既能走进实验室谈技术，也能走进办公室谈合作。</li><li>加分项：有校园大使经验、学生会/科协干部经历，或有高校资源者优先。</li></ol><p><br></p><p>【我们提供】</p><ul><li>极具竞争力的实习薪酬；</li><li>接触全球顶尖学术资源与AI大牛的机会；</li><li>深度参与核心项目，不做“打杂”实习生；</li><li>实习表现优异者，提供Return Offer，共同定义下一代AI。</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f3911361-2265-41e6-9ca6-7baf6d8a2a86",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/f3911361-2265-41e6-9ca6-7baf6d8a2a86",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI商务拓展实习生",
+    "category": "商务",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>【工作内容】</p><p>1. 生态拓展：深入硅谷AI社区，负责与当地创业公司、大型科技公司和各行业公司建立商务联系。</p><p>2. 商务合作：挖掘潜在客户需求，推广公司技术解决方案，推动商务合作意向的达成。协助进行商务谈判、合作方案策划与落地执行。</p><p>3. 行业洞察：定期收集和分析硅谷AI市场动态，为公司的海外战略提供一手资讯。</p><p>4. 活动参与：代表公司参加硅谷地区活动，提升公司品牌在海外社区的知名度。</p><p><br></p><p>【任职要求】</p><p>1. 背景要求：全球顶尖高校在读，理工科或商科背景优先，对AI技术有浓厚兴趣。</p><p>2. 行业认知：深度了解AI行业格局，熟悉主流AI公司及产品。知道当下最火的AI初创在做什么，知道企业的核心痛点在哪里。</p><p>3. BD能力：具备出色的沟通技巧和商务谈判意识。过往有销售、商务拓展、投资分析或创业经历者优先。</p><p>4. 自驱力：极强的目标感和自我驱动力，能够在远程管理下高效工作，善于利用领英、Cold Email等方式开拓人脉。</p><p>5. 语言文化：英文为母语或Native水平，理解硅谷科技文化，能无缝融入当地社群。</p><p><br></p><p>【我们提供】</p><p>- 有竞争力的时薪/项目奖金；</p><p>- 直接与硅谷核心科技圈层对话的入场券；</p><p>- 实习表现优异者，提供Return Offer，参与AI商业化落地浪潮。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c285bd12-cf03-44f6-9e7a-1d4a24d79f77",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c285bd12-cf03-44f6-9e7a-1d4a24d79f77",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": " 用户体验运营实习生",
+    "category": "运营",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>体验运营实习生</strong></p><p>27年6月之后毕业，优先一周到岗5天，可实习4个月以上，优先长期实习</p><p><br></p><p><strong>核心职责：</strong></p><ol><li><strong>海外客服体系构建支持</strong></li></ol><ul><li>优化客服沟通流程、常见问题话术库，优化客服响应效率与标准化程度</li><li>参与客服反馈机制搭建，推动用户问题闭环管理</li></ul><ol><li><strong>智能客服能力建设：</strong></li></ol><ul><li>协助AI智能客服的策略设计、流程搭建与效果调优，深入分析用户咨询场景，将业务知识转化为AI语言，进行知识训练、Prompt精调与效果优化，推动AI在客服场景的应用与能力建设</li></ul><ol><li><strong>产品体验项目协同</strong></li></ol><ul><li>根据用户体验分析，分析产品优化方向，提出可落地的解决方案</li><li>与产品、研发、算法团队紧密协作，推动体验问题有效解决，并跟踪改进效果</li></ul><p><br></p><p><strong>职位要求：</strong></p><ul><li><strong>教育背景：</strong>本科或研究生在读，统计学、心理学、社会学、计算机科学、人机交互或相关专业背景优先</li><li><strong>能力与技能：</strong>具备良好的逻辑思维、数据分析、快速学习能力，对改善用户体验有强烈的热情和主人翁意识，能主动发现问题并推动解决；英语语言能力较好，六级为必须要求，雅思/托福为加分项</li><li><strong>加分项（非必须）：</strong></li><li>对AI行业和AI产品有浓厚兴趣，并有一定了解</li><li>有过用户研究、客服、产品或运营相关的实习经验</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c5bdb01b-a715-404f-9d54-de008e7e7f87",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/c5bdb01b-a715-404f-9d54-de008e7e7f87",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI Agent Eval实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>Agent Eval实习生（Agent Swarm方向）</strong></p><p><strong>【你将探索什么】</strong></p><ul><li><strong>评估新范式</strong>：参与设计面向复杂 Multi-Agent 协作场景的 Benchmark，尝试建立从\"人类意图\"到\"系统表现\"的量化路径，成为产品迭代的指南针。</li><li><strong>Swarm 场景挖掘</strong>：通过竞品体验和用户观察，探索多 Agent 协作中真正有价值的使用场景，发现那些\"看起来酷\"和\"真的好用\"之间的微妙差异。</li><li><strong>自动化实践</strong>：搭建 Agent Eval 工具，把重复的评估工作交给代码，让精力集中在更有价值的判断上。</li></ul><p><strong>【我们希望你】</strong></p><ul><li><strong>对Agent有热情与好奇</strong>。喜欢追问\"为什么\"和\"如果...会怎样\"，对 AI 产品不只是使用，更想理解背后的逻辑。</li><li><strong>关注细节，不接受平庸</strong>。愿意从\"好\"到追求\"更好\"。</li><li><strong>主动性强</strong>。能在一个小模块里独立推进，也敢于在不确定中做出初步判断。</li></ul><p><strong>【基本要求】</strong></p><ul><li><strong>学历</strong>：本科及以上在读，专业不限（计算机、心理学、社会学、设计背景都欢迎）</li><li><strong>时间</strong>：实习时间至少 4 个月，每周至少 4 天，Base 北京</li><li><strong>逻辑表达</strong>：能够讲清楚自己的分析思路（CoT），让团队成员能快速理解你的结论</li><li><strong>动手能力</strong>：愿意写代码，或者愿意学习用 Vibe Coding 快速搭建自动化工作流——不需要是编程高手，但要有\"让Agent为我工作\"的意识</li></ul><p><strong>【加分项】</strong></p><ul><li><strong>快速学习经历</strong>：曾在较短时间内掌握某项技能（如一周内学会Claude Code等），并有过具体产出</li><li><strong>产品观察力</strong>：经常使用各类 AI 产品（包括不限于OpenClaw，Codex，Claude Code等各类 Agent 产品），有好奇心，能说出它们的优缺点，有自己的判断</li><li><strong>评估经验</strong>：搭建参与过LLM或者Agent的评估任务，对于Eval有实践经验</li></ul><p><strong>【你将收获】</strong></p><ul><li><strong>核心业务参与</strong>：深度参与 <strong>Agent Swarm </strong>和 <strong>Kimi Claw</strong> 的模型与产品迭代</li><li><strong>独立模块 ownership</strong>：表现优秀者有机会独立负责一个小型评估模块，从设计到落地完整体验</li><li><strong>转正机会</strong>：实习表现优异者可转正</li></ul>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/9e43aafe-32e5-4864-a02e-3b5b26e18533",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/9e43aafe-32e5-4864-a02e-3b5b26e18533",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi品牌设计实习生-上海",
+    "category": "市场",
+    "city": [
+      "上海"
+    ],
+    "requirements": "<p><strong>职位：Kimi品牌设计实习生</strong></p><p><strong>工作地点：</strong> 上海</p><p><strong>实习期限：</strong> 实习期≥3个月</p><p><br></p><p><strong>职位概述：</strong></p><p> 作为月之暗面的品牌设计实习生，你将与设计团队密切合作，参与品牌形象的延展与提升。你的主要任务是支持品牌设计工作，创建各类设计资产，确保品牌一致性，并协助传达月之暗面的AI愿景。</p><p><strong>主要职责：</strong></p><p><br></p><ul><li>协助设计品牌资产，包括推广物料、包装、网页元素等。</li></ul><p><br></p><ul><li>与资深设计师合作，共同进行品牌延展和活动设计，提升整体品牌形象。</li></ul><p><br></p><ul><li>确保品牌一致性在各平台和接触点上的延续。</li></ul><p><br></p><ul><li>帮助创作创新设计解决方案，传达月之暗面的AI愿景。</li></ul><p><br></p><ul><li>参与头脑风暴会议，提出新颖的设计方向和创意。</li></ul><p><br></p><ul><li>负责特定设计任务，按时交付高质量成果。</li></ul><p><br></p><p><strong>我们在寻找：</strong></p><p><br></p><ul><li>本科及以上学历，设计相关专业背景；</li></ul><p><br></p><ul><li>良好的视觉设计基础，熟练使用Adobe Suite, Figma 与 AIGC 工具；（C4D/blender等3D软件为加分项）</li></ul><p><br></p><ul><li>良好的沟通能力和团队协作精神，能够与不同背景的团队成员有效合作；</li></ul><p><br></p><ul><li>具备创新思维和快速学习的能力。</li></ul><p><br></p><p><strong>你将获得的经验：</strong></p><p><br></p><ul><li>在AI驱动的设计环境中获得实践经验；</li></ul><p><br></p><ul><li>向行业资深设计师学习，提升专业技能；</li></ul><p><br></p><ul><li>参与塑造月之暗面品牌形象，影响用户对月之暗面的认知。</li></ul><p><br></p><p><strong>如何申请：</strong></p><p> 请提交你的作品集、简历至<a href=\"mailto:shijincheng@moonshot.cn\">shijincheng@moonshot.cn</a></p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/b54071d5-6426-4cc2-8bb9-2b12b8e93788",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/b54071d5-6426-4cc2-8bb9-2b12b8e93788",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Agent 产品实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>Agent 产品实习生</p><p>Base 北京 · 可年后入职 · 实习 4 个月以上 · 每周 4 天以上</p><p>你需要做什么</p><p>- 探索 Office 全场景模型能力边界，协助搭建 Benchmark 与评估体系</p><p>- 协同算法团队完成数据构建与评估</p><p>- 配合工程团队，打造对人或 Agent 更友好的工具</p><p>我们希望你</p><p>- 使用过 Cursor、Claude Code、Codex、Manus 等 Agent 产品</p><p>- 理解 Agent 核心机制，能清晰阐述 Agent 与 Workflow 的本质差异</p><p>- 具备数据品味，能从评估结果中洞察模型能力缺口</p><p>- 善用 Agent 工具提效，更聪明高效地完成数据建设与模型评估</p><p>加分点</p><p>- 有尝试过多种造数据的方法，能评估不同System Prompt带来的质量差异</p><p>- 有一定的Coding/Vibe Coding能力，能运用各种tools</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e952e0c8-d6c8-4090-8d6c-7c143620d1e4",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/e952e0c8-d6c8-4090-8d6c-7c143620d1e4",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "数据运营实习生",
+    "category": "运营",
+    "city": [
+      "城市见官网"
+    ],
+    "requirements": "<p>职位描述</p><p>1.参与项目文档的编写和维护，包括需求文档、项目计划和报告；</p><p>2.协助项目总结复盘材料的收集和梳理，推动总结复盘的顺利落地；</p><p>3.针对负责的内容，做好相应的沉淀总结；</p><p>4.与其他相关方保持合作，确保项目按计划执行。参与项目后评估，总结项目经验。</p><p><br></p><p>职位要求</p><p>1.本科及以上学位在读，管理、教育、心理学等相关专业优先；</p><p>2.对项目管理有基本的了解和兴趣；</p><p>3.有较强的沟通能力，良好的与人交流协作的能力;</p><p>4.有较高的责任心、较强的抗压能力，以及目标导向的落地执行能力、问题解决能力;</p><p>5.能保证一周4天及以上实习，持续六个月以上。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/317f920b-9efe-4d09-ba7d-7fe44b1c447c",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/317f920b-9efe-4d09-ba7d-7fe44b1c447c",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "AI Agent产品经理实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>职位描述：</p><ol><li>探索AI Agent在通用领域的落地与应用</li><li>思考在通用用户场景和专业领域下分别如何评估AI能力并且建立相关评估与训练数据集</li><li>与算法团队配合，通过综合手段，提升模型效果</li></ol><p><br></p><p>职位要求：</p><ol><li>本科及以上学历，计算机相关专业优先</li><li>逻辑能力强，具备体系化思考能力 </li><li>独立解决问题能力强，有自主负责项目经历者优先</li><li>能玩，爱折腾，对生活与AI充满热情与兴趣</li><li>有代码能力或AI相关项目经验优先</li><li>了解AI Agent相关知识优先</li><li>实习时间至少4个月，Base北京</li></ol>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/4c19d213-48c5-44b1-9702-447a49b710a6",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/4c19d213-48c5-44b1-9702-447a49b710a6",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "大语言模型评测实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>大语言模型评测实习生</strong></p><p><strong>职位描述</strong></p><ol><li>跟进业界evaluation方向进展，为scaling提供可靠的观测指标。</li><li>探索next generation evaluation for the second half of AI。</li></ol><p><br></p><p><strong>职位要求</strong></p><ol><li>细心、良好的沟通和合作能力。</li><li>具备扎实的Python编程基础，有优秀的工程能力。</li><li>有相关研究、实习经验者优先。</li><li>有ACM/IOI/NOI/Top Coder等算法竞赛获奖经历优先。</li></ol><p><br></p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a24d5b49-c733-4c1e-865a-9467cb8d4eaa",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a24d5b49-c733-4c1e-865a-9467cb8d4eaa",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "大模型产品经理实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>职位描述：</p><p>1.基于用户场景洞察与传播策略，定义大模型数据分布方案及能力演进路径</p><p>2.辅助构建模型能力评估体系，设计评估维度与标准，搭建评测集</p><p>3.开展市场研究、竞品研究与用户调研，输出场景创新策略与能力演进建议</p><p>4.跨团队协作：与算法、产品和工程团队合作，支持模型创新产品的开发</p><p><br></p><p>职位要求：</p><p>1.知名院校本科及以上学历，计算机相关专业优先（或有一定的代码能力）</p><p>2.逻辑能力强，具备体系化思考能力 </p><p>3.独立解决问题能力强，有自主负责项目、跨团队跨部门协作经验者优先。</p><p>4.有过产品相关实习经验，愿意深入参与模型优化提升。</p><p><br></p><p>加分项：</p><p>1.独立开发者经验，</p><p>2.能玩，爱折腾，对探索AI产品充满热情与兴趣，日常使用各类大模型应用、代码工具等，积极拥抱AI。</p><p>3.有双学位背景或交叉学科背景。</p><p><br></p><p>实习时间至少4个月，Base北京</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/60f14c35-5905-4020-9a96-c6bfe8e19d0b",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/60f14c35-5905-4020-9a96-c6bfe8e19d0b",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "大语言模型评测实习生",
+    "category": "AI产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p><strong>职位描述</strong></p><ol><li>深度参与LLM效果优化，为scaling &amp; alignment提供鲁棒的实验观测指标。</li><li>跟踪大语言模型前沿进展，引入有价值的benchmark。</li><li>参与评测平台开发，自动化收集、展示、分析实验结果，为实验提供有效反馈。</li></ol><p><br></p><p><strong>职位要求</strong></p><ol><li>细心、良好的沟通和合作能力。</li><li>具备扎实的Python编程基础，有优秀的工程能力。</li><li>有大语言模型相关研究、实习经验者优先。</li><li>有ACM/IOI/NOI/Top Coder等算法竞赛获奖经历优先。</li></ol>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a08b2bc7-89b8-4840-b6b9-39e22b4de1ec",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/a08b2bc7-89b8-4840-b6b9-39e22b4de1ec",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  },
+  {
+    "company": "月之暗面",
+    "title": "Kimi 音频模型与语音产品实习生",
+    "category": "产品",
+    "city": [
+      "北京"
+    ],
+    "requirements": "<p>职位描述<strong>：</strong>  </p><p>1. 协助参与语音相关产品的需求调研与分析，整理用户反馈并输出文档；  </p><p>2. 支持产品功能设计与原型开发，协助撰写产品需求文档（PRD）和交互说明；  </p><p>3. 参与音频端到端模型的研发和迭代，配合算法团队推进项目落地，参与版本迭代的测试与优化；  </p><p>4. 跟踪行业动态及竞品分析，协助输出技术趋势与市场调研报告；  </p><p>5. 通过数据分析和用户行为研究，支持产品体验优化建议。  </p><p><br></p><p>职位要求<strong>：</strong>  </p><p>1.学历专业：本科或硕士在读，计算机科学、电子工程、心理学、市场营销等相关专业优先；  </p><p>2.知识基础：<strong>熟练掌握Python/SQL进行数据分析者优先；熟悉常见的深度学习模型者优先；</strong></p><p>3.能力经验：有互联网公司产品实习或校内项目经验（如语音助手、AI应用开发等）优先； 逻辑清晰，能快速学习技术原理，具备基础文档撰写能力；  </p><p>5.软性素质：主动性强，对AI语音领域有浓厚兴趣，关注ChatGPT实时语音/智能音箱等产品；  良好的沟通能力，适应跨团队协作，责任心强；  </p><p>7.实习要求：每周至少4天到岗，持续3个月以上，可长期实习者优先。</p>",
+    "deadline": null,
+    "apply_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/74098f86-e8c8-4fbd-a590-4e4eeca457c5",
+    "source_url": "https://app.mokahr.com/campus-recruitment/moonshot/148507#/job/74098f86-e8c8-4fbd-a590-4e4eeca457c5",
+    "fetched_at": "2026-11-09T16:12:31+08:00",
+    "job_type": "实习",
+    "region": "国内",
+    "dataset": "初创",
+    "link_check": "待核"
+  }
+]

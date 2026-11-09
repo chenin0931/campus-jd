@@ -8,8 +8,8 @@
 - 城市: 城市见官网
 - status: active
 - 届别 grad_year: 2027届
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/campus-recruitment/shopee/2962#/job/bef9202d-32ec-4e7e-9d2f-98fabe99f5de
 

@@ -9,8 +9,8 @@
 - status: active
 - 届别 grad_year: 2026、2027届
 - 实习时长 intern_duration: 每周≥4天
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://www.lixiang.com/employ/detail/18902.html?jobCode=A129527
 

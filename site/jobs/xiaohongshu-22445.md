@@ -1,4 +1,4 @@
-# 【28有提前批校招机会】Data Product Intern (AI Native)
+# 【28/29】Data Product Intern (AI Native)
 
 - id: xiaohongshu-22445
 - 公司: 小红书
@@ -8,8 +8,8 @@
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2028届
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://job.xiaohongshu.com/campus/position/22445
 

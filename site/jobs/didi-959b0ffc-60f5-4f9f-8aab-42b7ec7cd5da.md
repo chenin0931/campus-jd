@@ -1,0 +1,21 @@
+# 公众沟通部-沟通与传播实习生
+
+- id: didi-959b0ffc-60f5-4f9f-8aab-42b7ec7cd5da
+- 公司: 滴滴
+- job_type: 实习
+- 类别: 市场
+- region: 国内
+- 城市: 北京
+- status: active
+- 届别 grad_year: 未注明
+- 实习时长 intern_duration: 未注明
+- 首次出现: 2026-11-09　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
+- 截止: 以官网为准
+- 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/959b0ffc-60f5-4f9f-8aab-42b7ec7cd5da
+
+## 岗位要求
+
+（官网未提供）
+
+[总目录](../llms.txt)

@@ -1,32 +1,36 @@
-# 其他城市 · 校招 · 其他 · 全部公司（26 个岗位）
+# 其他城市 · 校招 · 其他 · 全部公司（30 个岗位）
 
-数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
+数据周 2026-W46，生成 2026-11-09（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
-按公司：[理想汽车 8](../../slices/lixiang/campus/other/other.md) · [美团 4](../../slices/meituan/campus/other/other.md) · [小鹏汽车 3](../../slices/xpeng/campus/other/other.md) · [阿里巴巴 2](../../slices/alibaba/campus/other/other.md) · [华为 2](../../slices/huawei/campus/other/other.md) · [网易 2](../../slices/netease/campus/other/other.md) · [小米 2](../../slices/xiaomi/campus/other/other.md) · [OPPO 1](../../slices/oppo/campus/other/other.md) · [驭势科技 1](../../slices/uisee/campus/other/other.md) · [与爱为舞 1](../../slices/yuaiweiwu/campus/other/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
+按公司：[理想汽车 11](../../slices/lixiang/campus/other/other.md) · [美团 4](../../slices/meituan/campus/other/other.md) · [小鹏汽车 3](../../slices/xpeng/campus/other/other.md) · [阿里巴巴 2](../../slices/alibaba/campus/other/other.md) · [华为 2](../../slices/huawei/campus/other/other.md) · [网易 2](../../slices/netease/campus/other/other.md) · [小米 2](../../slices/xiaomi/campus/other/other.md) · [OPPO 1](../../slices/oppo/campus/other/other.md) · [腾讯 1](../../slices/tencent/campus/other/other.md) · [驭势科技 1](../../slices/uisee/campus/other/other.md) · [与爱为舞 1](../../slices/yuaiweiwu/campus/other/other.md)。岗位多时先看分布，再点公司链接缩小范围，不必读完所有分页。
 
 | 公司 | 岗位 | 城市 | 首次出现 | 抓取 | 详情 |
 |---|---|---|---|---|---|
-| 阿里巴巴 | Applied Scientist 🌏海外 | 森尼韦尔 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/alibaba-199907780044.md) |
-| 阿里巴巴 | LLM and Multimodal Post-training-AliStar/Bravo Star 🌏海外 | 森尼韦尔 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/alibaba-199907820114.md) |
-| 华为 | 消费者管理培训生 | 全球 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-38435.md) |
-| 华为 | 消费者管理培训生（小语种） | 全球 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/huawei-38436.md) |
-| 理想汽车 | 工商管理专员 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-257123.md) |
-| 理想汽车 | 具身人形机器人产业规划 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-31132.md) |
-| 理想汽车 | 理想ONE管培生 - 财经方向 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-210094.md) |
-| 理想汽车 | 理想ONE管培生 - 法务与风险管理方向 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-135362.md) |
-| 理想汽车 | 理想ONE管培生 - 公共事务方向 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-91109.md) |
-| 理想汽车 | 理想ONE管培生 - 间接采购方向 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-45849.md) |
-| 理想汽车 | 理想ONE管培生 - 资本市场方向 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-204688.md) |
-| 理想汽车 | 零件管理 〔27届〕 | 北京顺义区 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/lixiang-166978.md) |
-| 美团 | 商户/客户服务管理培训生 | 张家口/扬州/南通/石家庄/洛阳/武汉 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/meituan-4697213423.md) |
-| 网易 | 高中线下班课教师-有道领世 | 石家庄 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-4852.md) |
-| 网易 | 高中线下一对一老师-有道领世 | 石家庄 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/netease-4851.md) |
-| OPPO | Channel Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/oppo-1848.md) |
-| 驭势科技 | 2027校招-管培生 | 城市见官网 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/uisee-d6238af4-6f7d-48f6-a927-da416cbff32b.md) |
-| 小米 | 零售主管-外派 〔27届〕 🌏海外 | 罗安达/约翰内斯堡 | 2026-10-27 | 2026-10-27 | [详情](../../jobs/xiaomi-7671117671589644571.md) |
-| 小鹏汽车 | 【2027 Campus Recruitment】Customer Care Explorer - Aftersales 🌏海外 | 巴勒鲁普 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694268164049914139.md) |
-| 小鹏汽车 | 【2027 Campus Recruitment】Delivery Specialist 🌏海外 | 巴勒鲁普 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694268164050700571.md) |
-| 小鹏汽车 | 【2027 Campus Recruitment】Delivery Specialist - Norway 🌏海外 | 奥斯陆 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/xpeng-7694273913270044938.md) |
-| 与爱为舞 | 学习管理师【石家庄】 | 石家庄 | 2026-10-27 | 2026-11-03 | [详情](../../jobs/yuaiweiwu-3a3b5dff-4ed6-4486-8c76-02febfe3a59a.md) |
+| 阿里巴巴 | Applied Scientist 🌏海外 | 森尼韦尔 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/alibaba-199907780044.md) |
+| 阿里巴巴 | LLM and Multimodal Post-training-AliStar/Bravo Star 🌏海外 | 森尼韦尔 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/alibaba-199907820114.md) |
+| 华为 | 消费者管理培训生 | 全球 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/huawei-38435.md) |
+| 华为 | 消费者管理培训生（小语种） | 全球 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/huawei-38436.md) |
+| 理想汽车 | Overseas Delivery Fulfillment 🆕 | 常州 | 2026-11-09 | 2026-11-09 | [详情](../../jobs/lixiang-146856.md) |
+| 理想汽车 | Overseas Network Management 🆕 | 北京顺义区 | 2026-11-09 | 2026-11-09 | [详情](../../jobs/lixiang-61881.md) |
+| 理想汽车 | Overseas Order Digitalization Management 🆕 | 常州 | 2026-11-09 | 2026-11-09 | [详情](../../jobs/lixiang-18380.md) |
+| 理想汽车 | 工商管理专员 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-257123.md) |
+| 理想汽车 | 具身人形机器人产业规划 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-31132.md) |
+| 理想汽车 | 理想ONE管培生 - 财经方向 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-210094.md) |
+| 理想汽车 | 理想ONE管培生 - 法务与风险管理方向 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-135362.md) |
+| 理想汽车 | 理想ONE管培生 - 公共事务方向 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-91109.md) |
+| 理想汽车 | 理想ONE管培生 - 间接采购方向 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-45849.md) |
+| 理想汽车 | 理想ONE管培生 - 资本市场方向 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-204688.md) |
+| 理想汽车 | 零件管理 〔27届〕 | 北京顺义区 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/lixiang-166978.md) |
+| 美团 | 商户/客户服务管理培训生 | 张家口/扬州/南通/石家庄/洛阳/武汉 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/meituan-4697213423.md) |
+| 网易 | 高中线下班课教师-有道领世 | 石家庄 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/netease-4852.md) |
+| 网易 | 高中线下一对一老师-有道领世 | 石家庄 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/netease-4851.md) |
+| OPPO | Channel Manager 〔27届〕 | Gurugram/东莞 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/oppo-1848.md) |
+| 腾讯 | Associate Solution Architect, MPaaS 108179 🌏海外 🆕 | United Kingdom-London | 2026-11-09 | 2026-11-09 | [详情](../../jobs/tencent-108179.md) |
+| 驭势科技 | 2027校招-管培生 | 城市见官网 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/uisee-d6238af4-6f7d-48f6-a927-da416cbff32b.md) |
+| 小米 | 零售主管-外派 〔27届〕 🌏海外 | 罗安达/约翰内斯堡 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/xiaomi-7671117671589644571.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Customer Care Explorer - Aftersales 🌏海外 | 巴勒鲁普 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/xpeng-7694268164049914139.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Delivery Specialist 🌏海外 | 巴勒鲁普 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/xpeng-7694268164050700571.md) |
+| 小鹏汽车 | 【2027 Campus Recruitment】Delivery Specialist - Norway 🌏海外 | 奥斯陆 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/xpeng-7694273913270044938.md) |
+| 与爱为舞 | 学习管理师【石家庄】 | 石家庄 | 2026-10-27 | 2026-11-09 | [详情](../../jobs/yuaiweiwu-3a3b5dff-4ed6-4486-8c76-02febfe3a59a.md) |
 
 [总目录](../../llms.txt)

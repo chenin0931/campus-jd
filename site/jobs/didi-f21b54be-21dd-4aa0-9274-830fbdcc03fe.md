@@ -6,13 +6,13 @@
 - 类别: 运营
 - region: 国内
 - 城市: 昆明
-- status: active
+- status: removed（2026-11-09 起未在官网出现，勿投）
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 最近抓取: 未知
 - 截止: 以官网为准
-- 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/f21b54be-21dd-4aa0-9274-830fbdcc03fe（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/f21b54be-21dd-4aa0-9274-830fbdcc03fe
 
 ## 岗位要求
 

@@ -8,10 +8,10 @@
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2027届
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
-- 投递: https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/abac6fe9-e007-4025-a2f0-af65fd9523ab（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
+- 投递: https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/abac6fe9-e007-4025-a2f0-af65fd9523ab
 
 ## 岗位要求
 

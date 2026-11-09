@@ -8,8 +8,8 @@
 - 城市: 石家庄
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-11-03
+- 首次出现: 2026-10-27　最近出现: 2026-11-09
+- 最近抓取: 2026-11-09
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/campus-recruitment/yuaiweiwu/145290#/job/3a3b5dff-4ed6-4486-8c76-02febfe3a59a
 

@@ -6,11 +6,11 @@
 - 类别: 设计
 - region: 海外
 - 城市: United Kingdom-London
-- status: active
+- status: removed（2026-11-09 起未在官网出现，勿投）
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-11-03
-- 最近抓取: 2026-10-27
+- 最近抓取: 未知
 - 截止: 以官网为准
 - 投递: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Game-Development-Tools-Intern--AI-Focus-_R108251
 

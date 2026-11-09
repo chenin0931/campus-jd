@@ -1,6 +1,6 @@
-# 华为 总览（在招 32：校招 21，实习 11）
+# 华为 总览（在招 35：校招 24，实习 11）
 
-数据周 2026-W44，生成 2026-11-03（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
+数据周 2026-W46，生成 2026-11-09（北京时间）。🆕=本周新增；⚠️链接待核=投递链接未通过自动校验；❌疑似下架=官网查不到该岗位，请到官网核实；⏳可能已下架=该条是沿用数据，超过 14 天没重新抓到，可能已关闭；「抓取」列是最近一次从官网抓到该岗位的日期。截止日期以官网为准。
 
 没列出的 类型×类别 组合就是没有岗位，不要再猜路径。
 
@@ -9,7 +9,8 @@
 - 校招·商务（7）：[其他城市 7](../slices/huawei/campus/business/other.md) · [北京 2](../slices/huawei/campus/business/beijing.md) · [上海 2](../slices/huawei/campus/business/shanghai.md) · [深圳 2](../slices/huawei/campus/business/shenzhen.md) · 另 6 城（6 个）见 index.json slices
 - 校招·销售（2）：[其他城市 2](../slices/huawei/campus/sales/other.md)
 - 校招·设计（1）：[东莞 1](../slices/huawei/campus/design/dongguan.md) · [南京 1](../slices/huawei/campus/design/nanjing.md) · [西安 1](../slices/huawei/campus/design/xian.md) · [杭州 1](../slices/huawei/campus/design/hangzhou.md) · 另 5 城（5 个）见 index.json slices
-- 校招·职能（7）：[深圳 5](../slices/huawei/campus/corporate/shenzhen.md) · [其他城市 3](../slices/huawei/campus/corporate/other.md) · [北京 2](../slices/huawei/campus/corporate/beijing.md) · [上海 2](../slices/huawei/campus/corporate/shanghai.md) · 另 4 城（4 个）见 index.json slices
+- 校招·职能（8）：[深圳 5](../slices/huawei/campus/corporate/shenzhen.md) · [其他城市 4](../slices/huawei/campus/corporate/other.md) · [北京 2](../slices/huawei/campus/corporate/beijing.md) · [上海 2](../slices/huawei/campus/corporate/shanghai.md) · 另 5 城（5 个）见 index.json slices
+- 校招·项目管理（2）：[其他城市 2](../slices/huawei/campus/pm/other.md)
 - 校招·其他（2）：[其他城市 2](../slices/huawei/campus/other/other.md)
 - 实习·产品（1）：[深圳 1](../slices/huawei/intern/product/shenzhen.md)
 - 实习·商务（3）：[其他城市 8](../slices/huawei/intern/business/other.md) · [深圳 3](../slices/huawei/intern/business/shenzhen.md) · [苏州 1](../slices/huawei/intern/business/suzhou.md) · [沈阳 1](../slices/huawei/intern/business/shenyang.md) · 另 19 城（19 个）见 index.json slices
