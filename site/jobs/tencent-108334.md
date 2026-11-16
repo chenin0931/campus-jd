@@ -8,8 +8,8 @@
 - 城市: 东京
 - status: active
 - 届别 grad_year: 未注明
-- 首次出现: 2026-11-09　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 首次出现: 2026-11-09　最近出现: 2026-11-16
+- 最近抓取: 2026-11-16
 - 截止: 以官网为准
 - 投递: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Media-Services-Solution-Architect--New-Graduate----Japan_R108334
 

@@ -6,11 +6,11 @@
 - 类别: 职能
 - region: 国内
 - 城市: 城市见官网
-- status: active
+- status: removed（2026-11-16 起未在官网出现，勿投）
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明
 - 首次出现: 2026-11-09　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 最近抓取: 未知
 - 截止: 以官网为准
 - 投递: https://app.mokahr.com/apply/didiglobal/6222#/job/8ce9e025-3df0-4255-ba25-0fbc4baad10e
 

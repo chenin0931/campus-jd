@@ -8,8 +8,8 @@
 - 城市: 北京
 - status: active
 - 届别 grad_year: 2027届
-- 首次出现: 2026-10-27　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 首次出现: 2026-10-27　最近出现: 2026-11-16
+- 最近抓取: 2026-11-16
 - 截止: 以官网为准
 - 投递: https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/f9dcac51-caf0-4c10-9243-f4f44cfead88
 

@@ -8,10 +8,10 @@
 - 城市: 东莞
 - status: active
 - 届别 grad_year: 2027届
-- 首次出现: 2026-11-09　最近出现: 2026-11-09
+- 首次出现: 2026-11-09　最近出现: 2026-11-16
 - 最近抓取: 2026-11-09
 - 截止: 以官网为准
-- 投递: https://hr-campus.vivo.com/campus/detail?jobAdId=0e9efae5-d00b-4ee8-baea-b4f730cbef40
+- 投递: https://hr-campus.vivo.com/campus/detail?jobAdId=0e9efae5-d00b-4ee8-baea-b4f730cbef40（⚠️链接待核：自动校验未通过，请到官网搜索岗位名）
 
 ## 岗位要求
 

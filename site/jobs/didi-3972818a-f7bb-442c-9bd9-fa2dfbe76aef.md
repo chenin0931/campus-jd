@@ -6,10 +6,10 @@
 - 类别: 运营
 - region: 国内
 - 城市: 北京
-- status: active
-- 届别 grad_year: 2027届
+- status: removed（2026-11-16 起未在官网出现，勿投）
+- 届别 grad_year: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 最近抓取: 未知
 - 截止: 以官网为准
 - 投递: https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/3972818a-f7bb-442c-9bd9-fa2dfbe76aef
 

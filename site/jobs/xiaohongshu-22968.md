@@ -1,4 +1,4 @@
-# 【28/29届实习】视觉设计师
+# 【实习】视觉设计师 (REDdesign）
 
 - id: xiaohongshu-22968
 - 公司: 小红书
@@ -7,10 +7,10 @@
 - region: 国内
 - 城市: 上海
 - status: active
-- 届别 grad_year: 2028、2029届
+- 届别 grad_year: 未注明
 - 实习时长 intern_duration: 未注明
-- 首次出现: 2026-11-09　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 首次出现: 2026-11-09　最近出现: 2026-11-16
+- 最近抓取: 2026-11-16
 - 截止: 以官网为准
 - 投递: https://job.xiaohongshu.com/campus/position/22968
 

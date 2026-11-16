@@ -8,8 +8,8 @@
 - 城市: 贵阳
 - status: active
 - 届别 grad_year: 2027届
-- 首次出现: 2026-10-27　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 首次出现: 2026-10-27　最近出现: 2026-11-16
+- 最近抓取: 2026-11-16
 - 截止: 以官网为准
 - 投递: https://campus.didiglobal.com/campus_apply/didiglobal/96064#/job/bdcd6c2e-e4d1-4e92-a311-1e218a2dc26e
 

@@ -5,12 +5,12 @@
 - job_type: 实习
 - 类别: 分析
 - region: 国内
-- 城市: 北京
+- 城市: 北京、上海
 - status: active
 - 届别 grad_year: 未注明
 - 实习时长 intern_duration: ≥6个月
-- 首次出现: 2026-11-09　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 首次出现: 2026-11-09　最近出现: 2026-11-16
+- 最近抓取: 2026-11-16
 - 截止: 以官网为准
 - 投递: https://job.xiaohongshu.com/campus/position/20537
 

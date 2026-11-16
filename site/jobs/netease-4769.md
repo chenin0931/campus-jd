@@ -6,10 +6,10 @@
 - 类别: 产品
 - region: 海外
 - 城市: 新加坡
-- status: active
+- status: removed（2026-11-16 起未在官网出现，勿投）
 - 届别 grad_year: 未注明
 - 首次出现: 2026-10-27　最近出现: 2026-11-09
-- 最近抓取: 2026-11-09
+- 最近抓取: 未知
 - 截止: 以官网为准
 - 投递: https://campus.game.163.com/app/detail/index?id=4769&projectId=102
 
